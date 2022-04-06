@@ -3,7 +3,7 @@ Annotation of the core genome of Bacillus amyloliquefaciens.
 
 Pangeomes of Bacillus amyloliquefaciens.
 
-Genomes.txt: 所用基因组。
+Genome list.txt: 所用基因组，其中124号基因组与其他基因组之间的ANI数值低于80，因此舍弃掉。
 
 gene_presence_absence.zip: 通过Roary获得的PAV分析结果。
 
