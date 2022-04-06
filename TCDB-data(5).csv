@@ -1,0 +1,381 @@
+Query_ID,Subject_ID,Identity,Alignment Length,Mismatches
+OFBKKLGO_00073_ftsH,gnl|TC-DB|P0AAI3|3.A.29.1.5 ATP-dependent zinc metalloprotease FtsH OS=Escherichia coli (strain K12) OX=83333 GN=ftsH PE=1 SV=1,51.9,601,274
+OFBKKLGO_00086_lysS,gnl|TC-DB|WP_121250785|9.B.111.1.5 lysine--tRNA ligase [Solirubrobacter pauli],48.7,435,205
+OFBKKLGO_00091_clpC,"gnl|TC-DB|Q9FI56|3.A.9.1.2 Chaperone protein ClpC1, chloroplastic OS=Arabidopsis thaliana GN=CLPC1 PE=1 SV=1",60.2,807,311
+OFBKKLGO_00108_rplA,gnl|TC-DB|Q9ZK21|1.C.82.1.1 50S ribosomal protein L1 - Helicobacter pylori J99 (Campylobacter pylori J99).,57.2,208,89
+OFBKKLGO_00142_secY,gnl|TC-DB|P16336|3.A.5.2.1 PREPROTEIN TRANSLOCASE SECY SUBUNIT - Bacillus subtilis.,96.5,431,15
+OFBKKLGO_00151_ecfA1,gnl|TC-DB|Q839D5|3.A.1.26.7 Cobalt import ATP-binding protein CbiO 1 OS=Enterococcus faecalis GN=cbiO1 PE=3 SV=1,59.8,271,109
+OFBKKLGO_00152_ecfA2,gnl|TC-DB|Q71WH8|3.A.1.25.8 Energy-coupling factor transporter ATP-binding protein EcfA2 OS=Listeria monocytogenes serotype 4b (strain F2365) OX=265669 GN=ecfA2 PE=3 SV=1,59.9,282,113
+OFBKKLGO_00153_ecfT,gnl|TC-DB|Q8Y456|3.A.1.25.8 Energy-coupling factor transporter transmembrane protein EcfT OS=Listeria monocytogenes serovar 1/2a (strain ATCC BAA-679 / EGD-e) OX=169963 GN=ecfT PE=3 SV=1,58.1,265,111
+OFBKKLGO_00174_feuC_1,gnl|TC-DB|P40411|3.A.1.14.15 Iron-uptake system permease protein feuC - Bacillus subtilis.,83.3,336,56
+OFBKKLGO_00175_feuB_1,gnl|TC-DB|P40410|3.A.1.14.15 Iron-uptake system permease protein feuB - Bacillus subtilis.,85.3,334,49
+OFBKKLGO_00176_feuA,gnl|TC-DB|P40409|3.A.1.14.15 Iron-uptake system-binding protein - Bacillus subtilis.,83.3,318,52
+OFBKKLGO_00181_group_3400,gnl|TC-DB|S6FVR4|4.A.1.2.17 PTS system N-acetylmuramic acid-specific EIIBC component OS=Bacillus velezensis UCMB5033 OX=1338518 GN=murP PE=4 SV=1,94.7,454,24
+OFBKKLGO_00201_yifK,gnl|TC-DB|P27837|2.A.3.1.15 Probable transport protein YifK OS=Escherichia coli (strain K12) GN=yifK PE=1 SV=4,63.5,447,161
+OFBKKLGO_00230_gltP,gnl|TC-DB|P24943|2.A.23.1.2 PROTON/SODIUM-GLUTAMATE SYMPORT PROTEIN (GLUTAMATE-ASPARTATE CARRIER PROTEIN) - Bacillus stearothermophilus.,46.4,401,210
+OFBKKLGO_00232_rocC_2,gnl|TC-DB|Q47689|2.A.3.1.10 Probable S-methylmethionine permease - Escherichia coli.,64.0,450,158
+OFBKKLGO_00234_alsT_2,gnl|TC-DB|Q45068|2.A.25.1.5 Amino-acid carrier protein AlsT OS=Bacillus subtilis (strain 168) GN=alsT PE=2 SV=1,53.4,464,211
+OFBKKLGO_00250_tatAd,gnl|TC-DB|O31467|2.A.64.3.1 Sec-independent protein translocase protein tatAd - Bacillus subtilis.,77.1,70,11
+OFBKKLGO_00251_tatC1,gnl|TC-DB|P42252|2.A.64.3.1 Sec-independent protein translocase protein tatCd - Bacillus subtilis.,75.9,241,58
+OFBKKLGO_00254_emrY,gnl|TC-DB|O35018|2.A.1.3.30 Lincomycin resistance protein lmrB - Bacillus subtilis.,87.3,474,60
+OFBKKLGO_00268_znuA,gnl|TC-DB|O34966|3.A.1.15.11 Probable zinc transport system zinc-binding lipoprotein adcA OS=Bacillus subtilis GN=adcA PE=1 SV=1,83.4,319,52
+OFBKKLGO_00269_znuC,gnl|TC-DB|O34946|3.A.1.15.11 Probable zinc transport system ATP-binding protein adcC OS=Bacillus subtilis GN=adcC PE=2 SV=1,90.9,231,21
+OFBKKLGO_00270_znuB,gnl|TC-DB|O34610|3.A.1.15.11 Probable zinc transport system permease protein adcB OS=Bacillus subtilis GN=adcB PE=2 SV=1,89.5,276,29
+OFBKKLGO_00275_alx,gnl|TC-DB|B5UIP4|2.A.109.1.3 Putative tellurium resistance protein OS=Bacillus cereus AH1134 GN=BCAH1134_0458 PE=4 SV=1,62.6,262,92
+OFBKKLGO_00278_naiP,gnl|TC-DB|O34691|2.A.1.82.4 Hypothetical metabolite transport protein yceI - Bacillus subtilis.,79.4,399,81
+OFBKKLGO_00280_opuAA,gnl|TC-DB|P46920|3.A.1.12.2 Glycine betaine transport ATP-binding protein opuAA - Bacillus subtilis.,91.4,418,36
+OFBKKLGO_00281_opuAB,gnl|TC-DB|P46921|3.A.1.12.2 Glycine betaine transport system permease protein opuAB - Bacillus subtilis.,95.0,282,14
+OFBKKLGO_00282_opuAC,gnl|TC-DB|P46922|3.A.1.12.2 Glycine betaine-binding protein precursor - Bacillus subtilis.,84.3,293,46
+OFBKKLGO_00296_dgoT,gnl|TC-DB|P0AA76|2.A.1.14.7 D-galactonate transporter - Escherichia coli.,45.7,422,224
+OFBKKLGO_00309_yciC,gnl|TC-DB|P94400|9.B.10.1.1 Putative metal chaperone yciC OS=Bacillus subtilis GN=yciC PE=2 SV=1,83.8,396,63
+OFBKKLGO_00311_group_4434,gnl|TC-DB|P42401|2.A.133.1.11 Uncharacterized protein YckC OS=Bacillus subtilis (strain 168) GN=yckC PE=4 SV=2,63.6,151,48
+OFBKKLGO_00325_group_4437,gnl|TC-DB|E0U2C9|2.A.115.2.1 Integral inner membrane protein regulating antibiotic production OS=Bacillus subtilis subsp. spizizenii (strain ATCC 23059 / NRRL B-14472 / W23) GN=yczE PE=4 SV=1,74.0,208,54
+OFBKKLGO_00326_tcyC,gnl|TC-DB|P39456|3.A.1.3.14 Probable amino-acid ABC transporter ATP-binding protein yckI - Bacillus subtilis.,94.3,247,14
+OFBKKLGO_00327_tcyB,gnl|TC-DB|P42200|3.A.1.3.14 Probable amino-acid ABC transporter permease protein yckJ - Bacillus subtilis.,90.6,234,22
+OFBKKLGO_00328_tcyA,gnl|TC-DB|P42199|3.A.1.3.14 Probable amino-acid ABC transporter extracellular binding protein yckK precursor - Bacillus subtilis.,84.7,268,38
+OFBKKLGO_00334_dtpT,gnl|TC-DB|Q5KYD1|2.A.17.1.7 Di-tripeptide ABC transporter (Permease) OS=Geobacillus kaustophilus (strain HTA426) GN=GK2020 PE=3 SV=1,65.5,496,167
+OFBKKLGO_00339_yndE_1,gnl|TC-DB|P49940|2.A.3.9.3 Spore germination protein KB - Bacillus subtilis.,71.7,361,102
+OFBKKLGO_00343_yxeN,gnl|TC-DB|P0AFT2|3.A.1.3.10 Inner membrane amino-acid ABC transporter permease protein yecS - Escherichia coli.,44.8,210,113
+OFBKKLGO_00344_yxeO,gnl|TC-DB|O34900|3.A.1.3.13 Probable amino-acid ABC transporter ATP-binding protein ytmN - Bacillus subtilis.,55.1,243,109
+OFBKKLGO_00347_lolD,gnl|TC-DB|TXT58064|3.A.1.207.7 ABC transporter [Candidatus Lokiarchaeota archaeon],40.7,199,112
+OFBKKLGO_00357_yclP,gnl|TC-DB|Q9X665|3.A.1.14.7 FhuA (FhuC) (Ferrichrome transport ATP-binding protein) - Staphylococcus aureus,41.9,229,131
+OFBKKLGO_00359_farB,gnl|TC-DB|Q7A3S4|2.A.1.3.61 SA2203 protein OS=Staphylococcus aureus (strain N315) GN=SA2203 PE=4 SV=1,43.7,471,242
+OFBKKLGO_00367_glcU,gnl|TC-DB|P40420|2.A.7.5.4 Glucose uptake protein GlcU OS=Bacillus subtilis (strain 168) GN=glcU PE=2 SV=2,89.5,287,30
+OFBKKLGO_00373_mtlA,"gnl|TC-DB|P42956|4.A.2.1.5 PTS system, mannitol-specific IICBA component (EIICBA-Mtl) (Mannitol- permease IICBA component) (Phosphotransferase enzyme II, CBA component) (EC 2.7.1.69) (EII-Mtl) - Bacillus subtilis.",87.8,475,57
+OFBKKLGO_00374_mtlF,gnl|TC-DB|C0H3V2|4.A.2.1.5 Mannitol-specific phosphotransferase enzyme IIA component OS=Bacillus subtilis (strain 168) OX=224308 GN=mtlF PE=1 SV=1,88.1,143,17
+OFBKKLGO_00380_group_4445,gnl|TC-DB|P42964|2.A.55.3.2 Hypothetical protein ycsG - Bacillus subtilis.,84.9,404,61
+OFBKKLGO_00389_ydhF,gnl|TC-DB|P76187|8.A.5.1.7 Oxidoreductase YdhF OS=Escherichia coli (strain K12) GN=ydhF PE=1 SV=2,51.5,301,141
+OFBKKLGO_00408_kimA,gnl|TC-DB|H1X8H0|2.A.3.14.3 APC family amino acid-polyamine-organocation transporter OS=Weissella confusa LBAE C39-2 GN=WEISSC39_07015 PE=4 SV=1,51.5,613,287
+OFBKKLGO_00417_mntH,gnl|TC-DB|P96593|2.A.55.3.3 Manganese transport protein MntH OS=Bacillus subtilis (strain 168) GN=mntH PE=1 SV=1,83.7,424,69
+OFBKKLGO_00427_dctP,gnl|TC-DB|P37735|2.A.56.1.1 C4-dicarboxylate-binding periplasmic protein precursor - Rhodobacter capsulatus (Rhodopseudomonas capsulata).,41.8,297,171
+OFBKKLGO_00430_dctA,gnl|TC-DB|P96603|2.A.23.1.6 C4-dicarboxylate transport protein OS=Bacillus subtilis GN=dctA PE=2 SV=1,94.1,421,22
+OFBKKLGO_00432_bcrA_1,gnl|TC-DB|WP_048600992.1|3.A.1.156.1 ATP-binding cassette domain-containing protein [Rubeoparvulum massiliense],41.9,215,122
+OFBKKLGO_00442_cshA,gnl|TC-DB|O00571|1.I.1.1.3 ATP-dependent RNA helicase DDX3X OS=Homo sapiens GN=DDX3X PE=1 SV=3,40.2,368,197
+OFBKKLGO_00532_pbuE_1,gnl|TC-DB|Q797E3|2.A.1.2.25 2.A.1.2.25 Purine efflux pump pbuE,87.3,379,48
+OFBKKLGO_00536_yycB,gnl|TC-DB|P76242|2.A.1.17.3 Inner membrane transport protein YeaN OS=Escherichia coli (strain K12) GN=yeaN PE=1 SV=1,40.3,387,228
+OFBKKLGO_00537_gdx_1,gnl|TC-DB|P69937|2.A.7.1.4 Quaternary ammonium compound-resistance protein sugE - Escherichia coli.,45.2,104,57
+OFBKKLGO_00544_iolT,gnl|TC-DB|O34718|2.A.1.1.26 METABOLITE TRANSPORT PROTEIN - Bacillus subtilis.,80.1,473,93
+OFBKKLGO_00556_tatAy,gnl|TC-DB|O05522|2.A.64.3.2 Sec-independent protein translocase protein tatAy - Bacillus subtilis.,87.3,55,7
+OFBKKLGO_00557_tatC2,gnl|TC-DB|O05523|2.A.64.3.2 Sec-independent protein translocase protein tatCy - Bacillus subtilis.,83.2,250,41
+OFBKKLGO_00583_gabP,gnl|TC-DB|P46349|2.A.3.1.5 GABA permease (4-amino butyrate transport carrier) (Gamma- aminobutyrate permease) - Bacillus subtilis.,84.4,462,71
+OFBKKLGO_00592_pbuG,gnl|TC-DB|O34987|2.A.40.7.2 Hypoxanthine/guanine permease (Hypothetical protein) - Bacillus subtilis.,89.8,440,45
+OFBKKLGO_00623_opuE,gnl|TC-DB|M1TZ79|2.A.21.2.5 Proline transporter OpuE OS=Bacillus subtilis subsp. subtilis 6051-HGW GN=opuE PE=3 SV=1,88.2,491,58
+OFBKKLGO_00665_fsr,gnl|TC-DB|P52067|2.A.1.35.1 Fosmidomycin resistance protein - Escherichia coli.,43.4,385,215
+OFBKKLGO_00666_yhdG_1,gnl|TC-DB|Q8R706|2.A.3.3.22 Amino acid transporters OS=Caldanaerobacter subterraneus subsp. tengcongensis (strain DSM 15242 / JCM 11007 / NBRC 100824 / MB4) GN=PotE6 PE=4 SV=1,49.4,466,228
+OFBKKLGO_00668_yfmS,gnl|TC-DB|KKK40667|9.B.334.1.1 Methyl-accepting chemotaxis protein 3 [Lokiarchaeum sp. GC14_75],44.6,92,51
+OFBKKLGO_00670_group_6662,gnl|TC-DB|B8F5K7|4.D.1.3.2 UDP-glucose--lipooligosaccharideglucosyltransferase involved in cell wall biogenesis OS=Haemophilus parasuis serovar 5 (strain SH0165) GN=igtF PE=4 SV=1,44.7,85,47
+OFBKKLGO_00680_yflS,gnl|TC-DB|Q41364|2.A.47.3.1 2-OXOGLUTARATE/MALATE TRANSLOCATOR PRECURSOR - Spinacia oleracea (Spinach).,52.3,470,222
+OFBKKLGO_00692_citM,gnl|TC-DB|P55069|2.A.11.1.1 MG2+/CITRATE COMPLEX SECONDARY TRANSPORTER - Bacillus subtilis.,89.8,430,44
+OFBKKLGO_00701_nagP,gnl|TC-DB|O34521|4.A.1.1.7 Phosphotransferase system (PTS) N-acetylglucosamine-specific enzyme IICB component (YflF) - Bacillus subtilis.,85.2,452,67
+OFBKKLGO_00709_treA,gnl|TC-DB|Q8A1G3|8.A.9.1.3 Alpha-amylase SusG OS=Bacteroides thetaiotaomicron (strain ATCC 29148 / DSM 2079 / NCTC 10582 / E50 / VPI-5482) OX=226186 GN=susG PE=1 SV=1,47.7,130,65
+OFBKKLGO_00724_ycaD,gnl|TC-DB|O34929|2.A.1.26.2 Uncharacterized MFS-type transporter yfkF OS=Bacillus subtilis GN=yfkF PE=3 SV=1,82.0,388,70
+OFBKKLGO_00725_chaA,gnl|TC-DB|O34840|2.A.19.2.7 Putative cation exchanger yfkE OS=Bacillus subtilis GN=yfkE PE=3 SV=1,89.7,351,36
+OFBKKLGO_00733_corA_2,gnl|TC-DB|O31543|1.A.35.3.3 Putative metal ion transporter YfjQ OS=Bacillus subtilis (strain 168) GN=yfjQ PE=3 SV=1,82.8,319,55
+OFBKKLGO_00757_malP,"gnl|TC-DB|P54715|4.A.1.1.8 PTS system, arbutin-like IICB component (Phosphotransferase enzyme II, CB component) (EC 2.7.1.69) - Bacillus subtilis.",88.8,499,55
+OFBKKLGO_00760_group_4497,gnl|TC-DB|A4XGX1|3.A.1.135.10 ABC transporter related protein OS=Caldicellulosiruptor saccharolyticus (strain ATCC 43494 / DSM 8903 / Tp8T 6331) OX=351627 GN=Csac_0522 PE=4 SV=1,53.4,579,270
+OFBKKLGO_00770_bmr3_2,gnl|TC-DB|O31563|2.A.1.3.58 Uncharacterized MFS-type transporter yfiU OS=Bacillus subtilis (strain 168) GN=yfiU PE=3 SV=1,75.2,516,126
+OFBKKLGO_00772_mprF,gnl|TC-DB|WP_085537946|4.H.1.1.4 bifunctional lysylphosphatidylglycerol flippase/synthetase MprF [Bacillus licheniformis],64.2,851,302
+OFBKKLGO_00787_csbB,gnl|TC-DB|Q55487|4.D.1.1.14 Uncharacterized glycosyltransferase sll0501 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) GN=sll0501 PE=3 SV=1,42.5,301,172
+OFBKKLGO_00796_group_3487,gnl|TC-DB|Q2G2M9|3.A.1.106.2 Putative multidrug export ATP-binding/permease protein SAOUHSC_02003 - Staphylococcus aureus (strain NCTC 8325).,58.2,577,240
+OFBKKLGO_00797_group_16036,gnl|TC-DB|P71083|2.A.85.4.2 UPF0421 protein ygaE OS=Bacillus subtilis GN=ygaE PE=3 SV=1,90.1,353,35
+OFBKKLGO_00819_ssuB_1,gnl|TC-DB|Q47538|3.A.1.17.1 Taurine transport ATP-binding protein tauB - Escherichia coli.,46.3,201,105
+OFBKKLGO_00821_ssuC_1,gnl|TC-DB|O85765|3.A.1.17.2 ABC TRANSPORTER MEMBRANE SUBUNIT PRECURSOR - Pseudomonas putida.,46.9,241,128
+OFBKKLGO_00839_emrB_2,gnl|TC-DB|Q7A3S4|2.A.1.3.61 SA2203 protein OS=Staphylococcus aureus (strain N315) GN=SA2203 PE=4 SV=1,45.3,408,223
+OFBKKLGO_00845_bcrA_2,"gnl|TC-DB|B5YBB1|3.A.1.151.2 ABC transporter, ATP-binding protein OS=Dictyoglomus thermophilum (strain ATCC 35947 / DSM 3960 / H-6-12) GN=DICTH_1828 PE=4 SV=1",44.4,216,115
+OFBKKLGO_00851_tcyP,gnl|TC-DB|P54596|2.A.23.1.4 Hypothetical symporter yhcL - Bacillus subtilis.,87.5,441,55
+OFBKKLGO_00866_glpF,gnl|TC-DB|P18156|1.A.8.2.1 GLYCEROL UPTAKE FACILITATOR PROTEIN - Bacillus subtilis.,87.6,275,33
+OFBKKLGO_00885_group_3504,gnl|TC-DB|Q9KDT3|2.A.22.5.3 Transporter OS=Bacillus halodurans (strain ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM 9153 / C-125) GN=BH1128 PE=3 SV=1,42.4,427,241
+OFBKKLGO_00890_group_16026,gnl|TC-DB|O07585|1.A.112.2.4 UPF0053 protein YhdP OS=Bacillus subtilis (strain 168) GN=yhdP PE=3 SV=1,93.0,443,31
+OFBKKLGO_00894_group_2741,gnl|TC-DB|O07585|1.A.112.2.4 UPF0053 protein YhdP OS=Bacillus subtilis (strain 168) GN=yhdP PE=3 SV=1,60.6,432,167
+OFBKKLGO_00906_yheI,gnl|TC-DB|O07550|3.A.1.106.8 Probable multidrug resistance ABC transporter ATP-binding/permease protein yheI OS=Bacillus subtilis GN=yheI PE=1 SV=1,80.2,585,116
+OFBKKLGO_00907_yheH,gnl|TC-DB|O07549|3.A.1.106.8 Probable multidrug resistance ABC transporter ATP-binding/permease protein yheH OS=Bacillus subtilis GN=yheH PE=1 SV=1,78.8,671,142
+OFBKKLGO_00920_khtT_1,gnl|TC-DB|O07535|2.A.37.5.2 Putative uncharacterized protein yhaT (YhaT protein) OS=Bacillus subtilis GN=yhaT PE=4 SV=1,90.3,165,16
+OFBKKLGO_00936_trpP,gnl|TC-DB|O07515|2.A.88.4.1 Probable tryptophan transport protein OS=Bacillus subtilis GN=trpP PE=2 SV=1,76.2,172,41
+OFBKKLGO_00939_ecsA_1,gnl|TC-DB|P55339|3.A.1.143.1 ABC-type transporter ATP-binding protein EcsA OS=Bacillus subtilis (strain 168) GN=ecsA PE=1 SV=1,93.5,247,16
+OFBKKLGO_00940_group_5922,gnl|TC-DB|P55340|3.A.1.143.1 Protein ecsB OS=Bacillus subtilis (strain 168) GN=ecsB PE=4 SV=1,75.7,408,99
+OFBKKLGO_00943_group_1429,gnl|TC-DB|Q819S9|2.A.45.3.1 Transporter - Bacillus cereus (strain ATCC 14579 / DSM 31).,59.1,457,186
+OFBKKLGO_00950_smc_1,gnl|TC-DB|P32399|3.A.1.155.3 Uncharacterized protein yhgE OS=Bacillus subtilis (strain 168) GN=yhgE PE=4 SV=2,74.5,774,195
+OFBKKLGO_00954_gltT,gnl|TC-DB|P24943|2.A.23.1.2 PROTON/SODIUM-GLUTAMATE SYMPORT PROTEIN (GLUTAMATE-ASPARTATE CARRIER PROTEIN) - Bacillus stearothermophilus.,64.6,413,146
+OFBKKLGO_00967_hemAT,gnl|TC-DB|KKK40667|9.B.334.1.1 Methyl-accepting chemotaxis protein 3 [Lokiarchaeum sp. GC14_75],67.9,56,18
+OFBKKLGO_00968_petC_1,gnl|TC-DB|P70758|3.D.3.5.6 Cytochrome b6-f complex iron-sulfur subunit 3 OS=Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576) OX=103690 GN=petC3 PE=3 SV=1,52.9,51,23
+OFBKKLGO_00985_tetA_1,gnl|TC-DB|P39843|2.A.1.2.8 Multidrug resistance protein 2 (Multidrug-efflux transporter 2) - Bacillus subtilis.,77.8,397,88
+OFBKKLGO_01025_group_16150,gnl|TC-DB|P39803|2.A.115.1.1 UPF0750 membrane protein yitT OS=Bacillus subtilis (strain 168) GN=yitT PE=3 SV=2,92.5,280,21
+OFBKKLGO_01040_group_4559,gnl|TC-DB|P40866|9.A.11.1.1 Stage V sporulation protein AA - Bacillus subtilis.,85.4,206,30
+OFBKKLGO_01042_group_16180,gnl|TC-DB|P40868|9.A.11.1.1 Stage V sporulation protein AC - Bacillus subtilis.,88.7,150,17
+OFBKKLGO_01043_spoVAD,gnl|TC-DB|P40869|9.A.11.1.1 Stage V sporulation protein AD - Bacillus subtilis.,90.5,338,32
+OFBKKLGO_01045_group_2772,gnl|TC-DB|P40870|9.A.11.1.1 Stage V sporulation protein AE - Bacillus subtilis.,83.5,200,33
+OFBKKLGO_01046_gerXA,gnl|TC-DB|P31845|9.A.11.1.1 Stage V sporulation protein AF - Bacillus subtilis.,80.1,493,98
+OFBKKLGO_01065_spmA,gnl|TC-DB|I6ZUE8|9.B.156.3.1 Nucleoside recognition domain-containing protein OS=Melioribacter roseus (strain P3M) GN=MROS_2404 PE=4 SV=1,45.9,170,92
+OFBKKLGO_01066_spmB,gnl|TC-DB|I6ZUE8|9.B.156.3.1 Nucleoside recognition domain-containing protein OS=Melioribacter roseus (strain P3M) GN=MROS_2404 PE=4 SV=1,51.4,173,84
+OFBKKLGO_01070_ccsA_1,gnl|TC-DB|B8ZT62|9.B.14.3.4 Possible cytochrome C biogenesis protein OS=Mycobacterium leprae (strain Br4923) GN=MLBr02409 PE=4 SV=1,50.0,98,48
+OFBKKLGO_01077_fmnP,gnl|TC-DB|P50726|2.A.87.1.2 Hypothetical protein ypaA - Bacillus subtilis.,89.2,185,20
+OFBKKLGO_01089_prsW,gnl|TC-DB|P50738|9.B.217.1.1 Protease PrsW OS=Bacillus subtilis (strain 168) GN=prsW PE=1 SV=1,92.2,218,17
+OFBKKLGO_01129_petC_2,gnl|TC-DB|P46911|3.D.3.4.1 Menaquinol-cytochrome C reductase iron-sulfur subunit (Rieske iron- sulfur protein) - Bacillus subtilis.,89.2,167,18
+OFBKKLGO_01130_qcrB,gnl|TC-DB|P46912|3.D.3.4.1 Menaquinol-cytochrome C reductase cytochrome B subunit - Bacillus subtilis.,97.8,224,5
+OFBKKLGO_01131_petD,gnl|TC-DB|P46913|3.D.3.4.1 Menaquinol-cytochrome C reductase cytochrome B/C subunit - Bacillus subtilis.,89.4,255,27
+OFBKKLGO_01164_crr,gnl|TC-DB|P50829|4.A.1.1.21 Putative phosphotransferase enzyme IIA component YpqE OS=Bacillus subtilis (strain 168) OX=224308 GN=ypqE PE=3 SV=1,73.8,168,44
+OFBKKLGO_01180_pucK,gnl|TC-DB|P42086|2.A.40.3.1 XANTHINE PERMEASE - Bacillus subtilis.,82.0,133,24
+OFBKKLGO_01390_group_16277,gnl|TC-DB|G4P330|2.A.88.8.3 YpdP OS=Bacillus subtilis subsp. subtilis RO-NN-1 GN=I33_2257 PE=4 SV=1,86.2,225,31
+OFBKKLGO_01409_group_3569,gnl|TC-DB|P54176|1.C.113.1.1 HEMOLYSIN III (HLY-III) - Bacillus cereus.,68.3,202,64
+OFBKKLGO_01448_pgpB,gnl|TC-DB|O34349|9.B.105.2.3 Putative lipid phosphate phosphatase YodM OS=Bacillus subtilis (strain 168) GN=yodM PE=3 SV=1,56.2,203,89
+OFBKKLGO_01449_group_15811,gnl|TC-DB|O30472|8.A.42.1.1 Uncharacterized protein YodL OS=Bacillus subtilis (strain 168) GN=yodL PE=4 SV=3,78.4,102,22
+OFBKKLGO_01455_ctpA,gnl|TC-DB|O35002|9.B.174.1.1 Carboxy-terminal processing protease CtpB OS=Bacillus subtilis (strain 168) GN=ctpB PE=1 SV=1,41.6,425,241
+OFBKKLGO_01459_yodF_2,gnl|TC-DB|O34745|2.A.21.4.2 Uncharacterized symporter yodF OS=Bacillus subtilis (strain 168) GN=yodF PE=2 SV=1,90.9,496,45
+OFBKKLGO_01483_panS,gnl|TC-DB|Q9K0A9|2.A.28.2.4 Transporter OS=Neisseria meningitidis serogroup B GN=NMB0705 PE=1 SV=1,57.7,312,130
+OFBKKLGO_01545_mepA,gnl|TC-DB|O34474|2.A.66.1.25 Probable multidrug resistance protein yoeA OS=Bacillus subtilis (strain 168) GN=yoeA PE=3 SV=2,84.3,459,72
+OFBKKLGO_01583_alsT_1,gnl|TC-DB|Q45068|2.A.25.1.5 Amino-acid carrier protein AlsT OS=Bacillus subtilis (strain 168) GN=alsT PE=2 SV=1,84.8,461,70
+OFBKKLGO_01589_plsY,gnl|TC-DB|Q45064|9.B.31.1.2 Glycerol-3-phosphate acyltransferase OS=Bacillus subtilis (strain 168) GN=plsY PE=1 SV=1,88.5,192,22
+OFBKKLGO_01603_group_5123,gnl|TC-DB|P45706|5.A.1.2.1 CYTOCHROME C-TYPE BIOGENESIS PROTEIN CCDA - Bacillus subtilis.,80.0,230,46
+OFBKKLGO_01674_ebrA,gnl|TC-DB|O31792|2.A.7.1.6 Multidrug resistance protein EBRA - Bacillus subtilis.,73.1,104,28
+OFBKKLGO_01675_ebrB,gnl|TC-DB|O31791|2.A.7.1.6 Multidrug resistance protein EBRB - Bacillus subtilis.,67.8,115,37
+OFBKKLGO_01711_pgsA,gnl|TC-DB|Q6ADZ6|4.F.1.1.7 CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase OS=Leifsonia xyli subsp. xyli (strain CTCB07) GN=pgsA PE=3 SV=1,41.0,195,89
+OFBKKLGO_01718_smc_4,gnl|TC-DB|A9VJD5|2.A.6.5.9 MMPL domain protein OS=Bacillus weihenstephanensis (strain KBAB4) GN=BcerKBAB4_2742 PE=4 SV=1,40.6,1034,605
+OFBKKLGO_01720_ymfD,gnl|TC-DB|O31762|2.A.1.32.2 2.A.1.32.2 Bacillibactin exporter,78.1,401,88
+OFBKKLGO_01747_rasP,gnl|TC-DB|O31754|9.B.149.2.1 Regulator of sigma-W protease RasP OS=Bacillus subtilis (strain 168) GN=rasP PE=1 SV=1,93.6,420,27
+OFBKKLGO_01749_group_16246,gnl|TC-DB|WP_102961726.1|9.B.273.1.2 phosphatidate cytidylyltransferase [Burkholderia cenocepacia],40.4,151,69
+OFBKKLGO_01764_flhA,gnl|TC-DB|P40729|3.A.6.2.1 FLAGELLAR BIOSYNTHESIS PROTEIN FLHA - Salmonella typhimurium.,41.8,670,370
+OFBKKLGO_01767_fliQ,gnl|TC-DB|P0A1L5|3.A.6.2.1 Flagellar biosynthetic protein fliQ - Salmonella typhimurium.,51.2,86,42
+OFBKKLGO_01768_fliP,gnl|TC-DB|P54700|3.A.6.2.1 FLAGELLAR BIOSYNTHETIC PROTEIN FLIP - Salmonella typhimurium.,53.2,205,96
+OFBKKLGO_01779_yscN,gnl|TC-DB|O84676|3.A.6.3.1 Yops secretion ATPase - Chlamydia trachomatis.,52.9,420,188
+OFBKKLGO_01807_ffh,gnl|TC-DB|P0AGD7|3.A.5.1.1 Signal recognition particle protein - Escherichia coli.,53.6,429,198
+OFBKKLGO_01809_ftsY,gnl|TC-DB|P10121|3.A.5.1.1 CELL DIVISION PROTEIN FTSY - Escherichia coli.,52.3,279,130
+OFBKKLGO_01812_acpA,gnl|TC-DB|Q6UKY4|3.D.1.6.4 Acyl carrier protein 1 - Chlamydomonas reinhardtii.,57.4,68,29
+OFBKKLGO_01817_recG,gnl|TC-DB|AKM80112|3.A.11.1.5 putative ATP-dependent DNA helicase [Candidatus Saccharibacteria bacterium GW2011_GWC2_44_17],41.8,660,360
+OFBKKLGO_01838_yloB,"gnl|TC-DB|A9BJX0|3.A.3.2.21 Calcium-translocating P-type ATPase, PMCA-type OS=Petrotoga mobilis (strain DSM 10674 / SJ95) GN=Pmob_0991 PE=3 SV=1",45.9,885,440
+OFBKKLGO_01846_cysP,gnl|TC-DB|O34734|2.A.20.4.1 YLNA PROTEIN - Bacillus subtilis.,87.3,354,45
+OFBKKLGO_01858_pyrP,gnl|TC-DB|P39766|2.A.40.1.4 Uracil permease OS=Bacillus subtilis (strain 168) GN=pyrP PE=1 SV=2,93.8,434,27
+OFBKKLGO_01868_group_16070,gnl|TC-DB|Q81WE1|9.A.4.2.1 YlmG protein - Bacillus anthracis.,64.3,70,25
+OFBKKLGO_01885_ftsW_2,gnl|TC-DB|P07373|2.A.103.1.3 STAGE V SPORULATION PROTEIN E - Bacillus subtilis.,96.5,341,12
+OFBKKLGO_01887_mraY,gnl|TC-DB|P0A6W3|9.B.146.1.6 Phospho-N-acetylmuramoyl-pentapeptide-transferase OS=Escherichia coli (strain K12) GN=mraY PE=1 SV=1,45.9,327,145
+OFBKKLGO_01903_ylbJ,gnl|TC-DB|O34765|9.A.5.3.2 Sporulation integral membrane protein ylbJ OS=Bacillus subtilis GN=ylbJ PE=2 SV=1,80.4,408,80
+OFBKKLGO_01915_caaD,gnl|TC-DB|P24013|3.D.4.4.1 Cytochrome c oxidase subunit 4B OS=Bacillus subtilis GN=ctaF PE=3 SV=1,78.2,110,24
+OFBKKLGO_01916_ctaE,gnl|TC-DB|P24012|3.D.4.4.1 Cytochrome c oxidase subunit 3 OS=Bacillus subtilis GN=ctaE PE=3 SV=2,88.9,207,23
+OFBKKLGO_01917_ctaD,gnl|TC-DB|P24010|3.D.4.4.1 Cytochrome c oxidase subunit 1 OS=Bacillus subtilis GN=ctaD PE=3 SV=3,90.0,622,62
+OFBKKLGO_01918_ctaC,gnl|TC-DB|P24011|3.D.4.4.1 Cytochrome c oxidase subunit 2 OS=Bacillus subtilis GN=ctaC PE=3 SV=2,87.4,356,45
+OFBKKLGO_01920_ctaA,gnl|TC-DB|P12946|3.D.4.4.1 Heme A synthase OS=Bacillus subtilis GN=ctaA PE=1 SV=1,85.2,305,45
+OFBKKLGO_01921_pycA,gnl|TC-DB|B7TVP4|3.B.1.1.7 Biotin/lipoyl-binding protein OS=Clostridium symbiosum OX=1512 GN=gcdC1 PE=4 SV=1,45.3,64,35
+OFBKKLGO_01956_ktrA_1,gnl|TC-DB|P39760|2.A.38.4.4 Hypothetical protein ykqB (ORF4) - Bacillus subtilis.,95.0,221,11
+OFBKKLGO_01964_ybiT_3,gnl|TC-DB|Q83XH1|9.B.325.1.1 ABC transporter - Clostridium hathewayi.,69.8,533,159
+OFBKKLGO_01967_fruA,gnl|TC-DB|P71012|4.A.2.1.4 Phosphotransferase system (PTS) fructose-specific enzyme IIABC component (Fructose PTS IIABC) - Bacillus subtilis.,92.1,635,49
+OFBKKLGO_01970_yknZ,gnl|TC-DB|O31712|3.A.1.122.2 Uncharacterized ABC transporter permease yknZ OS=Bacillus subtilis (strain 168) GN=yknZ PE=3 SV=1,80.4,397,78
+OFBKKLGO_01971_yknY,gnl|TC-DB|O31711|3.A.1.122.2 Uncharacterized ABC transporter ATP-binding protein YknY OS=Bacillus subtilis (strain 168) GN=yknY PE=3 SV=1,85.7,230,33
+OFBKKLGO_01985_ykuT,gnl|TC-DB|O34897|1.A.23.3.1 YKUT PROTEIN - Bacillus subtilis.,76.7,257,60
+OFBKKLGO_02013_mcpC,gnl|TC-DB|KKK40667|9.B.334.1.1 Methyl-accepting chemotaxis protein 3 [Lokiarchaeum sp. GC14_75],40.7,123,70
+OFBKKLGO_02016_ptsI,"gnl|TC-DB|P08839|8.A.7.1.1 PHOSPHOENOLPYRUVATE-PROTEIN PHOSPHOTRANSFERASE (EC 2.7.3.9) (PHOSPHOTRANSFERASE SYSTEM, ENZYME I) - Escherichia coli.",48.4,566,290
+OFBKKLGO_02018_ptsG,"gnl|TC-DB|P20166|4.A.1.1.9 PTS system, glucose-specific IICBA component (EIICBA-Glc) (Glucose- permease IICBA component) (Phosphotransferase enzyme II, CBA component) (EC 2.7.1.69) (EII-Glc/EIII-Glc) - Bacillus subtilis.",92.1,699,54
+OFBKKLGO_02022_zosA,gnl|TC-DB|O31688|3.A.3.6.9 Cation-transporting ATPase - Bacillus subtilis.,79.4,637,131
+OFBKKLGO_02024_ykvU,gnl|TC-DB|O31686|2.A.66.2.17 Sporulation protein ykvU OS=Bacillus subtilis (strain 168) GN=ykvU PE=1 SV=1,93.3,446,29
+OFBKKLGO_02036_group_6171,gnl|TC-DB|O31674|2.A.120.1.10 Uncharacterized membrane protein YkvI OS=Bacillus subtilis (strain 168) GN=ykvI PE=4 SV=1,75.7,345,84
+OFBKKLGO_02037_clpE,"gnl|TC-DB|Q9FI56|3.A.9.1.2 Chaperone protein ClpC1, chloroplastic OS=Arabidopsis thaliana GN=CLPC1 PE=1 SV=1",52.4,633,276
+OFBKKLGO_02038_pomA_1,gnl|TC-DB|P28611|1.A.30.1.3 Chemotaxis motA protein (Motility protein A) - Bacillus subtilis.,90.4,271,25
+OFBKKLGO_02059_ktrB,gnl|TC-DB|O31658|2.A.38.4.4 YKRM protein - Bacillus subtilis.,88.2,450,52
+OFBKKLGO_02060_htpX_2,gnl|TC-DB|Q8EXN4|9.B.1.1.5 Protease HtpX homolog OS=Leptospira interrogans serogroup Icterohaemorrhagiae serovar Lai (strain 56601) GN=htpX PE=3 SV=1,56.9,295,118
+OFBKKLGO_02065_group_4724,gnl|TC-DB|O34997|2.A.109.1.4 Uncharacterized membrane protein ykoY OS=Bacillus subtilis GN=ykoY PE=3 SV=1,83.3,246,41
+OFBKKLGO_02075_mgtE,gnl|TC-DB|O34442|1.A.26.1.3 Magnesium transporter MgtE OS=Bacillus subtilis (strain 168) GN=mgtE PE=3 SV=1,85.4,451,66
+OFBKKLGO_02080_ykoE,gnl|TC-DB|O34738|3.A.1.30.1 Putative HMP/thiamine permease protein ykoE OS=Bacillus subtilis GN=ykoE PE=1 SV=1,76.9,199,46
+OFBKKLGO_02082_ykoC,gnl|TC-DB|O34572|3.A.1.30.1 Putative HMP/thiamine permease protein ykoC OS=Bacillus subtilis GN=ykoC PE=1 SV=1,74.6,252,64
+OFBKKLGO_02099_gdnD,gnl|TC-DB|P49857|2.A.7.1.5 Hypothetical 11.3 KDA protein IN HMP-PROB intergenic region - Bacillus subtilis.,81.7,104,19
+OFBKKLGO_02110_dppE,gnl|TC-DB|P26906|3.A.1.5.2 Dipeptide-binding protein DPPE precursor - Bacillus subtilis.,80.4,469,92
+OFBKKLGO_02112_oppD_4,gnl|TC-DB|P26905|3.A.1.5.2 Dipeptide transport ATP-binding protein dppD - Bacillus subtilis.,79.6,324,66
+OFBKKLGO_02113_dppC,gnl|TC-DB|P26904|3.A.1.5.2 Dipeptide transport system permease protein dppC - Bacillus subtilis.,86.6,320,38
+OFBKKLGO_02114_dppB_3,gnl|TC-DB|P26903|3.A.1.5.2 Dipeptide transport system permease protein dppB - Bacillus subtilis.,89.5,306,32
+OFBKKLGO_02115_dppA,gnl|TC-DB|P26902|3.A.1.5.2 Dipeptide transport protein DPPA - Bacillus subtilis.,84.3,274,43
+OFBKKLGO_02119_group_2845,gnl|TC-DB|Q55487|4.D.1.1.14 Uncharacterized glycosyltransferase sll0501 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) GN=sll0501 PE=3 SV=1,46.8,308,164
+OFBKKLGO_02122_steT,gnl|TC-DB|O34739|2.A.3.8.12 YkbA protein - Bacillus subtilis.,83.3,438,73
+OFBKKLGO_02124_group_6198,gnl|TC-DB|D9RF44|2.A.20.1.7 Low-affinity inorganic phosphate transporter OS=Staphylococcus aureus (strain JKD6159) GN=pitA PE=4 SV=1,60.9,335,128
+OFBKKLGO_02125_spoIISA,gnl|TC-DB|O34853|9.A.10.1.1 Stage II sporulation protein SA OS=Bacillus subtilis (strain 168) GN=spoIISA PE=1 SV=1,79.0,248,52
+OFBKKLGO_02128_group_1802,gnl|TC-DB|E0U1U5|1.E.31.1.14 Bacteriophage PBSX holin OS=Bacillus subtilis subsp. spizizenii (strain ATCC 23059 / NRRL B-14472 / W23) GN=zhlB PE=4 SV=1,79.3,87,18
+OFBKKLGO_02129_group_3676,gnl|TC-DB|P39798|1.E.31.1.14 Protein XhlA OS=Bacillus subtilis (strain 168) GN=xhlA PE=4 SV=1,79.5,83,17
+OFBKKLGO_02193_sapB_2,gnl|TC-DB|P0AFV2|9.B.20.1.4 Putative magnesium transporter YhiD OS=Escherichia coli (strain K12) GN=yhiD PE=3 SV=1,56.0,134,59
+OFBKKLGO_02350_oppF_3,"gnl|TC-DB|Q2FZR4|3.A.1.5.19 Oligopeptide ABC transporter, ATP-binding protein, putative - Staphylococcus aureus (strain NCTC 8325).",68.6,299,90
+OFBKKLGO_02351_oppD_3,gnl|TC-DB|Q2FZR5|3.A.1.5.19 Putative uncharacterized protein - Staphylococcus aureus (strain NCTC 8325).,66.0,356,121
+OFBKKLGO_02352_oppC_2,gnl|TC-DB|P26904|3.A.1.5.2 Dipeptide transport system permease protein dppC - Bacillus subtilis.,56.8,303,130
+OFBKKLGO_02353_oppB,gnl|TC-DB|P26903|3.A.1.5.2 Dipeptide transport system permease protein dppB - Bacillus subtilis.,55.9,304,134
+OFBKKLGO_02362_oppD_2,gnl|TC-DB|P42064|3.A.1.5.20 Oligopeptide transport ATP-binding protein appD - Bacillus subtilis.,89.3,326,35
+OFBKKLGO_02386_spoIIM,gnl|TC-DB|P37873|9.B.98.2.1 Stage II sporulation protein M OS=Bacillus subtilis GN=spoIIM PE=2 SV=1,82.2,214,38
+OFBKKLGO_02390_mleN,gnl|TC-DB|P54571|2.A.35.1.2 HYPOTHETICAL NA+/H+ ANTIPORTER IN ANSB-SPOIIM INTERGENIC REGION - Bacillus subtilis.,87.4,467,59
+OFBKKLGO_02425_misCB,gnl|TC-DB|P54544|2.A.9.3.3 Membrane protein oxaA 2 OS=Bacillus subtilis GN=oxaA2 PE=3 SV=1,81.5,275,49
+OFBKKLGO_02428_pccB,"gnl|TC-DB|Q9V0A4|3.B.1.1.5 Methylmalonyl-CoA decarboxylase, subunit A LPHA (MMDA) - Pyrococcus abyssi.",53.1,522,230
+OFBKKLGO_02432_group_6258,gnl|TC-DB|P54538|2.A.85.5.1 Hypothetical protein yqjA - Bacillus subtilis.,90.8,316,29
+OFBKKLGO_02433_artM,gnl|TC-DB|P54537|3.A.1.3.15 Probable amino-acid ABC transporter ATP-binding protein yqiZ - Bacillus subtilis.,88.8,240,27
+OFBKKLGO_02434_artQ,gnl|TC-DB|P54536|3.A.1.3.15 Probable amino-acid ABC transporter permease protein yqiY - Bacillus subtilis.,90.4,219,21
+OFBKKLGO_02435_artP,gnl|TC-DB|P54535|3.A.1.3.15 Probable amino-acid ABC transporter extracellular-binding protein yqiX - Bacillus subtilis.,82.4,255,45
+OFBKKLGO_02468_tlyA,gnl|TC-DB|J8IXD8|1.C.109.1.5 Hemolysin TlyA family protein OS=Bacillus cereus VD078 GN=III_01305 PE=4 SV=1,70.5,275,81
+OFBKKLGO_02479_group_2887,gnl|TC-DB|P49784|9.B.70.1.1 Stage III sporulation protein AG - Bacillus subtilis.,80.9,230,43
+OFBKKLGO_02481_spoIIIAE,gnl|TC-DB|P49782|9.B.70.1.1 Stage III sporulation protein AE - Bacillus subtilis.,86.1,402,53
+OFBKKLGO_02482_group_6271,gnl|TC-DB|P49781|9.B.70.1.1 Stage III sporulation protein AD - Bacillus subtilis.,96.0,100,4
+OFBKKLGO_02483_group_16176,gnl|TC-DB|P49780|9.B.70.1.1 Stage III sporulation protein AC - Bacillus subtilis.,100.0,68,0
+OFBKKLGO_02484_spoIIIAB,gnl|TC-DB|Q01368|9.B.70.1.1 Stage III sporulation protein AB - Bacillus subtilis.,83.0,171,29
+OFBKKLGO_02485_group_6272,gnl|TC-DB|Q01367|9.B.70.1.1 Stage III sporulation protein AA - Bacillus subtilis.,76.5,307,72
+OFBKKLGO_02495_glpE,gnl|TC-DB|B9LBX9|2.A.53.3.4 Sulphate transporter OS=Chloroflexus aurantiacus (strain ATCC 29364 / DSM 637 / Y-400-fl) GN=Chy400_1352 PE=4 SV=1,44.6,74,39
+OFBKKLGO_02513_comGC,gnl|TC-DB|G2JS05|3.A.14.1.2 General secretion pathway protein G OS=Listeria monocytogenes J0161 GN=LMOG_00364 PE=4 SV=1,50.0,90,43
+OFBKKLGO_02514_epsF_1,gnl|TC-DB|P25954|3.A.14.1.1 COMG OPERON PROTEIN 2 - Bacillus subtilis.,66.9,323,107
+OFBKKLGO_02516_group_3729,gnl|TC-DB|P40948|1.A.35.1.3 Magnesium transport protein CorA OS=Bacillus subtilis (strain 168) GN=corA PE=1 SV=2,68.5,308,97
+OFBKKLGO_02529_nhaC_2,gnl|TC-DB|O07553|2.A.35.1.6 Na(+)/H(+) antiporter NhaC OS=Bacillus subtilis (strain 168) GN=nhaC PE=1 SV=1,82.0,417,75
+OFBKKLGO_02535_pstB3_2,gnl|TC-DB|O51236|3.A.1.7.5 Phosphate import ATP-binding protein PstB OS=Borrelia burgdorferi (strain ATCC 35210 / B31 / CIP 102532 / DSM 4680) GN=pstB PE=3 SV=1,57.0,256,110
+OFBKKLGO_02536_pstB3_3,gnl|TC-DB|O51236|3.A.1.7.5 Phosphate import ATP-binding protein PstB OS=Borrelia burgdorferi (strain ATCC 35210 / B31 / CIP 102532 / DSM 4680) GN=pstB PE=3 SV=1,60.1,248,99
+OFBKKLGO_02541_group_3734,gnl|TC-DB|P54487|2.A.1.33.1 Hypothetical 48.2 kDa protein IN SODA-COMGA intergenic region - Bacillus subtilis.,87.9,430,51
+OFBKKLGO_02547_group_3736,gnl|TC-DB|E8VD44|9.B.117.1.1 Uncharacterized protein OS=Bacillus subtilis (strain BSn5) GN=BSn5_03095 PE=4 SV=1,75.6,127,27
+OFBKKLGO_02573_group_6298,gnl|TC-DB|B3ERW3|3.A.23.6.1 Uncharacterized protein OS=Amoebophilus asiaticus (strain 5a2) GN=Aasi_0564 PE=4 SV=1,47.3,279,141
+OFBKKLGO_02585_dnaJ,gnl|TC-DB|Q9NXW2|1.P.1.1.1 DnaJ homolog subfamily B member 12 OS=Homo sapiens GN=DNAJB12 PE=1 SV=4,51.4,105,44
+OFBKKLGO_02587_dnaK,gnl|TC-DB|G4NXA5|1.A.33.1.4 Chaperone protein DnaK OS=Bacillus subtilis subsp. spizizenii TU-B-10 GN=dnaK PE=3 SV=1,97.5,611,14
+OFBKKLGO_02599_tadA_2,gnl|TC-DB|G2JTB4|3.A.11.1.4 ComE operon protein 2 OS=Listeria monocytogenes J0161 GN=LMOG_00216 PE=3 SV=1,68.0,150,48
+OFBKKLGO_02634_ynfM,gnl|TC-DB|P43531|2.A.1.36.1 Hypothetical transport protein ynfM - Escherichia coli.,42.6,397,222
+OFBKKLGO_02640_focA,gnl|TC-DB|P35839|1.A.16.2.1 Probable formate transporter OS=Methanobacterium formicicum GN=fdhC PE=3 SV=1,41.0,268,141
+OFBKKLGO_02663_glnQ,gnl|TC-DB|P45769|3.A.1.3.26 Uncharacterized amino-acid ABC transporter ATP-binding protein YhdZ OS=Escherichia coli (strain K12) GN=yhdZ PE=3 SV=1,58.9,241,99
+OFBKKLGO_02665_glnM,gnl|TC-DB|OLS25601|3.A.1.3.30 Inner membrane amino-acid ABC transporter permease protein YecS [Candidatus Heimdallarchaeota archaeon LC_3],42.2,116,67
+OFBKKLGO_02666_glnP,gnl|TC-DB|Q52664|3.A.1.3.7 Glutamate/glutamine/aspartate/asparagine transport system permease protein bztB - Rhodobacter capsulatus (Rhodopseudomonas capsulata).,45.1,82,45
+OFBKKLGO_02685_relA,gnl|TC-DB|B3ERW2|3.A.23.6.1 Uncharacterized protein OS=Amoebophilus asiaticus (strain 5a2) GN=Aasi_0563 PE=4 SV=1,41.0,188,103
+OFBKKLGO_02690_secDF,gnl|TC-DB|O32047|2.A.6.4.2 Protein translocase subunit SecDF OS=Bacillus subtilis (strain 168) GN=secDF PE=1 SV=2,88.4,732,85
+OFBKKLGO_02692_spoVB,gnl|TC-DB|Q00758|2.A.66.2.14 Stage V sporulation protein B OS=Bacillus subtilis GN=spoVB PE=2 SV=1,87.5,518,65
+OFBKKLGO_02718_spoIVFB,gnl|TC-DB|P26937|9.B.149.1.13 Stage IV sporulation protein FB OS=Bacillus subtilis (strain 168) OX=224308 GN=spoIVFB PE=1 SV=1,77.8,288,64
+OFBKKLGO_02722_mreD,gnl|TC-DB|Q01467|9.B.157.1.1 Rod shape-determining protein MreD OS=Bacillus subtilis (strain 168) GN=mreD PE=1 SV=1,74.9,171,43
+OFBKKLGO_02723_mreC,gnl|TC-DB|Q01466|9.B.157.1.1 Cell shape-determining protein MreC OS=Bacillus subtilis (strain 168) GN=mreC PE=1 SV=3,84.1,290,43
+OFBKKLGO_02724_mreB,gnl|TC-DB|Q01465|9.B.157.1.1 Rod shape-determining protein MreB OS=Bacillus subtilis (strain 168) GN=mreB PE=3 SV=3,95.0,337,17
+OFBKKLGO_02766_frdB,gnl|TC-DB|Q65GF5|3.D.10.1.1 SdhB OS=Bacillus licheniformis (strain DSM 13 / ATCC 14580) GN=sdhB PE=4 SV=1,88.1,253,29
+OFBKKLGO_02767_frdA,gnl|TC-DB|Q65GF4|3.D.10.1.1 SdhA OS=Bacillus licheniformis (strain DSM 13 / ATCC 14580) GN=sdhA PE=4 SV=1,93.0,586,41
+OFBKKLGO_02768_sdhC,gnl|TC-DB|Q65GF3|3.D.10.1.1 SdhC OS=Bacillus licheniformis (strain DSM 13 / ATCC 14580) GN=sdhC PE=4 SV=1,83.7,202,33
+OFBKKLGO_02794_cstA,gnl|TC-DB|Q0P9Y2|2.A.114.1.5 Putative integral membrane protein (CstA homolog) OS=Campylobacter jejuni subsp. jejuni serotype O:2 (strain NCTC 11168) GN=cstA PE=4 SV=1,45.0,584,291
+OFBKKLGO_02796_araQ,gnl|TC-DB|P94530|3.A.1.1.34 L-arabinose transport system permease protein AraQ OS=Bacillus subtilis GN=araQ PE=2 SV=2,90.3,279,27
+OFBKKLGO_02797_araP,gnl|TC-DB|P94529|3.A.1.1.34 L-arabinose transport system permease protein AraP OS=Bacillus subtilis GN=araP PE=2 SV=1,85.0,313,47
+OFBKKLGO_02798_araN,gnl|TC-DB|P94528|3.A.1.1.34 Probable arabinose-binding protein OS=Bacillus subtilis GN=araN PE=2 SV=2,83.7,430,69
+OFBKKLGO_02812_lrgB,gnl|TC-DB|P94516|2.A.122.1.6 Antiholin-like protein LrgB OS=Bacillus subtilis (strain 168) GN=lrgB PE=3 SV=1,93.0,227,16
+OFBKKLGO_02813_lrgA,gnl|TC-DB|P94515|1.E.14.1.17 Antiholin-like protein LrgA OS=Bacillus subtilis (strain 168) GN=lrgA PE=3 SV=1,72.6,146,40
+OFBKKLGO_02815_ypdA,gnl|TC-DB|Q81JL2|9.B.33.1.1 Sensor protein lytS OS=Bacillus anthracis GN=lytS PE=3 SV=1,65.0,586,199
+OFBKKLGO_02824_gapB,gnl|TC-DB|B3ET62|3.A.23.6.1 Glyceraldehyde-3-phosphate dehydrogenase OS=Amoebophilus asiaticus (strain 5a2) GN=Aasi_1069 PE=3 SV=1,50.6,326,159
+OFBKKLGO_02829_ytaF_2,gnl|TC-DB|L8Q2C2|2.A.107.3.1 Integral inner membrane protein OS=Bacillus subtilis subsp. inaquosorum KCTC 13429 GN=BSI_14920 PE=4 SV=1,81.4,210,39
+OFBKKLGO_02838_group_16338,gnl|TC-DB|O34991|2.A.86.1.9 UPF0118 membrane protein ytvI OS=Bacillus subtilis (strain 168) GN=ytvI PE=3 SV=1,76.8,371,86
+OFBKKLGO_02871_brnQ,gnl|TC-DB|P19072|2.A.26.1.1 BRANCHED CHAIN AMINO ACID TRANSPORT SYSTEM II CARRIER PROTEIN (LIV-II) - Pseudomonas aeruginosa.,46.1,414,214
+OFBKKLGO_02919_pbuO,gnl|TC-DB|O34987|2.A.40.7.2 Hypoxanthine/guanine permease (Hypothetical protein) - Bacillus subtilis.,46.8,425,211
+OFBKKLGO_02926_opuD,gnl|TC-DB|P54417|2.A.15.1.1 GLYCINE BETAINE TRANSPORTER OPUD - Bacillus subtilis.,88.0,509,61
+OFBKKLGO_02938_pfyP,gnl|TC-DB|AYS76116|1.A.1.4.12 BLINK2 [synthetic construct],47.7,111,56
+OFBKKLGO_02939_mdrP,gnl|TC-DB|O34546|2.A.1.2.69 Uncharacterized MFS-type transporter yttB OS=Bacillus subtilis (strain 168) GN=yttB PE=3 SV=1,81.6,392,72
+OFBKKLGO_02942_bceA,gnl|TC-DB|O34697|3.A.1.134.3 Transporter - Bacillus subtilis.,82.8,250,43
+OFBKKLGO_02969_ssuB_2,"gnl|TC-DB|Q53VZ4|3.A.1.20.5 ABC transporter, ATP-binding protein OS=Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579) OX=300852 GN=TTHB175 PE=3 SV=1",41.4,220,116
+OFBKKLGO_02994_thiT,gnl|TC-DB|O32074|2.A.88.3.1 Proton-coupled thiamine transporter thiT OS=Bacillus subtilis GN=thiT PE=1 SV=1,80.2,192,38
+OFBKKLGO_02995_yqiK,gnl|TC-DB|O75955|8.A.21.3.1 Flotillin-1 OS=Homo sapiens OX=9606 GN=FLOT1 PE=1 SV=3,46.4,192,91
+OFBKKLGO_03003_ktrA_2,gnl|TC-DB|O32080|2.A.38.4.3 YUAA protein - Bacillus subtilis.,85.6,222,32
+OFBKKLGO_03004_lytG,gnl|TC-DB|Q15HU6|3.A.7.14.2 TcpG - Clostridium perfringens.,45.3,159,82
+OFBKKLGO_03068_mcpA_2,gnl|TC-DB|KKK40667|9.B.334.1.1 Methyl-accepting chemotaxis protein 3 [Lokiarchaeum sp. GC14_75],51.6,93,41
+OFBKKLGO_03069_mcpA_3,gnl|TC-DB|KKK40667|9.B.334.1.1 Methyl-accepting chemotaxis protein 3 [Lokiarchaeum sp. GC14_75],43.4,106,53
+OFBKKLGO_03075_group_16085,gnl|TC-DB|O07585|1.A.112.2.4 UPF0053 protein YhdP OS=Bacillus subtilis (strain 168) GN=yhdP PE=3 SV=1,58.5,427,174
+OFBKKLGO_03078_mstX,gnl|TC-DB|Q5BU39|9.A.66.1.1 Mistic - Bacillus subtilis.,79.8,84,17
+OFBKKLGO_03079_group_6429,gnl|TC-DB|Q795M8|1.A.1.13.4 Putative potassium channel protein yugO OS=Bacillus subtilis GN=yugO PE=4 SV=2,72.6,328,90
+OFBKKLGO_03102_tmpC_2,gnl|TC-DB|Q8DU36|3.A.1.2.12 Putative ABC transporter - Streptococcus mutans.,48.9,348,165
+OFBKKLGO_03104_group_3821,gnl|TC-DB|A2RKA6|3.A.1.2.17 Purine/cytidine ABC transporter permease protein OS=Lactococcus lactis subsp. cremoris (strain MG1363) GN=nupB PE=4 SV=1,41.1,348,197
+OFBKKLGO_03105_group_15997,"gnl|TC-DB|Q8DU39|3.A.1.2.12 Putative ABC sugar transporter, permease protein - Streptococcus mutans.",56.4,312,136
+OFBKKLGO_03107_mrpA,gnl|TC-DB|Q9K2S2|2.A.63.1.4 Na(+)/H(+) antiporter subunit A - Bacillus subtilis.,82.2,797,142
+OFBKKLGO_03108_mrpB,gnl|TC-DB|O05259|2.A.63.1.4 Na(+)/H(+) antiporter subunit B - Bacillus subtilis.,84.6,143,22
+OFBKKLGO_03109_mrpC,gnl|TC-DB|O05260|2.A.63.1.4 Na(+)/H(+) antiporter subunit C - Bacillus subtilis.,88.4,112,13
+OFBKKLGO_03110_mrpD,gnl|TC-DB|O05229|2.A.63.1.4 Na(+)/H(+) antiporter subunit D - Bacillus subtilis.,87.6,493,61
+OFBKKLGO_03112_mrpF,gnl|TC-DB|O05228|2.A.63.1.4 Na(+)/H(+) antiporter subunit F - Bacillus subtilis.,88.3,94,11
+OFBKKLGO_03113_mrpG,gnl|TC-DB|O05227|2.A.63.1.4 Na(+)/H(+) antiporter subunit G - Bacillus subtilis.,75.0,124,31
+OFBKKLGO_03128_group_7021,gnl|TC-DB|O32095|2.A.86.1.8 UPF0118 membrane protein yueF OS=Bacillus subtilis GN=yueF PE=3 SV=1,83.3,366,61
+OFBKKLGO_03150_group_6449,gnl|TC-DB|O32105|2.A.8.1.12 Putative amino acid transporter yuiF OS=Bacillus subtilis GN=yuiF PE=4 SV=1,89.8,442,45
+OFBKKLGO_03244_tetA_2,gnl|TC-DB|P39843|2.A.1.2.8 Multidrug resistance protein 2 (Multidrug-efflux transporter 2) - Bacillus subtilis.,41.5,381,220
+OFBKKLGO_03269_sufC,"gnl|TC-DB|A3U437|9.B.29.2.12 Suf C, ATPase OS=Pseudooceanicola batsensis (strain ATCC BAA-863 / DSM 15984 / KCTC 12145 / HTCC2597) OX=252305 GN=OB2597_03564 PE=4 SV=1",56.2,242,102
+OFBKKLGO_03272_metQ,gnl|TC-DB|O32167|3.A.1.24.2 MetQ protein - Bacillus subtilis subsp. subtilis str. 168.,87.6,274,31
+OFBKKLGO_03273_metP,gnl|TC-DB|O32168|3.A.1.24.2 MetP protein - Bacillus subtilis subsp. subtilis str. 168.,85.6,222,32
+OFBKKLGO_03274_metN,gnl|TC-DB|O32169|3.A.1.24.2 MetN protein - Bacillus subtilis subsp. subtilis str. 168.,88.0,341,41
+OFBKKLGO_03290_bmr3_1,gnl|TC-DB|O32182|2.A.1.3.33 Uncharacterized MFS-type transporter yusP OS=Bacillus subtilis GN=yusP PE=3 SV=1,86.4,530,72
+OFBKKLGO_03295_yusV_1,gnl|TC-DB|P72592|3.A.1.14.24 Iron(III) dicitrate transport system permease protein FecE OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=fecE PE=4 SV=1,64.2,257,92
+OFBKKLGO_03307_gerAA,gnl|TC-DB|P39569|9.A.11.1.2 Spore germination protein B1 OS=Bacillus subtilis GN=gerBA PE=2 SV=2,49.6,397,193
+OFBKKLGO_03310_liaR_2,"gnl|TC-DB|Q887X9|9.B.159.6.7 Transcriptional regulator, LuxR family OS=Pseudomonas syringae pv. tomato (strain DC3000) GN=PSPTO_1151 PE=4 SV=1",52.6,57,27
+OFBKKLGO_03319_hmuU,gnl|TC-DB|Q9HQ19|3.A.1.14.9 Iron (III) ABC transporter permease - Halobacterium salinarium (Halobacterium halobium).,42.9,273,147
+OFBKKLGO_03330_yusV_2,gnl|TC-DB|Q9X665|3.A.1.14.7 FhuA (FhuC) (Ferrichrome transport ATP-binding protein) - Staphylococcus aureus,59.1,259,106
+OFBKKLGO_03331_feuC_2,gnl|TC-DB|P40411|3.A.1.14.15 Iron-uptake system permease protein feuC - Bacillus subtilis.,42.5,327,184
+OFBKKLGO_03335_ydgI,gnl|TC-DB|O32204|2.A.3.2.6 YvsH protein - Bacillus subtilis.,89.1,469,51
+OFBKKLGO_03342_modB,"gnl|TC-DB|Q8TJ86|3.A.1.8.2 Molybdenum ABC transporter, permease protein OS=Methanosarcina acetivorans (strain ATCC 35395 / DSM 2834 / JCM 12185 / C2A) GN=modB PE=3 SV=1",41.1,202,119
+OFBKKLGO_03345_lnrL_5,gnl|TC-DB|J8ABC0|3.A.1.105.9 Uncharacterized protein OS=Bacillus cereus BAG4X12-1 GN=IE9_00061 PE=3 SV=1,49.4,312,153
+OFBKKLGO_03350_nhaK,gnl|TC-DB|O32212|2.A.36.3.2 YvgP protein - Bacillus subtilis.,87.3,670,84
+OFBKKLGO_03358_cadA,gnl|TC-DB|O32219|3.A.3.6.10 Cation-transporting ATPase - Bacillus subtilis.,76.9,701,161
+OFBKKLGO_03359_copA,gnl|TC-DB|O32220|3.A.3.5.18 Copper-transporting P-type ATPase copA - Bacillus subtilis.,79.0,806,165
+OFBKKLGO_03360_copZ,gnl|TC-DB|Q9S7J8|3.A.3.5.32 Copper-transporting ATPase RAN1 OS=Arabidopsis thaliana GN=RAN1 PE=1 SV=1,42.4,59,34
+OFBKKLGO_03367_tcyN,gnl|TC-DB|O34900|3.A.1.3.13 Probable amino-acid ABC transporter ATP-binding protein ytmN - Bacillus subtilis.,81.9,259,47
+OFBKKLGO_03368_tcyM,gnl|TC-DB|O34931|3.A.1.3.13 Probable amino-acid ABC transporter permease protein ytmM - Bacillus subtilis.,75.5,233,57
+OFBKKLGO_03369_tcyL,gnl|TC-DB|O34315|3.A.1.3.13 Probable amino-acid ABC transporter permease protein ytmL - Bacillus subtilis.,80.8,239,46
+OFBKKLGO_03390_opuBC,gnl|TC-DB|Q45462|3.A.1.12.3 Choline-binding protein precursor - Bacillus subtilis.,78.4,305,66
+OFBKKLGO_03391_opuCB_1,gnl|TC-DB|O34878|3.A.1.12.4 Glycine betaine/carnitine/choline transport system permease protein opuCB - Bacillus subtilis.,82.5,217,38
+OFBKKLGO_03392_opuBA,gnl|TC-DB|Q45460|3.A.1.12.3 Choline transport ATP-binding protein opuBA - Bacillus subtilis.,84.5,381,59
+OFBKKLGO_03394_opuCD_2,gnl|TC-DB|O34742|3.A.1.12.4 Glycine betaine/carnitine/choline transport system permease protein opuCD - Bacillus subtilis.,96.3,216,8
+OFBKKLGO_03395_opuCC,gnl|TC-DB|O32243|3.A.1.12.4 Glycine betaine/carnitine/choline-binding protein precursor (Osmoprotectant-binding protein) - Bacillus subtilis.,84.1,301,48
+OFBKKLGO_03396_opuCB_2,gnl|TC-DB|O34878|3.A.1.12.4 Glycine betaine/carnitine/choline transport system permease protein opuCB - Bacillus subtilis.,92.6,217,16
+OFBKKLGO_03397_opuCA,gnl|TC-DB|O34992|3.A.1.12.4 Glycine betaine/carnitine/choline transport ATP-binding protein opuCA - Bacillus subtilis.,91.3,379,32
+OFBKKLGO_03399_group_3859,gnl|TC-DB|O32244|2.A.95.1.3 UPF0056 membrane protein yvbG OS=Bacillus subtilis GN=yvbG PE=3 SV=1,87.1,210,27
+OFBKKLGO_03417_gapA,gnl|TC-DB|B3ET62|3.A.23.6.1 Glyceraldehyde-3-phosphate dehydrogenase OS=Amoebophilus asiaticus (strain 5a2) GN=Aasi_1069 PE=3 SV=1,52.1,330,156
+OFBKKLGO_03420_araE,gnl|TC-DB|P96710|2.A.1.1.55 Arabinose-proton symporter - Bacillus subtilis.,89.0,464,51
+OFBKKLGO_03425_yvbW,gnl|TC-DB|P46349|2.A.3.1.5 GABA permease (4-amino butyrate transport carrier) (Gamma- aminobutyrate permease) - Bacillus subtilis.,40.2,420,244
+OFBKKLGO_03430_idnT,gnl|TC-DB|P39344|2.A.8.1.2 GNT-II SYSTEM L-IDONATE TRANSPORTER (L-IDO TRANSPORTER) - Escherichia coli.,47.6,420,216
+OFBKKLGO_03436_lutP,gnl|TC-DB|P71067|2.A.14.1.3 L-lactate permease OS=Bacillus subtilis (strain 168) GN=lutP PE=1 SV=2,84.0,563,85
+OFBKKLGO_03447_epsG,gnl|TC-DB|P71056|9.B.183.1.9 Transmembrane protein EpsG OS=Bacillus subtilis (strain 168) GN=epsG PE=2 SV=1,86.4,367,50
+OFBKKLGO_03453_yveL,gnl|TC-DB|A5FN22|8.A.3.3.4 Wzc OS=Flavobacterium johnsoniae (strain ATCC 17061 / DSM 2064 / UW101) GN=wzc PE=4 SV=1,40.4,178,102
+OFBKKLGO_03471_rafB,gnl|TC-DB|V9SGD8|2.A.1.5.6 Sugar transporter OS=Escherichia coli OX=562 GN=RCS78_P0228 PE=4 SV=1,53.1,377,172
+OFBKKLGO_03485_crh,"gnl|TC-DB|A1RZ60|8.A.8.1.6 Phosphotransferase system, phosphocarrier protein HPr OS=Thermofilum pendens (strain Hrk 5) GN=Tpen_1091 PE=4 SV=1",43.0,79,45
+OFBKKLGO_03495_bmrA,gnl|TC-DB|O06967|3.A.1.117.3 Multidrug resistance ABC transporter ATP-binding/permease protein BmrA OS=Bacillus subtilis (strain 168) GN=bmrA PE=1 SV=1,86.4,588,80
+OFBKKLGO_03507_lgt,gnl|TC-DB|WP_063487264.1|9.B.330.4.2 prolipoprotein diacylglyceryl transferase [Lactobacillus plantarum],46.2,260,133
+OFBKKLGO_03514_group_6527,gnl|TC-DB|K0J6Q4|1.E.40.3.4 Uncharacterized protein OS=Amphibacillus xylanus NBRC 15112 GN=AXY_06810 PE=4 SV=1,50.9,110,54
+OFBKKLGO_03529_ctpB,gnl|TC-DB|O35002|9.B.174.1.1 Carboxy-terminal processing protease CtpB OS=Bacillus subtilis (strain 168) GN=ctpB PE=1 SV=1,81.4,479,75
+OFBKKLGO_03532_ftsE,gnl|TC-DB|C1C6A0|3.A.1.140.6 Cell division ATP-binding protein FtsE OS=Streptococcus pneumoniae (strain 70585) GN=ftsE PE=4 SV=1,64.0,225,81
+OFBKKLGO_03536_secA,gnl|TC-DB|P10408|3.A.5.1.1 PREPROTEIN TRANSLOCASE SECA SUBUNIT - Escherichia coli.,50.4,905,380
+OFBKKLGO_03566_tuaB,gnl|TC-DB|O32273|2.A.66.2.6 TUAB protein - Bacillus subtilis.,78.8,482,101
+OFBKKLGO_03603_rbsC,gnl|TC-DB|P0AGI1|3.A.1.2.1 Ribose transport system permease protein rbsC - Escherichia coli.,53.7,313,143
+OFBKKLGO_03604_rbsB,gnl|TC-DB|A6VKT0|3.A.1.2.13 Monosaccharide-transporting ATPase - Actinobacillus succinogenes (strain ATCC 55618 / 130Z).,56.9,267,114
+OFBKKLGO_03620_chrA,gnl|TC-DB|O05215|2.A.51.1.5 Uncharacterized transporter ywrA OS=Bacillus subtilis GN=ywrA PE=3 SV=1,96.6,178,6
+OFBKKLGO_03632_ywqD,gnl|TC-DB|P39851|8.A.3.2.1 CAPB protein - Staphylococcus aureus.,41.1,209,123
+OFBKKLGO_03639_ssbB,gnl|TC-DB|Q5G3M3|3.A.7.19.1 Single-stranded DNA-binding protein OS=Enterococcus faecalis GN=pcfS PE=3 SV=1,51.9,106,51
+OFBKKLGO_03642_mscL,gnl|TC-DB|P94585|1.A.22.1.3 Large-conductance mechanosensitive channel - Bacillus subtilis.,78.1,128,27
+OFBKKLGO_03647_mbl,gnl|TC-DB|Q8F2L2|9.B.157.1.4 Actin-like ATPase involved in cell morphogenesis OS=Leptospira interrogans serogroup Icterohaemorrhagiae serovar Lai (strain 56601) OX=189518 GN=mreB PE=4 SV=1,55.6,324,144
+OFBKKLGO_03651_pucI,gnl|TC-DB|P94575|2.A.39.3.4 Hypothetical 54.0 kDa protein IN NRGA-USD intergenic region - Bacillus subtilis.,86.6,463,62
+OFBKKLGO_03655_nrgA,gnl|TC-DB|O67997|1.A.11.1.4 AmtB OS=Azospirillum brasilense GN=amtB PE=4 SV=1,49.0,398,195
+OFBKKLGO_03657_ftsW_3,gnl|TC-DB|P07373|2.A.103.1.3 STAGE V SPORULATION PROTEIN E - Bacillus subtilis.,42.7,358,205
+OFBKKLGO_03658_bcrC,gnl|TC-DB|P94571|9.B.105.1.3 Undecaprenyl-diphosphatase BcrC OS=Bacillus subtilis (strain 168) GN=bcrC PE=1 SV=1,76.0,192,44
+OFBKKLGO_03660_spoIIQ,gnl|TC-DB|P71044|1.A.34.1.1 Stage II sporulation protein Q OS=Bacillus subtilis GN=spoIIQ PE=1 SV=1,87.8,255,22
+OFBKKLGO_03686_atpC,gnl|TC-DB|P07678|3.A.2.1.14 ATP synthase epsilon chain OS=Bacillus sp. (strain PS3) OX=2334 GN=atpC PE=1 SV=1,66.9,130,42
+OFBKKLGO_03687_atpD,gnl|TC-DB|P07677|3.A.2.1.14 ATP synthase subunit beta OS=Bacillus sp. (strain PS3) OX=2334 GN=atpD PE=1 SV=1,87.3,473,60
+OFBKKLGO_03688_atpG,gnl|TC-DB|P09222|3.A.2.1.14 ATP synthase gamma chain OS=Bacillus sp. (strain PS3) OX=2334 GN=atpG PE=1 SV=1,69.3,287,84
+OFBKKLGO_03689_atpA,gnl|TC-DB|P09219|3.A.2.1.14 ATP synthase subunit alpha OS=Bacillus sp. (strain PS3) OX=2334 GN=atpA PE=1 SV=1,82.8,501,86
+OFBKKLGO_03690_atpH,gnl|TC-DB|P09220|3.A.2.1.14 ATP synthase subunit delta OS=Bacillus sp. (strain PS3) OX=2334 GN=atpH PE=1 SV=1,43.6,179,100
+OFBKKLGO_03691_atpF,gnl|TC-DB|P09221|3.A.2.1.14 ATP synthase subunit b OS=Bacillus sp. (strain PS3) OX=2334 GN=atpF PE=1 SV=1,61.1,149,58
+OFBKKLGO_03692_atpE,gnl|TC-DB|P00845|3.A.2.1.14 ATP synthase subunit c OS=Bacillus sp. (strain PS3) OX=2334 GN=atpE PE=1 SV=1,72.7,66,18
+OFBKKLGO_03693_atpB,gnl|TC-DB|P09218|3.A.2.1.14 ATP synthase subunit a OS=Bacillus sp. (strain PS3) OX=2334 GN=atpB PE=1 SV=1,66.1,245,75
+OFBKKLGO_03694_group_16222,gnl|TC-DB|P37816|1.A.77.3.2 ATP synthase protein I OS=Bacillus subtilis (strain 168) GN=atpI PE=3 SV=1,80.3,127,25
+OFBKKLGO_03700_mntP,gnl|TC-DB|WP_089030044.1|2.A.107.1.5 manganese efflux pump [Bacillus subtilis],75.7,185,45
+OFBKKLGO_03720_group_3915,gnl|TC-DB|P06629|8.A.23.1.25 Uncharacterized protein YwjG OS=Bacillus subtilis (strain 168) OX=224308 GN=ywjG PE=4 SV=1,78.6,173,37
+OFBKKLGO_03732_narH,gnl|TC-DB|P11349|5.A.3.1.1 Respiratory nitrate reductase 1 beta chain (EC 1.7.99.4) - Escherichia coli.,59.0,485,194
+OFBKKLGO_03737_narT,gnl|TC-DB|O33854|2.A.1.8.15 Probable nitrate transporter narT OS=Staphylococcus carnosus (strain TM300) GN=narT PE=1 SV=1,49.5,370,187
+OFBKKLGO_03752_yhdG_3,gnl|TC-DB|Q8R706|2.A.3.3.22 Amino acid transporters OS=Caldanaerobacter subterraneus subsp. tengcongensis (strain DSM 15242 / JCM 11007 / NBRC 100824 / MB4) GN=PotE6 PE=4 SV=1,43.8,459,252
+OFBKKLGO_03781_rocC_1,gnl|TC-DB|P39137|2.A.3.1.11 Amino-acid permease ROCE - Bacillus subtilis.,58.9,453,185
+OFBKKLGO_03799_ywdJ,gnl|TC-DB|P39618|2.A.40.5.2 Putative purine permease YwdJ OS=Bacillus subtilis (strain 168) OX=224308 GN=ywdJ PE=2 SV=2,76.9,438,100
+OFBKKLGO_03819_ywcE,gnl|TC-DB|H8XK38|1.E.23.1.3 Spore morphogenesis and germination protein ywcE OS=Bacillus amyloliquefaciens subsp. plantarum YAU B9601-Y2 GN=ywcE PE=4 SV=1,98.8,86,1
+OFBKKLGO_03820_qoxD,gnl|TC-DB|WP_069837848|3.D.4.5.2 cytochrome aa3 quinol oxidase subunit IV [Bacillus subtilis],92.5,120,8
+OFBKKLGO_03822_qoxB,gnl|TC-DB|WP_063334853.1|3.D.4.5.2 cytochrome aa3 quinol oxidase subunit I [Bacillus subtilis],95.5,649,29
+OFBKKLGO_03823_qoxA,gnl|TC-DB|WP_003227405|3.D.4.5.2 cytochrome aa3 quinol oxidase subunit II [Bacillus subtilis],90.9,318,29
+OFBKKLGO_03839_group_15963,gnl|TC-DB|P39591|1.E.14.1.16 Holin-like protein CidA OS=Bacillus subtilis (strain 168) GN=cidA PE=3 SV=1,96.9,127,4
+OFBKKLGO_03840_yohK,gnl|TC-DB|P39590|2.A.122.1.5 Uncharacterized protein YwbG OS=Bacillus subtilis (strain 168) GN=ywbG PE=3 SV=2,93.3,224,15
+OFBKKLGO_03854_group_6602,gnl|TC-DB|P39580|2.A.50.2.1 Protein dltB - Bacillus subtilis.,89.8,394,40
+OFBKKLGO_03855_dltC,gnl|TC-DB|P39579|2.A.50.2.1 D-alanyl carrier protein OS=Bacillus subtilis (strain 168) OX=224308 GN=dltC PE=1 SV=1,88.5,78,9
+OFBKKLGO_03859_licA,"gnl|TC-DB|P46319|4.A.3.2.2 PTS SYSTEM, CELLOBIOSE-SPECIFIC IIA COMPONENT (EIIA-CEL) (CELLOBIOSE- PERMEASE IIA COMPONENT) (PHOSPHOTRANSFERASE ENZYME II, A COMPONENT) (EC 2.7.1.69) (EIII-CEL) - Bacillus subtilis.",78.2,110,24
+OFBKKLGO_03860_licC_2,"gnl|TC-DB|P46317|4.A.3.2.2 PTS SYSTEM, CELLOBIOSE-SPECIFIC IIC COMPONENT (EIIC-CEL) (CELLOBIOSE- PERMEASE IIC COMPONENT) (PHOSPHOTRANSFERASE ENZYME II, C COMPONENT) - Bacillus subtilis.",90.3,452,44
+OFBKKLGO_03861_licB,"gnl|TC-DB|P46318|4.A.3.2.2 PTS SYSTEM, CELLOBIOSE-SPECIFIC IIB COMPONENT (EIIB-CEL) (CELLOBIOSE- PERMEASE IIB COMPONENT) (PHOSPHOTRANSFERASE ENZYME II, B COMPONENT) (EC 2.7.1.69) - Bacillus subtilis.",91.2,102,9
+OFBKKLGO_03864_feuB_2,gnl|TC-DB|P72590|3.A.1.14.24 Iron(III) dicitrate transport system permease protein FecC OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=fecC PE=3 SV=1,41.5,301,172
+OFBKKLGO_03865_group_5012,gnl|TC-DB|P72591|3.A.1.14.24 Iron(III) dicitrate transport system permease protein FecD OS=Synechocystis sp. (strain PCC 6803 / Kazusa) OX=1111708 GN=fecD PE=3 SV=1,40.9,320,183
+OFBKKLGO_03868_arsB_2,gnl|TC-DB|P30329|2.A.45.1.1 ARSENICAL PUMP MEMBRANE PROTEIN - Staphylococcus aureus.,68.0,422,135
+OFBKKLGO_03880_group_6610,"gnl|TC-DB|O75027|3.A.1.210.4 ATP-binding cassette, sub-family B, member 7, mitochondrial precursor (ATP-binding cassette transporter 7) (ABC transporter 7 protein) - Homo sapiens (Human).",41.8,225,130
+OFBKKLGO_03884_cimH,gnl|TC-DB|P94363|2.A.24.2.4 HOMOLOGOUS TO CITRATE-SODIUM SYMPORT - Bacillus subtilis.,81.8,450,79
+OFBKKLGO_03886_msmX_2,gnl|TC-DB|P94360|3.A.1.1.26 Probable multiple sugar-binding transport ATP-binding protein msmX - Bacillus subtilis.,91.0,365,33
+OFBKKLGO_03888_group_5019,gnl|TC-DB|P94357|2.A.115.1.2 UPF0750 membrane protein YxkD OS=Bacillus subtilis (strain 168) GN=yxkD PE=3 SV=1,91.0,278,25
+OFBKKLGO_03901_nupG,gnl|TC-DB|P42312|2.A.41.1.3 Hypothetical transport protein yxjA - Bacillus subtilis.,85.6,397,57
+OFBKKLGO_03906_citN,gnl|TC-DB|P42308|2.A.11.1.2 CITRATE TRANSPORTER - Bacillus subtilis.,98.6,425,6
+OFBKKLGO_03909_group_1884,gnl|TC-DB|Q1CWQ3|2.A.1.24.4 Major facilitator family transporter OS=Myxococcus xanthus (strain DK 1622) GN=MXAN_7057 PE=4 SV=1,40.9,403,231
+OFBKKLGO_03940_nupC,gnl|TC-DB|P39141|2.A.41.1.2 PYRIMIDINE NUCLEOSIDE TRANSPORT PROTEIN - Bacillus subtilis.,86.3,393,54
+OFBKKLGO_03952_yxdM,gnl|TC-DB|P42424|3.A.1.134.6 ABC transporter permease protein yxdM OS=Bacillus subtilis GN=yxdM PE=2 SV=3,95.2,622,30
+OFBKKLGO_03960_ygcS,gnl|TC-DB|P42417|2.A.1.1.27 Myo-inositol transport protein - Bacillus subtilis.,82.0,438,72
+OFBKKLGO_03968_csbC_2,gnl|TC-DB|P46333|2.A.1.1.106 Probable metabolite transport protein CsbC OS=Bacillus subtilis (strain 168) GN=csbC PE=1 SV=3,86.8,462,60
+OFBKKLGO_03973_des,gnl|TC-DB|WP_090852276.1|9.A.76.1.8 fatty acid desaturase [Bacillus salsus],65.8,322,110
+OFBKKLGO_03985_cycA,gnl|TC-DB|P96704|2.A.3.1.16 Uncharacterized transporter YdgF OS=Bacillus subtilis (strain 168) GN=ydgF PE=3 SV=1,59.1,447,182
+OFBKKLGO_04013_rocE_2,gnl|TC-DB|P39137|2.A.3.1.11 Amino-acid permease ROCE - Bacillus subtilis.,87.6,467,57
+OFBKKLGO_04048_yicL,gnl|TC-DB|P96661|2.A.7.3.31 Uncharacterized transporter ydeD OS=Bacillus subtilis (strain 168) GN=ydeD PE=3 SV=1,46.0,287,153
+OFBKKLGO_04074_ssbA,gnl|TC-DB|Q5G3M3|3.A.7.19.1 Single-stranded DNA-binding protein OS=Enterococcus faecalis GN=pcfS PE=3 SV=1,71.7,106,30
+OFBKKLGO_04076_ychF,gnl|TC-DB|V6EW69|9.A.8.1.16 Ferrous iron transport protein B OS=Magnetospirillum gryphiswaldense MSR-1 v2 GN=feoB2 PE=3 SV=1,47.6,42,22
+OFBKKLGO_04079_group_5065,gnl|TC-DB|P37520|2.A.120.1.9 Uncharacterized protein YyaD OS=Bacillus subtilis (strain 168) GN=yyaD PE=4 SV=1,81.9,332,60
+OFBKKLGO_04089_misCA,gnl|TC-DB|Q01625|2.A.9.3.2 Stage III sporulation protein J precursor - Bacillus subtilis.,93.4,259,17

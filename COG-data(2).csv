@@ -1,0 +1,1898 @@
+Query_ID,Subject_ID,Identity,Alignment Length,Mismatches
+OFBKKLGO_00001_dnaA_1,BS_dnaA [L] COG0593 ATPase involved in DNA replication initiation,97.5,446,11
+OFBKKLGO_00002_dnaN,BS_dnaN [L] COG0592 DNA polymerase sliding clamp subunit (PCNA homolog),95.2,378,18
+OFBKKLGO_00003_group_16074,BS_yaaA [S] COG2501 Uncharacterized conserved protein,95.8,71,3
+OFBKKLGO_00004_recF,BS_recF [L] COG1195 Recombinational DNA repair ATPase (RecF pathway),94.6,370,20
+OFBKKLGO_00009_guaB,BS_guaB_3 [F] COG0516 IMP dehydrogenase/GMP reductase,96.1,283,11
+OFBKKLGO_00010_dacA,BS_dacA [M] COG1686 D-alanyl-D-alanine carboxypeptidase,80.2,445,84
+OFBKKLGO_00011_pdxS,BS_yaaD [H] COG0214 Pyridoxine biosynthesis enzyme,98.3,294,5
+OFBKKLGO_00012_pdxT,BS_yaaE [H] COG0311 Predicted glutamine amidotransferase involved in pyridoxine biosynthesis,87.8,196,24
+OFBKKLGO_00014_serS,BS_serS [J] COG0172 Seryl-tRNA synthetase,88.7,425,48
+OFBKKLGO_00016_dck,BS_yaaF [F] COG1428 Deoxynucleoside kinases,84.3,217,34
+OFBKKLGO_00017_dgk,BS_yaaG [F] COG1428 Deoxynucleoside kinases,79.6,206,42
+OFBKKLGO_00018_sleL,BS_yaaH [R] COG3858 Predicted glycosyl hydrolase,79.2,427,87
+OFBKKLGO_00022_dnaX,"BS_dnaX [L] COG2812 DNA polymerase III, gamma/tau subunits",90.4,563,54
+OFBKKLGO_00023_group_15927,BS_yaaK [S] COG0718 Uncharacterized protein conserved in bacteria,90.7,107,10
+OFBKKLGO_00032_tmk,BS_tmk [F] COG0125 Thymidylate kinase,82.1,212,38
+OFBKKLGO_00033_darA,BS_yaaQ [S] COG3870 Uncharacterized protein conserved in bacteria,97.2,109,3
+OFBKKLGO_00034_group_4391,BS_yaaR [S] COG1728 Uncharacterized protein conserved in bacteria,80.8,146,28
+OFBKKLGO_00035_group_5764,BS_holB [L] COG0470 ATPase involved in DNA replication,90.7,322,30
+OFBKKLGO_00036_group_15993,BS_yaaT [S] COG1774 Uncharacterized homolog of PSP1,96.7,275,9
+OFBKKLGO_00037_yabA,BS_yabA [S] COG4467 Uncharacterized protein conserved in bacteria,93.3,119,8
+OFBKKLGO_00038_yfiC,BS_yabB [R] COG4123 Predicted O-methyltransferase,90.7,247,23
+OFBKKLGO_00039_group_821,BS_yazA [L] COG2827 Predicted endonuclease containing a URI domain,79.6,98,20
+OFBKKLGO_00040_rsmI,BS_yabC [R] COG0313 Predicted methyltransferases,83.9,292,46
+OFBKKLGO_00041_abrB,BS_abrB [K] COG2002 Regulators of stationary/sporulation gene expression,97.9,94,2
+OFBKKLGO_00042_metG,BS_metS_1 [J] COG0143 Methionyl-tRNA synthetase,92.4,539,41
+OFBKKLGO_00044_group_2629,BS_yabE_1 [S] COG3583 Uncharacterized protein conserved in bacteria,70.0,327,98
+OFBKKLGO_00045_rnmV_1,BS_yabF [L] COG1658 Small primase-like proteins (Toprim domain),90.9,186,17
+OFBKKLGO_00046_rsmA,BS_ksgA [J] COG0030 Dimethyladenosine transferase (rRNA methylation),93.1,291,20
+OFBKKLGO_00048_veg,BS_veg [S] COG4466 Uncharacterized protein conserved in bacteria,100.0,86,0
+OFBKKLGO_00050_ispE,BS_yabH [I] COG1947 4-diphosphocytidyl-2C-methyl-D-erythritol 2-phosphate synthase,90.0,289,29
+OFBKKLGO_00051_purR,BS_purR [F] COG0503 Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins,93.7,284,18
+OFBKKLGO_00052_yabJ,"BS_yabJ [J] COG0251 Putative translation initiation inhibitor, yjgF family",94.4,125,7
+OFBKKLGO_00053_spoVG,"BS_spoVG [M] COG2088 Uncharacterized protein, involved in the regulation of septum location",95.9,97,4
+OFBKKLGO_00054_glmU,BS_gcaD [M] COG1207 N-acetylglucosamine-1-phosphate uridyltransferase (contains nucleotidyltransferase and I-patch acetyltransferase domains),88.4,456,53
+OFBKKLGO_00055_prs,BS_prs [FE] COG0462 Phosphoribosylpyrophosphate synthetase,96.2,317,12
+OFBKKLGO_00056_ctc,BS_ctc [J] COG1825 Ribosomal protein L25 (general stress protein Ctc),70.9,203,58
+OFBKKLGO_00057_pth,BS_spoVC [J] COG0193 Peptidyl-tRNA hydrolase,88.3,188,22
+OFBKKLGO_00059_mfd,BS_mfd [LK] COG1197 Transcription-repair coupling factor (superfamily II helicase),90.8,1177,108
+OFBKKLGO_00061_murJ_1,BS_yabM [R] COG2244 Membrane protein involved in the export of O-antigen and teichoic acid,66.1,531,174
+OFBKKLGO_00062_group_3077,BS_yabN [R] COG3956 Protein containing tetrapyrrole methyltransferase domain and MazG-like (predicted pyrophosphatase) domain,76.1,490,115
+OFBKKLGO_00063_group_5774,BS_yabO [J] COG1188 Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog),91.9,86,7
+OFBKKLGO_00066_divIC,BS_divIC [D] COG2919 Septum formation initiator,84.0,125,20
+OFBKKLGO_00067_pnp_1,BS_yabR [J] COG1098 Predicted RNA binding protein (contains ribosomal protein S1 domain),99.2,128,1
+OFBKKLGO_00069_group_16125,BS_yabS [R] COG2304 Uncharacterized protein containing a von Willebrand factor type A (vWA) domain,93.5,245,16
+OFBKKLGO_00071_tilS,BS_yacA [D] COG0037 Predicted ATPase of the PP-loop superfamily implicated in cell cycle control,78.3,470,102
+OFBKKLGO_00072_hpt,BS_hprT [F] COG0634 Hypoxanthine-guanine phosphoribosyltransferase,95.5,179,8
+OFBKKLGO_00073_ftsH,BS_ftsH [O] COG0465 ATP-dependent Zn proteases,96.4,639,21
+OFBKKLGO_00074_coaX,"BS_yacB [K] COG1521 Putative transcriptional regulator, homolog of Bvg accessory factor",93.6,204,13
+OFBKKLGO_00075_hslO,BS_yacC [O] COG1281 Disulfide bond chaperones of the HSP33 family,90.4,291,28
+OFBKKLGO_00077_cysK_1,BS_cysK [E] COG0031 Cysteine synthase,92.5,308,23
+OFBKKLGO_00078_pabB,BS_pabB [EH] COG0147 Anthranilate/para-aminobenzoate synthases component I,83.8,469,75
+OFBKKLGO_00079_pabA,BS_pabA [EH] COG0512 Anthranilate/para-aminobenzoate synthases component II,89.6,193,20
+OFBKKLGO_00080_pabC,BS_pabC [EH] COG0115 Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase,70.0,280,84
+OFBKKLGO_00081_folP,BS_sul [H] COG0294 Dihydropteroate synthase and related enzymes,84.9,285,43
+OFBKKLGO_00082_folB,BS_folA [H] COG1539 Dihydroneopterin aldolase,90.8,120,11
+OFBKKLGO_00083_sulD,"BS_folK [H] COG0801 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase",80.8,167,32
+OFBKKLGO_00085_dusB,BS_yacF [J] COG0042 tRNA-dihydrouridine synthase,93.1,333,23
+OFBKKLGO_00086_lysS,BS_lysS [J] COG1190 Lysyl-tRNA synthetase (class II),94.4,499,28
+OFBKKLGO_00088_ctsR,BS_ctsR [K] COG4463 Transcriptional repressor of class III stress genes,96.8,154,5
+OFBKKLGO_00089_mcsA,BS_yacH [S] COG3880 Uncharacterized protein with conserved CXXC pairs,73.6,125,33
+OFBKKLGO_00090_mcsB,BS_yacI [E] COG3869 Arginine kinase,90.9,363,33
+OFBKKLGO_00091_clpC,"BS_clpC [O] COG0542 ATPases with chaperone activity, ATP-binding subunit",96.3,811,29
+OFBKKLGO_00093_disA,BS_yacK [R] COG1623 Predicted nucleic-acid-binding protein (contains the HHH domain),94.7,360,19
+OFBKKLGO_00094_yacL,BS_yacL [R] COG4956 Integral membrane protein (PIN domain superfamily),95.9,366,15
+OFBKKLGO_00095_ispD,BS_yacM [I] COG1211 4-diphosphocytidyl-2-methyl-D-erithritol synthase,72.8,232,63
+OFBKKLGO_00096_ispF,"BS_yacN [I] COG0245 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",94.9,157,8
+OFBKKLGO_00097_gltX,BS_gltX [J] COG0008 Glutamyl- and glutaminyl-tRNA synthetases,95.0,483,24
+OFBKKLGO_00099_cysE,BS_cysE [E] COG1045 Serine acetyltransferase,90.8,217,20
+OFBKKLGO_00100_cysS,BS_cysS [J] COG0215 Cysteinyl-tRNA synthetase,92.7,466,34
+OFBKKLGO_00101_mrnC,BS_yazC [S] COG1939 Uncharacterized protein conserved in bacteria,86.7,143,19
+OFBKKLGO_00102_group_5781,BS_yacO [J] COG0566 rRNA methylases,94.0,249,15
+OFBKKLGO_00103_yacP,BS_yacP [R] COG3688 Predicted RNA-binding protein containing a PIN domain,92.9,170,12
+OFBKKLGO_00104_sigH,"BS_sigH [K] COG1595 DNA-directed RNA polymerase specialized sigma subunit, sigma24 homolog",97.2,218,6
+OFBKKLGO_00105_secE,BS_secE [U] COG0690 Preprotein translocase subunit SecE,96.6,59,2
+OFBKKLGO_00106_nusG_1,BS_nusG [K] COG0250 Transcription antiterminator,98.3,177,3
+OFBKKLGO_00107_rplK,BS_rplK [J] COG0080 Ribosomal protein L11,99.3,140,1
+OFBKKLGO_00108_rplA,BS_rplA [J] COG0081 Ribosomal protein L1,95.7,232,10
+OFBKKLGO_00110_rplJ,BS_rplJ [J] COG0244 Ribosomal protein L10,94.6,166,9
+OFBKKLGO_00111_rplL,BS_rplL [J] COG0222 Ribosomal protein L7/L12,100.0,123,0
+OFBKKLGO_00112_rlmG,BS_ybxB [J] COG2813 16S RNA G1207 methylase RsmC,87.1,201,26
+OFBKKLGO_00113_rpoB,"BS_rpoB [K] COG0085 DNA-directed RNA polymerase, beta subunit/140 kD subunit",98.0,1193,24
+OFBKKLGO_00114_rpoC,"BS_rpoC [K] COG0086 DNA-directed RNA polymerase, beta' subunit/160 kD subunit",97.7,1199,27
+OFBKKLGO_00115_rplGB,BS_ybxF [J] COG1358 Ribosomal protein HS6-type (S12/L30/L7a),82.9,82,13
+OFBKKLGO_00116_rpsL,BS_rpsL [J] COG0048 Ribosomal protein S12,97.1,138,4
+OFBKKLGO_00117_rpsG,BS_rpsG [J] COG0049 Ribosomal protein S7,98.7,156,2
+OFBKKLGO_00118_fusA,BS_fus [J] COG0480 Translation elongation factors (GTPases),97.7,692,16
+OFBKKLGO_00119_tuf,BS_tufA [J] COG0050 GTPases - translation elongation factors,97.0,396,12
+OFBKKLGO_00121_rpsJ,BS_rpsJ [J] COG0051 Ribosomal protein S10,100.0,102,0
+OFBKKLGO_00122_rplC,BS_rplC [J] COG0087 Ribosomal protein L3,97.1,209,6
+OFBKKLGO_00123_rplD,BS_rplD [J] COG0088 Ribosomal protein L4,97.6,207,5
+OFBKKLGO_00124_rplW,BS_rplW [J] COG0089 Ribosomal protein L23,97.9,95,2
+OFBKKLGO_00125_rplB,BS_rplB [J] COG0090 Ribosomal protein L2,97.5,277,7
+OFBKKLGO_00126_rpsS,BS_rpsS [J] COG0185 Ribosomal protein S19,100.0,92,0
+OFBKKLGO_00127_rplV,BS_rplV [J] COG0091 Ribosomal protein L22,100.0,113,0
+OFBKKLGO_00128_rpsC,BS_rpsC [J] COG0092 Ribosomal protein S3,97.7,218,5
+OFBKKLGO_00129_rplP,BS_rplP [J] COG0197 Ribosomal protein L16/L10E,99.3,144,1
+OFBKKLGO_00130_rpmC,BS_rpmC [J] COG0255 Ribosomal protein L29,100.0,66,0
+OFBKKLGO_00131_rpsQ,BS_rpsQ [J] COG0186 Ribosomal protein S17,94.3,87,5
+OFBKKLGO_00132_rplN,BS_rplN [J] COG0093 Ribosomal protein L14,99.2,122,1
+OFBKKLGO_00133_rplX,BS_rplX [J] COG0198 Ribosomal protein L24,98.1,103,2
+OFBKKLGO_00134_rplE,BS_rplE [J] COG0094 Ribosomal protein L5,97.8,179,4
+OFBKKLGO_00135_rpsN1,BS_rpsN [J] COG0199 Ribosomal protein S14,98.4,61,1
+OFBKKLGO_00136_rpsH,BS_rpsH [J] COG0096 Ribosomal protein S8,97.7,132,3
+OFBKKLGO_00137_rplF,BS_rplF [J] COG0097 Ribosomal protein L6P/L9E,96.6,179,6
+OFBKKLGO_00138_rplR,BS_rplR [J] COG0256 Ribosomal protein L18,93.3,120,8
+OFBKKLGO_00139_rpsE,BS_rpsE [J] COG0098 Ribosomal protein S5,99.4,166,1
+OFBKKLGO_00140_rpmD,BS_rpmD [J] COG1841 Ribosomal protein L30/L7E,100.0,59,0
+OFBKKLGO_00141_rplO,BS_rplO [J] COG0200 Ribosomal protein L15,97.9,146,3
+OFBKKLGO_00142_secY,BS_secY [U] COG0201 Preprotein translocase subunit SecY,96.5,431,15
+OFBKKLGO_00143_adk,BS_adk [F] COG0563 Adenylate kinase and related kinases,95.4,217,10
+OFBKKLGO_00144_map,BS_map [J] COG0024 Methionine aminopeptidase,96.8,248,8
+OFBKKLGO_00145_infA,BS_infA [J] COG0361 Translation initiation factor 1 (IF-1),100.0,72,0
+OFBKKLGO_00146_rpmJ,BS_rpmJ [J] COG0257 Ribosomal protein L36,100.0,37,0
+OFBKKLGO_00147_rpsM,BS_rpsM [J] COG0099 Ribosomal protein S13,97.5,121,3
+OFBKKLGO_00148_rpsK,BS_rpsK [J] COG0100 Ribosomal protein S11,99.2,131,1
+OFBKKLGO_00149_rpoA,"BS_rpoA [K] COG0202 DNA-directed RNA polymerase, alpha subunit/40 kD subunit",99.0,314,3
+OFBKKLGO_00150_rplQ,BS_rplQ [J] COG0203 Ribosomal protein L17,99.2,120,1
+OFBKKLGO_00151_ecfA1,"BS_ybxA [P] COG1122 ABC-type cobalt transport system, ATPase component",88.3,281,33
+OFBKKLGO_00152_ecfA2,"BS_ybaE [P] COG1122 ABC-type cobalt transport system, ATPase component",83.9,274,44
+OFBKKLGO_00153_ecfT,"BS_ybaF [P] COG0619 ABC-type cobalt transport system, permease component CbiQ and related transporters",86.8,265,35
+OFBKKLGO_00154_truA,BS_truA [J] COG0101 Pseudouridylate synthase,86.2,247,34
+OFBKKLGO_00156_rplM,BS_rplM [J] COG0102 Ribosomal protein L13,95.9,145,6
+OFBKKLGO_00157_rpsI,BS_rpsI [J] COG0103 Ribosomal protein S9,97.7,130,3
+OFBKKLGO_00158_group_4401,BS_ybaJ [QR] COG0500 SAM-dependent methyltransferases,78.0,255,56
+OFBKKLGO_00161_cwlD,BS_cwlD [M] COG0860 N-acetylmuramoyl-L-alanine amidase,86.5,237,32
+OFBKKLGO_00162_salA,BS_ybaL [D] COG0489 ATPases involved in chromosome partitioning,89.6,347,36
+OFBKKLGO_00165_group_3395,BS_ybaN [G] COG0726 Predicted xylanase/chitin deacetylase,78.3,253,55
+OFBKKLGO_00168_lysJ,CAC0368 [E] COG0160 4-aminobutyrate aminotransferase and related aminotransferases,40.6,397,215
+OFBKKLGO_00172_panS_1,BS_ybaS [R] COG0385 Predicted Na+-dependent transporter,79.5,278,57
+OFBKKLGO_00174_feuC_1,"BS_feuC [P] COG0609 ABC-type Fe3+-siderophore transport system, permease component",83.0,312,53
+OFBKKLGO_00175_feuB_1,"BS_feuB [P] COG0609 ABC-type Fe3+-siderophore transport system, permease component",85.3,334,49
+OFBKKLGO_00176_feuA,"BS_feuA [P] COG0614 ABC-type Fe3+-hydroxamate transport system, periplasmic component",83.3,318,52
+OFBKKLGO_00178_group_5792,BS_ybbC [S] COG3876 Uncharacterized protein conserved in bacteria,75.0,408,102
+OFBKKLGO_00179_nagZ,BS_ybbD [G] COG1472 Beta-glucosidase-related glycosidases,75.4,638,152
+OFBKKLGO_00181_group_3400,"BS_ybbF_2 [G] COG1263 Phosphotransferase system IIC components, glucose/maltose/N-acetylglucosamine-specific",82.0,284,51
+OFBKKLGO_00182_murQ,BS_ybbI [R] COG2103 Predicted sugar phosphate isomerase,73.5,302,80
+OFBKKLGO_00184_group_3402,BS_ybbK [S] COG1683 Uncharacterized conserved protein,84.7,150,23
+OFBKKLGO_00185_sigW,"BS_sigW [K] COG1595 DNA-directed RNA polymerase specialized sigma subunit, sigma24 homolog",94.7,187,10
+OFBKKLGO_00186_rsiW,BS_ybbM [K] COG5662 Predicted transmembrane transcriptional regulator (anti-sigma factor),83.7,208,34
+OFBKKLGO_00187_cdaA,BS_ybbP [S] COG1624 Uncharacterized conserved protein,96.0,273,11
+OFBKKLGO_00188_cdaR_1,BS_ybbR [S] COG4856 Uncharacterized protein conserved in bacteria,84.9,418,63
+OFBKKLGO_00189_glmM,BS_ybbT [G] COG1109 Phosphomannomutase,95.1,448,22
+OFBKKLGO_00197_dkgB,"L67726 [R] COG0656 Aldo/keto reductases, related to diketogulonate reductase",52.2,278,131
+OFBKKLGO_00201_yifK,BS_ybxG [E] COG1113 Gamma-aminobutyrate permease and related permeases,89.6,460,48
+OFBKKLGO_00224_purT,BS_purT [F] COG0027 Formate-dependent phosphoribosylglycinamide formyltransferase (GAR transformylase),85.8,381,54
+OFBKKLGO_00225_group_16181,BS_pssA [I] COG1183 Phosphatidylserine synthase,86.4,176,24
+OFBKKLGO_00226_dedA,BS_ybfM [S] COG0586 Uncharacterized membrane-associated protein,83.3,162,27
+OFBKKLGO_00227_psd,BS_psd [I] COG0688 Phosphatidylserine decarboxylase,77.2,263,60
+OFBKKLGO_00229_group_5798,BS_ybfQ [R] COG1054 Predicted sulfurtransferase,89.1,320,35
+OFBKKLGO_00230_gltP,BS_gltP [C] COG1301 Na+/H+-dicarboxylate symporters,92.0,411,33
+OFBKKLGO_00231_ilvE,BS_ybgE [EH] COG0115 Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase,75.0,356,88
+OFBKKLGO_00232_rocC_2,BS_ybgF [E] COG0833 Amino acid transporters,85.1,456,68
+OFBKKLGO_00233_mmuM,BS_ybgG [E] COG2040 Homocysteine/selenocysteine methylase (S-methylmethionine-dependent),73.7,315,83
+OFBKKLGO_00234_alsT_2,BS_ybgH [E] COG1115 Na+/alanine symporter,83.8,450,73
+OFBKKLGO_00235_glsA1,BS_ybgJ [E] COG2066 Glutaminase,85.6,327,47
+OFBKKLGO_00248_cwlJ,BS_cwlJ [M] COG3773 Cell wall hydrolyses involved in spore germination,88.7,142,16
+OFBKKLGO_00250_tatAd,BS_yczB [U] COG1826 Sec-independent protein secretion pathway components,74.3,70,13
+OFBKKLGO_00251_tatC1,BS_ycbT [U] COG0805 Sec-independent protein secretion pathway component TatC,74.6,244,59
+OFBKKLGO_00252_pcp,BS_pcp [O] COG2039 Pyrrolidone-carboxylate peptidase (N-terminal pyroglutamyl peptidase),71.6,215,61
+OFBKKLGO_00254_emrY,BS_lmrB [GEPR] COG0477 Permeases of the major facilitator superfamily,87.3,474,60
+OFBKKLGO_00255_yxaF_1,BS_lmrA [K] COG1309 Transcriptional regulator,69.5,187,57
+OFBKKLGO_00256_estA,BS_lipA [R] COG1075 Predicted acetyltransferases and hydrolases with the alpha/beta hydrolase fold,77.6,214,46
+OFBKKLGO_00257_group_4416,BS_yccF [R] COG3318 Predicted metal-binding protein related to the C-terminal domain of SecA,77.7,358,78
+OFBKKLGO_00262_cwlK,lin0128 [M] COG5632 N-acetylmuramoyl-L-alanine amidase,50.0,106,45
+OFBKKLGO_00268_znuA,"BS_ycdH [P] COG0803 ABC-type metal ion transport system, periplasmic component/surface adhesin",83.4,319,52
+OFBKKLGO_00269_znuC,"BS_ycdI [P] COG1121 ABC-type Mn/Zn transport systems, ATPase component",90.9,231,21
+OFBKKLGO_00270_znuB,"BS_yceA [P] COG1108 ABC-type Mn2+/Zn2+ transport systems, permease components",89.5,276,29
+OFBKKLGO_00271_group_1698,"BS_yceB [C] COG2141 Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases",79.7,311,63
+OFBKKLGO_00272_yceC,"BS_yceC [T] COG2310 Uncharacterized proteins involved in stress response, homologs of TerZ and putative cAMP-binding protein CABP1",83.3,198,32
+OFBKKLGO_00273_yceD_1,"BS_yceD [T] COG2310 Uncharacterized proteins involved in stress response, homologs of TerZ and putative cAMP-binding protein CABP1",93.3,193,13
+OFBKKLGO_00274_yceD_2,"BS_yceE [T] COG2310 Uncharacterized proteins involved in stress response, homologs of TerZ and putative cAMP-binding protein CABP1",95.8,192,8
+OFBKKLGO_00275_alx,"BS_yceF [P] COG0861 Membrane protein TerC, possibly involved in tellurium resistance",91.4,257,22
+OFBKKLGO_00277_group_16236,BS_yceH [P] COG3853 Uncharacterized protein involved in tellurite resistance,91.4,359,31
+OFBKKLGO_00278_naiP,BS_yceI [GEPR] COG0477 Permeases of the major facilitator superfamily,79.4,399,81
+OFBKKLGO_00280_opuAA,"BS_opuAA [E] COG4175 ABC-type proline/glycine betaine transport system, ATPase component",91.4,418,36
+OFBKKLGO_00281_opuAB,"BS_opuAB [E] COG4176 ABC-type proline/glycine betaine transport system, permease component",95.0,282,14
+OFBKKLGO_00282_opuAC,"BS_opuAC [E] COG2113 ABC-type proline/glycine betaine transport systems, periplasmic components",84.3,293,46
+OFBKKLGO_00283_scmP_1,BS_amhX [R] COG1473 Metal-dependent amidase/aminoacylase/carboxypeptidase,82.5,366,64
+OFBKKLGO_00287_ldh_2,BS_lctE [C] COG0039 Malate/lactate dehydrogenases,88.3,317,37
+OFBKKLGO_00291_group_1196,BS_yqcI [S] COG3403 Uncharacterized conserved protein,66.7,246,82
+OFBKKLGO_00294_nadE,BS_nadE [H] COG0171 NAD synthase,86.4,272,37
+OFBKKLGO_00296_dgoT,STM3827 [GEPR] COG0477 Permeases of the major facilitator superfamily,46.3,430,224
+OFBKKLGO_00297_aroK,BS_aroI [E] COG0703 Shikimate kinase,90.9,186,17
+OFBKKLGO_00298_cah,BS_cah [Q] COG3458 Acetyl esterase (deacetylase),83.3,318,53
+OFBKKLGO_00300_putB,BS_ycgM [E] COG0506 Proline dehydrogenase,89.8,303,31
+OFBKKLGO_00301_putC,BS_ycgN [C] COG1012 NAD-dependent aldehyde dehydrogenases,97.1,515,15
+OFBKKLGO_00303_putR_1,BS_ycgP [TQ] COG2508 Regulator of polyketide synthase expression,89.5,411,43
+OFBKKLGO_00304_ycgT,BS_ycgT [O] COG0492 Thioredoxin reductase,85.3,334,49
+OFBKKLGO_00307_nasD,BS_nasD [C] COG1251 NAD(P)H-nitrite reductase,95.2,805,39
+OFBKKLGO_00309_yciC,BS_yciC [R] COG0523 Putative GTPases (G3E family),83.8,396,63
+OFBKKLGO_00311_group_4434,BS_yckC [S] COG1714 Predicted membrane protein/domain,63.6,151,48
+OFBKKLGO_00316_hxlB,BS_yckF [M] COG0794 Predicted sugar phosphate isomerase involved in capsule formation,73.5,185,49
+OFBKKLGO_00318_hxlR,BS_yckH [K] COG1733 Predicted transcriptional regulators,85.7,119,17
+OFBKKLGO_00322_srfAD,BS_srfAD [Q] COG3208 Predicted thioesterase involved in non-ribosomal peptide biosynthesis,79.2,236,49
+OFBKKLGO_00325_group_4437,BS_yczE [S] COG2364 Predicted membrane protein,72.6,208,57
+OFBKKLGO_00326_tcyC,"BS_yckI [E] COG1126 ABC-type polar amino acid transport system, ATPase component",93.9,247,15
+OFBKKLGO_00327_tcyB,"BS_yckJ [E] COG0765 ABC-type amino acid transport system, permease component",90.6,234,22
+OFBKKLGO_00328_tcyA,"BS_yckK [ET] COG0834 ABC-type amino acid transport/signal transduction systems, periplasmic component/domain",84.0,268,40
+OFBKKLGO_00329_gltC_1,BS_yclA [K] COG0583 Transcriptional regulator,80.0,290,58
+OFBKKLGO_00330_bsdB,BS_yclB [H] COG0163 3-polyprenyl-4-hydroxybenzoate decarboxylase,85.9,191,27
+OFBKKLGO_00331_bsdC,BS_yclC [H] COG0043 3-polyprenyl-4-hydroxybenzoate decarboxylase and related decarboxylases,96.0,473,19
+OFBKKLGO_00334_dtpT,BS_yclF [E] COG3104 Dipeptide/tripeptide permease,82.3,491,87
+OFBKKLGO_00340_ntaA,"BS_yxeK [C] COG2141 Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases",92.5,438,33
+OFBKKLGO_00341_scmL,BS_yxeL [KR] COG0454 Histone acetyltransferase HPA2 and related acetyltransferases,80.1,161,32
+OFBKKLGO_00342_yxeM,"BS_yxeM [ET] COG0834 ABC-type amino acid transport/signal transduction systems, periplasmic component/domain",87.5,264,32
+OFBKKLGO_00343_yxeN,"BS_yxeN [E] COG0765 ABC-type amino acid transport system, permease component",90.6,224,21
+OFBKKLGO_00344_yxeO,"BS_yxeO [E] COG1126 ABC-type polar amino acid transport system, ATPase component",85.5,249,36
+OFBKKLGO_00345_scmP_2,BS_yxeP [R] COG1473 Metal-dependent amidase/aminoacylase/carboxypeptidase,78.7,380,78
+OFBKKLGO_00347_lolD,"BS_yclH [V] COG1136 ABC-type antimicrobial peptide transport system, ATPase component",85.0,226,34
+OFBKKLGO_00349_srrA_1,BS_yclJ [TK] COG0745 Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain,90.7,227,21
+OFBKKLGO_00350_rcsC_1,BS_yclK [T] COG0642 Signal transduction histidine kinase,76.7,476,105
+OFBKKLGO_00351_rapF_1,BS_rapC [R] COG0457 FOG: TPR repeat,80.4,382,75
+OFBKKLGO_00354_yclM,BS_yclM [E] COG0527 Aspartokinases,81.3,454,85
+OFBKKLGO_00355_yclN,"BS_yclN [P] COG4606 ABC-type enterochelin transport system, permease component",89.8,315,32
+OFBKKLGO_00356_yclO,"BS_yclO [P] COG4605 ABC-type enterochelin transport system, permease component",85.4,315,46
+OFBKKLGO_00357_yclP,"BS_yclP [P] COG4604 ABC-type enterochelin transport system, ATPase component",87.7,252,31
+OFBKKLGO_00358_yclQ,"BS_yclQ [P] COG4607 ABC-type enterochelin transport system, periplasmic component",73.5,317,83
+OFBKKLGO_00359_farB,BS_ycnB [GEPR] COG0477 Permeases of the major facilitator superfamily,85.4,471,69
+OFBKKLGO_00360_group_4443,BS_ycnC [K] COG1309 Transcriptional regulator,66.9,290,95
+OFBKKLGO_00361_nfrA2,BS_ycnD [C] COG0778 Nitroreductase,80.7,249,47
+OFBKKLGO_00362_ycnE,BS_ycnE [S] COG1359 Uncharacterized conserved protein,86.3,95,13
+OFBKKLGO_00363_group_3436,BS_yczG [K] COG0640 Predicted transcriptional regulators,82.7,104,18
+OFBKKLGO_00364_gabR_1,BS_ycnF [KE] COG1167 Transcriptional regulators containing a DNA-binding HTH domain and an aminotransferase domain (MocR family) and their eukaryotic orthologs,72.6,468,127
+OFBKKLGO_00366_gabD,BS_ycnH [C] COG1012 NAD-dependent aldehyde dehydrogenases,89.0,462,51
+OFBKKLGO_00367_glcU,BS_ycxE [G] COG4975 Putative glucose uptake permease,89.5,287,30
+OFBKKLGO_00368_gdh,BS_gdh [IQR] COG1028 Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases),89.3,261,28
+OFBKKLGO_00370_ycnJ,BS_ycnJ_2 [P] COG1276 Putative copper export protein,65.1,418,145
+OFBKKLGO_00371_ycnK,BS_ycnK [KG] COG1349 Transcriptional regulators of sugar metabolism,67.7,189,61
+OFBKKLGO_00373_mtlA,"BS_mtlA_1 [G] COG2213 Phosphotransferase system, mannitol-specific IIBC component",78.8,476,99
+OFBKKLGO_00374_mtlF,"BS_mtlA_2 [G] COG4668 Mannitol/fructose-specific phosphotransferase system, IIA domain",87.3,118,15
+OFBKKLGO_00375_mtlD,BS_mtlD [G] COG0246 Mannitol-1-phosphate/altronate dehydrogenases,74.8,361,86
+OFBKKLGO_00378_ycsE,BS_ycsE [R] COG0561 Predicted hydrolases of the HAD superfamily,83.5,249,41
+OFBKKLGO_00380_group_4445,BS_ycsG [P] COG1914 Mn2+ and Fe2+ transporters of the NRAMP family,84.7,386,59
+OFBKKLGO_00381_group_429,BS_ycsI [S] COG4336 Uncharacterized conserved protein,77.0,257,59
+OFBKKLGO_00382_pxpB,BS_ycsJ_1 [E] COG2049 Allophanate hydrolase subunit 1,70.9,230,65
+OFBKKLGO_00384_kipR,BS_ycsO [K] COG1414 Transcriptional regulator,78.9,246,52
+OFBKKLGO_00387_group_2122,BS_yczJ [R] COG2329 Uncharacterized enzyme involved in biosynthesis of extracellular polysaccharides,83.2,95,16
+OFBKKLGO_00388_mrdA,BS_pbpC [M] COG0768 Cell division protein FtsI/penicillin-binding protein 2,76.7,665,155
+OFBKKLGO_00389_ydhF,BS_ycsN [R] COG4989 Predicted oxidoreductase,81.7,300,55
+OFBKKLGO_00390_mtlR,BS_ydaA [K] COG3711 Transcriptional antiterminator,74.0,692,180
+OFBKKLGO_00391_lcfB_1,BS_ydaB [IQ] COG0318 Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II,75.3,466,114
+OFBKKLGO_00392_ydaD_1,BS_ydaD [IQR] COG1028 Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases),88.6,264,30
+OFBKKLGO_00393_ydaE,"BS_ydaE [R] COG3822 ABC-type sugar transport system, auxiliary component",82.6,167,29
+OFBKKLGO_00394_ydaF,"BS_ydaF [J] COG1670 Acetyltransferases, including N-acetylases of ribosomal proteins",52.5,183,87
+OFBKKLGO_00395_ydaG,BS_ydaG [R] COG3871 Uncharacterized stress protein (general stress protein 26),86.4,140,19
+OFBKKLGO_00399_lrpC,BS_lrpC [K] COG1522 Transcriptional regulators,81.6,141,26
+OFBKKLGO_00400_topB,BS_topB_1 [L] COG0550 Topoisomerase IA,91.7,575,48
+OFBKKLGO_00403_group_954,BS_ydaL [S] COG5298 Uncharacterized protein conserved in bacteria,71.2,553,159
+OFBKKLGO_00408_kimA,BS_ydaO [E] COG0531 Amino acid transporters,90.9,607,54
+OFBKKLGO_00417_mntH,BS_ydaR [P] COG1914 Mn2+ and Fe2+ transporters of the NRAMP family,83.7,424,69
+OFBKKLGO_00426_ydbD,BS_ydbD [P] COG3546 Mn-containing catalase,89.0,273,30
+OFBKKLGO_00427_dctP,"BS_ydbE [G] COG1638 TRAP-type C4-dicarboxylate transport system, periplasmic component",77.9,349,77
+OFBKKLGO_00428_dcuS_1,BS_ydbF [T] COG3290 Signal transduction histidine kinase regulating citrate/malate metabolism,84.3,534,84
+OFBKKLGO_00429_dcuR_1,BS_ydbG [KT] COG4565 Response regulator of citrate/malate metabolism,81.0,216,41
+OFBKKLGO_00430_dctA,BS_ydbH [C] COG1301 Na+/H+-dicarboxylate symporters,94.1,421,22
+OFBKKLGO_00431_group_4450,BS_ydbI [R] COG0628 Predicted permease,84.5,342,53
+OFBKKLGO_00432_bcrA_1,"BS_ydbJ [V] COG1131 ABC-type multidrug transport system, ATPase component",76.1,305,73
+OFBKKLGO_00433_group_5835,"BS_ydbK [R] COG1277 ABC-type transport system involved in multi-copper enzyme maturation, permease component",75.6,246,60
+OFBKKLGO_00438_mneS_1,BS_ydbO [P] COG0053 Predicted Co/Zn/Cd cation transporters,80.2,288,57
+OFBKKLGO_00439_ydbP,BS_ydbP [OC] COG0526 Thiol-disulfide isomerase and thioredoxins,92.4,105,8
+OFBKKLGO_00440_ddl,BS_ddlA [M] COG1181 D-alanine-D-alanine ligase and related ATP-grasp enzymes,85.3,354,52
+OFBKKLGO_00441_murF,BS_murF [M] COG0770 UDP-N-acetylmuramyl pentapeptide synthase,77.8,454,100
+OFBKKLGO_00442_cshA,BS_ydbR [LKJ] COG0513 Superfamily II DNA and RNA helicases,98.0,494,10
+OFBKKLGO_00443_group_3443,BS_ydbS [S] COG3402 Uncharacterized conserved protein,74.8,159,40
+OFBKKLGO_00445_glpG,BS_ydcA [R] COG0705 Uncharacterized membrane protein (homolog of Drosophila rhomboid),78.9,199,42
+OFBKKLGO_00447_ydcC,BS_ydcC [M] COG2834 Outer membrane lipoprotein-sorting protein,89.9,335,34
+OFBKKLGO_00448_alr,BS_dal [M] COG0787 Alanine racemase,82.7,388,67
+OFBKKLGO_00449_ndoAI,BS_ydcD [K] COG0864 Predicted transcriptional regulators containing the CopG/Arc/MetJ DNA-binding domain and a metal-binding domain,97.8,93,2
+OFBKKLGO_00450_ndoA,BS_ydcE [T] COG2337 Growth inhibitor,99.1,116,1
+OFBKKLGO_00451_rsbRA,BS_rsbR_2 [T] COG1366 Anti-anti-sigma regulatory factor (antagonist of anti-sigma factor),96.1,128,5
+OFBKKLGO_00452_rsbS,BS_rsbS [T] COG1366 Anti-anti-sigma regulatory factor (antagonist of anti-sigma factor),97.5,121,3
+OFBKKLGO_00453_rsbT,BS_rsbT [T] COG2172 Anti-sigma regulatory factor (Ser/Thr protein kinase),93.2,133,9
+OFBKKLGO_00454_rsbU,"BS_rsbU [TK] COG2208 Serine phosphatase RsbU, regulator of sigma subunit",89.6,335,35
+OFBKKLGO_00455_rsbV,BS_rsbV [T] COG1366 Anti-anti-sigma regulatory factor (antagonist of anti-sigma factor),79.8,109,22
+OFBKKLGO_00456_rsbW,BS_rsbW [T] COG2172 Anti-sigma regulatory factor (Ser/Thr protein kinase),88.8,160,18
+OFBKKLGO_00457_sigB,BS_sigB [K] COG1191 DNA-directed RNA polymerase specialized sigma subunit,92.0,262,21
+OFBKKLGO_00459_yhgF,BS_ydcI [K] COG2183 Transcriptional accessory protein,80.4,777,94
+OFBKKLGO_00461_group_955,BS_ydcK [S] COG3091 Uncharacterized protein conserved in bacteria,82.7,110,19
+OFBKKLGO_00495_adhA,BS_adhA [R] COG1064 Zn-dependent alcohol dehydrogenases,86.5,349,47
+OFBKKLGO_00496_adhR,BS_yraB [K] COG0789 Predicted transcriptional regulators,73.9,92,23
+OFBKKLGO_00504_group_956,BS_yraD [M] COG5577 Spore coat protein,80.8,99,19
+OFBKKLGO_00507_group_4462,BS_yraF [M] COG5577 Spore coat protein,91.8,122,10
+OFBKKLGO_00515_gldA,SP0253 [C] COG0371 Glycerol dehydrogenase and related enzymes,56.0,357,156
+OFBKKLGO_00516_bcr_1,BS_ydgK [GEPR] COG0477 Permeases of the major facilitator superfamily,90.2,397,39
+OFBKKLGO_00519_group_3973,BS_ydhB [R] COG0730 Predicted permeases,84.9,232,33
+OFBKKLGO_00521_group_480,BS_bltR_1 [K] COG0789 Predicted transcriptional regulators,76.6,124,29
+OFBKKLGO_00532_pbuE_1,BS_ydhL [G] COG2814 Arabinose efflux permease,86.0,378,53
+OFBKKLGO_00535_pdhR,lin0947 [K] COG2186 Transcriptional regulators,45.9,218,115
+OFBKKLGO_00536_yycB,CAC0161 [P] COG2807 Cyanate permease,50.6,423,184
+OFBKKLGO_00537_gdx_1,BS_yvdR [P] COG2076 Membrane transporters of cations and cationic drugs,73.1,104,28
+OFBKKLGO_00538_gdx_2,BS_yvdS [P] COG2076 Membrane transporters of cations and cationic drugs,78.3,106,23
+OFBKKLGO_00539_yvdT,BS_yvdT [K] COG1309 Transcriptional regulator,81.2,191,36
+OFBKKLGO_00541_group_1719,BS_ydhU [P] COG3546 Mn-containing catalase,84.0,150,24
+OFBKKLGO_00542_yndB,BS_yndB [S] COG3832 Uncharacterized conserved protein,58.8,136,55
+OFBKKLGO_00543_yhfP,BS_yhfP [CR] COG0604 NADPH:quinone reductase and related Zn-dependent oxidoreductases,60.0,330,132
+OFBKKLGO_00544_iolT,BS_ydjK [GEPR] COG0477 Permeases of the major facilitator superfamily,80.1,473,93
+OFBKKLGO_00549_tsaE,BS_ydiB [R] COG0802 Predicted ATPase or kinase,83.5,158,26
+OFBKKLGO_00550_tsaB,"BS_ydiC [O] COG1214 Inactive homolog of metal-dependent proteases, putative molecular chaperone",79.9,229,46
+OFBKKLGO_00551_rimI,BS_ydiD [R] COG0456 Acetyltransferases,84.8,151,23
+OFBKKLGO_00554_moaC,BS_ydiG [H] COG0315 Molybdenum cofactor biosynthesis enzyme,82.8,169,29
+OFBKKLGO_00555_rex,BS_ydiH [R] COG2344 AT-rich DNA-binding protein,95.3,215,10
+OFBKKLGO_00556_tatAy,BS_ydiI [U] COG1826 Sec-independent protein secretion pathway components,87.3,55,7
+OFBKKLGO_00557_tatC2,BS_ydiJ [U] COG0805 Sec-independent protein secretion pathway component TatC,83.2,250,41
+OFBKKLGO_00559_MroQ,BS_ydiL [R] COG1266 Predicted metal-dependent membrane protease,75.4,244,60
+OFBKKLGO_00560_groS,BS_groES [O] COG0234 Co-chaperonin GroES (HSP10),98.9,94,1
+OFBKKLGO_00561_groL,BS_groEL [O] COG0459 Chaperonin GroEL (HSP60 family),97.4,544,14
+OFBKKLGO_00566_gutB_2,BS_gutB [ER] COG1063 Threonine dehydrogenase and related Zn-dependent dehydrogenases,95.8,353,15
+OFBKKLGO_00568_scrK,"BS_ydjE [G] COG0524 Sugar kinases, ribokinase family",89.6,318,33
+OFBKKLGO_00570_ydjF,"BS_ydjF [KT] COG1842 Phage shock protein A (IM30), suppresses sigma54-dependent transcription",76.7,227,52
+OFBKKLGO_00573_group_6873,BS_ydjI [S] COG4260 Putative virion core protein (lumpy skin disease virus),83.5,333,44
+OFBKKLGO_00574_oatA,BS_yrhL [I] COG1835 Predicted acyltransferases,72.7,644,165
+OFBKKLGO_00576_sigV_1,"BS_sigV [K] COG1595 DNA-directed RNA polymerase specialized sigma subunit, sigma24 homolog",84.8,164,25
+OFBKKLGO_00577_gutB_3,BS_ydjL [ER] COG1063 Threonine dehydrogenase and related Zn-dependent dehydrogenases,93.1,346,24
+OFBKKLGO_00583_gabP,BS_gabP [E] COG1113 Gamma-aminobutyrate permease and related permeases,84.2,462,72
+OFBKKLGO_00585_group_4472,BS_yeaC [R] COG0714 MoxR-like ATPases,77.5,320,72
+OFBKKLGO_00588_guaA,"BS_guaA_2 [F] COG0519 GMP synthase, PP-ATPase domain/subunit",97.5,316,7
+OFBKKLGO_00592_pbuG,BS_yebB [R] COG2252 Permeases,89.8,440,45
+OFBKKLGO_00595_group_5863,BH0621 [S] COG4843 Uncharacterized protein conserved in bacteria,65.4,179,62
+OFBKKLGO_00598_purE,BS_purE [F] COG0041 Phosphoribosylcarboxyaminoimidazole (NCAIR) mutase,88.3,162,19
+OFBKKLGO_00599_purK,BS_purK [F] COG0026 Phosphoribosylaminoimidazole carboxylase (NCAIR synthetase),82.3,378,66
+OFBKKLGO_00600_purB,BS_purB [F] COG0015 Adenylosuccinate lyase,96.7,430,14
+OFBKKLGO_00601_purC,BS_purC [F] COG0152 Phosphoribosylaminoimidazolesuccinocarboxamide (SAICAR) synthase,87.8,238,29
+OFBKKLGO_00602_purS,"BS_purS [F] COG1828 Phosphoribosylformylglycinamidine (FGAM) synthase, PurS component",97.6,84,2
+OFBKKLGO_00603_purQ,"BS_purL [F] COG0047 Phosphoribosylformylglycinamidine (FGAM) synthase, glutamine amidotransferase domain",92.9,226,16
+OFBKKLGO_00604_purL,"BS_purQ [F] COG0046 Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain",92.7,742,54
+OFBKKLGO_00605_purF,BS_purF [F] COG0034 Glutamine phosphoribosylpyrophosphate amidotransferase,97.1,476,14
+OFBKKLGO_00606_purM,BS_purM [F] COG0150 Phosphoribosylaminoimidazole (AIR) synthetase,90.2,346,34
+OFBKKLGO_00607_purN,BS_purN [F] COG0299 Folate-dependent phosphoribosylglycinamide formyltransferase PurN,83.6,195,32
+OFBKKLGO_00608_purH,BS_purH [F] COG0138 AICAR transformylase/IMP cyclohydrolase PurH (only IMP cyclohydrolase domain in Aful),92.4,512,39
+OFBKKLGO_00609_purD,BS_purD [F] COG0151 Phosphoribosylamine-glycine ligase,84.0,420,67
+OFBKKLGO_00613_yerA,BS_yerA [F] COG1001 Adenine deaminase,87.9,580,70
+OFBKKLGO_00615_group_16298,BS_yerC [S] COG4496 Uncharacterized protein conserved in bacteria,91.3,103,9
+OFBKKLGO_00617_pcrB,"BS_yerE [R] COG1646 Predicted phosphate-binding enzymes, TIM-barrel fold",83.7,227,36
+OFBKKLGO_00618_pcrA,BS_yerF [L] COG0210 Superfamily I DNA and RNA helicases,93.1,739,51
+OFBKKLGO_00619_ligA,BS_yerG [L] COG0272 NAD-dependent DNA ligase (contains BRCT domain type II),93.0,668,47
+OFBKKLGO_00620_group_5871,BS_yerH [R] COG4851 Protein involved in sex pheromone biosynthesis,84.7,398,59
+OFBKKLGO_00622_sapB_1,BS_sapB [S] COG1285 Uncharacterized membrane protein,89.6,230,24
+OFBKKLGO_00623_opuE,BS_opuE [ER] COG0591 Na+/proline symporter,88.2,491,58
+OFBKKLGO_00624_gatC,BS_yerL [J] COG0721 Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit,95.8,96,4
+OFBKKLGO_00625_gatA,BS_yerM [J] COG0154 Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit and related amidases,96.9,485,15
+OFBKKLGO_00626_gatB,BH0667 [J] COG0064 Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit (PET112 homolog),85.9,475,67
+OFBKKLGO_00627_group_1405,BS_yerO [K] COG1309 Transcriptional regulator,58.7,276,114
+OFBKKLGO_00629_dagK,BS_yerQ [IR] COG1597 Sphingosine kinase and enzymes related to eukaryotic diacylglycerol kinase,97.0,303,9
+OFBKKLGO_00630_rlmCD_1,BS_yefA [J] COG2265 SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase,95.4,458,21
+OFBKKLGO_00639_group_15986,BS_yeeI [S] COG0217 Uncharacterized conserved protein,94.2,240,13
+OFBKKLGO_00644_group_16093,BS_cotJC [P] COG3546 Mn-containing catalase,96.3,189,7
+OFBKKLGO_00648_hmoA,BS_yetG [R] COG2329 Uncharacterized enzyme involved in biosynthesis of extracellular polysaccharides,81.5,108,20
+OFBKKLGO_00649_group_966,BS_yetH [E] COG0346 Lactoylglutathione lyase and related lyases,77.5,120,27
+OFBKKLGO_00650_rsbRD_2,BS_yezB [T] COG1366 Anti-anti-sigma regulatory factor (antagonist of anti-sigma factor),79.5,88,18
+OFBKKLGO_00652_ribR,BS_ribR [H] COG0196 FAD synthase,45.6,79,40
+OFBKKLGO_00659_ltaS1,"BS_yfnI [M] COG1368 Phosphoglycerol transferase and related proteins, alkaline phosphatase superfamily",86.6,636,85
+OFBKKLGO_00660_rfbF,"BS_yfnH [MJ] COG1208 Nucleoside-diphosphate-sugar pyrophosphorylase involved in lipopolysaccharide biosynthesis/translation initiation factor 2B, gamma/epsilon subunits (eIF-2Bgamma/eIF-2Bepsilon)",85.4,254,37
+OFBKKLGO_00661_rfbG,BS_yfnG [MG] COG0451 Nucleoside-diphosphate-sugar epimerases,91.3,300,26
+OFBKKLGO_00663_group_3468,BS_yfnE [M] COG0463 Glycosyltransferases involved in cell wall biogenesis,78.0,387,84
+OFBKKLGO_00665_fsr,BS_yfnC [GEPR] COG0477 Permeases of the major facilitator superfamily,81.7,409,75
+OFBKKLGO_00666_yhdG_1,BS_yfnA [E] COG0531 Amino acid transporters,87.0,461,60
+OFBKKLGO_00667_yfmT,BS_yfmT [C] COG1012 NAD-dependent aldehyde dehydrogenases,86.6,485,65
+OFBKKLGO_00668_yfmS,BS_yfmS [NT] COG0840 Methyl-accepting chemotaxis protein,86.5,281,38
+OFBKKLGO_00670_group_6662,CAC3308_1 [M] COG0463 Glycosyltransferases involved in cell wall biogenesis,43.3,150,79
+OFBKKLGO_00672_yfmP,BS_yfmP [K] COG0789 Predicted transcriptional regulators,88.6,140,16
+OFBKKLGO_00674_ybiT_2,BS_yfmM [R] COG0488 ATPase components of ABC transporters with duplicated ATPase domains,96.7,518,17
+OFBKKLGO_00675_yfmL,BS_yfmL [LKJ] COG0513 Superfamily II DNA and RNA helicases,81.1,376,71
+OFBKKLGO_00676_yfmJ,BS_yfmJ [R] COG2130 Putative NADP-dependent oxidoreductases,89.3,335,36
+OFBKKLGO_00679_pel,BS_pel [G] COG3866 Pectate lyase,75.8,421,99
+OFBKKLGO_00680_yflS,BS_yflS [P] COG0471 Di- and tricarboxylate transporters,94.6,478,26
+OFBKKLGO_00689_citS,BS_citS [T] COG3290 Signal transduction histidine kinase regulating citrate/malate metabolism,65.6,532,176
+OFBKKLGO_00690_citT,BS_citT [KT] COG4565 Response regulator of citrate/malate metabolism,73.5,223,59
+OFBKKLGO_00691_group_1413,BS_yflP [S] COG3181 Uncharacterized protein conserved in bacteria,66.4,253,85
+OFBKKLGO_00692_citM,BS_citM [C] COG2851 H+/citrate symporter,89.8,430,44
+OFBKKLGO_00694_nos,"BS_yflM [PE] COG4362 Nitric oxide synthase, oxygenase domain",83.2,333,56
+OFBKKLGO_00696_yiiM,BS_yflK [S] COG2258 Uncharacterized protein conserved in bacteria,67.4,215,70
+OFBKKLGO_00700_mapB,BS_yflG [J] COG0024 Methionine aminopeptidase,93.2,249,17
+OFBKKLGO_00701_nagP,"BS_yflF_1 [G] COG1263 Phosphotransferase system IIC components, glucose/maltose/N-acetylglucosamine-specific",87.5,376,47
+OFBKKLGO_00703_ltaS2_1,"BS_yflE [M] COG1368 Phosphoglycerol transferase and related proteins, alkaline phosphatase superfamily",90.7,645,60
+OFBKKLGO_00705_cotP,BS_ydfT [O] COG0071 Molecular chaperone (small heat shock protein),66.0,141,48
+OFBKKLGO_00709_treA,BS_treA [G] COG0366 Glycosidases,78.6,562,115
+OFBKKLGO_00711_yfkO,BS_yfkO [C] COG0778 Nitroreductase,82.4,221,39
+OFBKKLGO_00712_group_3978,CAC0889 [S] COG5438 Predicted multitransmembrane protein,40.6,251,148
+OFBKKLGO_00714_yfkN,"BS_yfkN_1 [F] COG0737 5'-nucleotidase/2',3'-cyclic phosphodiesterase and related esterases",80.9,650,124
+OFBKKLGO_00715_yfkM,BS_yfkM [R] COG0693 Putative intracellular protease/amidase,89.4,170,18
+OFBKKLGO_00716_ccpA_1,SMc04401 [K] COG1609 Transcriptional regulators,43.2,331,188
+OFBKKLGO_00717_aroE_2,lin0493 [E] COG0169 Shikimate 5-dehydrogenase,63.1,287,103
+OFBKKLGO_00719_ydiM,BS_yfkL [GEPR] COG0477 Permeases of the major facilitator superfamily,47.2,394,203
+OFBKKLGO_00720_group_3474,BS_yfkK [S] COG4840 Uncharacterized protein conserved in bacteria,88.7,71,8
+OFBKKLGO_00723_group_6665,BS_yfkH [S] COG1295 Predicted membrane protein,81.8,274,50
+OFBKKLGO_00724_ycaD,BS_yfkF [GEPR] COG0477 Permeases of the major facilitator superfamily,82.0,388,70
+OFBKKLGO_00725_chaA,BS_yfkE [P] COG0387 Ca2+/H+ antiporter,89.7,351,36
+OFBKKLGO_00727_yfkC,BS_yfkC [M] COG0668 Small-conductance mechanosensitive channel,78.7,277,59
+OFBKKLGO_00728_group_3477,BH0889_1 [R] COG0535 Predicted Fe-S oxidoreductases,70.5,220,64
+OFBKKLGO_00730_pdaA,BS_yfjS [G] COG0726 Predicted xylanase/chitin deacetylase,89.7,263,27
+OFBKKLGO_00733_corA_2,BS_yfjQ [P] COG0598 Mg2+ and Co2+ transporters,82.8,319,55
+OFBKKLGO_00734_group_970,BS_yfjP [L] COG0122 3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase,77.7,287,64
+OFBKKLGO_00735_rlmCD_2,BS_yfjO [J] COG2265 SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase,90.3,466,45
+OFBKKLGO_00747_dus,BS_yfjN [J] COG0042 tRNA-dihydrouridine synthase,95.4,325,15
+OFBKKLGO_00750_acoB,"BS_acoB [C] COG0022 Pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, eukaryotic type, beta subunit",95.9,342,14
+OFBKKLGO_00751_pdhC_1,"BS_acoC [C] COG0508 Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component, and related enzymes",69.1,401,117
+OFBKKLGO_00755_glvA,"BS_glvA [G] COG1486 Alpha-galactosidases/6-phospho-beta-glucosidases, family 4 of glycosyl hydrolases",91.8,449,36
+OFBKKLGO_00756_glvR,BS_yfiA [K] COG1737 Transcriptional regulators,81.7,252,46
+OFBKKLGO_00757_malP,"BS_glvC_1 [G] COG1263 Phosphotransferase system IIC components, glucose/maltose/N-acetylglucosamine-specific",90.3,453,43
+OFBKKLGO_00760_group_4497,"BS_yfiC [V] COG1132 ABC-type multidrug transport system, ATPase and permease components",85.2,600,89
+OFBKKLGO_00761_catD,BS_yfiD [S] COG2259 Predicted membrane protein,73.9,134,35
+OFBKKLGO_00764_ctaB1,BS_yjdK [O] COG0109 Polyprenyltransferase (cytochrome oxidase assembly factor),63.7,146,50
+OFBKKLGO_00765_group_4499,BS_yfiO [K] COG1695 Predicted transcriptional regulators,79.7,182,36
+OFBKKLGO_00767_group_1738,BS_yfiQ [G] COG3936 Protein involved in polysaccharide intercellular adhesin (PIA) synthesis/biofilm formation,68.8,352,109
+OFBKKLGO_00768_group_1424,"BS_yrdF [K] COG2732 Barstar, RNAse (barnase) inhibitor",49.4,81,41
+OFBKKLGO_00770_bmr3_2,BS_yfiU [GEPR] COG0477 Permeases of the major facilitator superfamily,75.2,516,126
+OFBKKLGO_00771_group_3483,BS_yfiV [K] COG1846 Transcriptional regulators,80.5,159,31
+OFBKKLGO_00772_mprF,BS_yfiX [S] COG2898 Uncharacterized conserved protein,81.3,603,113
+OFBKKLGO_00774_fbiB,BS_yfhC [C] COG0778 Nitroreductase,67.5,194,63
+OFBKKLGO_00777_group_837,BS_yfhF [R] COG1090 Predicted nucleoside-diphosphate sugar epimerase,78.8,297,63
+OFBKKLGO_00778_recX,BS_yfhG [R] COG2137 Uncharacterized protein conserved in bacteria,79.5,263,54
+OFBKKLGO_00780_ydhP_1,BS_yfhI [G] COG2814 Arabinose efflux permease,89.8,394,40
+OFBKKLGO_00786_ephA,BS_yfhM [R] COG0596 Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily) ,69.4,284,86
+OFBKKLGO_00787_csbB,BS_csbB [M] COG0463 Glycosyltransferases involved in cell wall biogenesis,87.5,320,40
+OFBKKLGO_00789_yfhP,BS_yfhP [R] COG1988 Predicted membrane-bound metal-dependent hydrolases,86.9,327,43
+OFBKKLGO_00790_mutY,BS_yfhQ_1 [L] COG1194 A/G-specific DNA glycosylase,88.2,229,27
+OFBKKLGO_00792_fabL,BS_yfhR [IQR] COG1028 Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases),94.8,250,13
+OFBKKLGO_00795_group_15972,BH0940 [J] COG3557 Uncharacterized domain/protein associated with RNAses G and E,64.9,174,61
+OFBKKLGO_00796_group_3487,"BS_ygaD [V] COG1132 ABC-type multidrug transport system, ATPase and permease components",88.3,580,68
+OFBKKLGO_00797_group_16036,BS_ygaE [S] COG4129 Predicted membrane protein,90.1,353,35
+OFBKKLGO_00798_hemL1,BS_gsaB [H] COG0001 Glutamate-1-semialdehyde aminotransferase,92.1,392,31
+OFBKKLGO_00799_bcp,BS_ygaFm [O] COG1225 Peroxiredoxin,70.3,155,46
+OFBKKLGO_00800_perR,BS_perR [P] COG0735 Fe2+/Zn2+ uptake regulation proteins,97.2,145,4
+OFBKKLGO_00809_thiC,BS_thiA [H] COG0422 Thiamine biosynthesis protein ThiC,91.0,590,53
+OFBKKLGO_00817_katA_1,BS_katA [P] COG0753 Catalase,94.6,481,26
+OFBKKLGO_00819_ssuB_1,"BS_ssuB [P] COG1116 ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component",81.6,255,47
+OFBKKLGO_00820_ssuA,"BS_ssuA [P] COG0715 ABC-type nitrate/sulfonate/bicarbonate transport systems, periplasmic components",77.6,322,72
+OFBKKLGO_00821_ssuC_1,"BS_ssuC [P] COG0600 ABC-type nitrate/sulfonate/bicarbonate transport system, permease component",79.5,278,53
+OFBKKLGO_00826_group_841,BS_yhzAs [K] COG1476 Predicted transcriptional regulators,81.5,65,12
+OFBKKLGO_00830_trmL,BS_cspR [J] COG0219 Predicted rRNA methylase (SpoU class),91.7,156,13
+OFBKKLGO_00832_group_639,BS_yhbE [M] COG1664 Integral membrane protein CcmA involved in cell shape determination,74.3,237,61
+OFBKKLGO_00835_group_4509,BS_prkA [T] COG2766 Putative Ser protein kinase,97.1,631,18
+OFBKKLGO_00836_group_16002,BS_yhbH [S] COG2718 Uncharacterized conserved protein,92.8,388,28
+OFBKKLGO_00837_group_3496,BS_yhbI [K] COG1846 Transcriptional regulators,78.8,151,32
+OFBKKLGO_00838_aaeA,BS_yhbJ [V] COG1566 Multidrug resistance efflux pump,88.6,210,24
+OFBKKLGO_00839_emrB_2,BS_yhcA [GEPR] COG0477 Permeases of the major facilitator superfamily,90.3,527,51
+OFBKKLGO_00840_pnpB,BS_yhcB [R] COG0655 Multimeric flavodoxin WrbA,94.3,175,10
+OFBKKLGO_00845_bcrA_2,"BS_yhcH [V] COG1131 ABC-type multidrug transport system, ATPase component",79.6,304,62
+OFBKKLGO_00848_cspB,BS_cspB [K] COG1278 Cold shock proteins,98.5,65,1
+OFBKKLGO_00851_tcyP,BS_yhcL [R] COG1823 Predicted Na+/dicarboxylate symporter,87.5,441,55
+OFBKKLGO_00856_group_5526,BS_yhcQ [M] COG5577 Spore coat protein,71.0,210,59
+OFBKKLGO_00859_rluD_1,"BS_yhcT [J] COG0564 Pseudouridylate synthases, 23S RNA-specific",70.9,302,88
+OFBKKLGO_00861_hrp1_1,BS_yhcV [R] COG0517 FOG: CBS domain,84.8,138,21
+OFBKKLGO_00862_hxpB,BS_yhcW [R] COG0637 Predicted phosphatase/phosphohexomutase,83.6,220,36
+OFBKKLGO_00863_group_15913,BS_yhcX_2 [R] COG0388 Predicted amidohydrolase,96.2,313,11
+OFBKKLGO_00865_glpP,BS_glpP [K] COG1954 Glycerol-3-phosphate responsive antiterminator (mRNA-binding),83.8,191,31
+OFBKKLGO_00866_glpF,BS_glpF [G] COG0580 Glycerol uptake facilitator and related permeases (Major Intrinsic Protein Family),87.6,275,33
+OFBKKLGO_00867_glpK,BS_glpK [C] COG0554 Glycerol kinase,90.9,496,45
+OFBKKLGO_00868_glpD,BS_glpD [C] COG0578 Glycerol-3-phosphate dehydrogenase,90.3,555,54
+OFBKKLGO_00869_pgcA,BS_yhxB [G] COG1109 Phosphomannomutase,83.8,579,78
+OFBKKLGO_00870_group_493,BS_yhcY_1 [T] COG2203 FOG: GAF domain,75.7,173,41
+OFBKKLGO_00875_lytF,BS_yhdD_1 [M] COG1388 FOG: LysM repeat,64.5,355,115
+OFBKKLGO_00876_nsrR,BS_yhdE [K] COG1959 Predicted transcriptional regulator,86.0,143,20
+OFBKKLGO_00879_phoA,BS_phoA [P] COG1785 Alkaline phosphatase,74.3,459,117
+OFBKKLGO_00881_cysL_1,BS_citR [K] COG0583 Transcriptional regulator,74.7,281,71
+OFBKKLGO_00882_citA,BS_citA [C] COG0372 Citrate synthase,76.0,362,87
+OFBKKLGO_00883_ydaD_2,BS_yhdF [IQR] COG1028 Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases),80.6,289,56
+OFBKKLGO_00885_group_3504,BS_yhdH [R] COG0733 Na+-dependent transporters of the SNF family,79.8,435,88
+OFBKKLGO_00888_sigM,"BS_yhdM [K] COG1595 DNA-directed RNA polymerase specialized sigma subunit, sigma24 homolog",98.8,162,2
+OFBKKLGO_00889_plsC,BS_yhdO [I] COG0204 1-acyl-sn-glycerol-3-phosphate acyltransferase,87.4,199,25
+OFBKKLGO_00890_group_16026,BS_yhdP [R] COG1253 Hemolysins and related proteins containing CBS domains,93.0,443,31
+OFBKKLGO_00891_group_5913,BS_yhdQ [K] COG0789 Predicted transcriptional regulators,83.8,142,22
+OFBKKLGO_00893_pksF,BS_pksF [IQ] COG0304 3-oxoacyl-(acyl-carrier-protein) synthase,61.6,401,153
+OFBKKLGO_00894_group_2741,BS_yhdT [R] COG1253 Hemolysins and related proteins containing CBS domains,80.5,462,89
+OFBKKLGO_00899_group_5914,BS_yhdY [M] COG0668 Small-conductance mechanosensitive channel,77.9,371,82
+OFBKKLGO_00900_cobB,"BS_yhdZ [K] COG0846 NAD-dependent protein deacetylases, SIR2 family",78.1,242,53
+OFBKKLGO_00901_group_4528,BS_yheN [G] COG0726 Predicted xylanase/chitin deacetylase,71.3,282,81
+OFBKKLGO_00902_dat,BS_yheM [EH] COG0115 Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase,73.7,281,74
+OFBKKLGO_00905_nhaX,BS_nhaX [T] COG0589 Universal stress protein UspA and related nucleotide-binding proteins,74.1,166,43
+OFBKKLGO_00906_yheI,"BS_yheI [V] COG1132 ABC-type multidrug transport system, ATPase and permease components",80.2,585,116
+OFBKKLGO_00907_yheH,"BS_yheH [V] COG1132 ABC-type multidrug transport system, ATPase and permease components",78.8,671,142
+OFBKKLGO_00914_group_2747,BS_yheB [S] COG4399 Uncharacterized protein conserved in bacteria,72.7,377,103
+OFBKKLGO_00915_group_5916,BS_yheA [S] COG3679 Uncharacterized conserved protein,85.1,114,17
+OFBKKLGO_00916_yhaX,BS_yhaX [R] COG0561 Predicted hydrolases of the HAD superfamily,82.4,250,44
+OFBKKLGO_00917_hemZ,BS_hemZ [H] COG0635 Coproporphyrinogen III oxidase and related Fe-S oxidoreductases,87.8,499,60
+OFBKKLGO_00918_iucD,BH2620 [Q] COG3486 Lysine/ornithine N-monooxygenase,43.8,429,239
+OFBKKLGO_00920_khtT_1,"BS_yhaT [P] COG0490 Putative regulatory, ligand-binding protein related to C-terminal domains of K+ channels",90.3,165,16
+OFBKKLGO_00925_yhaP,"BS_yhaP [CP] COG1668 ABC-type Na+ efflux pump, permease component",74.6,418,106
+OFBKKLGO_00926_yhaO,BS_yhaO [L] COG0420 DNA repair exonuclease,68.7,406,125
+OFBKKLGO_00928_yhaM,BS_yhaM [R] COG3481 Predicted HD-superfamily hydrolase,92.0,314,25
+OFBKKLGO_00930_prsA,BS_prsA [O] COG0760 Parvulin-like peptidyl-prolyl isomerase,84.9,278,41
+OFBKKLGO_00933_hpr,BS_hpr [K] COG1846 Transcriptional regulators,85.2,203,30
+OFBKKLGO_00934_group_2752,BS_yhaH [R] COG4980 Gas vesicle protein,81.4,118,22
+OFBKKLGO_00937_serC,BS_serC [HE] COG1932 Phosphoserine aminotransferase,84.7,359,55
+OFBKKLGO_00938_hit,BS_hit [FGR] COG0537 Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases,86.2,145,20
+OFBKKLGO_00939_ecsA_1,"BS_ecsA [V] COG1131 ABC-type multidrug transport system, ATPase component",93.5,247,16
+OFBKKLGO_00940_group_5922,"BS_ecsB [U] COG4473 Predicted ABC-type exoprotein transport system, permease component",75.7,408,99
+OFBKKLGO_00942_group_4533,BS_yhaA [R] COG1473 Metal-dependent amidase/aminoacylase/carboxypeptidase,73.9,395,103
+OFBKKLGO_00944_hmoB,BS_yhgC [R] COG2329 Uncharacterized enzyme involved in biosynthesis of extracellular polysaccharides,84.9,166,25
+OFBKKLGO_00945_pbpF,BS_pbpF [M] COG0744 Membrane carboxypeptidase (penicillin-binding protein),81.3,710,133
+OFBKKLGO_00947_hemH,BS_hemH [H] COG0276 Protoheme ferro-lyase (ferrochelatase),84.8,309,47
+OFBKKLGO_00948_hemY,BS_hemY [H] COG1232 Protoporphyrinogen oxidase,86.1,469,65
+OFBKKLGO_00949_group_16344,BS_yhgD [K] COG1309 Transcriptional regulator,86.2,189,26
+OFBKKLGO_00950_smc_1,BS_yhgE [S] COG1511 Predicted membrane protein,74.5,774,195
+OFBKKLGO_00951_fabHB,BS_yhfB [I] COG0332 3-oxoacyl-[acyl-carrier-protein] synthase III,80.9,324,62
+OFBKKLGO_00953_ysdC_1,BS_yhfE [G] COG1363 Cellulase M and related proteins,82.5,343,60
+OFBKKLGO_00954_gltT,BS_gltT [C] COG1301 Na+/H+-dicarboxylate symporters,90.7,429,40
+OFBKKLGO_00955_group_4539,BS_yhfI [R] COG1234 Metal-dependent hydrolases of the beta-lactamase superfamily III,83.5,243,40
+OFBKKLGO_00956_lplJ,BS_yhfJ [H] COG0095 Lipoate-protein ligase A,85.8,331,47
+OFBKKLGO_00957_yhfK,BS_yhfK [MG] COG0702 Predicted nucleoside-diphosphate-sugar epimerases,80.8,214,41
+OFBKKLGO_00958_lcfB_2,BS_yhfL [IQ] COG0318 Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II,75.8,512,124
+OFBKKLGO_00960_htpX_1,BS_yhfN [O] COG0501 Zn-dependent protease with chaperone function,79.1,416,87
+OFBKKLGO_00961_apr,BS_aprE [O] COG1404 Subtilisin-like serine proteases,85.8,381,53
+OFBKKLGO_00963_pspB,"BS_yhfR [G] COG0406 Fructose-2,6-bisphosphatase",71.4,189,54
+OFBKKLGO_00964_yhfS,BS_yhfS [I] COG0183 Acetyl-CoA acetyltransferase,71.1,363,104
+OFBKKLGO_00967_hemAT,BS_yhfV [NT] COG0840 Methyl-accepting chemotaxis protein,77.8,432,94
+OFBKKLGO_00968_petC_1,BS_yhfW_1 [E] COG0665 Glycine/D-amino acid oxidases (deaminating),65.2,368,128
+OFBKKLGO_00969_ydaD_3,BS_yhxC [IQR] COG1028 Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases),93.0,285,20
+OFBKKLGO_00971_comK,BS_comK [K] COG4903 Genetic competence transcription factor,82.8,192,33
+OFBKKLGO_00976_group_5931,AF0869 [S] COG0393 Uncharacterized conserved protein,47.5,101,52
+OFBKKLGO_00977_yodF_1,BS_yhjB [ER] COG0591 Na+/proline symporter,79.3,489,101
+OFBKKLGO_00981_sipV,BS_sipV [U] COG0681 Signal peptidase I,76.9,169,38
+OFBKKLGO_00983_pchR,BS_yhjH [K] COG1846 Transcriptional regulators,57.6,172,69
+OFBKKLGO_00984_group_3519,BS_yhjN [R] COG3180 Putative ammonia monooxygenase,72.2,378,99
+OFBKKLGO_00985_tetA_1,BS_blt [GEPR] COG0477 Permeases of the major facilitator superfamily,77.8,397,88
+OFBKKLGO_00986_qacR,mlr2419 [K] COG1309 Transcriptional regulator,40.7,59,35
+OFBKKLGO_00988_group_349,BS_ydfS [S] COG2323 Predicted membrane protein,54.5,231,105
+OFBKKLGO_00989_addB,"BS_addB [L] COG3857 ATP-dependent nuclease, subunit B",82.9,1166,199
+OFBKKLGO_00990_addA,BS_addA [L] COG1074 ATP-dependent exoDNAse (exonuclease V) beta subunit (contains helicase and exonuclease domains),82.0,1234,220
+OFBKKLGO_00991_cpdA_1,BS_sbcD [L] COG0420 DNA repair exonuclease,81.4,199,32
+OFBKKLGO_00993_group_847,BS_yisB [V] COG1403 Restriction endonuclease,83.7,98,16
+OFBKKLGO_01001_yisK,"BS_yisK [Q] COG0179 2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)",82.7,301,52
+OFBKKLGO_01005_asnO,BS_asnO [E] COG0367 Asparagine synthase (glutamine-hydrolyzing),86.3,590,81
+OFBKKLGO_01007_yeeO,BS_yisQ [V] COG0534 Na+-driven multidrug efflux pump,87.9,455,55
+OFBKKLGO_01016_yitJ,"BS_yitJ_2 [E] COG0685 5,10-methylenetetrahydrofolate reductase",86.4,332,44
+OFBKKLGO_01024_group_1434,BS_yitS [S] COG1307 Uncharacterized protein conserved in bacteria,74.8,282,71
+OFBKKLGO_01025_group_16150,BS_yitT [S] COG1284 Uncharacterized conserved protein,92.5,280,21
+OFBKKLGO_01029_yitU,BS_yitU [R] COG0561 Predicted hydrolases of the HAD superfamily,78.9,270,57
+OFBKKLGO_01030_group_5944,BS_yitV [R] COG1073 Hydrolases of the alpha/beta superfamily,74.4,254,65
+OFBKKLGO_01031_sufT,BS_yitW [R] COG2151 Predicted metal-sulfur cluster biosynthetic enzyme,94.1,102,6
+OFBKKLGO_01034_deoB,BS_drm [G] COG1015 Phosphopentomutase,84.0,81,13
+OFBKKLGO_01035_punA,BS_pnp [F] COG0005 Purine nucleoside phosphorylase,86.6,269,36
+OFBKKLGO_01037_spoIIAA,BS_spoIIAA [T] COG1366 Anti-anti-sigma regulatory factor (antagonist of anti-sigma factor),92.3,117,9
+OFBKKLGO_01038_spoIIAB,BS_spoIIAB [T] COG2172 Anti-sigma regulatory factor (Ser/Thr protein kinase),97.9,146,3
+OFBKKLGO_01039_sigF,BS_sigF [K] COG1191 DNA-directed RNA polymerase specialized sigma subunit,96.9,254,8
+OFBKKLGO_01048_ypuA,BS_ypuA [S] COG4086 Predicted secreted protein,84.8,289,44
+OFBKKLGO_01049_ppiB,BS_ppiB [O] COG0652 Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family,83.9,143,23
+OFBKKLGO_01051_sipS,BS_sipS [U] COG0681 Signal peptidase I,84.4,180,28
+OFBKKLGO_01054_ribD,"BS_ribG_2 [H] COG1985 Pyrimidine reductase, riboflavin biosynthesis",79.2,216,45
+OFBKKLGO_01055_ribE,BS_ribB [H] COG0307 Riboflavin synthase alpha chain,80.5,215,42
+OFBKKLGO_01056_ribBA,BS_ribA_2 [H] COG0807 GTP cyclohydrolase II,91.9,198,16
+OFBKKLGO_01057_ribH,BS_ribH [H] COG0054 Riboflavin synthase beta-chain,92.9,154,11
+OFBKKLGO_01061_scpA,BS_ypuG [S] COG1354 Uncharacterized conserved protein,88.8,251,28
+OFBKKLGO_01062_scpB,BS_ypuH [K] COG1386 Predicted transcriptional regulator containing the HTH domain,90.4,197,19
+OFBKKLGO_01064_dacB,BS_dacB [M] COG1686 D-alanyl-D-alanine carboxypeptidase,76.5,383,89
+OFBKKLGO_01065_spmA,"BS_spmA [R] COG2715 Uncharacterized membrane protein, required for spore maturation in B.subtilis.",93.9,196,12
+OFBKKLGO_01066_spmB,BS_spmB [S] COG0700 Uncharacterized membrane protein,85.5,179,25
+OFBKKLGO_01067_rluB,BS_ypuL [J] COG1187 16S rRNA uridine-516 pseudouridylate synthase and related pseudouridylate synthases,94.2,225,13
+OFBKKLGO_01068_resA_2,BS_resA [OC] COG0526 Thiol-disulfide isomerase and thioredoxins,83.5,139,23
+OFBKKLGO_01070_ccsA_1,"BS_resC [O] COG0755 ABC-type transport system involved in cytochrome c biogenesis, permease component",91.7,326,27
+OFBKKLGO_01072_resE,BH1581 [T] COG0642 Signal transduction histidine kinase,56.0,587,253
+OFBKKLGO_01073_sigX,"BS_sigX [K] COG1595 DNA-directed RNA polymerase specialized sigma subunit, sigma24 homolog",89.6,193,20
+OFBKKLGO_01075_serA,BS_serA [HE] COG0111 Phosphoglycerate dehydrogenase and related dehydrogenases,93.3,525,35
+OFBKKLGO_01077_fmnP,BS_ypaA [S] COG3601 Predicted membrane protein,89.2,185,20
+OFBKKLGO_01078_fer,BS_fer [C] COG1141 Ferredoxin,98.8,82,1
+OFBKKLGO_01080_dbpA_2,BS_recQ [L] COG0514 Superfamily II DNA helicase,70.2,460,137
+OFBKKLGO_01085_ypbG,BS_ypbG [R] COG1408 Predicted phosphohydrolases,68.7,259,80
+OFBKKLGO_01086_mecB,"BS_ypbH [OTN] COG4862 Negative regulator of genetic competence, sporulation and motility",90.2,194,19
+OFBKKLGO_01087_gudB,BS_ypcA [E] COG0334 Glutamate dehydrogenase/leucine dehydrogenase,93.9,427,22
+OFBKKLGO_01089_prsW,BS_ypdC [S] COG2339 Predicted membrane protein,92.2,218,17
+OFBKKLGO_01090_sleB,BS_sleB_2 [M] COG3773 Cell wall hydrolyses involved in spore germination,92.8,125,9
+OFBKKLGO_01094_cmk,BS_cmk [F] COG0283 Cytidylate kinase,84.8,224,34
+OFBKKLGO_01095_ypfD,BS_ypfD [J] COG0539 Ribosomal protein S1,94.0,382,19
+OFBKKLGO_01096_fni,BS_ypgA [C] COG1304 L-lactate dehydrogenase (FMN-dependent) and related alpha-hydroxy acid dehydrogenases,72.6,212,58
+OFBKKLGO_01099_der_2,BS_yphC [R] COG1160 Predicted GTPases,95.6,436,19
+OFBKKLGO_01100_gpsA,BS_gpsA [C] COG0240 Glycerol-3-phosphate dehydrogenase,85.8,345,49
+OFBKKLGO_01105_hupA,BS_hbs [L] COG0776 Bacterial nucleoid DNA-binding protein,100.0,92,0
+OFBKKLGO_01106_folE,BS_mtrA [H] COG0302 GTP cyclohydrolase I,95.3,190,9
+OFBKKLGO_01109_menG,BS_gerCB [H] COG2226 Methylase involved in ubiquinone/menaquinone biosynthesis,93.1,233,16
+OFBKKLGO_01110_hepT,BS_gerCC [H] COG0142 Geranylgeranyl pyrophosphate synthase,92.6,349,25
+OFBKKLGO_01111_ndk,BS_ndk [F] COG0105 Nucleoside diphosphate kinase,90.5,148,14
+OFBKKLGO_01112_cheR,BS_cheR [NT] COG1352 Methylase of chemotaxis methyl-accepting proteins,79.3,256,53
+OFBKKLGO_01113_aroC,BS_aroF [E] COG0082 Chorismate synthase,95.5,354,16
+OFBKKLGO_01114_aroB,BS_aroB [E] COG0337 3-dehydroquinate synthetase,73.8,362,95
+OFBKKLGO_01115_aroH,BS_aroH [E] COG4401 Chorismate mutase,83.5,127,21
+OFBKKLGO_01117_trpE,BS_trpE [EH] COG0147 Anthranilate/para-aminobenzoate synthases component I,76.9,515,119
+OFBKKLGO_01121_trpB,BS_trpB [E] COG0133 Tryptophan synthase beta chain,86.0,400,56
+OFBKKLGO_01122_trpA,BS_trpA [E] COG0159 Tryptophan synthase alpha chain,77.6,263,59
+OFBKKLGO_01123_hisC_2,BS_hisC [E] COG0079 Histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase,80.8,360,69
+OFBKKLGO_01124_group_4576,BS_tyrA [E] COG0287 Prephenate dehydrogenase,82.6,368,64
+OFBKKLGO_01125_aroA1,BS_aroE [E] COG0128 5-enolpyruvylshikimate-3-phosphate synthase,85.0,428,64
+OFBKKLGO_01126_bepA,BS_ypiA [R] COG0457 FOG: TPR repeat,84.4,423,66
+OFBKKLGO_01127_group_16284,BS_ypiB [S] COG5582 Uncharacterized conserved protein,93.9,179,11
+OFBKKLGO_01129_petC_2,BS_qcrA [C] COG0723 Rieske Fe-S protein,89.2,167,18
+OFBKKLGO_01130_qcrB,BS_qcrB [C] COG1290 Cytochrome b subunit of the bc complex,97.8,224,5
+OFBKKLGO_01131_petD,BS_qcrC_1 [C] COG1290 Cytochrome b subunit of the bc complex,94.4,126,7
+OFBKKLGO_01134_oxdC_1,BS_yvrK [GR] COG2140 Thermophilic glucose-6-phosphate isomerase and related metalloenzymes,67.0,376,124
+OFBKKLGO_01135_group_16169,BS_ypjC [S] COG1284 Uncharacterized conserved protein,91.2,215,19
+OFBKKLGO_01136_ypjD,BS_ypjD [R] COG1694 Predicted pyrophosphatase,91.0,111,10
+OFBKKLGO_01137_dapB,BS_dapB [E] COG0289 Dihydrodipicolinate reductase,90.6,267,25
+OFBKKLGO_01138_mgsA,BS_ypjF [G] COG1803 Methylglyoxal synthase,90.4,136,13
+OFBKKLGO_01139_bshB1_1,"BS_ypjG [S] COG2120 Uncharacterized proteins, LmbE homologs",79.5,215,44
+OFBKKLGO_01140_bshA,BS_ypjH [M] COG0438 Glycosyltransferase,87.0,377,49
+OFBKKLGO_01141_cca,BS_papS [J] COG0617 tRNA nucleotidyltransferase/poly(A) polymerase,64.7,397,139
+OFBKKLGO_01142_birA,BS_birA_2 [H] COG0340 Biotin-(acetyl-CoA carboxylase) ligase,80.7,244,47
+OFBKKLGO_01144_panB,BS_panB [H] COG0413 Ketopantoate hydroxymethyltransferase,90.3,277,27
+OFBKKLGO_01146_panD,BS_panD [H] COG0853 Aspartate 1-decarboxylase,92.1,127,10
+OFBKKLGO_01147_dinG,BS_dinG_2 [KL] COG1199 Rad3-related DNA helicases,69.3,707,215
+OFBKKLGO_01149_ypmB,BS_ypmB [S] COG5353 Uncharacterized protein conserved in bacteria,76.4,161,38
+OFBKKLGO_01151_asnS,BS_asnS [J] COG0017 Aspartyl/asparaginyl-tRNA synthetases,95.3,430,20
+OFBKKLGO_01152_dnaD,BS_dnaD [L] COG3935 Putative primosome component and related proteins,89.2,232,25
+OFBKKLGO_01153_nth,BS_nth [L] COG0177 Predicted EndoIII-related endonuclease,97.3,219,6
+OFBKKLGO_01156_recU,"BS_yppB [R] COG3331 Penicillin-binding protein-related factor A, putative recombinase",89.4,199,21
+OFBKKLGO_01164_crr,BS_ypqE [G] COG2190 Phosphotransferase system IIA components,73.8,168,44
+OFBKKLGO_01166_group_3553,BS_yprB [L] COG3359 Predicted exonuclease,72.2,413,114
+OFBKKLGO_01169_group_5973,BS_ypsA [S] COG4474 Uncharacterized protein conserved in bacteria,81.7,180,33
+OFBKKLGO_01170_gpsB,BS_ypsB [D] COG3599 Cell division initiation protein,98.0,98,2
+OFBKKLGO_01172_rlmL,BS_ypsC [L] COG0116 Predicted N6-adenine-specific DNA methylase,91.4,374,32
+OFBKKLGO_01176_yoaA,BS_ypvA [KL] COG1199 Rad3-related DNA helicases,90.1,638,61
+OFBKKLGO_01177_ypwA,BS_ypwA [E] COG2317 Zn-dependent carboxypeptidase,83.4,500,83
+OFBKKLGO_01179_xpt,BS_xpt [F] COG0503 Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins,85.6,194,28
+OFBKKLGO_01180_pucK,BS_pbuX [F] COG2233 Xanthine/uracil permeases,82.0,133,24
+OFBKKLGO_01387_ypcP,BS_ypcP [L] COG0258 5'-3' exonuclease (including N-terminal domain of PolI),85.3,293,43
+OFBKKLGO_01389_rnhA,BS_ypdQ [L] COG0328 Ribonuclease HI,86.8,129,17
+OFBKKLGO_01390_group_16277,BS_ypdP [S] COG1738 Uncharacterized conserved protein,86.2,225,31
+OFBKKLGO_01395_cspD,BS_cspD [K] COG1278 Cold shock proteins,98.5,66,1
+OFBKKLGO_01396_ugtP,BS_ypfP [M] COG0707 UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase,89.9,375,37
+OFBKKLGO_01397_metAA,BS_metB [E] COG1897 Homoserine trans-succinylase,90.4,218,21
+OFBKKLGO_01404_rsmJ,BS_ypiP [QR] COG0500 SAM-dependent methyltransferases,71.9,171,47
+OFBKKLGO_01406_thyA2,BS_thyB [F] COG0207 Thymidylate synthase,95.1,264,13
+OFBKKLGO_01407_group_1772,BS_dfrA [H] COG0262 Dihydrofolate reductase,76.4,161,38
+OFBKKLGO_01409_group_3569,"BS_yplQ [R] COG1272 Predicted membrane protein, hemolysin III homolog",84.9,212,32
+OFBKKLGO_01411_ilvA,BS_ilvA [E] COG1171 Threonine dehydratase,88.4,422,49
+OFBKKLGO_01413_ypmQ,"BS_ypmQ [R] COG1999 Uncharacterized protein SCO1/SenC/PrrC, involved in biogenesis of respiratory and photosynthetic systems",74.6,193,49
+OFBKKLGO_01432_group_1232,BS_cgeE [KR] COG0454 Histone acetyltransferase HPA2 and related acetyltransferases,67.2,259,85
+OFBKKLGO_01438_scoB_2,"BS_yodR [I] COG2057 Acyl CoA:acetate/3-ketoacid CoA transferase, beta subunit",78.2,216,47
+OFBKKLGO_01439_ylmB_2,BS_argE [E] COG0624 Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases,78.7,428,91
+OFBKKLGO_01441_kamA,"BS_yodO [E] COG1509 Lysine 2,3-aminomutase",90.7,472,42
+OFBKKLGO_01443_group_4622,BS_yozE [S] COG4479 Uncharacterized protein conserved in bacteria,83.3,72,12
+OFBKKLGO_01448_pgpB,BS_yodM [I] COG0671 Membrane-associated phospholipid phosphatase,56.2,203,89
+OFBKKLGO_01451_deoD,BS_deoD [F] COG0813 Purine-nucleoside phosphorylase,90.1,232,23
+OFBKKLGO_01452_yodJ,BS_yodJ [M] COG1876 D-alanyl-D-alanine carboxypeptidase,78.0,273,59
+OFBKKLGO_01455_ctpA,BS_ctpA [M] COG0793 Periplasmic protease,81.1,466,88
+OFBKKLGO_01459_yodF_2,BS_yodF [ER] COG0591 Na+/proline symporter,90.9,496,45
+OFBKKLGO_01461_mhqE,BS_yodE [E] COG0346 Lactoylglutathione lyase and related lyases,74.6,303,77
+OFBKKLGO_01462_mhqD,BS_yodD [R] COG0400 Predicted esterase,83.2,197,33
+OFBKKLGO_01463_yodC_1,BS_yodC [C] COG0778 Nitroreductase,84.7,202,31
+OFBKKLGO_01471_bshB2,"BS_yojGm [S] COG2120 Uncharacterized proteins, LmbE homologs",90.5,221,21
+OFBKKLGO_01473_norM,BS_yojI [V] COG0534 Na+-driven multidrug efflux pump,81.5,449,83
+OFBKKLGO_01475_oleD_2,"BS_yojK [GC] COG1819 Glycosyl transferases, related to UDP-glucuronosyltransferase",63.4,279,101
+OFBKKLGO_01478_group_6042,BS_yojN [R] COG0714 MoxR-like ATPases,87.5,296,37
+OFBKKLGO_01479_group_6043,BS_yojO [P] COG4548 Nitric oxide reductase activation protein,85.4,638,93
+OFBKKLGO_01480_odhA,"BS_odhA [C] COG0567 2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, and related enzymes",85.7,939,125
+OFBKKLGO_01481_odhB,"BS_odhB [C] COG0508 Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component, and related enzymes",93.8,417,24
+OFBKKLGO_01483_panS,BS_yocS [R] COG0385 Predicted Na+-dependent transporter,84.8,309,47
+OFBKKLGO_01485_group_4630,BS_sodF [P] COG0605 Superoxide dismutase,80.1,281,56
+OFBKKLGO_01492_yocM,BS_yocM [O] COG0071 Molecular chaperone (small heat shock protein),61.9,160,57
+OFBKKLGO_01495_yocK,BS_yocK [T] COG1734 DnaK suppressor protein,71.6,162,46
+OFBKKLGO_01496_azoR1,BS_yocJ [I] COG1182 Acyl carrier protein phosphodiesterase,89.9,208,21
+OFBKKLGO_01499_recQ,BS_yocI [L] COG0514 Superfamily II DNA helicase,82.8,592,101
+OFBKKLGO_01500_yocH,BS_yocH_1 [M] COG1388 FOG: LysM repeat,82.4,136,24
+OFBKKLGO_01505_group_4634,BS_yozB [S] COG2322 Predicted membrane protein,92.7,178,13
+OFBKKLGO_01506_group_16196,BS_yocA [M] COG0741 Soluble lytic murein transglycosylase and related regulatory proteins (some contain LysM/invasin domains),80.8,219,42
+OFBKKLGO_01507_czrA,BS_yozA [K] COG0640 Predicted transcriptional regulators,89.1,110,9
+OFBKKLGO_01512_csaA,BS_csaA [R] COG0073 EMAP domain,77.3,110,25
+OFBKKLGO_01528_ucpA,BS_yoxD [IQR] COG1028 Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases),89.1,238,26
+OFBKKLGO_01530_proC_1,BS_proH [E] COG0345 Pyrroline-5-carboxylate reductase,76.4,237,56
+OFBKKLGO_01531_proB_2,BS_proJ [E] COG0263 Glutamate 5-kinase,77.2,372,84
+OFBKKLGO_01532_gltC_2,BS_gltC [K] COG0583 Transcriptional regulator,91.3,300,26
+OFBKKLGO_01534_gltB,BS_gltB [ER] COG0493 NADPH-dependent glutamate synthase beta chain and related oxidoreductases,93.3,493,33
+OFBKKLGO_01539_hlyU,L133446 [K] COG0640 Predicted transcriptional regulators,47.0,100,53
+OFBKKLGO_01543_xerC_3,CAC1595 [L] COG0582 Integrase,41.0,183,99
+OFBKKLGO_01545_mepA,BS_yoeA [V] COG0534 Na+-driven multidrug efflux pump,83.9,459,74
+OFBKKLGO_01552_bcd,BS_yngJ [I] COG1960 Acyl-CoA dehydrogenases,87.6,380,47
+OFBKKLGO_01553_fadD3,BS_yngI [IQ] COG0318 Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II,73.9,545,142
+OFBKKLGO_01554_cfiB,BS_yngH [I] COG0439 Biotin carboxylase,74.6,441,112
+OFBKKLGO_01555_yngHB,BS_yngGa [I] COG0511 Biotin carboxyl carrier protein,78.8,66,14
+OFBKKLGO_01556_yngG,BS_yngG [E] COG0119 Isopropylmalate/homocitrate/citramalate synthases,68.5,298,94
+OFBKKLGO_01558_accD5,"BS_yngE [I] COG4799 Acetyl-CoA carboxylase, carboxyltransferase component (subunits alpha and beta)",84.5,509,79
+OFBKKLGO_01559_group_3597,BS_yngC [S] COG0586 Uncharacterized membrane-associated protein,81.7,191,35
+OFBKKLGO_01563_bioK,BS_bioA [H] COG0161 Adenosylmethionine-8-amino-7-oxononanoate aminotransferase,84.2,444,70
+OFBKKLGO_01566_bioB,BS_bioB [H] COG0502 Biotin synthase and related enzymes,88.3,333,39
+OFBKKLGO_01583_alsT_1,BS_alsT [E] COG1115 Na+/alanine symporter,84.8,461,70
+OFBKKLGO_01586_parC,"BS_grlA [L] COG0188 Type IIA topoisomerase (DNA gyrase/topo II, topoisomerase IV), A subunit",88.5,802,92
+OFBKKLGO_01587_parE,"BS_grlB [L] COG0187 Type IIA topoisomerase (DNA gyrase/topo II, topoisomerase IV), B subunit",95.7,627,27
+OFBKKLGO_01588_yccU,BS_yneT [R] COG1832 Predicted CoA-binding protein,85.9,135,19
+OFBKKLGO_01589_plsY,BS_yneS [S] COG0344 Predicted membrane protein,88.5,192,22
+OFBKKLGO_01592_group_4649,BS_ynePm [R] COG0824 Predicted thioesterase,89.9,129,13
+OFBKKLGO_01596_citB,BS_citB [C] COG1048 Aconitase A,93.7,908,57
+OFBKKLGO_01599_cotM,BS_cotM [O] COG0071 Molecular chaperone (small heat shock protein),67.2,125,37
+OFBKKLGO_01601_group_6060,BS_yneJ [O] COG4846 Membrane protein involved in cytochrome C biogenesis,85.6,160,23
+OFBKKLGO_01602_cheY_2,BS_yneI [T] COG0784 FOG: CheY-like receiver,85.7,119,17
+OFBKKLGO_01603_group_5123,BS_ccdA [O] COG0785 Cytochrome c biogenesis protein,80.0,230,46
+OFBKKLGO_01605_group_15763,BS_yneF [S] COG3763 Uncharacterized protein conserved in bacteria,98.6,72,1
+OFBKKLGO_01607_tkt,BS_tkt [G] COG0021 Transketolase,90.3,667,65
+OFBKKLGO_01608_group_6062,BS_ynzC [S] COG4224 Uncharacterized protein conserved in bacteria,85.7,77,11
+OFBKKLGO_01609_yneB,"BS_yneB [L] COG1961 Site-specific recombinases, DNA invertase Pin homologs",86.9,214,28
+OFBKKLGO_01610_yneA,BS_yneA [M] COG1388 FOG: LysM repeat,66.0,103,35
+OFBKKLGO_01611_lexA,BS_lexA [KT] COG1974 SOS-response transcriptional repressors (RecA-mediated autopeptidases),92.7,206,14
+OFBKKLGO_01619_yncF,BS_yncF [F] COG0756 dUTPase,89.6,144,15
+OFBKKLGO_01625_gbpA,L11456 [S] COG3397 Uncharacterized protein conserved in bacteria,61.8,204,73
+OFBKKLGO_01637_adh,SA0562 [R] COG1064 Zn-dependent alcohol dehydrogenases,75.6,336,82
+OFBKKLGO_01657_glnA,BS_glnA [E] COG0174 Glutamine synthetase,97.3,444,12
+OFBKKLGO_01658_glnR,BS_glnR [K] COG0789 Predicted transcriptional regulators,93.3,135,7
+OFBKKLGO_01659_group_6076,BS_ynbB [P] COG4100 Cystathionine beta-lyase family protein involved in aluminum resistance,88.8,421,47
+OFBKKLGO_01660_hflX,BS_ynbA [R] COG2262 GTPases,90.7,300,28
+OFBKKLGO_01665_nrdF,"BS_nrdF [F] COG0208 Ribonucleotide reductase, beta subunit",94.5,329,18
+OFBKKLGO_01666_nrdE,"BS_nrdE [F] COG0209 Ribonucleotide reductase, alpha subunit",95.0,700,35
+OFBKKLGO_01670_hfq,BS_ymaH [R] COG1923 Uncharacterized host factor I protein,95.9,73,3
+OFBKKLGO_01671_miaA,BS_miaA [J] COG0324 tRNA delta(2)-isopentenylpyrophosphate transferase,81.8,314,57
+OFBKKLGO_01674_ebrA,BS_ebrA [P] COG2076 Membrane transporters of cations and cationic drugs,73.1,104,28
+OFBKKLGO_01675_ebrB,BS_ebrB [P] COG2076 Membrane transporters of cations and cationic drugs,67.8,115,37
+OFBKKLGO_01676_group_4659,"BS_ymaD [O] COG1764 Predicted redox protein, regulator of disulfide bond formation",78.1,146,32
+OFBKKLGO_01679_aprX,BS_aprX [O] COG1404 Subtilisin-like serine proteases,81.6,440,81
+OFBKKLGO_01683_pksS,BS_pksS [Q] COG2124 Cytochrome P450,75.0,368,92
+OFBKKLGO_01690_pksH,BS_pksH [I] COG1024 Enoyl-CoA hydratase/carnithine racemase,66.4,256,85
+OFBKKLGO_01691_pksG_1,BS_pksG [I] COG3425 3-hydroxy-3-methylglutaryl CoA synthase,82.3,345,61
+OFBKKLGO_01692_acpK,BS_pksDa [IQ] COG0236 Acyl carrier protein,67.9,81,26
+OFBKKLGO_01696_baeC,BS_pksC [I] COG0331 (acyl-carrier-protein) S-malonyltransferase,72.8,287,78
+OFBKKLGO_01697_baeB,"BS_pksB [R] COG0491 Zn-dependent hydrolases, including glyoxylases",66.2,225,76
+OFBKKLGO_01698_mutL,BS_mutL [L] COG0323 DNA mismatch repair enzyme (predicted ATPase),86.4,632,74
+OFBKKLGO_01699_mutS,BS_mutS [L] COG0249 Mismatch repair ATPase (MutS family),88.1,860,99
+OFBKKLGO_01701_ymcA,BS_ymcA [S] COG4550 Predicted membrane protein,92.3,143,11
+OFBKKLGO_01702_miaB,BS_ymcB [J] COG0621 2-methylthioadenine synthetase,95.1,509,25
+OFBKKLGO_01703_group_6081,BS_kbl [H] COG0156 7-keto-8-aminopelargonate synthetase and related enzymes,84.9,390,59
+OFBKKLGO_01704_tdh_1,BS_tdh [ER] COG1063 Threonine dehydrogenase and related Zn-dependent dehydrogenases,77.3,348,78
+OFBKKLGO_01705_spoVS,BS_spoVS [S] COG2359 Uncharacterized protein conserved in bacteria,100.0,86,0
+OFBKKLGO_01706_ymdB,BS_ymdB [S] COG1692 Uncharacterized protein conserved in bacteria,93.9,264,16
+OFBKKLGO_01707_rny,BS_ymdA [R] COG1418 Predicted HD superfamily hydrolase,98.8,520,5
+OFBKKLGO_01708_pbpX,BS_pbpX [V] COG1680 Beta-lactamase class C and other penicillin binding proteins,65.0,391,136
+OFBKKLGO_01709_recA,BS_recA [L] COG0468 RecA/RadA recombinase,96.6,348,10
+OFBKKLGO_01710_cinA,BS_cinA_1 [R] COG1058 Predicted nucleotide-utilizing enzyme related to molybdopterin-biosynthesis enzyme MoeA,93.3,240,16
+OFBKKLGO_01711_pgsA,BS_pgsA [I] COG0558 Phosphatidylglycerophosphate synthase,89.6,193,20
+OFBKKLGO_01715_fabG_2,BS_ymfI [IQR] COG1028 Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases),71.9,242,68
+OFBKKLGO_01716_group_4665,BS_ymfH [R] COG0612 Predicted Zn-dependent peptidases,86.1,409,57
+OFBKKLGO_01718_smc_4,lin1189 [R] COG2409 Predicted drug exporters of the RND superfamily,48.9,1072,498
+OFBKKLGO_01720_ymfD,BH3309 [GEPR] COG0477 Permeases of the major facilitator superfamily,53.0,389,182
+OFBKKLGO_01721_nagR_1,BS_ymfC [K] COG2188 Transcriptional regulators,87.6,241,30
+OFBKKLGO_01724_tepA,BS_ymfB [OU] COG0740 Protease subunit of ATP-dependent Clp proteases,89.6,241,25
+OFBKKLGO_01725_rnjB,BS_ymfA [R] COG0595 Predicted hydrolase of the metallo-beta-lactamase superfamily,92.8,515,37
+OFBKKLGO_01726_dapA_2,BS_dapA [EM] COG0329 Dihydrodipicolinate synthase/N-acetylneuraminate lyase,92.4,290,21
+OFBKKLGO_01727_lysC_1,BS_dapG [E] COG0527 Aspartokinases,90.1,404,40
+OFBKKLGO_01728_asd,BS_asd [E] COG0136 Aspartate-semialdehyde dehydrogenase,92.2,346,27
+OFBKKLGO_01729_dpaB,BS_spoVFB [H] COG0452 Phosphopantothenoylcysteine synthetase/decarboxylase,83.4,193,32
+OFBKKLGO_01731_group_16156,BS_ymxH [S] COG1873 Uncharacterized conserved protein,92.9,85,6
+OFBKKLGO_01732_group_16296,BS_ymxG [R] COG0612 Predicted Zn-dependent peptidases,89.0,409,45
+OFBKKLGO_01733_group_4667,BS_ylxY [G] COG0726 Predicted xylanase/chitin deacetylase,82.1,319,57
+OFBKKLGO_01734_pnp_2,BS_pnpA [J] COG1185 Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase),96.2,704,27
+OFBKKLGO_01735_rpsO,BS_rpsO [J] COG0184 Ribosomal protein S15P/S13E,98.9,89,1
+OFBKKLGO_01736_ribF,BS_ribC [H] COG0196 FAD synthase,83.3,312,52
+OFBKKLGO_01737_truB,BS_truB [J] COG0130 Pseudouridine synthase,82.8,309,53
+OFBKKLGO_01738_rbfA,BS_rbfA [J] COG0858 Ribosome-binding factor A,94.0,117,7
+OFBKKLGO_01739_group_3632,BS_ylxP [S] COG1550 Uncharacterized protein conserved in bacteria,91.3,92,8
+OFBKKLGO_01740_infB,BS_infB [J] COG0532 Translation initiation factor 2 (IF-2; GTPase),96.5,716,24
+OFBKKLGO_01741_rplGA,BS_ylxQ [J] COG1358 Ribosomal protein HS6-type (S12/L30/L7a),96.0,100,4
+OFBKKLGO_01742_group_6092,BS_ylxR [K] COG2740 Predicted nucleic-acid-binding protein implicated in transcription termination,93.4,91,6
+OFBKKLGO_01743_nusA,BS_nusA [K] COG0195 Transcription elongation factor,94.9,373,17
+OFBKKLGO_01744_rimP,BS_ylxS [S] COG0779 Uncharacterized protein conserved in bacteria,92.3,156,12
+OFBKKLGO_01747_rasP,BS_yluC [M] COG0750 Predicted membrane-associated Zn-dependent proteases 1,93.6,420,27
+OFBKKLGO_01748_dxr,BS_yluB [I] COG0743 1-deoxy-D-xylulose 5-phosphate reductoisomerase,86.8,363,48
+OFBKKLGO_01749_group_16246,BS_cdsA [I] COG0575 CDP-diglyceride synthetase,78.9,266,52
+OFBKKLGO_01750_uppS,BS_yluA [I] COG0020 Undecaprenyl pyrophosphate synthase,90.4,260,25
+OFBKKLGO_01751_frr,BS_frr [J] COG0233 Ribosome recycling factor,91.9,185,15
+OFBKKLGO_01752_pyrH,BS_smbA [F] COG0528 Uridylate kinase,97.1,240,7
+OFBKKLGO_01753_tsf,BS_tsf [J] COG0264 Translation elongation factor Ts,94.2,293,17
+OFBKKLGO_01754_rpsB,BS_rpsB [J] COG0052 Ribosomal protein S2,98.8,246,3
+OFBKKLGO_01756_sigD,BS_sigD [K] COG1191 DNA-directed RNA polymerase specialized sigma subunit,97.2,254,7
+OFBKKLGO_01757_cheD,BS_cheD [NT] COG1871 Chemotaxis protein; stimulates methylation of MCP proteins,88.0,166,20
+OFBKKLGO_01758_cheC,"BS_cheC [NT] COG1776 Chemotaxis protein CheC, inhibitor of MCP methylation",88.0,209,25
+OFBKKLGO_01759_cheW,BS_cheW [NT] COG0835 Chemotaxis signal transduction protein,82.1,151,27
+OFBKKLGO_01760_cheA,BS_cheA [NT] COG0643 Chemotaxis protein histidine kinase and related kinases,85.7,677,84
+OFBKKLGO_01761_cheB,BS_cheB [NT] COG2201 Chemotaxis response regulator containing a CheY-like receiver domain and a methylesterase domain,74.9,362,77
+OFBKKLGO_01762_ylxH,BS_ylxH [D] COG0455 ATPases involved in chromosome partitioning,68.4,291,92
+OFBKKLGO_01764_flhA,"BS_flhA [NU] COG1298 Flagellar biosynthesis pathway, component FlhA",91.3,677,59
+OFBKKLGO_01765_flhB_2,"BS_flhB [NU] COG1377 Flagellar biosynthesis pathway, component FlhB",86.9,359,47
+OFBKKLGO_01766_fliR,"BS_fliR [NU] COG1684 Flagellar biosynthesis pathway, component FliR",84.6,259,40
+OFBKKLGO_01767_fliQ,"BS_fliQ [NU] COG1987 Flagellar biosynthesis pathway, component FliQ",92.0,88,7
+OFBKKLGO_01768_fliP,"BS_fliP [NU] COG1338 Flagellar biosynthesis pathway, component FliP",93.2,221,15
+OFBKKLGO_01769_group_6101,BS_fliZ [N] COG3190 Flagellar biogenesis protein,73.2,220,55
+OFBKKLGO_01770_cheY_1,BS_cheY [T] COG0784 FOG: CheY-like receiver,94.2,120,7
+OFBKKLGO_01772_fliM,BS_fliM [N] COG1868 Flagellar motor switch protein,94.8,330,17
+OFBKKLGO_01773_group_4675,BS_fliL [N] COG1580 Flagellar basal body-associated protein,72.1,140,38
+OFBKKLGO_01774_flgG_1,BS_flgE [N] COG4786 Flagellar basal body rod protein,72.3,264,67
+OFBKKLGO_01775_group_1458,BS_ylxG [N] COG1843 Flagellar hook capping protein,63.9,144,47
+OFBKKLGO_01777_group_6103,BS_ylxF [S] COG3334 Uncharacterized conserved protein,59.8,169,58
+OFBKKLGO_01778_fliJ,BS_fliJ [NUO] COG2882 Flagellar biosynthesis chaperone,89.8,147,15
+OFBKKLGO_01779_yscN,BS_fliI [NU] COG1157 Flagellar biosynthesis/type III secretory pathway ATPase,91.5,425,35
+OFBKKLGO_01781_fliG,BS_fliG [N] COG1536 Flagellar motor switch protein,94.4,338,19
+OFBKKLGO_01782_group_4676,BS_fliF [NU] COG1766 Flagellar biosynthesis/type III secretory pathway lipoprotein,77.6,536,120
+OFBKKLGO_01783_fliE,BS_fliE [NU] COG1677 Flagellar hook-basal body protein,84.9,106,16
+OFBKKLGO_01784_flgC,BS_flgC [N] COG1558 Flagellar basal body rod protein,84.7,150,23
+OFBKKLGO_01787_codY,BS_codY [K] COG4465 Pleiotropic transcriptional repressor,99.6,259,1
+OFBKKLGO_01788_clpY,"BS_clpY [O] COG1220 ATP-dependent protease HslVU (ClpYQ), ATPase subunit",93.4,467,31
+OFBKKLGO_01789_clpQ,"BS_clpQ [O] COG5405 ATP-dependent protease HslVU (ClpYQ), peptidase subunit",92.3,181,14
+OFBKKLGO_01790_xerC_1,BS_codV [L] COG4974 Site-specific recombinase XerD,88.4,303,35
+OFBKKLGO_01791_trmFO,BS_gid [J] COG1206 NAD(FAD)-utilizing enzyme possibly involved in translation,94.5,435,24
+OFBKKLGO_01792_topA,BS_topA_1 [L] COG0550 Topoisomerase IA,94.4,550,31
+OFBKKLGO_01793_dprA,BS_smf [LU] COG0758 Predicted Rossmann fold nucleotide-binding protein involved in DNA uptake,70.9,299,85
+OFBKKLGO_01794_sucD,"BS_sucD [C] COG0074 Succinyl-CoA synthetase, alpha subunit",97.3,300,8
+OFBKKLGO_01795_sucC,"BS_sucC [C] COG0045 Succinyl-CoA synthetase, beta subunit",98.2,385,7
+OFBKKLGO_01796_flhB_1,BS_ylqH [S] COG2257 Uncharacterized homolog of the cytoplasmic domain of flagellar protein FhlB,86.0,93,13
+OFBKKLGO_01798_rnhB,BS_rnh [L] COG0164 Ribonuclease HII,79.5,254,52
+OFBKKLGO_01799_rbgA,BS_ylqF [R] COG1161 Predicted GTPases,90.7,281,26
+OFBKKLGO_01800_rplS,BS_rplS [J] COG0335 Ribosomal protein L19,99.1,115,1
+OFBKKLGO_01802_trmD,BS_trmD [J] COG0336 tRNA-(guanine-N1)-methyltransferase,89.3,243,26
+OFBKKLGO_01803_rimM,"BS_ylqE [J] COG0806 RimM protein, required for 16S rRNA processing",83.3,174,29
+OFBKKLGO_01805_group_16096,BS_ylqC [R] COG1837 Predicted RNA-binding protein (contains KH domain),85.2,81,12
+OFBKKLGO_01806_rpsP,BS_rpsP [J] COG0228 Ribosomal protein S16,98.9,90,1
+OFBKKLGO_01807_ffh,BS_ffh [U] COG0541 Signal recognition particle GTPase,96.2,446,17
+OFBKKLGO_01808_group_15882,BS_ylxM [S] COG2739 Uncharacterized protein conserved in bacteria,93.6,110,7
+OFBKKLGO_01809_ftsY,BS_ftsY [U] COG0552 Signal recognition particle GTPase,94.8,329,17
+OFBKKLGO_01810_smc_3,BS_smc [D] COG1196 Chromosome segregation ATPases,81.8,1186,216
+OFBKKLGO_01811_rnc,BS_rncS [K] COG0571 dsRNA-specific ribonuclease,96.0,249,10
+OFBKKLGO_01812_acpA,BS_acpA [IQ] COG0236 Acyl carrier protein,100.0,77,0
+OFBKKLGO_01813_fabG_1,BS_fabG [IQR] COG1028 Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases),91.5,246,21
+OFBKKLGO_01814_fabD,BS_fabD [I] COG0331 (acyl-carrier-protein) S-malonyltransferase,89.9,317,32
+OFBKKLGO_01815_plsX,BS_plsX [I] COG0416 Fatty acid/phospholipid biosynthesis enzyme,87.7,333,40
+OFBKKLGO_01816_fapR,"BS_ylpC [Q] COG2050 Uncharacterized protein, possibly involved in aromatic compounds catabolism",91.0,188,17
+OFBKKLGO_01817_recG,BS_ylpB [LK] COG1200 RecG-like helicase,89.6,682,71
+OFBKKLGO_01818_sdhA,BS_ylpA [E] COG1760 L-serine deaminase,93.3,300,20
+OFBKKLGO_01819_sdhB,BS_yloW [E] COG1760 L-serine deaminase,92.3,220,17
+OFBKKLGO_01820_group_4680,BS_yloV [R] COG1461 Predicted kinase related to dihydroxyacetone kinase,80.4,556,105
+OFBKKLGO_01821_group_6112,BS_yloU [S] COG1302 Uncharacterized protein conserved in bacteria,94.1,119,7
+OFBKKLGO_01822_rpmB,BS_rpmB [J] COG0227 Ribosomal protein L28,95.2,62,3
+OFBKKLGO_01824_rpe,BS_yloR [G] COG0036 Pentose-5-phosphate-3-epimerase,88.9,217,24
+OFBKKLGO_01825_rsgA,BS_yloQ [R] COG1162 Predicted GTPases,81.9,298,52
+OFBKKLGO_01826_prkC,BS_yloP_1 [RTKL] COG0515 Serine/threonine protein kinase,82.8,331,55
+OFBKKLGO_01828_rlmN,BS_yloN [R] COG0820 Predicted Fe-S-cluster redox enzyme,94.8,363,19
+OFBKKLGO_01829_rsmB,BS_yloM [J] COG0144 tRNA and rRNA cytosine-C5-methylases,84.1,447,71
+OFBKKLGO_01830_fmt,BS_fmt [J] COG0223 Methionyl-tRNA formyltransferase,83.9,311,50
+OFBKKLGO_01831_def1,BS_def [J] COG0242 N-formylmethionyl-tRNA deformylase,83.8,160,26
+OFBKKLGO_01833_undec1A,BS_yloI [H] COG0452 Phosphopantothenoylcysteine synthetase/decarboxylase,81.0,401,75
+OFBKKLGO_01834_rpoZ,"BS_yloH [K] COG1758 DNA-directed RNA polymerase, subunit K/omega",95.5,67,3
+OFBKKLGO_01835_gmk,BS_yloD [F] COG0194 Guanylate kinase,93.9,212,13
+OFBKKLGO_01836_remA,BS_yloBa [S] COG2052 Uncharacterized protein conserved in bacteria,98.9,89,1
+OFBKKLGO_01837_group_6120,BS_yloC [S] COG1561 Uncharacterized stress-induced protein,77.7,291,65
+OFBKKLGO_01838_yloB,BS_yloB [P] COG0474 Cation transport ATPase,84.8,890,135
+OFBKKLGO_01839_rqcH,BS_yloA [K] COG1293 Predicted RNA-binding protein homologous to eukaryotic snRNP,86.7,570,75
+OFBKKLGO_01843_sumT,BS_ylnD [H] COG0007 Uroporphyrinogen-III methylase,86.0,257,36
+OFBKKLGO_01844_cysC,BS_ylnC [P] COG0529 Adenylylsulfate kinase and related kinases,89.3,197,21
+OFBKKLGO_01846_cysP,BS_cysP [P] COG0306 Phosphate/sulphate permeases,87.3,354,45
+OFBKKLGO_01847_cysH,BS_cysH [EH] COG0175 3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase and related enzymes,91.0,233,21
+OFBKKLGO_01849_pyrE,BS_pyrE [F] COG0461 Orotate phosphoribosyltransferase,85.7,210,30
+OFBKKLGO_01850_pyrF,BS_pyrF [F] COG0284 Orotidine-5'-phosphate decarboxylase,80.3,238,47
+OFBKKLGO_01851_pyrD,BS_pyrD [F] COG0167 Dihydroorotate dehydrogenase,89.7,311,32
+OFBKKLGO_01852_pyrK,BS_pyrDII [HC] COG0543 2-polyprenylphenol hydroxylase and related flavodoxin oxidoreductases,82.0,256,46
+OFBKKLGO_01853_carB_2,BS_pyrAB [EF] COG0458 Carbamoylphosphate synthase large subunit (split gene in MJ),92.7,1071,78
+OFBKKLGO_01854_carA_2,BS_pyrAA [EF] COG0505 Carbamoylphosphate synthase small subunit,94.0,364,22
+OFBKKLGO_01855_pyrC,BS_pyrC [F] COG0044 Dihydroorotase and related cyclic amidohydrolases,81.1,429,79
+OFBKKLGO_01856_pyrB,"BS_pyrB [F] COG0540 Aspartate carbamoyltransferase, catalytic chain",78.9,304,64
+OFBKKLGO_01858_pyrP,BS_pyrP [F] COG2233 Xanthine/uracil permeases,86.2,441,46
+OFBKKLGO_01860_pyrR,BS_pyrR [F] COG2065 Pyrimidine operon attenuation protein/uracil phosphoribosyltransferase,93.9,181,11
+OFBKKLGO_01862_rluD_2,"BS_ylyB [J] COG0564 Pseudouridylate synthases, 23S RNA-specific",85.4,274,39
+OFBKKLGO_01863_lspA,BS_lsp [MU] COG0597 Lipoprotein signal peptidase,86.2,152,21
+OFBKKLGO_01864_group_3643,BS_ylyA [T] COG1734 DnaK suppressor protein,73.4,124,32
+OFBKKLGO_01866_divIVA,BS_divIVA [D] COG3599 Cell division initiation protein,97.0,164,5
+OFBKKLGO_01867_group_6128,"BS_ylmH [S] COG2302 Uncharacterized conserved protein, contains S4-like domain",81.3,257,47
+OFBKKLGO_01868_group_16070,BS_ylmG [S] COG0762 Predicted integral membrane protein,93.3,89,6
+OFBKKLGO_01869_sepF,BS_ylmF [S] COG1799 Uncharacterized protein conserved in bacteria,88.7,151,14
+OFBKKLGO_01870_yggS,BS_ylmE [R] COG0325 Predicted enzyme with a TIM-barrel fold,80.4,230,45
+OFBKKLGO_01871_group_2823,BS_ylmD [S] COG1496 Uncharacterized conserved protein,69.8,278,84
+OFBKKLGO_01872_ylmC,BS_ylmC [S] COG1873 Uncharacterized conserved protein,92.4,79,6
+OFBKKLGO_01875_ylmA,"BS_ylmA [P] COG1119 ABC-type molybdenum transport system, ATPase component/photorepair protein PhrA",85.3,259,38
+OFBKKLGO_01876_sigG,BS_sigG [K] COG1191 DNA-directed RNA polymerase specialized sigma subunit,97.3,260,7
+OFBKKLGO_01877_sigE,BS_sigE [K] COG1191 DNA-directed RNA polymerase specialized sigma subunit,96.2,239,9
+OFBKKLGO_01881_ftsA,BS_ftsA [D] COG0849 Actin-like ATPase involved in cell division,85.9,446,48
+OFBKKLGO_01882_divIB,BS_divIB [M] COG1589 Cell division septal protein,79.0,262,55
+OFBKKLGO_01883_murB,BS_murB [M] COG0812 UDP-N-acetylmuramate dehydrogenase,86.8,303,40
+OFBKKLGO_01884_murG_1,BS_murG [M] COG0707 UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase,90.1,363,36
+OFBKKLGO_01885_ftsW_2,BS_spoVE [D] COG0772 Bacterial cell division membrane protein,96.5,341,12
+OFBKKLGO_01886_murD,BS_murD [M] COG0771 UDP-N-acetylmuramoylalanine-D-glutamate ligase,86.9,451,59
+OFBKKLGO_01887_mraY,BS_mraY [M] COG0472 UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase,92.0,324,26
+OFBKKLGO_01888_murE,BS_murE [M] COG0769 UDP-N-acetylmuramyl tripeptide synthase,87.7,489,60
+OFBKKLGO_01889_spoVD,BS_spoVD [M] COG0768 Cell division protein FtsI/penicillin-binding protein 2,91.8,638,51
+OFBKKLGO_01890_pbpB,BS_pbpB [M] COG0768 Cell division protein FtsI/penicillin-binding protein 2,82.1,714,122
+OFBKKLGO_01891_ftsL,BS_ftsL [D] COG4839 Protein required for the initiation of cell division,84.6,117,18
+OFBKKLGO_01892_rsmH_1,BS_ylxA [M] COG0275 Predicted S-adenosylmethionine-dependent methyltransferase involved in cell envelope biogenesis,94.2,311,18
+OFBKKLGO_01893_mraZ,BS_yllB [S] COG2001 Uncharacterized protein conserved in bacteria,98.6,143,2
+OFBKKLGO_01894_bshC,BS_yllA [S] COG4365 Uncharacterized protein conserved in bacteria,82.2,540,94
+OFBKKLGO_01896_ylbP,BS_ylbP [KR] COG0454 Histone acetyltransferase HPA2 and related acetyltransferases,86.1,158,22
+OFBKKLGO_01898_rpmF,BS_rpmF [J] COG0333 Ribosomal protein L32,100.0,59,0
+OFBKKLGO_01899_group_4690,"BS_ylbN [R] COG1399 Predicted metal-binding, possibly nucleic acid-binding protein",88.4,172,20
+OFBKKLGO_01901_ylbL,BS_ylbL [T] COG3480 Predicted secreted protein containing a PDZ domain,84.3,338,53
+OFBKKLGO_01902_group_16235,BS_ylbK [R] COG1752 Predicted esterase of the alpha-beta hydrolase superfamily,86.9,259,34
+OFBKKLGO_01903_ylbJ,BS_ylbJ [S] COG3314 Uncharacterized protein conserved in bacteria,80.4,408,80
+OFBKKLGO_01904_coaD,BS_ylbI [H] COG0669 Phosphopantetheine adenylyltransferase,91.8,159,13
+OFBKKLGO_01905_rsmD,BS_ylbH [L] COG0742 N6-adenine-specific methylase,81.7,164,30
+OFBKKLGO_01907_group_4692,BS_ylbG [S] COG4471 Uncharacterized protein conserved in bacteria,88.9,90,10
+OFBKKLGO_01908_group_6139,BS_ylbF [S] COG3679 Uncharacterized conserved protein,87.9,149,18
+OFBKKLGO_01911_group_4693,BS_ylbC [S] COG2340 Uncharacterized protein with SCP/PR1 domains,77.7,345,76
+OFBKKLGO_01912_hrp1_2,BS_ylbB [R] COG0517 FOG: CBS domain,84.1,138,22
+OFBKKLGO_01914_group_4694,BS_ctaG [S] COG3336 Predicted membrane protein,73.9,295,74
+OFBKKLGO_01915_caaD,"BS_ctaF [C] COG3125 Heme/copper-type cytochrome/quinol oxidase, subunit 4",78.2,110,24
+OFBKKLGO_01916_ctaE,"BS_ctaE [C] COG1845 Heme/copper-type cytochrome/quinol oxidase, subunit 3",88.9,207,23
+OFBKKLGO_01917_ctaD,"BS_ctaD [C] COG0843 Heme/copper-type cytochrome/quinol oxidases, subunit 1",89.9,622,63
+OFBKKLGO_01918_ctaC,"BS_ctaC_1 [C] COG1622 Heme/copper-type cytochrome/quinol oxidases, subunit 2",87.3,251,32
+OFBKKLGO_01919_ctaB2,BS_ctaB [O] COG0109 Polyprenyltransferase (cytochrome oxidase assembly factor),95.7,305,13
+OFBKKLGO_01920_ctaA,BS_ctaA [O] COG1612 Uncharacterized protein required for cytochrome oxidase assembly,85.2,305,45
+OFBKKLGO_01921_pycA,BS_pycA [C] COG1038 Pyruvate carboxylase,90.8,1148,106
+OFBKKLGO_01922_ftsW_1,BS_ylaO [D] COG0772 Bacterial cell division membrane protein,80.6,403,78
+OFBKKLGO_01923_group_15755,BS_ylaN [S] COG4838 Uncharacterized protein conserved in bacteria,90.3,93,9
+OFBKKLGO_01924_glsA2,BS_ylaM [E] COG2066 Glutaminase,82.5,309,54
+OFBKKLGO_01926_group_4697,BS_ylaK [T] COG1875 Predicted ATPase related to phosphate starvation-inducible protein PhoH,91.2,442,39
+OFBKKLGO_01928_group_2826,BS_ylaI [S] COG4896 Uncharacterized protein conserved in bacteria,81.2,69,12
+OFBKKLGO_01930_typA,BS_ylaG [T] COG1217 Predicted membrane GTPase involved in stress response,96.9,612,19
+OFBKKLGO_01935_npr,BS_nprE [E] COG3227 Zinc metalloprotease (elastase),82.9,520,89
+OFBKKLGO_01939_group_6143,BS_yktB [S] COG4493 Uncharacterized protein conserved in bacteria,85.7,210,30
+OFBKKLGO_01940_group_2832,BS_yktA [S] COG4476 Uncharacterized protein conserved in bacteria,84.1,88,14
+OFBKKLGO_01941_speA_2,BS_cad [E] COG1982 Arginine/lysine/ornithine decarboxylases,90.8,490,45
+OFBKKLGO_01946_pdhC_2,"BS_pdhC [C] COG0508 Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component, and related enzymes",96.8,443,12
+OFBKKLGO_01947_pdhB,"BS_pdhB [C] COG0022 Pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, eukaryotic type, beta subunit",97.8,325,7
+OFBKKLGO_01951_defB,BS_ykrB [J] COG0242 N-formylmethionyl-tRNA deformylase,90.8,184,17
+OFBKKLGO_01953_group_6150,BS_ykzG [S] COG5503 Uncharacterized conserved small protein,94.2,69,4
+OFBKKLGO_01954_rnjA,BS_ykqC [R] COG0595 Predicted hydrolase of the metallo-beta-lactamase superfamily,97.5,555,14
+OFBKKLGO_01955_adeC,BS_adeC [F] COG1001 Adenine deaminase,78.3,577,125
+OFBKKLGO_01956_ktrA_1,"BS_ykqB [P] COG0569 K+ transport systems, NAD-binding component",95.0,221,11
+OFBKKLGO_01957_ykqA,BS_ykqA_2 [P] COG3703 Uncharacterized protein involved in cation transport,73.5,151,40
+OFBKKLGO_01958_sasA_1,BS_kinC_2 [T] COG0642 Signal transduction histidine kinase,74.0,246,64
+OFBKKLGO_01959_abh,BS_abh [K] COG2002 Regulators of stationary/sporulation gene expression,88.0,92,11
+OFBKKLGO_01962_group_16025,BS_ampS [E] COG2309 Leucyl aminopeptidase (aminopeptidase T),87.3,410,52
+OFBKKLGO_01963_group_735,BS_ykpB [H] COG1893 Ketopantoate reductase,75.5,302,74
+OFBKKLGO_01964_ybiT_3,BS_ykpA [R] COG0488 ATPase components of ABC transporters with duplicated ATPase domains,96.3,539,20
+OFBKKLGO_01966_sipT,BS_sipT [U] COG0681 Signal peptidase I,85.5,193,28
+OFBKKLGO_01967_fruA,"BS_fruA_3 [G] COG1299 Phosphotransferase system, fructose-specific IIC component",94.1,339,20
+OFBKKLGO_01968_lacC,BS_fruB [G] COG1105 Fructose-1-phosphate kinase and related fructose-6-phosphate kinase (PfkB),87.8,303,37
+OFBKKLGO_01969_lacR_2,BS_fruR [KG] COG1349 Transcriptional regulators of sugar metabolism,88.0,251,30
+OFBKKLGO_01970_yknZ,"BS_yknZ [V] COG0577 ABC-type antimicrobial peptide transport system, permease component",80.4,397,78
+OFBKKLGO_01971_yknY,"BS_yknY [V] COG1136 ABC-type antimicrobial peptide transport system, ATPase component",85.7,230,33
+OFBKKLGO_01975_moaE,"BS_moaE [H] COG0314 Molybdopterin converting factor, large subunit",87.7,154,19
+OFBKKLGO_01977_moeA,BS_moeA [H] COG0303 Molybdopterin biosynthesis enzyme,82.1,429,77
+OFBKKLGO_01978_group_3657,BS_moeB [H] COG0476 Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 2,79.6,339,69
+OFBKKLGO_01985_ykuT,BS_ykuT [M] COG0668 Small-conductance mechanosensitive channel,76.3,257,61
+OFBKKLGO_01987_ykuR,BS_ykuR [R] COG1473 Metal-dependent amidase/aminoacylase/carboxypeptidase,88.5,374,43
+OFBKKLGO_01988_dapH_1,BS_ykuQ [E] COG2171 Tetrahydrodipicolinate N-succinyltransferase,90.3,236,23
+OFBKKLGO_01991_group_1798,BS_ykuN [C] COG0716 Flavodoxins,65.8,158,53
+OFBKKLGO_01992_hdfR,BS_ykuM [K] COG0583 Transcriptional regulator,95.2,293,14
+OFBKKLGO_01993_ykuL,BS_ykuL [R] COG0517 FOG: CBS domain,93.9,147,9
+OFBKKLGO_01995_group_3659,BS_ykuK [S] COG1978 Uncharacterized protein conserved in bacteria,86.6,172,23
+OFBKKLGO_01996_ykuJ,BS_ykuJ [S] COG4703 Uncharacterized protein conserved in bacteria,97.5,79,2
+OFBKKLGO_01998_ykuI,BS_ykuI_1 [T] COG2200 FOG: EAL domain,90.4,240,23
+OFBKKLGO_02000_fadH,BS_ykuF [IQR] COG1028 Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases),94.5,254,14
+OFBKKLGO_02002_ykuD,BS_ykuD [S] COG1376 Uncharacterized protein conserved in bacteria,76.2,164,39
+OFBKKLGO_02003_group_4712,BS_ykuC [GEPR] COG0477 Permeases of the major facilitator superfamily,84.0,430,69
+OFBKKLGO_02005_cheV,BS_cheV_1 [NT] COG0835 Chemotaxis signal transduction protein,88.9,162,18
+OFBKKLGO_02007_dapX_1,BS_patA [E] COG0436 Aspartate/tyrosine/aromatic aminotransferase,88.9,389,42
+OFBKKLGO_02010_group_998,BS_ykwD [S] COG2340 Uncharacterized protein with SCP/PR1 domains,76.7,258,59
+OFBKKLGO_02012_glxR,BS_ykwC [I] COG2084 3-hydroxyisobutyrate dehydrogenase and related beta-hydroxyacid dehydrogenases,85.1,288,43
+OFBKKLGO_02013_mcpC,BS_mcpC [NT] COG0840 Methyl-accepting chemotaxis protein,65.0,655,228
+OFBKKLGO_02014_splB,BS_splB [L] COG1533 DNA repair photolyase,95.0,342,17
+OFBKKLGO_02016_ptsI,BS_ptsI [G] COG1080 Phosphoenolpyruvate-protein kinase (PTS system EI component in bacteria),93.0,569,20
+OFBKKLGO_02017_ptsH,"BS_ptsH [G] COG1925 Phosphotransferase system, HPr-related proteins",100.0,88,0
+OFBKKLGO_02018_ptsG,"BS_ptsG_1 [G] COG1263 Phosphotransferase system IIC components, glucose/maltose/N-acetylglucosamine-specific",93.3,431,29
+OFBKKLGO_02019_glcT,BS_glcT [K] COG3711 Transcriptional antiterminator,76.9,273,63
+OFBKKLGO_02021_group_3664,BS_ykvY [E] COG0006 Xaa-Pro aminopeptidase,82.9,363,62
+OFBKKLGO_02022_zosA,BS_ykvW [P] COG2217 Cation transport ATPase,79.4,637,131
+OFBKKLGO_02024_ykvU,BS_ykvU [R] COG2244 Membrane protein involved in the export of O-antigen and teichoic acid,93.3,446,29
+OFBKKLGO_02027_group_6170,BS_ykvS [S] COG4873 Uncharacterized protein conserved in bacteria,96.7,61,2
+OFBKKLGO_02030_queE_2,BS_ykvL [O] COG0602 Organic radical activating enzymes,86.4,243,33
+OFBKKLGO_02031_queD,BS_ykvK [H] COG0720 6-pyruvoyl-tetrahydropterin synthase,90.4,146,14
+OFBKKLGO_02032_queC,BS_ykvJ [R] COG0603 Predicted PP-loop superfamily ATPase,93.6,218,14
+OFBKKLGO_02036_group_6171,BS_ykvI [S] COG3949 Uncharacterized membrane protein,75.7,345,84
+OFBKKLGO_02037_clpE,"BS_clpE [O] COG0542 ATPases with chaperone activity, ATP-binding subunit",87.8,699,84
+OFBKKLGO_02038_pomA_1,BS_motA [N] COG1291 Flagellar motor component,90.4,271,25
+OFBKKLGO_02040_mhqR_2,BS_ykvE [K] COG1846 Transcriptional regulators,91.0,144,13
+OFBKKLGO_02041_kinD,BS_ykvD [T] COG0642 Signal transduction histidine kinase,75.4,495,121
+OFBKKLGO_02045_mtnX,"BS_ykrX [E] COG4359 Uncharacterized conserved protein, possibly involved in methylthioadenosine recycling",72.8,228,62
+OFBKKLGO_02046_mtnW,"BS_ykrW [G] COG1850 Ribulose 1,5-bisphosphate carboxylase, large subunit",85.9,405,56
+OFBKKLGO_02051_mtnK,BS_ykrT [R] COG4857 Predicted kinase,77.3,397,87
+OFBKKLGO_02052_mtnA,"BS_ykrS [J] COG0182 Predicted translation initiation factor 2B subunit, eIF-2B alpha/beta/delta family",83.6,347,57
+OFBKKLGO_02055_kinE,BS_ykrQ_3 [T] COG0642 Signal transduction histidine kinase,82.6,258,45
+OFBKKLGO_02056_group_6178,BS_ykrP [G] COG3594 Fucose 4-O-acetylase and related acetyltransferases,83.5,340,56
+OFBKKLGO_02059_ktrB,"BS_ykrM [P] COG0168 Trk-type K+ transport systems, membrane components",88.2,450,52
+OFBKKLGO_02060_htpX_2,BS_ykrL [O] COG0501 Zn-dependent protease with chaperone function,88.3,298,34
+OFBKKLGO_02065_group_4724,"BS_ykoY [P] COG0861 Membrane protein TerC, possibly involved in tellurium resistance",83.3,246,41
+OFBKKLGO_02068_ku,BS_ykoV [S] COG1273 Uncharacterized conserved protein,80.4,296,53
+OFBKKLGO_02071_mhqR_1,BS_ykoM [K] COG1846 Transcriptional regulators,96.1,153,6
+OFBKKLGO_02074_tnrA,BS_tnrA [K] COG0789 Predicted transcriptional regulators,93.6,110,7
+OFBKKLGO_02075_mgtE,BS_ykoK [P] COG2239 Mg/Co/Ni transporter MgtE (contains CBS domain),85.4,451,66
+OFBKKLGO_02078_ydhD,BS_ydhD [R] COG3858 Predicted glycosyl hydrolase,69.2,419,129
+OFBKKLGO_02080_ykoE,BS_ykoE [S] COG4721 Predicted membrane protein,76.4,199,47
+OFBKKLGO_02082_ykoC,"BS_ykoC [P] COG0619 ABC-type cobalt transport system, permease component CbiQ and related transporters",74.6,252,64
+OFBKKLGO_02084_isp,BS_ispA [O] COG1404 Subtilisin-like serine proteases,89.0,318,35
+OFBKKLGO_02086_metE_1,BS_metC [E] COG0620 Methionine synthase II (cobalamin-independent),89.2,762,82
+OFBKKLGO_02093_ohrB,"BS_ykzA [O] COG1764 Predicted redox protein, regulator of disulfide bond formation",82.4,136,24
+OFBKKLGO_02095_ohrA,"BS_yklA [O] COG1764 Predicted redox protein, regulator of disulfide bond formation",80.1,141,28
+OFBKKLGO_02096_proA,BS_proA [E] COG0014 Gamma-glutamyl phosphate reductase,80.9,414,79
+OFBKKLGO_02097_proB_1,BS_proB [E] COG0263 Glutamate 5-kinase,87.4,365,46
+OFBKKLGO_02098_purU,BS_ykkE [F] COG0788 Formyltetrahydrofolate hydrolase,89.7,300,31
+OFBKKLGO_02099_gdnD,BS_ykkD [P] COG2076 Membrane transporters of cations and cationic drugs,81.7,104,19
+OFBKKLGO_02103_group_15917,BS_ykhA [I] COG1607 Acyl-CoA hydrolase,92.6,136,10
+OFBKKLGO_02105_pgl,BS_ykgB [G] COG2706 3-carboxymuconate cyclase,77.9,349,77
+OFBKKLGO_02109_ykfA,"BS_ykfA [V] COG1619 Uncharacterized proteins, homologs of microcin C7 resistance protein MccF",79.6,225,46
+OFBKKLGO_02110_dppE,"BS_dppE [E] COG4166 ABC-type oligopeptide transport system, periplasmic component",80.2,469,93
+OFBKKLGO_02112_oppD_4,"BS_dppD [EP] COG0444 ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component",79.6,324,66
+OFBKKLGO_02113_dppC,"BS_dppC [EP] COG1173 ABC-type dipeptide/oligopeptide/nickel transport systems, permease components",86.6,320,38
+OFBKKLGO_02114_dppB_3,"BS_dppB [EP] COG0601 ABC-type dipeptide/oligopeptide/nickel transport systems, permease components",89.5,306,32
+OFBKKLGO_02115_dppA,BS_dppA [E] COG2362 D-aminopeptidase,83.9,274,44
+OFBKKLGO_02117_htrA_1,"BS_htrA [O] COG0265 Trypsin-like serine proteases, typically periplasmic, contain C-terminal PDZ domain",76.1,456,95
+OFBKKLGO_02119_group_2845,BS_ykcC [M] COG0463 Glycosyltransferases involved in cell wall biogenesis,90.4,323,31
+OFBKKLGO_02121_mhqA,BS_ykcA [E] COG0346 Lactoylglutathione lyase and related lyases,83.5,316,52
+OFBKKLGO_02122_steT,BS_ykbA [E] COG0531 Amino acid transporters,83.3,438,73
+OFBKKLGO_02123_group_6197,BS_ykaA [P] COG1392 Phosphate transport regulator (distant homolog of PhoU),97.6,205,5
+OFBKKLGO_02124_group_6198,BS_ykaB [P] COG0306 Phosphate/sulphate permeases,91.2,307,26
+OFBKKLGO_02127_xlyA,BS_xlyA_1 [M] COG5632 N-acetylmuramoyl-L-alanine amidase,79.2,159,33
+OFBKKLGO_02162_xre,BS_xre [K] COG1396 Predicted transcriptional regulators,86.7,113,14
+OFBKKLGO_02168_rapA_1,BS_rapA [R] COG0457 FOG: TPR repeat,89.6,376,39
+OFBKKLGO_02170_group_6204,BS_yjnA [R] COG0730 Predicted permeases,81.1,254,48
+OFBKKLGO_02175_exuR,BS_yjmH [K] COG1609 Transcriptional regulators,83.1,332,56
+OFBKKLGO_02177_yjlD,"BS_yjlD [C] COG1252 NADH dehydrogenase, FAD-containing subunit",94.6,392,21
+OFBKKLGO_02178_yjlC,BS_yjlC [S] COG2427 Uncharacterized conserved protein,94.9,137,7
+OFBKKLGO_02182_fetB,"BS_yjkA [R] COG0390 ABC-type uncharacterized transport system, permease component",83.9,248,40
+OFBKKLGO_02183_group_2244,BS_yjjA [H] COG1587 Uroporphyrinogen-III synthase,71.2,267,77
+OFBKKLGO_02193_sapB_2,lin2751 [S] COG1285 Uncharacterized membrane protein,49.8,217,100
+OFBKKLGO_02204_yjcS,BS_yjcS [S] COG1359 Uncharacterized conserved protein,92.5,93,7
+OFBKKLGO_02299_metC,BS_yjcJ [E] COG0626 Cystathionine beta-lyases/cystathionine gamma-synthases,90.0,390,39
+OFBKKLGO_02300_metI,BS_yjcI [E] COG0626 Cystathionine beta-lyases/cystathionine gamma-synthases,90.9,373,34
+OFBKKLGO_02302_group_6232,BS_yjcH [P] COG2382 Enterochelin esterase and related enzymes,74.6,240,61
+OFBKKLGO_02303_yjcG,BS_yjcG [J] COG1514 2'-5' RNA ligase,80.7,171,33
+OFBKKLGO_02304_yjcF,BS_yjcF [KR] COG0454 Histone acetyltransferase HPA2 and related acetyltransferases,74.8,139,35
+OFBKKLGO_02305_group_2859,CAP0091 [K] COG2002 Regulators of stationary/sporulation gene expression,58.0,69,28
+OFBKKLGO_02310_yjcD,BS_yjcD [L] COG0210 Superfamily I DNA and RNA helicases,77.9,755,166
+OFBKKLGO_02322_fabI,BS_yjbW [I] COG0623 Enoyl-[acyl-carrier-protein] reductase (NADH),95.0,258,13
+OFBKKLGO_02323_thiD,BS_yjbV [H] COG0351 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase,79.6,269,55
+OFBKKLGO_02324_group_1818,BS_yjbU [H] COG0476 Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 2,80.7,336,65
+OFBKKLGO_02325_thiG,BS_yjbT [H] COG2022 Uncharacterized enzyme of thiazole biosynthesis,95.3,254,12
+OFBKKLGO_02326_thiS,BS_yjbS [H] COG2104 Sulfur transfer protein involved in thiamine biosynthesis,68.2,66,21
+OFBKKLGO_02328_tenI,BS_tenI [H] COG0352 Thiamine monophosphate synthase,68.3,205,65
+OFBKKLGO_02329_tenA,BS_tenA [K] COG0819 Putative transcription activator,84.3,235,37
+OFBKKLGO_02331_kefB,"BS_yjbQ_1 [P] COG0475 Kef-type K+ transport systems, membrane components",90.8,400,37
+OFBKKLGO_02332_prpE,BS_yjbP [T] COG0639 Diadenosine tetraphosphatase and related serine/threonine protein phosphatases,84.7,242,37
+OFBKKLGO_02334_ppnKA,BS_yjbN [G] COG0061 Predicted sugar kinase,95.5,266,12
+OFBKKLGO_02335_yjbM,BS_yjbM [S] COG2357 Uncharacterized protein conserved in bacteria,94.3,211,12
+OFBKKLGO_02339_yjbI,BS_yjbI [R] COG2346 Truncated hemoglobins,94.7,131,7
+OFBKKLGO_02340_group_6237,BS_yjbH [Q] COG2761 Predicted dithiol-disulfide isomerase involved in polyketide biosynthesis,88.3,265,30
+OFBKKLGO_02343_pepF1_1,BS_yjbG [E] COG1164 Oligoendopeptidase F,89.0,609,67
+OFBKKLGO_02345_mecA,"BS_mecA [OTN] COG4862 Negative regulator of genetic competence, sporulation and motility",89.9,218,22
+OFBKKLGO_02346_group_3701,"BS_yjbE [P] COG0861 Membrane protein TerC, possibly involved in tellurium resistance",78.9,218,46
+OFBKKLGO_02347_spxA,"BS_yjbD [P] COG1393 Arsenate reductase and related proteins, glutaredoxin family",98.5,131,2
+OFBKKLGO_02350_oppF_3,"BS_oppF [E] COG4608 ABC-type oligopeptide transport system, ATPase component",95.4,304,14
+OFBKKLGO_02351_oppD_3,"BS_oppD [EP] COG0444 ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component",91.5,355,30
+OFBKKLGO_02352_oppC_2,"BS_oppC [EP] COG1173 ABC-type dipeptide/oligopeptide/nickel transport systems, permease components",96.1,305,12
+OFBKKLGO_02353_oppB,"BS_oppB [EP] COG0601 ABC-type dipeptide/oligopeptide/nickel transport systems, permease components",91.6,311,26
+OFBKKLGO_02356_trpS,BS_trpS [J] COG0180 Tryptophanyl-tRNA synthetase,93.0,330,23
+OFBKKLGO_02362_oppD_2,"BS_appD [EP] COG0444 ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component",89.3,326,35
+OFBKKLGO_02364_fabF_2,BS_yjaY [IQ] COG0304 3-oxoacyl-(acyl-carrier-protein) synthase,93.0,412,29
+OFBKKLGO_02365_fabHA,BS_yjaX [I] COG0332 3-oxoacyl-[acyl-carrier-protein] synthase III,92.0,312,25
+OFBKKLGO_02368_group_4783,"BS_med [R] COG1744 Uncharacterized ABC-type transport system, periplasmic component/surface lipoprotein",76.6,286,67
+OFBKKLGO_02373_argF,BS_argF [E] COG0078 Ornithine carbamoyltransferase,82.9,316,50
+OFBKKLGO_02375_carA_1,BS_carA [EF] COG0505 Carbamoylphosphate synthase small subunit,79.9,353,70
+OFBKKLGO_02376_argD,BS_argD [E] COG4992 Ornithine/acetylornithine aminotransferase,79.5,385,79
+OFBKKLGO_02378_argJ,BS_argJ [E] COG1364 N-acetylglutamate synthase (N-acetylornithine aminotransferase),83.3,406,67
+OFBKKLGO_02379_argC,BS_argC [E] COG0002 Acetylglutamate semialdehyde dehydrogenase,75.4,346,84
+OFBKKLGO_02380_mdtG,BS_yitZ [GEPR] COG0477 Permeases of the major facilitator superfamily,80.2,162,32
+OFBKKLGO_02383_xerD,BS_ripX [L] COG4974 Site-specific recombinase XerD,89.5,296,31
+OFBKKLGO_02385_fur,BS_fur [P] COG0735 Fe2+/Zn2+ uptake regulation proteins,96.0,149,6
+OFBKKLGO_02386_spoIIM,BS_spoIIM [S] COG1300 Uncharacterized membrane protein,82.2,214,38
+OFBKKLGO_02389_group_16170,BS_mleA [C] COG0281 Malic enzyme,89.9,434,44
+OFBKKLGO_02390_mleN,BS_mleN [C] COG1757 Na+/H+ antiporter,87.4,467,59
+OFBKKLGO_02391_aspA,BS_ansB [E] COG1027 Aspartate ammonia-lyase,94.3,475,27
+OFBKKLGO_02393_group_4787,BS_ansR [K] COG1396 Predicted transcriptional regulators,75.0,116,28
+OFBKKLGO_02394_group_2875,BS_yqxK [S] COG1379 Uncharacterized conserved protein,74.2,287,74
+OFBKKLGO_02395_nudF,BS_yqkG [LR] COG0494 NTP pyrophosphohydrolases including oxidative damage repair enzymes,85.6,181,26
+OFBKKLGO_02397_yajO,BS_yqkF [C] COG0667 Predicted oxidoreductases (related to aryl-alcohol dehydrogenases),82.0,306,55
+OFBKKLGO_02401_group_6249,BS_yqkB [S] COG4918 Uncharacterized protein conserved in bacteria,86.0,107,15
+OFBKKLGO_02404_yqjY,BS_yqjY [KR] COG0454 Histone acetyltransferase HPA2 and related acetyltransferases,88.5,156,18
+OFBKKLGO_02405_group_3709,BS_yqjW [L] COG0389 Nucleotidyltransferase/DNA polymerase involved in DNA repair,67.5,406,131
+OFBKKLGO_02408_group_1468,BH2921 [R] COG0628 Predicted permease,46.4,360,185
+OFBKKLGO_02410_coaA,BS_yqjS [H] COG1072 Panthothenate kinase,92.5,293,22
+OFBKKLGO_02412_hcaB,BS_yqjQ [R] COG0300 Short-chain dehydrogenases of various substrate specificities,72.6,259,70
+OFBKKLGO_02413_gloB_2,"BS_yqjP [R] COG0491 Zn-dependent hydrolases, including glyoxylases",58.2,318,133
+OFBKKLGO_02414_proC_2,BS_yqjO [E] COG0345 Pyrroline-5-carboxylate reductase,78.3,276,60
+OFBKKLGO_02418_rutD_2,BS_yqjL [R] COG0596 Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily) ,65.8,257,84
+OFBKKLGO_02420_rnz,BS_yqjK [R] COG1234 Metal-dependent hydrolases of the beta-lactamase superfamily III,83.4,307,50
+OFBKKLGO_02421_zwf,BS_yqjJ [G] COG0364 Glucose-6-phosphate 1-dehydrogenase,90.4,489,47
+OFBKKLGO_02422_gndA,BS_yqjI [G] COG0362 6-phosphogluconate dehydrogenase,98.3,406,7
+OFBKKLGO_02423_dinB_2,BS_yqjH [L] COG0389 Nucleotidyltransferase/DNA polymerase involved in DNA repair,82.3,412,73
+OFBKKLGO_02425_misCB,BS_yqjG [U] COG0706 Preprotein translocase subunit YidC,81.5,275,49
+OFBKKLGO_02426_pepT_1,BS_yqjE [E] COG2195 Di- and tripeptidases,91.7,109,9
+OFBKKLGO_02428_pccB,"BS_yqjD [I] COG4799 Acetyl-CoA carboxylase, carboxyltransferase component (subunits alpha and beta)",75.9,490,116
+OFBKKLGO_02429_epi,BS_yqjC [E] COG0346 Lactoylglutathione lyase and related lyases,52.8,142,65
+OFBKKLGO_02432_group_6258,BS_yqjA [S] COG4129 Predicted membrane protein,90.8,316,29
+OFBKKLGO_02433_artM,"BS_yqiZ [E] COG1126 ABC-type polar amino acid transport system, ATPase component",88.8,240,27
+OFBKKLGO_02434_artQ,"BS_yqiY [E] COG0765 ABC-type amino acid transport system, permease component",90.4,219,21
+OFBKKLGO_02435_artP,"BS_yqiX [ET] COG0834 ABC-type amino acid transport/signal transduction systems, periplasmic component/domain",82.4,255,45
+OFBKKLGO_02437_bmrU,BS_bmrU [IR] COG1597 Sphingosine kinase and enzymes related to eukaryotic diacylglycerol kinase,68.0,294,94
+OFBKKLGO_02438_pdhC_3,"BS_bfmBB [C] COG0508 Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component, and related enzymes",80.4,429,69
+OFBKKLGO_02439_bfmBAB,"BS_bfmBAB [C] COG0022 Pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, eukaryotic type, beta subunit",95.7,327,14
+OFBKKLGO_02440_bfmBAA,"BS_bfmBAA [C] COG1071 Pyruvate/2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, eukaryotic type, alpha subunit",87.9,330,40
+OFBKKLGO_02441_lpd,"BS_yqiV [C] COG1249 Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3) component, and related enzymes",83.2,452,75
+OFBKKLGO_02442_buk2,BS_yqiU [C] COG3426 Butyrate kinase,84.4,360,56
+OFBKKLGO_02443_ldh_1,BS_yqiT [E] COG0334 Glutamate dehydrogenase/leucine dehydrogenase,95.3,364,17
+OFBKKLGO_02444_pta_1,BS_yqiS [C] COG0280 Phosphotransacetylase,76.7,296,69
+OFBKKLGO_02445_norR_2,"BS_yqiR [KT] COG3829 Transcriptional regulator containing PAS, AAA-type ATPase, and DNA-binding domains",86.6,692,90
+OFBKKLGO_02449_mmgD,BS_mmgD [C] COG0372 Citrate synthase,72.7,363,99
+OFBKKLGO_02450_mmgC,BS_mmgC [I] COG1960 Acyl-CoA dehydrogenases,77.1,376,85
+OFBKKLGO_02452_mmgA,BS_mmgA [I] COG0183 Acetyl-CoA acetyltransferase,76.0,391,94
+OFBKKLGO_02454_lytC_1,BS_yqiI [M] COG0860 N-acetylmuramoyl-L-alanine amidase,71.4,203,57
+OFBKKLGO_02464_spo0A_2,BS_spo0A_1 [T] COG0784 FOG: CheY-like receiver,94.2,120,7
+OFBKKLGO_02467_argR,BS_ahrC [K] COG1438 Arginine repressor,91.3,149,13
+OFBKKLGO_02468_tlyA,BS_yqxC [J] COG1189 Predicted rRNA methylase,87.5,248,31
+OFBKKLGO_02470_group_3720,BS_yqiD [H] COG0142 Geranylgeranyl pyrophosphate synthase,86.3,270,37
+OFBKKLGO_02471_xseB,BS_yqiC [L] COG1722 Exonuclease VII small subunit,92.6,54,4
+OFBKKLGO_02472_xseA,"BS_yqiB [L] COG1570 Exonuclease VII, large subunit",85.4,446,65
+OFBKKLGO_02473_folD,"BS_folD [H] COG0190 5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase",92.2,283,22
+OFBKKLGO_02474_nusB,BS_yqhZ [K] COG0781 Transcription termination factor,88.3,128,15
+OFBKKLGO_02475_group_6270,BS_yqhY [S] COG1302 Uncharacterized protein conserved in bacteria,90.4,135,13
+OFBKKLGO_02476_accC,BS_accC [I] COG0439 Biotin carboxylase,94.2,450,26
+OFBKKLGO_02477_accB,BS_accB [I] COG0511 Biotin carboxyl carrier protein,79.4,160,31
+OFBKKLGO_02485_group_6272,BS_spoIIIAA [S] COG3854 Uncharacterized protein conserved in bacteria,76.5,307,72
+OFBKKLGO_02487_efp,BS_efp [J] COG0231 Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A),97.8,185,4
+OFBKKLGO_02488_ypdF,BS_yqhT [E] COG0006 Xaa-Pro aminopeptidase,87.0,353,46
+OFBKKLGO_02490_group_3725,BS_yqhQ [R] COG3872 Predicted metal-dependent enzyme,85.2,318,47
+OFBKKLGO_02492_group_6275,BS_yqhO [R] COG1752 Predicted esterase of the alpha-beta hydrolase superfamily,83.8,291,47
+OFBKKLGO_02493_mntR,BS_yqhN [K] COG1321 Mn-dependent transcriptional regulator,95.7,139,6
+OFBKKLGO_02494_lipM,BS_yqhM [H] COG0095 Lipoate-protein ligase A,91.7,278,23
+OFBKKLGO_02495_glpE,BS_yqhL [P] COG0607 Rhodanese-related sulfurtransferase,89.5,124,13
+OFBKKLGO_02496_gcvPB,"BS_yqhK [E] COG1003 Glycine cleavage system protein P (pyridoxal-binding), C-terminal domain",91.5,484,41
+OFBKKLGO_02497_gcvPA,"BS_yqhJ [E] COG0403 Glycine cleavage system protein P (pyridoxal-binding), N-terminal domain",83.0,448,76
+OFBKKLGO_02500_rapA_2,"BS_yqhH [KL] COG0553 Superfamily II DNA/RNA helicases, SNF2 family",87.6,557,68
+OFBKKLGO_02503_sinR,BS_sinR [K] COG1396 Predicted transcriptional regulators,97.3,111,3
+OFBKKLGO_02512_group_880,"BS_comGD [NU] COG2165 Type II secretory pathway, pseudopilin PulG",56.1,139,57
+OFBKKLGO_02513_comGC,BS_comGC [U] COG4537 Competence protein ComGC,77.1,96,22
+OFBKKLGO_02514_epsF_1,"BS_comGB [NU] COG1459 Type II secretory pathway, component PulF",66.9,323,107
+OFBKKLGO_02516_group_3729,BS_yqxL [P] COG0598 Mg2+ and Co2+ transporters,68.5,308,97
+OFBKKLGO_02519_mgsR_1,"BS_yqgZ [P] COG1393 Arsenate reductase and related proteins, glutaredoxin family",85.4,123,18
+OFBKKLGO_02521_group_6283,"BS_yqgX [R] COG0491 Zn-dependent hydrolases, including glyoxylases",82.1,212,37
+OFBKKLGO_02523_group_6284,SA1376 [S] COG0011 Uncharacterized conserved protein,68.0,103,33
+OFBKKLGO_02527_glcK,BS_glcK [KG] COG1940 Transcriptional regulator/sugar kinase,82.6,321,55
+OFBKKLGO_02529_nhaC_2,BS_nhaC [C] COG1757 Na+/H+ antiporter,82.0,417,75
+OFBKKLGO_02532_rpmGA,BS_yqgNa [J] COG0267 Ribosomal protein L33,95.9,49,2
+OFBKKLGO_02535_pstB3_2,"BS_yqgK [P] COG1117 ABC-type phosphate transport system, ATPase component",75.7,259,63
+OFBKKLGO_02536_pstB3_3,"BS_yqgJ [P] COG1117 ABC-type phosphate transport system, ATPase component",85.5,269,38
+OFBKKLGO_02537_pstA,"BS_yqgI [P] COG0581 ABC-type phosphate transport system, permease component",88.8,294,33
+OFBKKLGO_02538_pstC,"BS_yqgH [P] COG0573 ABC-type phosphate transport system, permease component",88.7,309,35
+OFBKKLGO_02539_pstS1,"BS_pstS [P] COG0226 ABC-type phosphate transport system, periplasmic component",84.3,300,47
+OFBKKLGO_02541_group_3734,BS_yqgE [GEPR] COG0477 Permeases of the major facilitator superfamily,87.7,430,52
+OFBKKLGO_02542_sodA,BS_sodA [P] COG0605 Superoxide dismutase,92.0,200,15
+OFBKKLGO_02543_group_3735,BS_yqgC [S] COG2839 Uncharacterized protein conserved in bacteria,85.6,160,23
+OFBKKLGO_02546_ispG,BS_yqfY [I] COG0821 Enzyme involved in the deoxyxylulose pathway of isoprenoid biosynthesis,97.1,375,11
+OFBKKLGO_02548_group_2896,BS_yqfW [S] COG5663 Uncharacterized conserved protein,80.8,193,37
+OFBKKLGO_02549_zur,BS_zur [P] COG0735 Fe2+/Zn2+ uptake regulation proteins,89.6,135,14
+OFBKKLGO_02553_cshB,BS_yqfR [LKJ] COG0513 Superfamily II DNA and RNA helicases,89.0,438,48
+OFBKKLGO_02555_ispH,BS_yqfP [IM] COG0761 Penicillin tolerance protein,91.1,314,28
+OFBKKLGO_02556_group_2897,BS_yqfO_1 [S] COG0327 Uncharacterized conserved protein,86.8,129,17
+OFBKKLGO_02557_trmK,BS_yqfN [R] COG2384 Predicted SAM-dependent methyltransferase,77.7,215,47
+OFBKKLGO_02558_cccA,"BS_cccA [C] COG2010 Cytochrome c, mono- and diheme variants",85.8,120,17
+OFBKKLGO_02559_sigA,"BS_sigA [K] COG0568 DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)",98.1,373,5
+OFBKKLGO_02560_dnaG,BS_dnaG [L] COG0358 DNA primase (bacterial type),86.7,603,80
+OFBKKLGO_02561_group_4814,BS_yqxD [S] COG1671 Uncharacterized protein conserved in bacteria,79.6,162,33
+OFBKKLGO_02562_yqfL,BS_yqfL [S] COG1806 Uncharacterized protein conserved in bacteria,95.5,268,12
+OFBKKLGO_02563_ccpN,BS_yqzB [R] COG0517 FOG: CBS domain,94.3,212,12
+OFBKKLGO_02564_glyS,"BS_glyS [J] COG0751 Glycyl-tRNA synthetase, beta subunit",83.1,679,115
+OFBKKLGO_02565_glyQ,"BS_glyQ [J] COG0752 Glycyl-tRNA synthetase, alpha subunit",97.6,295,7
+OFBKKLGO_02566_recO,BS_yqxN [L] COG1381 Recombinational DNA repair protein (RecF pathway),89.8,255,26
+OFBKKLGO_02568_era,BS_bex [R] COG1159 GTPase,96.7,301,10
+OFBKKLGO_02569_cdd,BS_cdd [F] COG0295 Cytidine deaminase,91.9,136,11
+OFBKKLGO_02570_dgkA,BS_dgkA [M] COG0818 Diacylglycerol kinase,77.7,112,25
+OFBKKLGO_02571_ybeY,BS_yqfG [R] COG0319 Predicted metal-dependent hydrolase,83.4,157,26
+OFBKKLGO_02572_pgpH,BS_yqfF [R] COG1480 Predicted membrane-associated HD superfamily hydrolase,87.5,710,89
+OFBKKLGO_02573_group_6298,"BS_phoH [T] COG1702 Phosphate starvation-inducible protein PhoH, predicted ATPase",90.6,318,30
+OFBKKLGO_02577_group_16331,BS_yqfA [S] COG4864 Uncharacterized protein conserved in bacteria,92.7,328,24
+OFBKKLGO_02578_group_3747,BS_yqeZ [O] COG1030 Membrane-bound serine protease (ClpP class),77.8,432,96
+OFBKKLGO_02579_yqeY,BS_yqeY [S] COG1610 Uncharacterized conserved protein,95.3,148,7
+OFBKKLGO_02580_rpsU,BS_rpsU [J] COG0828 Ribosomal protein S21,100.0,57,0
+OFBKKLGO_02582_mtaB,BS_yqeV [J] COG0621 2-methylthioadenine synthetase,93.6,451,29
+OFBKKLGO_02583_rsmE,BS_yqeU [S] COG1385 Uncharacterized protein conserved in bacteria,77.0,256,59
+OFBKKLGO_02584_prmA,BS_yqeT [J] COG2264 Ribosomal protein L11 methylase,93.6,311,20
+OFBKKLGO_02585_dnaJ,BS_dnaJ [O] COG0484 DnaJ-class molecular chaperone with C-terminal Zn finger domain,89.9,375,35
+OFBKKLGO_02587_dnaK,BS_dnaK [O] COG0443 Molecular chaperone,97.4,611,15
+OFBKKLGO_02588_grpE,BS_grpE [O] COG0576 Molecular chaperone GrpE (heat shock protein),80.3,188,36
+OFBKKLGO_02589_hrcA,BS_hrcA [K] COG1420 Transcriptional regulator of heat shock gene,91.3,343,30
+OFBKKLGO_02591_lepA,BS_lepA [M] COG0481 Membrane GTPase LepA,97.1,611,18
+OFBKKLGO_02595_rpsT,BS_rpsT [J] COG0268 Ribosomal protein S20,94.3,88,5
+OFBKKLGO_02596_yqeN,"BS_yqeN [L] COG1466 DNA polymerase III, delta subunit",87.6,338,42
+OFBKKLGO_02599_tadA_2,BS_comEB [F] COG2131 Deoxycytidylate deaminase,90.5,189,18
+OFBKKLGO_02601_proC_3,BS_comER [E] COG0345 Pyrroline-5-carboxylate reductase,77.7,273,61
+OFBKKLGO_02602_cypM,BS_yqeM [QR] COG0500 SAM-dependent methyltransferases,78.5,246,52
+OFBKKLGO_02603_rsfS,BS_yqeL [S] COG0799 Uncharacterized homolog of plant Iojap protein,88.9,117,13
+OFBKKLGO_02604_group_2904,BS_yqeK [H] COG1713 Predicted HD superfamily hydrolase involved in NAD metabolism,83.2,184,31
+OFBKKLGO_02606_group_3749,"BS_yqeI [J] COG1534 Predicted RNA-binding protein containing KH domain, possibly ribosomal protein",93.8,96,6
+OFBKKLGO_02607_aroE_1,BS_aroD [E] COG0169 Shikimate 5-dehydrogenase,74.6,280,71
+OFBKKLGO_02608_yqeH,BS_yqeH [R] COG1161 Predicted GTPases,89.1,366,40
+OFBKKLGO_02609_group_6306,BS_yqeG [R] COG2179 Predicted hydrolase of the HAD superfamily,91.9,172,14
+OFBKKLGO_02611_group_3750,BS_yqeF [E] COG2755 Lysophospholipase L1 and related esterases,75.7,243,59
+OFBKKLGO_02614_ydjZ_1,BS_yqeD [S] COG0398 Uncharacterized conserved protein,68.3,208,66
+OFBKKLGO_02630_manR,BS_yjdC_1 [K] COG3711 Transcriptional antiterminator,79.3,512,104
+OFBKKLGO_02634_ynfM,BS_yybF [GEPR] COG0477 Permeases of the major facilitator superfamily,47.0,381,202
+OFBKKLGO_02636_cypB,"BS_yrhJ_2 [P] COG0369 Sulfite reductase, alpha subunit (flavoprotein)",63.1,590,214
+OFBKKLGO_02637_bm3R1,BS_yrhI [K] COG1309 Transcriptional regulator,68.3,186,59
+OFBKKLGO_02640_focA,BS_yrhG [P] COG2116 Formate/nitrite family of transporters,85.0,266,40
+OFBKKLGO_02641_group_6312,BS_yrhF [S] COG5609 Uncharacterized conserved protein,91.0,122,11
+OFBKKLGO_02642_group_2464,BS_yrhE [R] COG3383 Uncharacterized anaerobic dehydrogenase,92.1,978,77
+OFBKKLGO_02643_group_6313,BS_yrhD [S] COG2427 Uncharacterized conserved protein,78.0,159,35
+OFBKKLGO_02645_mccB,BS_yrhB [E] COG0626 Cystathionine beta-lyases/cystathionine gamma-synthases,84.7,379,58
+OFBKKLGO_02646_mccA,BS_yrhA [E] COG0031 Cysteine synthase,84.0,306,49
+OFBKKLGO_02647_mtnN,BS_yrrU [F] COG0775 Nucleoside phosphorylase,92.2,231,18
+OFBKKLGO_02648_yrrT,BS_yrrT [QR] COG0500 SAM-dependent methyltransferases,72.8,213,58
+OFBKKLGO_02651_pbpI,BS_yrrR [M] COG0768 Cell division protein FtsI/penicillin-binding protein 2,79.8,580,117
+OFBKKLGO_02652_greA,BS_greA [K] COG0782 Transcription elongation factor,95.5,157,7
+OFBKKLGO_02653_udk,BS_udk [F] COG0572 Uridine kinase,97.6,211,5
+OFBKKLGO_02654_group_16124,BS_yrrO [O] COG0826 Collagenase and related proteases,93.1,422,29
+OFBKKLGO_02655_rlhA,BS_yrrN [O] COG0826 Collagenase and related proteases,86.1,309,43
+OFBKKLGO_02656_trmR,BS_yrrM [R] COG4122 Predicted O-methyltransferase,77.4,217,49
+OFBKKLGO_02657_mltG_2,BS_yrrL [R] COG1559 Predicted periplasmic solute-binding protein,79.0,333,70
+OFBKKLGO_02658_group_16116,BS_yrzB [S] COG3906 Uncharacterized protein conserved in bacteria,82.8,93,16
+OFBKKLGO_02659_yrrK,BS_yrrK [L] COG0816 Predicted endonuclease involved in recombination (possible Holliday junction resolvase in Mycoplasmas and B. subtilis),93.5,138,9
+OFBKKLGO_02660_group_16081,BH1268 [S] COG4472 Uncharacterized protein conserved in bacteria,73.9,88,23
+OFBKKLGO_02661_alaS,BS_alaS [J] COG0013 Alanyl-tRNA synthetase,89.2,878,95
+OFBKKLGO_02662_group_4827,BS_yrrI [R] COG0628 Predicted permease,77.1,353,81
+OFBKKLGO_02663_glnQ,"BS_glnQ [E] COG1126 ABC-type polar amino acid transport system, ATPase component",88.0,242,29
+OFBKKLGO_02664_glnH,"BS_glnH [ET] COG0834 ABC-type amino acid transport/signal transduction systems, periplasmic component/domain",85.9,270,37
+OFBKKLGO_02665_glnM,"BS_glnM [E] COG0765 ABC-type amino acid transport system, permease component",89.8,216,22
+OFBKKLGO_02666_glnP,"BS_glnP [E] COG0765 ABC-type amino acid transport system, permease component",88.1,218,26
+OFBKKLGO_02670_recD2,"BS_yrrC [L] COG0507 ATP-dependent exoDNAse (exonuclease V), alpha subunit - helicase superfamily I member",88.7,791,88
+OFBKKLGO_02671_yrrB,BS_yrrB [R] COG0457 FOG: TPR repeat,87.5,40,5
+OFBKKLGO_02672_mnmA,"BS_yrrA [J] COG0482 Predicted tRNA(5-methylaminomethyl-2-thiouridylate) methyltransferase, contains the PP-loop ATPase domain",91.7,312,26
+OFBKKLGO_02673_iscS_1,BS_yrvO [E] COG1104 Cysteine sulfinate desulfinase/cysteine desulfurase and related enzymes,79.9,344,69
+OFBKKLGO_02674_cymR,BH1259 [K] COG1959 Predicted transcriptional regulator,77.8,126,27
+OFBKKLGO_02675_rarA,BS_yrvN [L] COG2256 ATPase related to the helicase subunit of the Holliday junction resolvase,90.7,421,39
+OFBKKLGO_02676_group_16340,BH1255 [H] COG1179 Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 1,77.1,253,55
+OFBKKLGO_02678_aspS,BS_aspS [J] COG0173 Aspartyl-tRNA synthetase,89.3,591,63
+OFBKKLGO_02679_hisS,BS_hisS [J] COG0124 Histidyl-tRNA synthetase,92.4,423,32
+OFBKKLGO_02683_group_4828,BS_yrvJ_1 [T] COG3103 SH3 domain protein,64.8,321,109
+OFBKKLGO_02684_dtd,BS_yrvI [J] COG1490 D-Tyr-tRNAtyr deacylase,86.6,119,16
+OFBKKLGO_02685_relA,BS_relA [TK] COG0317 Guanosine polyphosphate pyrophosphohydrolases/synthetases,97.0,734,22
+OFBKKLGO_02686_apt,BS_apt [F] COG0503 Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins,97.1,170,5
+OFBKKLGO_02687_group_2910,BS_yrvE_1 [L] COG0608 Single-stranded DNA-specific exonuclease,85.5,560,81
+OFBKKLGO_02690_secDF,BS_secDF_1 [U] COG0342 Preprotein translocase subunit SecD,92.4,446,34
+OFBKKLGO_02692_spoVB,BS_spoVB [R] COG2244 Membrane protein involved in the export of O-antigen and teichoic acid,87.5,518,65
+OFBKKLGO_02695_yajC,BS_yrbF [U] COG1862 Preprotein translocase subunit YajC,97.6,84,2
+OFBKKLGO_02696_tgt,BS_tgt [J] COG0343 Queuine/archaeosine tRNA-ribosyltransferase,95.5,381,16
+OFBKKLGO_02699_ruvB,"BS_ruvBm [L] COG2255 Holliday junction resolvasome, helicase subunit",91.9,334,27
+OFBKKLGO_02700_ruvA,"BS_ruvA [L] COG0632 Holliday junction resolvasome, DNA-binding subunit",92.5,200,15
+OFBKKLGO_02705_nadA,BS_nadA [H] COG0379 Quinolinate synthase,78.5,368,78
+OFBKKLGO_02709_nadR,BS_yrxA [R] COG1827 Predicted small molecule binding protein (contains 3H domain),79.0,176,37
+OFBKKLGO_02710_pheA,BS_pheA [E] COG0077 Prephenate dehydratase,83.5,285,47
+OFBKKLGO_02711_group_15796,BS_pheB [R] COG4492 ACT domain-containing protein,97.3,147,4
+OFBKKLGO_02712_obg,BS_obg [R] COG0536 Predicted GTPase,92.5,428,32
+OFBKKLGO_02714_rpmA,BS_rpmA [J] COG0211 Ribosomal protein L27,98.9,94,1
+OFBKKLGO_02715_group_3763,BS_ysxB [J] COG2868 Predicted ribosomal protein,82.3,113,19
+OFBKKLGO_02716_rplU,BS_rplU [J] COG0261 Ribosomal protein L21,97.1,102,3
+OFBKKLGO_02718_spoIVFB,BS_spoIVFB [R] COG1994 Zn-dependent proteases,77.8,288,64
+OFBKKLGO_02719_spoIVFA,BS_spoIVFA [M] COG0739 Membrane proteins related to metalloendopeptidases,65.9,267,87
+OFBKKLGO_02720_minD,BS_minD [D] COG2894 Septum formation inhibitor-activating ATPase,92.9,268,18
+OFBKKLGO_02721_minC,BS_minC [D] COG0850 Septum formation inhibitor,90.3,226,22
+OFBKKLGO_02722_mreD,BS_mreD [M] COG2891 Cell shape-determining protein,74.9,171,43
+OFBKKLGO_02723_mreC,BS_mreC [M] COG1792 Cell shape-determining protein,83.8,290,44
+OFBKKLGO_02724_mreB,BS_mreB [D] COG1077 Actin-like ATPase involved in cell morphogenesis,94.7,337,18
+OFBKKLGO_02725_group_3767,BS_ysxA [L] COG2003 DNA repair proteins,87.4,231,29
+OFBKKLGO_02726_maf,BS_maf [D] COG0424 Nucleotide-binding protein implicated in inhibition of septum formation,77.2,189,43
+OFBKKLGO_02730_valS,BS_valS [J] COG0525 Valyl-tRNA synthetase,93.5,880,57
+OFBKKLGO_02735_hemL,BS_hemL [H] COG0001 Glutamate-1-semialdehyde aminotransferase,93.7,429,27
+OFBKKLGO_02736_hemB,BS_hemB [H] COG0113 Delta-aminolevulinic acid dehydratase,88.3,324,38
+OFBKKLGO_02737_group_2273,BS_hemD [H] COG1587 Uroporphyrinogen-III synthase,63.5,260,95
+OFBKKLGO_02738_hemC,BS_hemC [H] COG0181 Porphobilinogen deaminase,84.7,313,48
+OFBKKLGO_02739_ccsA_2,"BS_hemX [O] COG0755 ABC-type transport system involved in cytochrome c biogenesis, permease component",93.5,276,18
+OFBKKLGO_02740_hemA,BS_hemA [H] COG0373 Glutamyl-tRNA reductase,87.9,455,55
+OFBKKLGO_02742_engB,BS_ysxC [R] COG0218 Predicted GTPase,94.9,195,10
+OFBKKLGO_02743_lon1,"BS_lonA [O] COG0466 ATP-dependent Lon protease, bacterial type",91.2,774,68
+OFBKKLGO_02744_lon2,BS_lonB [O] COG1067 Predicted ATP-dependent protease,92.2,552,43
+OFBKKLGO_02745_clpX,"BS_clpX [O] COG1219 ATP-dependent protease Clp, ATPase subunit",94.5,420,23
+OFBKKLGO_02746_tig,BS_tig [O] COG0544 FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor),95.8,424,18
+OFBKKLGO_02747_group_4839,BS_ysoA [R] COG0457 FOG: TPR repeat,82.9,310,53
+OFBKKLGO_02748_leuD1,BS_leuD [E] COG0066 3-isopropylmalate dehydratase small subunit,91.0,199,18
+OFBKKLGO_02749_leuC,BS_leuC [E] COG0065 3-isopropylmalate dehydratase large subunit,92.6,472,35
+OFBKKLGO_02750_leuB,BS_leuB [CE] COG0473 Isocitrate/isopropylmalate dehydrogenase,82.6,363,63
+OFBKKLGO_02751_leuA,BS_leuA [E] COG0119 Isopropylmalate/homocitrate/citramalate synthases,89.4,518,55
+OFBKKLGO_02752_ilvC,BS_ilvC [EH] COG0059 Ketol-acid reductoisomerase,95.9,342,14
+OFBKKLGO_02753_ilvH,"BS_ilvN [E] COG0440 Acetolactate synthase, small (regulatory) subunit",95.7,162,7
+OFBKKLGO_02758_group_2914,BS_ysnB [R] COG0622 Predicted phosphoesterase,75.0,164,41
+OFBKKLGO_02760_rph,BS_rph [J] COG0689 RNase PH,92.7,245,18
+OFBKKLGO_02761_gerM,BS_gerM [R] COG5401 Spore germination protein,83.1,366,57
+OFBKKLGO_02762_racE,BS_racE [M] COG0796 Glutamate racemase,84.5,271,42
+OFBKKLGO_02763_yusO_1,BS_ysmB [K] COG1846 Transcriptional regulators,90.4,146,14
+OFBKKLGO_02764_gerE,BS_gerE [K] COG2771 DNA-binding HTH domain-containing proteins,95.9,74,3
+OFBKKLGO_02766_frdB,"BS_sdhB [C] COG0479 Succinate dehydrogenase/fumarate reductase, Fe-S protein subunit",94.1,253,14
+OFBKKLGO_02767_frdA,"BS_sdhA [C] COG1053 Succinate dehydrogenase/fumarate reductase, flavoprotein subunit",95.9,586,24
+OFBKKLGO_02768_sdhC,"BS_sdhC [C] COG2009 Succinate dehydrogenase/fumarate reductase, cytochrome b subunit",94.6,202,11
+OFBKKLGO_02770_lysC_2,BS_lysC [E] COG0527 Aspartokinases,87.0,409,52
+OFBKKLGO_02772_uvrC_1,BS_uvrC [L] COG0322 Nuclease subunit of the excinuclease complex,93.8,577,36
+OFBKKLGO_02773_trxA,BS_trxA [OC] COG0526 Thiol-disulfide isomerase and thioredoxins,99.0,104,1
+OFBKKLGO_02774_abf2,BS_xsa [G] COG3534 Alpha-L-arabinofuranosidase,80.6,494,96
+OFBKKLGO_02775_carE,"BS_etfA [C] COG2025 Electron transfer flavoprotein, alpha subunit",82.5,325,57
+OFBKKLGO_02776_etfB,"BS_etfB [C] COG2086 Electron transfer flavoprotein, beta subunit",86.8,257,34
+OFBKKLGO_02777_fadB,BS_ysiB [I] COG1024 Enoyl-CoA hydratase/carnithine racemase,77.0,257,59
+OFBKKLGO_02778_fadR,BS_ysiA [K] COG1309 Transcriptional regulator,86.5,192,26
+OFBKKLGO_02779_fadD,BS_lcfA [IQ] COG0318 Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II,81.0,552,105
+OFBKKLGO_02781_group_15976,BS_yshE [S] COG3766 Predicted membrane protein,93.3,134,9
+OFBKKLGO_02782_mutS2,BS_yshD [L] COG1193 Mismatch repair ATPase (MutS family),83.1,785,133
+OFBKKLGO_02784_group_6348,"BS_yshB [R] COG1286 Uncharacterized membrane protein, required for colicin V production",80.8,177,34
+OFBKKLGO_02785_zapA,BS_yshA [S] COG3027 Uncharacterized protein conserved in bacteria,88.2,85,10
+OFBKKLGO_02786_rnhC,BS_ysgB [L] COG1039 Ribonuclease HIII,83.1,313,53
+OFBKKLGO_02787_pheT,BS_pheT_2 [J] COG0072 Phenylalanyl-tRNA synthetase beta subunit,87.4,651,82
+OFBKKLGO_02788_pheS,BS_pheS [J] COG0016 Phenylalanyl-tRNA synthetase alpha subunit,92.2,344,27
+OFBKKLGO_02789_trmH,BS_ysgA [J] COG0566 rRNA methylases,80.6,248,48
+OFBKKLGO_02794_cstA,"BS_cstA [T] COG1966 Carbon starvation protein, predicted membrane protein",90.3,598,58
+OFBKKLGO_02795_abfA,BS_abfA [G] COG3534 Alpha-L-arabinofuranosidase,87.3,496,63
+OFBKKLGO_02796_araQ,"BS_araQ [G] COG0395 ABC-type sugar transport system, permease component",89.6,279,29
+OFBKKLGO_02797_araP,"BS_araP [G] COG1175 ABC-type sugar transport systems, permease components",85.0,313,47
+OFBKKLGO_02798_araN,"BS_araN [G] COG1653 ABC-type sugar transport system, periplasmic component",83.5,430,70
+OFBKKLGO_02801_araD,BS_araD [G] COG0235 Ribulose-5-phosphate 4-epimerase and related epimerases and aldolases,83.0,229,39
+OFBKKLGO_02803_araA,BS_araA [G] COG2160 L-arabinose isomerase,83.3,496,81
+OFBKKLGO_02804_abnA,BS_abnA [G] COG3507 Beta-xylosidase,84.3,305,48
+OFBKKLGO_02805_ysdC_2,BS_ysdC [G] COG1363 Cellulase M and related proteins,90.0,361,36
+OFBKKLGO_02808_rplT,BS_rplT [J] COG0292 Ribosomal protein L20,99.2,119,1
+OFBKKLGO_02809_rpmI,BS_rpmI [J] COG0291 Ribosomal protein L35,95.5,66,3
+OFBKKLGO_02810_infC,BS_infC [J] COG0290 Translation initiation factor 3 (IF-3),100.0,167,0
+OFBKKLGO_02812_lrgB,BS_ysbB [M] COG1346 Putative effector of murein hydrolase,93.0,227,16
+OFBKKLGO_02813_lrgA,BS_ysbA [R] COG1380 Putative effector of murein hydrolase LrgA,72.6,146,40
+OFBKKLGO_02814_lytR,BS_lytT [KT] COG3279 Response regulator of the LytR/AlgR family,79.8,243,47
+OFBKKLGO_02815_ypdA,BS_lytS [T] COG3275 Putative regulator of cell autolysis,83.3,592,99
+OFBKKLGO_02816_ppaX_1,BS_ysaA [R] COG1011 Predicted hydrolase (HAD superfamily),85.0,260,39
+OFBKKLGO_02817_thrS,BS_thrS [J] COG0441 Threonyl-tRNA synthetase,93.8,643,40
+OFBKKLGO_02819_ydjZ,BS_ytxB [S] COG0398 Uncharacterized conserved protein,68.1,213,68
+OFBKKLGO_02820_dnaI,BS_dnaI [L] COG1484 DNA replication protein,86.4,309,42
+OFBKKLGO_02821_dnaB,BS_dnaB [L] COG3611 Replication initiation/membrane attachment protein,78.2,472,100
+OFBKKLGO_02822_nrdR,"BS_ytcG [K] COG1327 Predicted transcriptional regulator, consists of a Zn-ribbon and ATP-cone domains",93.4,152,10
+OFBKKLGO_02823_speH,BS_ytcF [E] COG1586 S-adenosylmethionine decarboxylase,99.2,126,1
+OFBKKLGO_02824_gapB,BS_gapB [G] COG0057 Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase,89.1,340,37
+OFBKKLGO_02825_ytcD_2,BS_ytcD [K] COG1733 Predicted transcriptional regulators,85.1,121,18
+OFBKKLGO_02826_ydhP_2,BS_ytbD [G] COG2814 Arabinose efflux permease,81.9,392,71
+OFBKKLGO_02827_ytbE,"BS_ytbE [R] COG0656 Aldo/keto reductases, related to diketogulonate reductase",81.8,280,51
+OFBKKLGO_02828_coaE,BS_ytaG [H] COG0237 Dephospho-CoA kinase,72.6,197,54
+OFBKKLGO_02829_ytaF_2,BS_ytaF [S] COG1971 Predicted membrane protein,85.1,148,22
+OFBKKLGO_02830_mutM,BS_mutM [L] COG0266 Formamidopyrimidine-DNA glycosylase,88.7,275,31
+OFBKKLGO_02831_polA,BS_polA_2 [L] COG0749 DNA polymerase I - 3'-5' exonuclease and polymerase domains,88.8,560,63
+OFBKKLGO_02832_phoR,BH3156 [T] COG0642 Signal transduction histidine kinase,43.3,582,322
+OFBKKLGO_02833_phoP,BS_phoP [TK] COG0745 Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain,87.1,240,30
+OFBKKLGO_02834_mdh,BS_citH [C] COG0039 Malate/lactate dehydrogenases,96.5,312,11
+OFBKKLGO_02835_icd,BS_citC [C] COG0538 Isocitrate dehydrogenases,94.8,423,22
+OFBKKLGO_02836_citZ,BS_citZ [C] COG0372 Citrate synthase,94.1,372,22
+OFBKKLGO_02838_group_16338,BS_ytvI [R] COG0628 Predicted permease,76.8,371,86
+OFBKKLGO_02839_group_6366,BS_ytzA [R] COG3030 Protein affecting phage T7 exclusion by the F plasmid,75.6,127,31
+OFBKKLGO_02840_pyk,BS_pykA_1 [G] COG0469 Pyruvate kinase,88.6,473,54
+OFBKKLGO_02841_pfkA,BS_pfk [G] COG0205 6-phosphofructokinase,97.8,319,7
+OFBKKLGO_02842_accA,BS_accA [I] COG0825 Acetyl-CoA carboxylase alpha subunit,88.3,324,38
+OFBKKLGO_02843_accD,BS_yttI [I] COG0777 Acetyl-CoA carboxylase beta subunit,92.0,262,21
+OFBKKLGO_02844_group_6368,BS_ytsJ [C] COG0281 Malic enzyme,94.6,410,22
+OFBKKLGO_02845_dnaE,"BS_dnaE [L] COG0587 DNA polymerase III, alpha subunit",79.4,1113,228
+OFBKKLGO_02849_nrnA,BS_ytqI [R] COG0618 Exopolyphosphatase-related proteins,90.4,313,30
+OFBKKLGO_02851_IMPDH_1,BS_ytoI [K] COG4109 Predicted transcriptional regulator containing CBS domains,93.6,439,27
+OFBKKLGO_02852_group_6374,BH3178 [R] COG2220 Predicted Zn-dependent hydrolases of the beta-lactamase fold,75.8,227,54
+OFBKKLGO_02853_fabG_4,BS_ytkK [IQR] COG1028 Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases),87.4,254,32
+OFBKKLGO_02855_argH,BS_argH [E] COG0165 Argininosuccinate lyase,92.5,455,34
+OFBKKLGO_02856_argG,BS_argG [E] COG0137 Argininosuccinate synthase,93.1,403,28
+OFBKKLGO_02857_moaB,BS_moaB [H] COG0521 Molybdopterin biosynthesis enzymes,81.7,169,31
+OFBKKLGO_02858_ackA,BS_ackA [C] COG0282 Acetate kinase,97.7,395,9
+OFBKKLGO_02860_tpx,BS_ytgI [O] COG2077 Peroxiredoxin,94.0,167,10
+OFBKKLGO_02861_ytfJ,BS_ytfJ [S] COG3874 Uncharacterized conserved protein,88.4,138,16
+OFBKKLGO_02864_sppA,BS_yteI [OU] COG0616 Periplasmic serine proteases (ClpP class),79.4,335,69
+OFBKKLGO_02865_nadK1,BS_ytdI [G] COG0061 Predicted sugar kinase,86.1,267,37
+OFBKKLGO_02867_acsA_1,BS_ytcI [I] COG0365 Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases,86.0,529,73
+OFBKKLGO_02869_thiI,BS_ytbJ [H] COG0301 Thiamine biosynthesis ATP pyrophosphatase,89.0,354,39
+OFBKKLGO_02870_iscS_2,BS_nifZ [E] COG1104 Cysteine sulfinate desulfinase/cysteine desulfurase and related enzymes,74.5,381,97
+OFBKKLGO_02871_brnQ,BS_braB [E] COG1114 Branched-chain amino acid permeases,90.1,443,44
+OFBKKLGO_02872_ezrA,BS_ytwP [D] COG4477 Negative regulator of septation ring formation,78.3,562,122
+OFBKKLGO_02874_yttP,BS_yttP [K] COG1309 Transcriptional regulator,81.0,205,39
+OFBKKLGO_02875_msrC,BH3208 [T] COG1956 GAF domain-containing protein,64.2,159,57
+OFBKKLGO_02876_group_3783,BS_ytrP_2 [T] COG2199 FOG: GGDEF domain,79.0,195,41
+OFBKKLGO_02877_rpsD,BS_rpsD [J] COG0522 Ribosomal protein S4 and related proteins,97.5,200,5
+OFBKKLGO_02886_group_6382,lin1480 [E] COG1296 Predicted branched-chain amino acid permease (azaleucine resistance),47.6,233,122
+OFBKKLGO_02887_group_4857,lin1481 [S] COG4392 Predicted membrane protein,42.1,107,61
+OFBKKLGO_02888_tyrS1,BS_tyrS [J] COG0162 Tyrosyl-tRNA synthetase,94.1,421,25
+OFBKKLGO_02890_acsA_2,BS_acsA [I] COG0365 Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases,89.5,572,60
+OFBKKLGO_02893_acuC,"BS_acuC [BQ] COG0123 Deacetylases, including yeast histone deacetylase and acetoin utilization protein",84.3,383,60
+OFBKKLGO_02896_ccpA_2,BS_ccpA [K] COG1609 Transcriptional regulators,94.6,333,18
+OFBKKLGO_02897_aroA,BS_aroA_2 [E] COG2876 3-deoxy-D-arabino-heptulosonate 7-phosphate (DAHP) synthase,96.2,264,10
+OFBKKLGO_02899_group_6385,BS_ytxH [R] COG4980 Gas vesicle protein,94.8,58,3
+OFBKKLGO_02900_group_6386,BS_ytxG [R] COG4768 Uncharacterized protein containing a divergent version of the methyl-accepting chemotaxis-like domain,60.8,143,53
+OFBKKLGO_02901_murC,BS_murC [M] COG0773 UDP-N-acetylmuramate-alanine ligase,89.1,432,47
+OFBKKLGO_02903_group_6387,BS_ytpR [R] COG0073 EMAP domain,86.1,201,28
+OFBKKLGO_02904_group_6388,BS_ytpQ [S] COG4848 Uncharacterized protein conserved in bacteria,89.2,269,29
+OFBKKLGO_02905_ytpP,BS_ytpP [OC] COG0526 Thiol-disulfide isomerase and thioredoxins,92.5,107,8
+OFBKKLGO_02907_ysdC_3,BS_ytoP [G] COG1363 Cellulase M and related proteins,88.8,356,40
+OFBKKLGO_02908_group_15928,BS_ytzB [S] COG5584 Predicted small secreted protein,81.0,105,20
+OFBKKLGO_02909_maeA_1,BS_malS [C] COG0281 Malic enzyme,85.6,564,80
+OFBKKLGO_02910_ytnP,"BS_ytnP [R] COG0491 Zn-dependent hydrolases, including glyoxylases",77.7,256,57
+OFBKKLGO_02911_trmB,BS_ytmQ [R] COG0220 Predicted S-adenosylmethionine-dependent methyltransferase,88.7,213,24
+OFBKKLGO_02913_group_16065,BS_ytmP [M] COG0510 Predicted choline kinase involved in LPS biosynthesis,91.3,264,23
+OFBKKLGO_02917_cysK_2,BS_ytkP [E] COG0031 Cysteine synthase,87.1,309,40
+OFBKKLGO_02918_group_2927,BS_ytjP [E] COG0624 Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases,79.3,464,95
+OFBKKLGO_02919_pbuO,BS_ytiP [R] COG2252 Permeases,85.0,432,64
+OFBKKLGO_02922_ytzE,BS_ytzE [KG] COG1349 Transcriptional regulators of sugar metabolism,98.6,73,1
+OFBKKLGO_02924_murJ_2,BS_ytgP [R] COG2244 Membrane protein involved in the export of O-antigen and teichoic acid,84.7,544,83
+OFBKKLGO_02925_baiN,BS_ytfP [R] COG2081 Predicted flavoproteins,84.9,318,48
+OFBKKLGO_02926_opuD,BS_opuD [M] COG1292 Choline-glycine betaine transporter,88.0,509,61
+OFBKKLGO_02928_melR,BS_msmR [K] COG1609 Transcriptional regulators,73.6,337,88
+OFBKKLGO_02929_melE,"BS_msmE [G] COG1653 ABC-type sugar transport system, periplasmic component",75.4,423,104
+OFBKKLGO_02930_melD,"BS_amyD [G] COG1175 ABC-type sugar transport systems, permease components",77.6,304,67
+OFBKKLGO_02934_group_4861,BS_ytwF [P] COG0607 Rhodanese-related sulfurtransferase,88.1,67,8
+OFBKKLGO_02935_leuS,BS_leuS [J] COG0495 Leucyl-tRNA synthetase,91.7,804,67
+OFBKKLGO_02938_pfyP,BS_ytvA_1 [T] COG2202 FOG: PAS/PAC domain,70.6,143,42
+OFBKKLGO_02939_mdrP,BS_yttB [GEPR] COG0477 Permeases of the major facilitator superfamily,81.6,392,72
+OFBKKLGO_02942_bceA,"BS_ytsC [V] COG1136 ABC-type antimicrobial peptide transport system, ATPase component",82.8,250,43
+OFBKKLGO_02944_graR_1,BS_ytsA [TK] COG0745 Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain,80.5,231,45
+OFBKKLGO_02955_group_4869,BS_ytqA [R] COG1242 Predicted Fe-S oxidoreductase,93.8,320,20
+OFBKKLGO_02956_rsmH_2,BS_ytqB [QR] COG0500 SAM-dependent methyltransferases,74.2,190,49
+OFBKKLGO_02959_ytpA,BS_ytpA [I] COG2267 Lysophospholipase,86.5,259,35
+OFBKKLGO_02960_yrdA,"BS_ytoA [R] COG0663 Carbonic anhydrases/acetyltransferases, isoleucine patch superfamily",85.3,170,25
+OFBKKLGO_02962_asnB,BS_asnB [E] COG0367 Asparagine synthase (glutamine-hydrolyzing),93.2,632,43
+OFBKKLGO_02963_metK,BS_metK [H] COG0192 S-adenosylmethionine synthetase,97.8,400,9
+OFBKKLGO_02965_pckA,BS_pckA [C] COG1866 Phosphoenolpyruvate carboxykinase (ATP),86.7,527,70
+OFBKKLGO_02967_group_6402,BS_ytmA [E] COG1506 Dipeptidyl aminopeptidases/acylaminoacyl-peptidases,81.3,257,48
+OFBKKLGO_02969_ssuB_2,"BS_ytlC [P] COG1116 ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component",86.9,259,34
+OFBKKLGO_02970_ssuC_2,"BS_ytlD [P] COG0600 ABC-type nitrate/sulfonate/bicarbonate transport system, permease component",78.8,269,57
+OFBKKLGO_02971_ytkD,BS_ytkD [LR] COG0494 NTP pyrophosphohydrolases including oxidative damage repair enzymes,91.0,155,14
+OFBKKLGO_02973_dps,BS_dps [P] COG0783 DNA-binding ferritin-like protein (oxidative damage protectant),91.7,145,12
+OFBKKLGO_02976_luxS,BS_ytjB [T] COG1854 LuxS protein involved in autoinducer AI2 synthesis,93.0,157,11
+OFBKKLGO_02977_yidD,BS_ytjA [S] COG0759 Uncharacterized conserved protein,92.0,75,6
+OFBKKLGO_02978_csh_1,BS_ytiB [P] COG0288 Carbonic anhydrase,83.4,187,31
+OFBKKLGO_02979_rpmE2,BS_ytiA [J] COG0254 Ribosomal protein L31,87.8,82,10
+OFBKKLGO_02980_ythA,"BS_ythA [C] COG1271 Cytochrome bd-type quinol oxidase, subunit 1",90.0,438,44
+OFBKKLGO_02981_ythB,"BS_ythB [C] COG1294 Cytochrome bd-type quinol oxidase, subunit 2",84.8,341,52
+OFBKKLGO_02983_menC,BS_ytfD [MR] COG4948 L-alanine-DL-glutamate epimerase and related enzymes of enolase superfamily,85.9,368,52
+OFBKKLGO_02985_menB,BS_menB [H] COG0447 Dihydroxynaphthoic acid synthase,96.3,270,10
+OFBKKLGO_02987_menD,"BS_menD [H] COG1165 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase",81.3,577,107
+OFBKKLGO_02988_pchA,BS_menF [HQ] COG1169 Isochorismate synthase,71.3,470,134
+OFBKKLGO_02994_thiT,BS_yuaJ [S] COG3859 Predicted membrane protein,80.2,192,38
+OFBKKLGO_02995_yqiK,BS_yuaG [S] COG2268 Uncharacterized protein conserved in bacteria,88.7,503,57
+OFBKKLGO_02999_gbsB,"BS_gbsB [C] COG1454 Alcohol dehydrogenase, class IV",95.8,402,17
+OFBKKLGO_03000_gbsA,BS_gbsA [C] COG1012 NAD-dependent aldehyde dehydrogenases,89.4,490,52
+OFBKKLGO_03001_opcR_1,BS_yuaC [K] COG1510 Predicted transcriptional regulators,87.2,179,23
+OFBKKLGO_03003_ktrA_2,"BS_yuaA [P] COG0569 K+ transport systems, NAD-binding component",85.6,222,32
+OFBKKLGO_03004_lytG,BS_yubE [NU] COG1705 Muramidase (flagellum-specific),67.9,280,89
+OFBKKLGO_03063_uppP,BS_yubB [V] COG1968 Uncharacterized bacitracin resistance protein,82.4,273,48
+OFBKKLGO_03064_group_6425,BS_yubA [R] COG0628 Predicted permease,89.2,381,41
+OFBKKLGO_03065_iolU,BS_yulF [R] COG0673 Predicted dehydrogenases and related proteins,77.7,327,73
+OFBKKLGO_03066_yraA_2,lin2358 [R] COG0693 Putative intracellular protease/amidase,71.3,171,49
+OFBKKLGO_03068_mcpA_2,BS_mcpA [NT] COG0840 Methyl-accepting chemotaxis protein,73.9,574,150
+OFBKKLGO_03069_mcpA_3,BS_tlpA [NT] COG0840 Methyl-accepting chemotaxis protein,68.5,552,174
+OFBKKLGO_03073_pnoA,BS_yrpB [R] COG2070 Dioxygenases related to 2-nitropropane dioxygenase,58.9,341,140
+OFBKKLGO_03074_malL,BS_yugT [G] COG0366 Glycosidases,76.1,553,131
+OFBKKLGO_03075_group_16085,BS_yugS [R] COG1253 Hemolysins and related proteins containing CBS domains,84.4,429,67
+OFBKKLGO_03076_group_16287,BS_yugP [R] COG2738 Predicted Zn-dependent protease,94.7,225,12
+OFBKKLGO_03079_group_6429,"BS_yugO_2 [P] COG1226 Kef-type K+ transport systems, predicted NAD-binding component",73.7,255,67
+OFBKKLGO_03082_pgi,BS_pgi [G] COG0166 Glucose-6-phosphate isomerase,92.7,450,32
+OFBKKLGO_03084_adh2_2,"BS_yugJ [C] COG1979 Uncharacterized oxidoreductases, Fe-dependent alcohol dehydrogenase family",92.2,387,30
+OFBKKLGO_03085_group_8284,BS_yuzA [S] COG2155 Uncharacterized conserved protein,94.9,78,4
+OFBKKLGO_03086_yugI,BS_yugI [J] COG1098 Predicted RNA binding protein (contains ribosomal protein S1 domain),96.9,130,4
+OFBKKLGO_03088_dapX_2,BS_yugH [E] COG0436 Aspartate/tyrosine/aromatic aminotransferase,79.8,347,69
+OFBKKLGO_03089_group_16315,BS_yugG [K] COG1522 Transcriptional regulators,91.6,166,14
+OFBKKLGO_03090_carC,BS_yugF [R] COG0596 Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily) ,76.9,273,63
+OFBKKLGO_03092_patB,BS_patB [E] COG1168 Bifunctional PLP-dependent enzyme with beta-cystathionase and maltose regulon repressor activities,75.6,386,94
+OFBKKLGO_03093_sasA_3,BS_kinB [T] COG0642 Signal transduction histidine kinase,63.1,425,156
+OFBKKLGO_03095_group_2943,"BS_kapD [R] COG5018 Inhibitor of the KinA pathway to sporulation, predicted exonuclease",86.6,201,27
+OFBKKLGO_03097_pbpD,BS_pbpD [M] COG0744 Membrane carboxypeptidase (penicillin-binding protein),84.9,623,94
+OFBKKLGO_03098_group_3820,BS_yuxK [S] COG3011 Uncharacterized protein conserved in bacteria,71.2,132,38
+OFBKKLGO_03101_dcuR_2,BS_yufM [KT] COG4565 Response regulator of citrate/malate metabolism,88.9,235,26
+OFBKKLGO_03102_tmpC_2,"BS_yufN [R] COG1744 Uncharacterized ABC-type transport system, periplasmic component/surface lipoprotein",86.9,350,44
+OFBKKLGO_03104_group_3821,"BS_yufP [R] COG4603 ABC-type uncharacterized transport system, permease component",86.5,347,47
+OFBKKLGO_03105_group_15997,"BS_yufQ [R] COG1079 Uncharacterized ABC-type transport system, permease component",93.7,318,20
+OFBKKLGO_03107_mrpA,"BS_shaA_1 [CP] COG1009 NADH:ubiquinone oxidoreductase subunit 5 (chain L)/Multisubunit Na+/H+ antiporter, MnhA subunit",80.9,602,115
+OFBKKLGO_03108_mrpB,"BS_yufU [P] COG2111 Multisubunit Na+/H+ antiporter, MnhB subunit",84.6,143,22
+OFBKKLGO_03109_mrpC,"BS_yufV [P] COG1006 Multisubunit Na+/H+ antiporter, MnhC subunit",84.8,112,17
+OFBKKLGO_03110_mrpD,"BS_yufD [CP] COG0651 Formate hydrogenlyase subunit 3/Multisubunit Na+/H+ antiporter, MnhD subunit",86.9,473,62
+OFBKKLGO_03112_mrpF,"BS_mrpF [P] COG2212 Multisubunit Na+/H+ antiporter, MnhF subunit",87.2,94,12
+OFBKKLGO_03113_mrpG,"BS_yufB [P] COG1320 Multisubunit Na+/H+ antiporter, MnhG subunit",75.0,124,31
+OFBKKLGO_03122_cdgJ,BS_yuxH [T] COG3434 Predicted signal transduction protein containing EAL and modified HD-GYP domains,78.1,406,88
+OFBKKLGO_03123_pncB,BS_yueK [H] COG1488 Nicotinic acid phosphoribosyltransferase,88.7,488,55
+OFBKKLGO_03124_rutB,BS_yueJ [Q] COG1335 Amidases related to nicotinamidase,79.8,183,37
+OFBKKLGO_03125_yueI,BS_yueI [S] COG5506 Uncharacterized conserved protein,64.1,131,47
+OFBKKLGO_03128_group_7021,BS_yueF [R] COG0628 Predicted permease,83.3,366,61
+OFBKKLGO_03130_group_6441,BS_yueE [R] COG1418 Predicted HD superfamily hydrolase,90.5,169,16
+OFBKKLGO_03139_ald,BS_ald [E] COG0686 Alanine dehydrogenase,90.2,378,35
+OFBKKLGO_03142_dhbF,BS_dhbF [Q] COG1020 Non-ribosomal peptide synthetase modules and related proteins,65.9,1271,422
+OFBKKLGO_03143_dhbB,BS_dhbB_1 [Q] COG1535 Isochorismate hydrolase,72.5,229,63
+OFBKKLGO_03144_dhbE,BS_dhbE [Q] COG1021 Peptide arylation enzymes,81.2,533,100
+OFBKKLGO_03146_dhbA,BS_dhbA [IQR] COG1028 Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases),70.5,261,77
+OFBKKLGO_03149_bioY_2,BS_yuiG [R] COG1268 Uncharacterized conserved protein,73.8,195,51
+OFBKKLGO_03150_group_6449,BS_yuiF [R] COG2056 Predicted permease,89.8,442,45
+OFBKKLGO_03151_pepA,BS_yuiE [E] COG0260 Leucyl aminopeptidase,82.7,496,86
+OFBKKLGO_03152_group_6451,BS_yuiD [S] COG1963 Uncharacterized protein conserved in bacteria,89.2,158,17
+OFBKKLGO_03153_yuiC,BS_yuiC [S] COG3584 Uncharacterized protein conserved in bacteria,73.2,213,54
+OFBKKLGO_03155_group_6452,"BS_yumB [C] COG1252 NADH dehydrogenase, FAD-containing subunit",90.1,406,40
+OFBKKLGO_03156_yumC,BS_yumC [O] COG0492 Thioredoxin reductase,90.6,330,31
+OFBKKLGO_03158_guaC,BS_yumD [F] COG0516 IMP dehydrogenase/GMP reductase,85.7,308,44
+OFBKKLGO_03218_erpA,BS_yutM [S] COG0316 Uncharacterized conserved protein,90.0,120,12
+OFBKKLGO_03219_dapF,BS_yutL [E] COG0253 Diaminopimelate epimerase,86.6,284,38
+OFBKKLGO_03221_group_4916,BS_yuzB [S] COG4844 Uncharacterized protein conserved in bacteria,91.0,78,7
+OFBKKLGO_03222_ndh,"BS_yutJ [C] COG1252 NADH dehydrogenase, FAD-containing subunit",87.7,324,40
+OFBKKLGO_03223_group_2310,BS_yuzD [S] COG4837 Uncharacterized protein conserved in bacteria,77.1,105,24
+OFBKKLGO_03224_nfuA,BS_yutI [O] COG0694 Thioredoxin-like proteins and domains,98.7,78,1
+OFBKKLGO_03226_thrB,BS_thrB [E] COG0083 Homoserine kinase,84.5,309,48
+OFBKKLGO_03227_thrC,BS_thrC [E] COG0498 Threonine synthase,93.5,352,23
+OFBKKLGO_03228_hom,BS_hom [E] COG0460 Homoserine dehydrogenase,92.6,433,32
+OFBKKLGO_03230_ypjQ,BS_yutG [I] COG1267 Phosphatidylglycerophosphatase A and related proteins,87.3,166,21
+OFBKKLGO_03231_yutF,BS_yutF [G] COG0647 Predicted sugar phosphatases of the HAD superfamily,91.4,256,22
+OFBKKLGO_03232_group_2311,BS_yutE [S] COG2445 Uncharacterized conserved protein,70.8,144,42
+OFBKKLGO_03233_yutD,BS_yutD [S] COG4470 Uncharacterized protein conserved in bacteria,96.7,91,3
+OFBKKLGO_03234_lipA,BS_yutB [H] COG0320 Lipoate synthase,99.3,268,2
+OFBKKLGO_03235_lytH,BS_yunA [M] COG0739 Membrane proteins related to metalloendopeptidases,85.9,326,45
+OFBKKLGO_03237_mggB,"BS_yunD [F] COG0737 5'-nucleotidase/2',3'-cyclic phosphodiesterase and related esterases",76.6,462,108
+OFBKKLGO_03238_group_16273,BS_yunE [R] COG0730 Predicted permeases,79.9,273,55
+OFBKKLGO_03239_group_6470,BS_yunF [S] COG1801 Uncharacterized conserved protein,85.1,282,42
+OFBKKLGO_03242_pucR,BS_yunI [TQ] COG2508 Regulator of polyketide synthase expression,82.7,531,92
+OFBKKLGO_03244_tetA_2,BH1174 [GEPR] COG0477 Permeases of the major facilitator superfamily,42.9,382,214
+OFBKKLGO_03247_bsn,BS_yurI [L] COG2356 Endonuclease I,77.7,287,64
+OFBKKLGO_03249_yurK,BS_yurK [K] COG2188 Transcriptional regulators,83.5,242,40
+OFBKKLGO_03251_ngcG,"BS_yurM [G] COG0395 ABC-type sugar transport system, permease component",85.0,300,39
+OFBKKLGO_03253_msmE,"BS_yurO [G] COG1653 ABC-type sugar transport system, periplasmic component",81.0,422,79
+OFBKKLGO_03254_frlB,BS_yurP [M] COG2222 Predicted phosphosugar isomerases,86.9,328,43
+OFBKKLGO_03260_uvrC_2,BS_yurQ [L] COG0322 Nuclease subunit of the excinuclease complex,84.7,124,19
+OFBKKLGO_03265_group_6744,"BS_yurU [O] COG0719 ABC-type transport system involved in Fe-S cluster assembly, permease component",98.9,465,5
+OFBKKLGO_03266_sufU,BS_yurV [C] COG0822 NifU homolog involved in Fe-S cluster formation,95.2,147,7
+OFBKKLGO_03267_sufS,BS_yurW [E] COG0520 Selenocysteine lyase,94.6,406,22
+OFBKKLGO_03268_group_15860,"BS_yurX [O] COG0719 ABC-type transport system involved in Fe-S cluster assembly, permease component",95.4,437,20
+OFBKKLGO_03269_sufC,"BS_yurY [O] COG0396 ABC-type transport system involved in Fe-S cluster assembly, ATPase component",100.0,261,0
+OFBKKLGO_03271_group_6479,BS_yurZ [S] COG0599 Uncharacterized homolog of gamma-carboxymuconolactone decarboxylase subunit,83.2,119,19
+OFBKKLGO_03272_metQ,"BS_yusA [P] COG1464 ABC-type metal ion transport system, periplasmic component/surface antigen",87.6,274,31
+OFBKKLGO_03273_metP,"BS_yusB [P] COG2011 ABC-type metal ion transport system, permease component",85.6,222,32
+OFBKKLGO_03274_metN,"BS_yusC [P] COG1135 ABC-type metal ion transport system, ATPase component",88.0,341,41
+OFBKKLGO_03277_group_6482,BS_yusE [OC] COG0526 Thiol-disulfide isomerase and thioredoxins,85.1,101,15
+OFBKKLGO_03278_rnmV_2,BS_yusF [L] COG1658 Small primase-like proteins (Toprim domain),63.4,112,41
+OFBKKLGO_03280_gcvH,BS_yusH [E] COG0509 Glycine cleavage system H protein (lipoate-binding),91.3,127,11
+OFBKKLGO_03281_mgsR_2,"BS_yusI [P] COG1393 Arsenate reductase and related proteins, glutaredoxin family",86.3,117,16
+OFBKKLGO_03282_fadE,BS_yusJ [I] COG1960 Acyl-CoA dehydrogenases,86.4,594,81
+OFBKKLGO_03283_fadA_4,BS_yusK [I] COG0183 Acetyl-CoA acetyltransferase,91.5,390,33
+OFBKKLGO_03284_fadN,BS_yusL_1 [I] COG1250 3-hydroxyacyl-CoA dehydrogenase,83.6,457,75
+OFBKKLGO_03286_fadM,BS_yusM [E] COG0506 Proline dehydrogenase,75.5,302,74
+OFBKKLGO_03290_bmr3_1,BS_yusP [GEPR] COG0477 Permeases of the major facilitator superfamily,86.4,530,72
+OFBKKLGO_03295_yusV_1,"BS_yusV [PH] COG1120 ABC-type cobalamin/Fe3+-siderophores transport systems, ATPase components",91.5,271,23
+OFBKKLGO_03299_mrgA,BS_mrgA [P] COG0783 DNA-binding ferritin-like protein (oxidative damage protectant),74.5,153,39
+OFBKKLGO_03301_cssR,BS_yvqA [TK] COG0745 Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain,88.0,225,27
+OFBKKLGO_03302_cssS,BS_yvqB [T] COG0642 Signal transduction histidine kinase,86.3,451,62
+OFBKKLGO_03304_group_2319,BS_yuxN [K] COG1309 Transcriptional regulator,71.8,291,82
+OFBKKLGO_03305_fumC,BS_citG [C] COG0114 Fumarase,93.1,462,32
+OFBKKLGO_03310_liaR_2,BS_yvqC [TK] COG2197 Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain,92.3,209,15
+OFBKKLGO_03311_liaS,BS_yvqE [T] COG4585 Signal transduction histidine kinase,80.3,360,71
+OFBKKLGO_03312_liaF,BS_yvqF [S] COG4758 Predicted membrane protein,73.7,243,62
+OFBKKLGO_03314_liaH,"BS_yvqH [KT] COG1842 Phage shock protein A (IM30), suppresses sigma54-dependent transcription",77.3,225,51
+OFBKKLGO_03316_group_4933,BS_yvqJ [GEPR] COG0477 Permeases of the major facilitator superfamily,79.4,417,86
+OFBKKLGO_03319_hmuU,"BS_yvrB [P] COG0609 ABC-type Fe3+-siderophore transport system, permease component",76.8,353,77
+OFBKKLGO_03320_btuF,"BS_yvrC [P] COG0614 ABC-type Fe3+-hydroxamate transport system, periplasmic component",74.1,316,76
+OFBKKLGO_03321_fabG_5,BS_yvrD [IQR] COG1028 Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases),82.9,263,45
+OFBKKLGO_03322_group_3848,BS_yvrE [G] COG3386 Gluconolactonase,78.3,290,63
+OFBKKLGO_03323_rcsC_3,BS_yvrG [T] COG0642 Signal transduction histidine kinase,71.8,571,161
+OFBKKLGO_03324_sphR,BS_yvrH [TK] COG0745 Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain,82.7,231,40
+OFBKKLGO_03328_oxdC_2,BS_yvrK [GR] COG2140 Thermophilic glucose-6-phosphate isomerase and related metalloenzymes,87.6,386,45
+OFBKKLGO_03330_yusV_2,"BS_fhuC [PH] COG1120 ABC-type cobalamin/Fe3+-siderophores transport systems, ATPase components",83.9,267,43
+OFBKKLGO_03331_feuC_2,"BS_fhuG [P] COG0609 ABC-type Fe3+-siderophore transport system, permease component",81.8,336,61
+OFBKKLGO_03333_fhuD,"BS_fhuD [P] COG0614 ABC-type Fe3+-hydroxamate transport system, periplasmic component",82.2,315,53
+OFBKKLGO_03335_ydgI,BS_yvsH [E] COG0531 Amino acid transporters,89.1,469,51
+OFBKKLGO_03338_ydjM_2,BS_yvsG [R] COG1988 Predicted membrane-bound metal-dependent hydrolases,83.5,158,26
+OFBKKLGO_03340_group_3850,BS_yvgK [P] COG1910 Periplasmic molybdate-binding protein/domain,69.8,308,93
+OFBKKLGO_03341_modA,"BS_yvgL [P] COG0725 ABC-type molybdate transport system, periplasmic component",74.8,254,61
+OFBKKLGO_03342_modB,"BS_yvgM [P] COG4149 ABC-type molybdate transport system, permease component",82.6,184,32
+OFBKKLGO_03343_lnrK,CAC2939 [TK] COG2197 Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain,44.5,211,115
+OFBKKLGO_03345_lnrL_5,"CAC3608 [V] COG1131 ABC-type multidrug transport system, ATPase component",56.8,310,134
+OFBKKLGO_03348_yvgN,"BS_yvgN [R] COG0656 Aldo/keto reductases, related to diketogulonate reductase",90.5,273,26
+OFBKKLGO_03350_nhaK,BS_yvgP [P] COG0025 NhaP-type Na+/H+ and K+/H+ antiporters,87.3,670,84
+OFBKKLGO_03351_cysI,"BS_yvgQ [P] COG0155 Sulfite reductase, beta subunit (hemoprotein)",90.0,571,57
+OFBKKLGO_03352_cysJ,"BS_yvgR [P] COG0369 Sulfite reductase, alpha subunit (flavoprotein)",78.2,605,129
+OFBKKLGO_03354_group_3852,BS_yvgT [S] COG2860 Predicted membrane protein,89.1,201,22
+OFBKKLGO_03356_bdbC,BS_yvgU [O] COG1495 Disulfide bond formation protein DsbB,89.8,137,14
+OFBKKLGO_03357_bdbD,BS_yvgV [O] COG1651 Protein-disulfide isomerase,77.0,191,43
+OFBKKLGO_03358_cadA,BS_yvgW [P] COG2217 Cation transport ATPase,76.9,701,161
+OFBKKLGO_03359_copA,BS_yvgX [P] COG2217 Cation transport ATPase,79.2,806,164
+OFBKKLGO_03360_copZ,BS_yvgY [P] COG2608 Copper chaperone,85.1,67,10
+OFBKKLGO_03361_csoR,BS_yvgZ [S] COG1937 Uncharacterized protein conserved in bacteria,84.5,97,15
+OFBKKLGO_03362_iolW,BS_yvaA [R] COG0673 Predicted dehydrogenases and related proteins,69.4,346,106
+OFBKKLGO_03363_azoR2,BS_yvaB [I] COG1182 Acyl carrier protein phosphodiesterase,94.3,211,12
+OFBKKLGO_03367_tcyN,"BS_hisP [E] COG1126 ABC-type polar amino acid transport system, ATPase component",81.9,259,47
+OFBKKLGO_03368_tcyM,"BS_ytmM [E] COG0765 ABC-type amino acid transport system, permease component",75.5,233,57
+OFBKKLGO_03369_tcyL,"BS_ytmL [E] COG0765 ABC-type amino acid transport system, permease component",80.8,239,46
+OFBKKLGO_03373_cmpR,BS_ytlI [K] COG0583 Transcriptional regulator,73.0,293,79
+OFBKKLGO_03374_baiA,BS_yvaG [IQR] COG1028 Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases),84.0,263,42
+OFBKKLGO_03376_smpB,BS_yvaI [O] COG0691 tmRNA-binding protein,96.8,156,5
+OFBKKLGO_03378_est,BS_yvaK [R] COG1647 Esterase/lipase,95.1,246,12
+OFBKKLGO_03379_secG,BS_yvaL [U] COG1314 Preprotein translocase subunit SecG,94.7,75,4
+OFBKKLGO_03380_group_15994,BS_yvzC [K] COG1396 Predicted transcriptional regulators,94.7,75,4
+OFBKKLGO_03381_rghR_1,BS_yvaN [K] COG1396 Predicted transcriptional regulators,72.6,135,37
+OFBKKLGO_03382_rghR_2,BS_yvaO [K] COG1396 Predicted transcriptional regulators,74.8,139,35
+OFBKKLGO_03383_yodB_2,BS_yvaP [K] COG1733 Predicted transcriptional regulators,89.5,105,11
+OFBKKLGO_03390_opuBC,BS_opuBC [M] COG1732 Periplasmic glycine betaine/choline-binding (lipo)protein of an ABC-type transport system (osmoprotectant binding protein),78.4,305,66
+OFBKKLGO_03391_opuCB_1,"BS_opuCB [E] COG1174 ABC-type proline/glycine betaine transport systems, permease component",82.5,217,38
+OFBKKLGO_03392_opuBA,"BS_opuBA [E] COG1125 ABC-type proline/glycine betaine transport systems, ATPase components",84.5,381,59
+OFBKKLGO_03393_opcR_2,BS_yvaV [K] COG1510 Predicted transcriptional regulators,77.4,177,40
+OFBKKLGO_03394_opuCD_2,"BS_opuCD [E] COG1174 ABC-type proline/glycine betaine transport systems, permease component",96.3,216,8
+OFBKKLGO_03395_opuCC,BS_opuCC [M] COG1732 Periplasmic glycine betaine/choline-binding (lipo)protein of an ABC-type transport system (osmoprotectant binding protein),84.1,301,48
+OFBKKLGO_03396_opuCB_2,"BS_opuCB [E] COG1174 ABC-type proline/glycine betaine transport systems, permease component",92.6,217,16
+OFBKKLGO_03397_opuCA,"BS_opuCA [E] COG1125 ABC-type proline/glycine betaine transport systems, ATPase components",91.3,379,32
+OFBKKLGO_03398_opcR_3,BS_yvbF [K] COG1510 Predicted transcriptional regulators,81.3,182,34
+OFBKKLGO_03399_group_3859,BS_yvbG [U] COG2095 Multiple antibiotic transporter,87.1,210,27
+OFBKKLGO_03401_group_1271,BS_yvbJ [S] COG4640 Predicted membrane protein,64.1,557,191
+OFBKKLGO_03413_eno,BS_eno [G] COG0148 Enolase,99.1,430,4
+OFBKKLGO_03414_gpmI,BS_pgm [G] COG0696 Phosphoglyceromutase,95.7,511,22
+OFBKKLGO_03415_tpiA,BS_tpi [G] COG0149 Triosephosphate isomerase,98.4,253,4
+OFBKKLGO_03416_pgk,BS_pgk [G] COG0126 3-phosphoglycerate kinase,98.2,394,7
+OFBKKLGO_03417_gapA,BS_gap [G] COG0057 Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase,97.6,335,8
+OFBKKLGO_03418_cggR,"BS_yvbQ [K] COG2390 Transcriptional regulator, contains sigma factor-related N-terminal domain",95.0,339,17
+OFBKKLGO_03420_araE,BS_araE [GEPR] COG0477 Permeases of the major facilitator superfamily,89.0,464,51
+OFBKKLGO_03421_araR,BS_araR [K] COG1609 Transcriptional regulators,84.3,362,57
+OFBKKLGO_03422_group_6507,"BS_yvbT [C] COG2141 Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases",91.6,332,28
+OFBKKLGO_03424_eamA,BS_yvbV [GER] COG0697 Permeases of the drug/metabolite transporter (DMT) superfamily,81.3,304,57
+OFBKKLGO_03425_yvbW,BS_yvbW [E] COG1113 Gamma-aminobutyrate permease and related permeases,87.2,446,57
+OFBKKLGO_03428_ybbH_2,BH2675 [K] COG1737 Transcriptional regulators,47.2,288,148
+OFBKKLGO_03429_xylB_2,BS_gntK [G] COG1070 Sugar (pentulose and hexulose) kinases,54.3,508,227
+OFBKKLGO_03430_idnT,RSp1189 [GE] COG2610 H+/gluconate symporter and related permeases,58.5,419,171
+OFBKKLGO_03432_lutB,BS_yvfW [C] COG1139 Uncharacterized conserved protein containing a ferredoxin-like domain,91.7,471,39
+OFBKKLGO_03433_lutA_2,BS_yvfV [C] COG0247 Fe-S oxidoreductase,89.5,238,25
+OFBKKLGO_03435_lutR,BS_yvfI [K] COG2186 Transcriptional regulators,79.9,174,35
+OFBKKLGO_03436_lutP,BS_yvfH [C] COG1620 L-lactate permease,84.0,563,85
+OFBKKLGO_03440_epsN,BS_yvfE [M] COG0399 Predicted pyridoxal phosphate-dependent enzyme apparently involved in regulation of cell wall biogenesis,81.0,273,52
+OFBKKLGO_03446_epsH,BS_yveR [M] COG0463 Glycosyltransferases involved in cell wall biogenesis,70.1,345,102
+OFBKKLGO_03449_epsE,BS_yveO [M] COG0463 Glycosyltransferases involved in cell wall biogenesis,82.9,280,46
+OFBKKLGO_03450_epsD,BS_yveN [M] COG0438 Glycosyltransferase,73.8,381,98
+OFBKKLGO_03451_pglF,BS_yveM [MG] COG1086 Predicted nucleoside-diphosphate sugar epimerases,81.6,597,110
+OFBKKLGO_03453_yveL,BS_yveL [D] COG0489 ATPases involved in chromosome partitioning,88.4,225,25
+OFBKKLGO_03454_ywqC_1,BS_yveK [M] COG3944 Capsular polysaccharide biosynthesis protein,64.7,235,82
+OFBKKLGO_03455_group_6519,BS_slr [K] COG1396 Predicted transcriptional regulators,78.7,150,31
+OFBKKLGO_03463_padC,BS_padC [Q] COG3479 Phenolic acid decarboxylase,91.3,161,14
+OFBKKLGO_03471_rafB,lacY [GEPR] COG0477 Permeases of the major facilitator superfamily,42.3,395,222
+OFBKKLGO_03472_degA,SPy1817 [K] COG1609 Transcriptional regulators,44.7,329,163
+OFBKKLGO_03473_clpP,BS_clpP [OU] COG0740 Protease subunit of ATP-dependent Clp proteases,96.0,198,7
+OFBKKLGO_03479_group_2342,BS_yvdC [R] COG1694 Predicted pyrophosphatase,80.8,104,20
+OFBKKLGO_03480_dauA_2,BS_yvdB [P] COG0659 Sulfate permease and related transporters (MFS superfamily),80.9,530,100
+OFBKKLGO_03481_csh_2,BS_yvdA [P] COG0288 Carbonic anhydrase,82.4,187,33
+OFBKKLGO_03482_ghrB,BS_yvcT [CHR] COG1052 Lactate dehydrogenase and related dehydrogenases,79.3,324,64
+OFBKKLGO_03485_crh,"BS_crh [G] COG1925 Phosphotransferase system, HPr-related proteins",94.1,85,5
+OFBKKLGO_03488_yvcJ,BS_yvcJ [R] COG1660 Predicted P-loop-containing kinase,95.3,295,14
+OFBKKLGO_03489_mutX,BS_yvcI [LR] COG0494 NTP pyrophosphohydrolases including oxidative damage repair enzymes,88.4,155,18
+OFBKKLGO_03490_trxB,BS_trxB [O] COG0492 Thioredoxin reductase,94.6,314,17
+OFBKKLGO_03494_hssR,lin2728 [TK] COG0745 Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain,50.0,222,109
+OFBKKLGO_03495_bmrA,"BS_yvcC [V] COG1132 ABC-type multidrug transport system, ATPase and permease components",86.4,588,80
+OFBKKLGO_03496_hisI,BS_hisI_1 [E] COG0139 Phosphoribosyl-AMP cyclohydrolase,83.5,115,17
+OFBKKLGO_03497_hisF,BS_hisF [E] COG0107 Imidazoleglycerol-phosphate synthase,89.7,252,26
+OFBKKLGO_03498_priA_2,BS_hisA [E] COG0106 Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase,80.7,243,47
+OFBKKLGO_03499_hisH,BS_hisH [E] COG0118 Glutamine amidotransferase,80.7,212,41
+OFBKKLGO_03500_hisB,BS_hisB [E] COG0131 Imidazoleglycerol-phosphate dehydratase,89.7,194,20
+OFBKKLGO_03501_hisD,BS_hisD [E] COG0141 Histidinol dehydrogenase,81.5,421,78
+OFBKKLGO_03502_hisG,BS_hisG [E] COG0040 ATP phosphoribosyltransferase,93.9,213,13
+OFBKKLGO_03503_hisZ,BS_hisZ [E] COG3705 ATP phosphoribosyltransferase involved in histidine biosynthesis,84.1,389,61
+OFBKKLGO_03504_group_3879,BS_yvpB [S] COG4990 Uncharacterized protein conserved in bacteria,69.5,249,67
+OFBKKLGO_03505_dapH_2,BS_yvoF [R] COG0110 Acetyltransferase (isoleucine patch superfamily),80.2,172,34
+OFBKKLGO_03506_ppaX_2,BS_yvoE [R] COG0546 Predicted phosphatases,76.4,216,51
+OFBKKLGO_03507_lgt,BS_lgt [M] COG0682 Prolipoprotein diacylglyceryltransferase,84.4,269,42
+OFBKKLGO_03508_hprK,"BS_yvoB [T] COG1493 Serine kinase of the HPr protein, regulates carbohydrate metabolism",96.1,310,12
+OFBKKLGO_03510_nagB,BS_nagB [G] COG0363 6-phosphogluconolactonase/Glucosamine-6-phosphate isomerase/deaminase,71.0,238,69
+OFBKKLGO_03511_nagR_2,BS_yvoA [K] COG2188 Transcriptional regulators,80.2,242,48
+OFBKKLGO_03514_group_6527,BS_yvlD [S] COG1950 Predicted membrane protein,87.4,119,15
+OFBKKLGO_03515_group_4955,BS_yvlC [KT] COG1983 Putative stress-responsive transcriptional regulator,67.7,65,20
+OFBKKLGO_03516_group_6528,BS_yvlB [S] COG3595 Uncharacterized conserved protein,83.0,365,62
+OFBKKLGO_03519_uvrA,BS_uvrA [L] COG0178 Excinuclease ATPase subunit,94.1,957,56
+OFBKKLGO_03520_uvrB,BS_uvrB [L] COG0556 Helicase subunit of the DNA excision repair complex,96.8,661,21
+OFBKKLGO_03521_csbA,BS_csbA [S] COG4897 Uncharacterized protein conserved in bacteria,93.3,75,5
+OFBKKLGO_03524_ribZ_2,BS_yvkA [GEPR] COG0477 Permeases of the major facilitator superfamily,86.0,442,62
+OFBKKLGO_03527_minJ,"BS_yvjD [O] COG0265 Trypsin-like serine proteases, typically periplasmic, contain C-terminal PDZ domain",78.0,395,87
+OFBKKLGO_03529_ctpB,BS_yvjB [M] COG0793 Periplasmic protease,81.4,479,75
+OFBKKLGO_03531_ftsX,BS_ftsX [D] COG2177 Cell division protein,89.5,296,31
+OFBKKLGO_03532_ftsE,BS_ftsE [D] COG2884 Predicted ATPase involved in cell division,96.5,228,8
+OFBKKLGO_03533_cccB,"BS_cccB [C] COG2010 Cytochrome c, mono- and diheme variants",64.6,113,39
+OFBKKLGO_03534_group_6531,BS_yvjA [S] COG1284 Uncharacterized conserved protein,81.2,282,52
+OFBKKLGO_03535_prfB,BS_prfB [J] COG1186 Protein chain release factor B,92.7,327,24
+OFBKKLGO_03536_secA,"BS_secA [U] COG0653 Preprotein translocase subunit SecA (ATPase, RNA helicase)",95.0,841,42
+OFBKKLGO_03537_yvyD,BS_yvyD [J] COG1544 Ribosome-associated protein Y (PSrp-1),89.4,189,18
+OFBKKLGO_03540_fliS,BS_fliS [NUO] COG1516 Flagellin-specific chaperone FliS,63.9,133,48
+OFBKKLGO_03541_fliD,BS_fliD [N] COG1345 Flagellar capping protein,49.5,503,245
+OFBKKLGO_03543_csrA,BS_csrA [T] COG1551 Carbon storage regulator (could also regulate swarming and quorum sensing),73.0,74,20
+OFBKKLGO_03544_fliW,BS_yviF [S] COG1699 Uncharacterized protein conserved in bacteria,69.9,143,43
+OFBKKLGO_03546_flaB3,BS_flgL [N] COG1344 Flagellin and related hook-associated proteins,62.0,305,109
+OFBKKLGO_03549_group_3886,BS_flgM [KNU] COG2747 Negative regulator of flagellin synthesis (anti-sigma28 factor),75.0,88,22
+OFBKKLGO_03554_degV,BS_yviA [S] COG1307 Uncharacterized protein conserved in bacteria,86.1,281,39
+OFBKKLGO_03555_degU,BS_degU [TK] COG2197 Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain,99.1,229,2
+OFBKKLGO_03556_degS,BS_degS [T] COG4585 Signal transduction histidine kinase,94.5,385,21
+OFBKKLGO_03557_yigZ,BS_yvyE [S] COG1739 Uncharacterized conserved protein,87.7,211,26
+OFBKKLGO_03558_tagU_1,BS_yvhJ [K] COG1316 Transcriptional regulator,78.7,342,64
+OFBKKLGO_03559_tagO,BS_tagO [M] COG0472 UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase,91.3,358,31
+OFBKKLGO_03561_tuaG,BS_tuaG [M] COG0463 Glycosyltransferases involved in cell wall biogenesis,84.5,252,39
+OFBKKLGO_03566_tuaB,BS_tuaB [R] COG2244 Membrane protein involved in the export of O-antigen and teichoic acid,78.8,482,101
+OFBKKLGO_03578_tagD,BS_tagD [MI] COG0615 Cytidylyltransferase,91.5,129,11
+OFBKKLGO_03579_tagA,BS_tagA [M] COG1922 Teichoic acid biosynthesis proteins,65.2,256,89
+OFBKKLGO_03582_yvyI,BS_pmi [G] COG1482 Phosphomannose isomerase,77.8,316,70
+OFBKKLGO_03586_COQ3_1,CAC2347 [R] COG1216 Predicted glycosyltransferases,43.2,241,134
+OFBKKLGO_03588_tagT,BS_ywtF [K] COG1316 Transcriptional regulator,77.6,326,67
+OFBKKLGO_03589_ywtE,BS_ywtE [R] COG0561 Predicted hydrolases of the HAD superfamily,78.5,284,61
+OFBKKLGO_03601_rbsD,"BS_rbsD [G] COG1869 ABC-type ribose transport system, auxiliary component",75.6,131,32
+OFBKKLGO_03603_rbsC,"BS_rbsC [G] COG1172 Ribose/xylose/arabinose/galactoside ABC-type transport systems, permease components",86.7,323,42
+OFBKKLGO_03604_rbsB,"BS_rbsB [G] COG1879 ABC-type sugar transport system, periplasmic component",84.3,305,48
+OFBKKLGO_03607_alsD,BS_alsD [Q] COG3527 Alpha-acetolactate decarboxylase,82.0,255,46
+OFBKKLGO_03608_alsS,"BS_alsS [EH] COG0028 Thiamine pyrophosphate-requiring enzymes [acetolactate synthase, pyruvate dehydrogenase (cytochrome), glyoxylate carboligase, phosphonopyruvate decarboxylase]",82.8,571,98
+OFBKKLGO_03609_hcaR,BS_alsR [K] COG0583 Transcriptional regulator,79.5,292,60
+OFBKKLGO_03610_arsB_1,BS_ywrK [P] COG1055 Na+/H+ antiporter NhaD and related arsenite permeases,73.1,442,118
+OFBKKLGO_03613_cotH,BS_cotH [M] COG5337 Spore coat assembly protein,81.3,359,67
+OFBKKLGO_03615_group_3001,"BS_ywrF [R] COG1853 Conserved protein/domain typically associated with flavoprotein oxygenases, DIM6/NTAB family",72.8,206,55
+OFBKKLGO_03618_group_2355,BS_ywrC [K] COG1522 Transcriptional regulators,87.3,158,20
+OFBKKLGO_03620_chrA,BS_ywrA [P] COG2059 Chromate transport protein ChrA,96.6,178,6
+OFBKKLGO_03630_ywqF,BS_ywqF [M] COG1004 Predicted UDP-glucose 6-dehydrogenase,76.3,435,103
+OFBKKLGO_03631_ywqE,BS_ywqE [GM] COG4464 Capsular polysaccharide biosynthesis protein,64.2,254,91
+OFBKKLGO_03632_ywqD,BS_ywqD [D] COG0489 ATPases involved in chromosome partitioning,70.5,217,64
+OFBKKLGO_03633_ywqC_2,BS_ywqC [M] COG3944 Capsular polysaccharide biosynthesis protein,69.8,248,75
+OFBKKLGO_03636_rapA_3,"BS_ywqA [KL] COG0553 Superfamily II DNA/RNA helicases, SNF2 family",88.2,922,109
+OFBKKLGO_03637_ywpJ,BS_ywpJ [R] COG0561 Predicted hydrolases of the HAD superfamily,73.7,285,75
+OFBKKLGO_03638_glcR,BS_glcR [KG] COG1349 Transcriptional regulators of sugar metabolism,80.0,255,51
+OFBKKLGO_03639_ssbB,BS_ywpH [L] COG0629 Single-stranded DNA-binding protein,75.2,113,28
+OFBKKLGO_03642_mscL,BS_ywpC [M] COG1970 Large-conductance mechanosensitive channel,78.1,128,27
+OFBKKLGO_03643_fabZ_2,BS_ywpB [I] COG0764 3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratases,93.0,128,9
+OFBKKLGO_03644_rapF_2,BS_rapD [R] COG0457 FOG: TPR repeat,64.7,354,125
+OFBKKLGO_03645_flgG_2,BS_flhP [N] COG4786 Flagellar basal body rod protein,67.0,273,85
+OFBKKLGO_03647_mbl,BS_mbl [D] COG1077 Actin-like ATPase involved in cell morphogenesis,99.0,302,3
+OFBKKLGO_03649_badR,BS_ywoH [K] COG1846 Transcriptional regulators,82.2,135,24
+OFBKKLGO_03651_pucI,BS_ywoE [FH] COG1953 Cytosine/uracil/thiamine/allantoin permeases,86.6,463,62
+OFBKKLGO_03654_yecD,BS_ywoC [Q] COG1335 Amidases related to nicotinamidase,79.4,189,38
+OFBKKLGO_03655_nrgA,BS_nrgA [P] COG0004 Ammonia permease,89.6,402,42
+OFBKKLGO_03656_nrgB,BS_nrgB [E] COG0347 Nitrogen regulatory protein PII,93.1,116,8
+OFBKKLGO_03657_ftsW_3,BH3276 [D] COG0772 Bacterial cell division membrane protein,49.3,357,177
+OFBKKLGO_03658_bcrC,BS_ywoA [I] COG0671 Membrane-associated phospholipid phosphatase,76.0,192,44
+OFBKKLGO_03660_spoIIQ,BS_spoIIQ [M] COG0739 Membrane proteins related to metalloendopeptidases,87.8,255,22
+OFBKKLGO_03661_ywnH,BS_ywnH [M] COG1247 Sortase and related acyltransferases,79.8,163,33
+OFBKKLGO_03664_clsA,BS_ywnE [I] COG1502 Phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthases and related enzymes,89.8,481,49
+OFBKKLGO_03668_ywnA_2,BS_ywnA [K] COG1959 Predicted transcriptional regulator,85.0,133,20
+OFBKKLGO_03669_ureC,BS_ureC [E] COG0804 Urea amidohydrolase (urease) alpha subunit,94.9,569,29
+OFBKKLGO_03671_ureB,BS_ureB [E] COG0832 Urea amidohydrolase (urease) beta subunit,79.8,124,25
+OFBKKLGO_03672_ureA,BS_ureA [E] COG0831 Urea amidohydrolase (urease) gamma subunit,91.4,105,9
+OFBKKLGO_03673_csbD,BS_ywmG [S] COG3237 Uncharacterized protein conserved in bacteria,70.6,34,10
+OFBKKLGO_03675_rapA_4,BS_rapB [R] COG0457 FOG: TPR repeat,76.1,377,89
+OFBKKLGO_03676_moaA,BS_narA [H] COG2896 Molybdenum cofactor biosynthesis enzyme,86.5,341,46
+OFBKKLGO_03677_fdhD,BS_narQ [C] COG1526 Uncharacterized protein required for formate dehydrogenase activity,82.4,262,46
+OFBKKLGO_03679_group_6568,BS_ywmD [R] COG2304 Uncharacterized protein containing a von Willebrand factor type A (vWA) domain,71.5,221,62
+OFBKKLGO_03681_group_6569,BS_spoIID [D] COG2385 Sporulation protein and related proteins,77.3,344,77
+OFBKKLGO_03682_murAA,BS_murA [M] COG0766 UDP-N-acetylglucosamine enolpyruvyl transferase,95.2,436,21
+OFBKKLGO_03684_group_4978,BS_ywzB [S] COG4836 Predicted membrane protein,84.0,75,12
+OFBKKLGO_03686_atpC,"BS_atpC [C] COG0355 F0F1-type ATP synthase, epsilon subunit (mitochondrial delta subunit)",81.7,131,24
+OFBKKLGO_03687_atpD,"BS_atpD [C] COG0055 F0F1-type ATP synthase, beta subunit",96.4,473,17
+OFBKKLGO_03688_atpG,"BS_atpG [C] COG0224 F0F1-type ATP synthase, gamma subunit",89.5,287,30
+OFBKKLGO_03689_atpA,"BS_atpA [C] COG0056 F0F1-type ATP synthase, alpha subunit",98.0,502,10
+OFBKKLGO_03690_atpH,"BS_atpH [C] COG0712 F0F1-type ATP synthase, delta subunit (mitochondrial oligomycin sensitivity protein)",81.2,181,34
+OFBKKLGO_03691_atpF,"BS_atpF [C] COG0711 F0F1-type ATP synthase, subunit b",92.9,170,12
+OFBKKLGO_03692_atpE,"BS_atpE [C] COG0636 F0F1-type ATP synthase, subunit c/Archaeal/vacuolar-type H+-ATPase, subunit K",100.0,70,0
+OFBKKLGO_03693_atpB,"BS_atpB [C] COG0356 F0F1-type ATP synthase, subunit a",92.2,244,19
+OFBKKLGO_03695_upp,BS_upp [F] COG0035 Uracil phosphoribosyltransferase,92.8,209,15
+OFBKKLGO_03696_glyA,BS_glyA [E] COG0112 Glycine/serine hydroxymethyltransferase,95.7,415,18
+OFBKKLGO_03697_lacA,BS_ywlG [S] COG4475 Uncharacterized protein conserved in bacteria,78.3,180,39
+OFBKKLGO_03699_ywlE,BS_ywlE [T] COG0394 Protein-tyrosine-phosphatase,74.5,145,37
+OFBKKLGO_03700_mntP,BS_ywlD [S] COG1971 Predicted membrane protein,76.2,185,44
+OFBKKLGO_03701_ywlC,BS_ywlC [J] COG0009 Putative translation factor (SUA5),76.9,346,80
+OFBKKLGO_03706_prmC,BS_ywkE [J] COG2890 Methylase of polypeptide chain release factors,81.7,284,52
+OFBKKLGO_03707_prfA,BS_prfA [J] COG0216 Protein chain release factor A,95.8,355,15
+OFBKKLGO_03708_cetB,BS_ywkD [E] COG0346 Lactoylglutathione lyase and related lyases,84.1,126,20
+OFBKKLGO_03709_racA,BS_ywkC [K] COG0789 Predicted transcriptional regulators,66.3,187,58
+OFBKKLGO_03710_group_4980,BS_ywkB [R] COG0679 Predicted permeases,89.6,318,32
+OFBKKLGO_03711_maeA_2,BS_ywkA [C] COG0281 Malic enzyme,89.6,565,59
+OFBKKLGO_03712_tdk,BS_tdk [F] COG1435 Thymidine kinase,89.6,192,20
+OFBKKLGO_03713_rpmE,BS_rpmE [J] COG0254 Ribosomal protein L31,100.0,66,0
+OFBKKLGO_03714_rho,BS_rho [K] COG1158 Transcription termination factor,97.4,427,11
+OFBKKLGO_03716_murAB,BS_murZ [M] COG0766 UDP-N-acetylglucosamine enolpyruvyl transferase,95.3,429,20
+OFBKKLGO_03717_tal,BH3785 [G] COG0176 Transaldolase,78.7,211,44
+OFBKKLGO_03718_fbaA,BS_fbaA [G] COG0191 Fructose/tagatose bisphosphate aldolase,98.6,285,4
+OFBKKLGO_03719_spo0F,BS_spo0F [T] COG0784 FOG: CheY-like receiver,96.0,124,5
+OFBKKLGO_03721_pyrG,BS_ctrA [F] COG0504 CTP synthase (UTP-ammonia lyase),92.1,535,42
+OFBKKLGO_03723_rpoE,"BS_rpoE [K] COG3343 DNA-directed RNA polymerase, delta subunit",89.7,116,12
+OFBKKLGO_03724_fadF,BS_ywjF [C] COG0247 Fe-S oxidoreductase,84.5,698,107
+OFBKKLGO_03732_narH,BS_narH [C] COG1140 Nitrate reductase beta subunit,97.5,487,12
+OFBKKLGO_03736_fnr,BS_fnr [T] COG0664 cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases,93.3,238,16
+OFBKKLGO_03737_narT,BS_narK [P] COG2223 Nitrate/nitrite transporter,94.9,394,20
+OFBKKLGO_03738_argS,BS_argS [J] COG0018 Arginyl-tRNA synthetase,95.3,556,26
+OFBKKLGO_03744_speB,"BS_ywhG [E] COG0010 Arginase/agmatinase/formimionoglutamate hydrolase, arginase family",94.8,290,15
+OFBKKLGO_03745_speE,BS_ywhF [E] COG0421 Spermidine synthase,94.6,276,15
+OFBKKLGO_03746_pbpG,BS_ywhE [M] COG0744 Membrane carboxypeptidase (penicillin-binding protein),80.4,637,125
+OFBKKLGO_03749_group_15945,BS_ywhC [R] COG1994 Zn-dependent proteases,85.4,219,32
+OFBKKLGO_03750_ywhB,"BS_ywhB [R] COG1942 Uncharacterized protein, 4-oxalocrotonate tautomerase homolog",90.3,62,6
+OFBKKLGO_03751_group_6583,BS_ywhA [K] COG1846 Transcriptional regulators,78.1,137,30
+OFBKKLGO_03752_yhdG_3,BS_yfnA [E] COG0531 Amino acid transporters,51.9,459,219
+OFBKKLGO_03753_group_16184,BS_ywgA [S] COG3465 Uncharacterized conserved protein,90.4,166,16
+OFBKKLGO_03754_group_16306,BS_ywfO [R] COG1078 HD superfamily phosphohydrolases,94.5,433,24
+OFBKKLGO_03758_group_2367,CAC0571 [K] COG1695 Predicted transcriptional regulators,53.5,101,47
+OFBKKLGO_03767_lipL,BS_ywfL [H] COG0095 Lipoate-protein ligase A,84.7,281,43
+OFBKKLGO_03768_cysL_2,BS_ywfK [K] COG0583 Transcriptional regulator,85.1,295,44
+OFBKKLGO_03769_group_2372,lin2251 [S] COG2855 Predicted membrane protein,52.4,319,151
+OFBKKLGO_03770_pta_2,BS_pta [C] COG0280 Phosphotransacetylase,93.5,322,21
+OFBKKLGO_03771_group_2373,BS_ywfI [S] COG3253 Uncharacterized conserved protein,94.1,254,15
+OFBKKLGO_03773_bacF_2,BS_ywfG [E] COG0436 Aspartate/tyrosine/aromatic aminotransferase,88.7,399,45
+OFBKKLGO_03775_bacD,BS_ywfE [I] COG0439 Biotin carboxylase,89.8,472,48
+OFBKKLGO_03776_bacC_1,BS_ywfD [IQR] COG1028 Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases),93.7,253,16
+OFBKKLGO_03779_sotB,BS_ywfA [G] COG2814 Arabinose efflux permease,78.0,410,90
+OFBKKLGO_03780_bcr_2,BS_ydgK [GEPR] COG0477 Permeases of the major facilitator superfamily,45.0,389,211
+OFBKKLGO_03781_rocC_1,BS_rocC [E] COG0833 Amino acid transporters,81.5,466,86
+OFBKKLGO_03782_rocB,BS_rocB [E] COG4187 Arginine degradation protein (predicted deacylase),80.0,555,111
+OFBKKLGO_03784_rocG,BS_yweB [E] COG0334 Glutamate dehydrogenase/leucine dehydrogenase,91.7,421,35
+OFBKKLGO_03786_rfbC,"BS_spsK_2 [M] COG1898 dTDP-4-dehydrorhamnose 3,5-epimerase and related enzymes",91.4,151,13
+OFBKKLGO_03787_rmlD,BS_spsK_1 [M] COG1091 dTDP-4-dehydrorhamnose reductase,76.0,258,62
+OFBKKLGO_03788_rfbB,"BS_spsJ [M] COG1088 dTDP-D-glucose 4,6-dehydratase",83.6,311,51
+OFBKKLGO_03789_rmlA,BS_spsI [M] COG1209 dTDP-glucose pyrophosphorylase,88.1,244,29
+OFBKKLGO_03792_spsE,BS_spsE [M] COG2089 Sialic acid synthase,81.9,371,67
+OFBKKLGO_03794_arnB_2,BS_spsC [M] COG0399 Predicted pyridoxal phosphate-dependent enzyme apparently involved in regulation of cell wall biogenesis,79.7,389,79
+OFBKKLGO_03796_spsA,BS_spsA [M] COG0463 Glycosyltransferases involved in cell wall biogenesis,82.8,256,44
+OFBKKLGO_03798_group_6596,BS_ywdK [S] COG2363 Uncharacterized small membrane protein,92.3,104,8
+OFBKKLGO_03799_ywdJ,BS_ywdJ [F] COG2233 Xanthine/uracil permeases,76.9,428,98
+OFBKKLGO_03801_ung,BS_ung [L] COG0692 Uracil DNA glycosylase,88.4,225,26
+OFBKKLGO_03802_group_3024,BS_ywdF [M] COG0463 Glycosyltransferases involved in cell wall biogenesis,82.8,268,46
+OFBKKLGO_03804_pdxK,BS_thiD [H] COG0351 Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase,94.4,268,15
+OFBKKLGO_03808_sacY,BS_sacT [K] COG3711 Transcriptional antiterminator,85.3,272,40
+OFBKKLGO_03811_group_2379,"BS_ywcH [C] COG2141 Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases",85.6,333,48
+OFBKKLGO_03816_nfrA1,BS_ywcG [C] COG0778 Nitroreductase,84.7,249,38
+OFBKKLGO_03817_rodA,BS_ywcF [D] COG0772 Bacterial cell division membrane protein,73.7,395,102
+OFBKKLGO_03820_qoxD,"BS_qoxD [C] COG3125 Heme/copper-type cytochrome/quinol oxidase, subunit 4",94.2,120,6
+OFBKKLGO_03822_qoxB,"BS_qoxB [C] COG0843 Heme/copper-type cytochrome/quinol oxidases, subunit 1",95.7,649,28
+OFBKKLGO_03823_qoxA,"BS_qoxA [C] COG1622 Heme/copper-type cytochrome/quinol oxidases, subunit 2",90.2,317,31
+OFBKKLGO_03824_group_16054,BS_ydaS [S] COG2261 Predicted membrane protein,65.8,79,27
+OFBKKLGO_03827_group_3931,BS_ywcD [S] COG2246 Predicted membrane protein,79.5,127,26
+OFBKKLGO_03832_group_1878,BS_ywbO [Q] COG2761 Predicted dithiol-disulfide isomerase involved in polyketide biosynthesis,76.0,200,48
+OFBKKLGO_03833_efeN,BS_ywbN [P] COG2837 Predicted iron-dependent peroxidase,84.0,418,65
+OFBKKLGO_03836_thiE,BS_thiC [H] COG0352 Thiamine monophosphate synthase,77.2,215,49
+OFBKKLGO_03838_cynR_1,BS_ywbI [K] COG0583 Transcriptional regulator,93.0,300,21
+OFBKKLGO_03839_group_15963,BS_ywbH [R] COG1380 Putative effector of murein hydrolase LrgA,96.9,127,4
+OFBKKLGO_03840_yohK,BS_ywbG [M] COG1346 Putative effector of murein hydrolase,91.7,218,18
+OFBKKLGO_03841_group_6600,BS_ywbE [S] COG4895 Uncharacterized conserved protein,81.0,63,12
+OFBKKLGO_03844_rlmI,BS_ywbD [R] COG1092 Predicted SAM-dependent methyltransferases,80.8,396,75
+OFBKKLGO_03845_gloA,BS_ywbC [E] COG0346 Lactoylglutathione lyase and related lyases,85.6,125,18
+OFBKKLGO_03848_gspA,"BS_gspA [M] COG1442 Lipopolysaccharide biosynthesis proteins, LPS:glycosyltransferases",75.7,284,69
+OFBKKLGO_03851_menA,"BS_ywaB [H] COG1575 1,4-dihydroxy-2-naphthoate octaprenyltransferase",88.7,311,35
+OFBKKLGO_03853_dltA_3,BS_dltA [Q] COG1020 Non-ribosomal peptide synthetase modules and related proteins,78.9,503,106
+OFBKKLGO_03854_group_6602,BS_dltB [M] COG1696 Predicted membrane protein involved in D-alanine export,89.8,394,40
+OFBKKLGO_03855_dltC,BS_dltC [IQ] COG0236 Acyl carrier protein,88.5,78,9
+OFBKKLGO_03857_ilvK,BS_ywaA [EH] COG0115 Branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase,89.8,361,37
+OFBKKLGO_03858_licH,"BS_licH [G] COG1486 Alpha-galactosidases/6-phospho-beta-glucosidases, family 4 of glycosyl hydrolases",93.2,442,30
+OFBKKLGO_03859_licA,BS_licA [G] COG1447 Phosphotransferase system cellobiose-specific component IIA,78.2,110,24
+OFBKKLGO_03860_licC_2,BS_licC [G] COG1455 Phosphotransferase system cellobiose-specific component IIC,90.3,452,44
+OFBKKLGO_03861_licB,BS_licB [G] COG1440 Phosphotransferase system cellobiose-specific component IIB,91.2,102,9
+OFBKKLGO_03862_licR,BS_licR_1 [K] COG3711 Transcriptional antiterminator,73.4,500,131
+OFBKKLGO_03863_group_2385,BS_yxlJ [L] COG2094 3-methyladenine DNA glycosylase,80.1,196,39
+OFBKKLGO_03864_feuB_2,"lin2072 [P] COG0609 ABC-type Fe3+-siderophore transport system, permease component",50.6,318,157
+OFBKKLGO_03865_group_5012,"BS_fhuG [P] COG0609 ABC-type Fe3+-siderophore transport system, permease component",42.1,335,188
+OFBKKLGO_03868_arsB_2,BS_ydfA [P] COG1055 Na+/H+ antiporter NhaD and related arsenite permeases,80.5,425,83
+OFBKKLGO_03876_katA_2,BS_katX [P] COG0753 Catalase,95.9,531,22
+OFBKKLGO_03877_yxeI,BS_yxeI [M] COG3049 Penicillin V acylase and related amidases,76.8,328,76
+OFBKKLGO_03880_group_6610,"BS_cydD [CO] COG4987 ABC-type transport system involved in cytochrome bd biosynthesis, fused ATPase and permease components",82.3,575,102
+OFBKKLGO_03882_cydB,"BS_cydB [C] COG1294 Cytochrome bd-type quinol oxidase, subunit 2",84.3,338,53
+OFBKKLGO_03883_cydA,"BS_cydA [C] COG1271 Cytochrome bd-type quinol oxidase, subunit 1",88.7,468,53
+OFBKKLGO_03884_cimH,BS_yxkJ [C] COG3493 Na+/citrate symporter,81.8,450,79
+OFBKKLGO_03886_msmX_2,"BS_msmX [G] COG3839 ABC-type sugar transport systems, ATPase components",91.0,365,33
+OFBKKLGO_03888_group_5019,BS_yxkD [S] COG1284 Uncharacterized conserved protein,91.0,278,25
+OFBKKLGO_03892_lnpD,BS_galE [M] COG1087 UDP-glucose 4-epimerase,90.5,338,32
+OFBKKLGO_03898_metE_2,BS_yxjG [E] COG0620 Methionine synthase II (cobalamin-independent),85.8,325,46
+OFBKKLGO_03901_nupG,BS_yxjA [F] COG1972 Nucleoside permease,85.4,397,58
+OFBKKLGO_03905_katE,BS_katB [P] COG0753 Catalase,83.8,690,101
+OFBKKLGO_03906_citN,BS_yxiQ [C] COG2851 H+/citrate symporter,97.4,425,11
+OFBKKLGO_03909_group_1884,BS_yxiO [R] COG2270 Permeases of the major facilitator superfamily,78.6,415,89
+OFBKKLGO_03919_pelB,BS_pelB [G] COG3866 Pectate lyase,57.7,310,128
+OFBKKLGO_03920_group_3051,BS_yxxF [GER] COG0697 Permeases of the drug/metabolite transporter (DMT) superfamily,85.0,286,43
+OFBKKLGO_03921_teaD,BS_yxiE [T] COG0589 Universal stress protein UspA and related nucleotide-binding proteins,74.8,147,37
+OFBKKLGO_03934_hutH,BS_hutH [E] COG2986 Histidine ammonia-lyase,86.3,503,69
+OFBKKLGO_03936_hutI,BS_hutI [Q] COG1228 Imidazolonepropionase and related amidohydrolases,84.8,421,64
+OFBKKLGO_03940_nupC,BS_nupC [F] COG1972 Nucleoside permease,86.0,393,55
+OFBKKLGO_03941_deoC,BS_dra [F] COG0274 Deoxyribose-phosphate aldolase,87.7,203,25
+OFBKKLGO_03942_deoR,"BS_deoR [K] COG2390 Transcriptional regulator, contains sigma factor-related N-terminal domain",85.3,313,46
+OFBKKLGO_03943_yidA,BS_yxeH [R] COG0561 Predicted hydrolases of the HAD superfamily,77.8,270,60
+OFBKKLGO_03950_yxeB,"BS_yxeB [P] COG0614 ABC-type Fe3+-hydroxamate transport system, periplasmic component",72.4,319,87
+OFBKKLGO_03951_yxeA,BS_yxeA [S] COG5294 Uncharacterized protein conserved in bacteria,94.8,115,6
+OFBKKLGO_03952_yxdM,"BS_yxdM [V] COG0577 ABC-type antimicrobial peptide transport system, permease component",93.1,622,43
+OFBKKLGO_03954_graS_2,BS_yxdK [T] COG0642 Signal transduction histidine kinase,97.2,325,9
+OFBKKLGO_03955_graR_2,BS_yxdJ [TK] COG0745 Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain,95.6,229,10
+OFBKKLGO_03960_ygcS,BS_iolF [GEPR] COG0477 Permeases of the major facilitator superfamily,79.3,439,83
+OFBKKLGO_03961_iolE,BS_iolE [G] COG1082 Sugar phosphate isomerases/epimerases,77.4,297,67
+OFBKKLGO_03963_iolC,"BS_iolC [G] COG0524 Sugar kinases, ribokinase family",89.2,324,35
+OFBKKLGO_03964_iolB,BS_iolB [G] COG3718 Uncharacterized enzyme involved in inositol metabolism,86.7,271,36
+OFBKKLGO_03965_iolA,BS_iolA [C] COG1012 NAD-dependent aldehyde dehydrogenases,92.2,487,38
+OFBKKLGO_03966_srlR,BS_iolR [KG] COG1349 Transcriptional regulators of sugar metabolism,86.9,251,33
+OFBKKLGO_03967_iolS_2,BS_iolS [C] COG0667 Predicted oxidoreductases (related to aryl-alcohol dehydrogenases),85.2,310,46
+OFBKKLGO_03968_csbC_2,BS_yxcC [GEPR] COG0477 Permeases of the major facilitator superfamily,86.8,462,60
+OFBKKLGO_03969_htpG,"BS_htpG [O] COG0326 Molecular chaperone, HSP90 family",84.9,624,94
+OFBKKLGO_03970_bacC_2,BS_yxbG [IQR] COG1028 Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases),85.8,211,30
+OFBKKLGO_03971_desR,BS_yocG [TK] COG2197 Response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain,82.9,199,34
+OFBKKLGO_03972_desK,BS_yocF [T] COG4585 Signal transduction histidine kinase,81.1,370,69
+OFBKKLGO_03973_des,BS_yocE [I] COG3239 Fatty acid desaturase,80.7,352,65
+OFBKKLGO_03978_group_902,L133446 [K] COG0640 Predicted transcriptional regulators,44.8,96,50
+OFBKKLGO_03982_ahpC,BS_ahpC [O] COG0450 Peroxiredoxin,98.9,187,2
+OFBKKLGO_03983_ahpF,"BS_ahpF [O] COG3634 Alkyl hydroperoxide reductase, large subunit",94.9,509,26
+OFBKKLGO_03985_cycA,BS_aapA [E] COG1113 Gamma-aminobutyrate permease and related permeases,59.6,448,180
+OFBKKLGO_04007_group_1369,BS_yycO [S] COG3863 Uncharacterized distant relative of cell wall-associated hydrolases,74.0,246,60
+OFBKKLGO_04011_rapI,BH0661 [R] COG0457 FOG: TPR repeat,42.5,372,210
+OFBKKLGO_04012_rocF,"BS_rocF [E] COG0010 Arginase/agmatinase/formimionoglutamate hydrolase, arginase family",90.5,296,28
+OFBKKLGO_04013_rocE_2,BS_rocE [E] COG0833 Amino acid transporters,87.6,467,57
+OFBKKLGO_04014_rocD,BS_rocD [E] COG4992 Ornithine/acetylornithine aminotransferase,90.8,401,37
+OFBKKLGO_04017_rocR,"BS_rocR [KT] COG3829 Transcriptional regulator containing PAS, AAA-type ATPase, and DNA-binding domains",84.9,451,68
+OFBKKLGO_04022_htrA_2,"BS_yyxA [O] COG0265 Trypsin-like serine proteases, typically periplasmic, contain C-terminal PDZ domain",75.6,398,94
+OFBKKLGO_04023_yycJ,BS_yycJ [R] COG1235 Metal-dependent hydrolases of the beta-lactamase superfamily I,92.3,261,20
+OFBKKLGO_04025_yycH,BS_yycH [S] COG4863 Uncharacterized protein conserved in bacteria,73.2,455,119
+OFBKKLGO_04026_walK,BS_yycG [T] COG5002 Signal transduction histidine kinase,92.8,611,44
+OFBKKLGO_04027_walR_2,BS_yycF [TK] COG0745 Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain,97.0,235,7
+OFBKKLGO_04031_dnaC,BS_dnaC [L] COG0305 Replicative DNA helicase,95.8,454,19
+OFBKKLGO_04041_rplI,BS_rplI [J] COG0359 Ribosomal protein L9,89.9,149,15
+OFBKKLGO_04042_gdpP,BS_yybT [T] COG3887 Predicted signaling protein consisting of a modified GGDEF domain and a DHH domain,93.3,659,44
+OFBKKLGO_04045_cotF,BS_cotF [M] COG5577 Spore coat protein,72.7,161,43
+OFBKKLGO_04046_yybR,BS_yybR [K] COG1733 Predicted transcriptional regulators,85.6,118,17
+OFBKKLGO_04047_ppaC,BS_yybQ [C] COG1227 Inorganic pyrophosphatase/exopolyphosphatase,95.5,309,14
+OFBKKLGO_04048_yicL,CAC0875 [GER] COG0697 Permeases of the drug/metabolite transporter (DMT) superfamily,48.6,278,142
+OFBKKLGO_04054_group_1054,lin0518 [S] COG3759 Predicted membrane protein,56.3,119,52
+OFBKKLGO_04055_yodC_2,BS_ydgI [C] COG0778 Nitroreductase,92.8,208,15
+OFBKKLGO_04057_group_3962,BS_ydeO [S] COG1284 Uncharacterized conserved protein,90.6,286,27
+OFBKKLGO_04058_group_3073,BS_yybA [K] COG1846 Transcriptional regulators,88.7,150,17
+OFBKKLGO_04068_group_1287,BS_yyaH [E] COG0346 Lactoylglutathione lyase and related lyases,74.6,126,32
+OFBKKLGO_04069_ccpB_2,BS_yyaG [K] COG1609 Transcriptional regulators,68.7,310,97
+OFBKKLGO_04073_rpsR,BS_rpsR [J] COG0238 Ribosomal protein S18,96.2,79,3
+OFBKKLGO_04074_ssbA,BS_ssb [L] COG0629 Single-stranded DNA-binding protein,95.9,172,7
+OFBKKLGO_04075_rpsF,BS_rpsF [J] COG0360 Ribosomal protein S6,96.8,95,3
+OFBKKLGO_04076_ychF,"BS_yyaF [J] COG0012 Predicted GTPase, probable translation factor",97.0,366,11
+OFBKKLGO_04077_ynfF,"BS_yyaE [C] COG0243 Anaerobic dehydrogenases, typically selenocysteine-containing",83.3,666,111
+OFBKKLGO_04078_group_16175,lin2921 [S] COG4481 Uncharacterized protein conserved in bacteria,80.0,65,13
+OFBKKLGO_04079_group_5065,BS_yyaD [S] COG3949 Uncharacterized membrane protein,81.9,332,60
+OFBKKLGO_04082_spo0J,BS_spo0J [K] COG1475 Predicted transcriptional regulators,91.9,283,22
+OFBKKLGO_04083_soj,BS_soj [D] COG1192 ATPases involved in chromosome partitioning,95.7,253,11
+OFBKKLGO_04084_noc,BS_yyaA [K] COG1475 Predicted transcriptional regulators,95.8,283,12
+OFBKKLGO_04085_rsmG,BS_gidB [M] COG0357 Predicted S-adenosylmethionine-dependent methyltransferase involved in bacterial cell division,86.6,239,32
+OFBKKLGO_04086_mnmG,BS_gidA [D] COG0445 NAD/FAD-utilizing enzyme apparently involved in cell division,96.5,628,22
+OFBKKLGO_04087_mnmE,BS_thdF [R] COG0486 Predicted GTPase,93.0,459,32
+OFBKKLGO_04088_group_5069,BS_jag [R] COG1847 Predicted RNA-binding protein,69.6,207,61
+OFBKKLGO_04089_misCA,BS_spoIIIJ [U] COG0706 Preprotein translocase subunit YidC,93.4,259,17

@@ -1,0 +1,68 @@
+Query_ID,Accession,Name,Description,Library,Library Release,Start_End
+OFBKKLGO_00378_ycsE,SFLDG01144,C2.B.4:_PGP_Like,C2.B.4: PGP Like,SFLD,4,10-247
+OFBKKLGO_00378_ycsE,SFLDG01140,C2.B:_Phosphomannomutase_and_,C2.B: Phosphomannomutase and Phosphatase Like,SFLD,4,10-247
+OFBKKLGO_00728_group_3477,SFLDG01097,Uncharacterised_Radical_SAM_S,Uncharacterised Radical SAM Subgroup 10,SFLD,4,2-371
+OFBKKLGO_00728_group_3477,SFLDS00029,Radical_SAM,Radical SAM,SFLD,4,2-371
+OFBKKLGO_00728_group_3477,SFLDG01067,SPASM/twitch_domain_containin,SPASM/twitch domain containing,SFLD,4,32-348
+OFBKKLGO_00809_thiC,SFLDS00113,Radical_SAM_Phosphomethylpyri,Radical SAM Phosphomethylpyrimidine Synthase,SFLD,4,6-590
+OFBKKLGO_00809_thiC,SFLDG01114,phosphomethylpyrimidine_synth,phosphomethylpyrimidine synthase (ThiC),SFLD,4,14-590
+OFBKKLGO_00809_thiC,SFLDF00407,phosphomethylpyrimidine_synth,phosphomethylpyrimidine synthase (ThiC),SFLD,4,133-553
+OFBKKLGO_00862_hxpB,SFLDG01135,"C1.5.6:_HAD,_Beta-PGM,_Phosph","C1.5.6: HAD, Beta-PGM, Phosphatase Like",SFLD,4,2-209
+OFBKKLGO_00862_hxpB,SFLDS00003,Haloacid_Dehalogenase,Haloacid Dehalogenase,SFLD,4,2-209
+OFBKKLGO_00917_hemZ,SFLDG01065,anaerobic_coproporphyrinogen-,anaerobic coproporphyrinogen-III oxidase like,SFLD,4,79-494
+OFBKKLGO_00917_hemZ,SFLDF00310,oxygen-independent_coproporph,oxygen-independent coproporphyrinogen-III oxidase 2 (HemZ-like),SFLD,4,79-494
+OFBKKLGO_00917_hemZ,SFLDG01082,B12-binding_domain_containing,B12-binding domain containing,SFLD,4,181-401
+OFBKKLGO_01029_yitU,SFLDS00003,Haloacid_Dehalogenase,Haloacid Dehalogenase,SFLD,4,5-268
+OFBKKLGO_01029_yitU,SFLDG01140,C2.B:_Phosphomannomutase_and_,C2.B: Phosphomannomutase and Phosphatase Like,SFLD,4,5-268
+OFBKKLGO_01110_hepT,SFLDS00005,Isoprenoid_Synthase_Type_I,Isoprenoid Synthase Type I,SFLD,4,64-347
+OFBKKLGO_01441_kamA,SFLDG01070,PLP-dependent,PLP-dependent,SFLD,4,13-427
+OFBKKLGO_01441_kamA,SFLDF00283,"L-lysine_2,3-aminomutase_(LAM","L-lysine 2,3-aminomutase (LAM-like)",SFLD,4,13-427
+OFBKKLGO_01566_bioB,SFLDS00029,Radical_SAM,Radical SAM,SFLD,4,2-323
+OFBKKLGO_01566_bioB,SFLDG01278,biotin_synthase_like,biotin synthase like,SFLD,4,2-323
+OFBKKLGO_01702_miaB,SFLDG01082,B12-binding_domain_containing,B12-binding domain containing,SFLD,4,129-426
+OFBKKLGO_01702_miaB,SFLDS00029,Radical_SAM,Radical SAM,SFLD,4,64-503
+OFBKKLGO_01702_miaB,SFLDF00273,(dimethylallyl)adenosine_tRNA,(dimethylallyl)adenosine tRNA methylthiotransferase (MiaB-like),SFLD,4,64-503
+OFBKKLGO_01828_rlmN,SFLDF00275,adenosine_C2_methyltransferas,adenosine C2 methyltransferase (RlmN-like),SFLD,4,15-361
+OFBKKLGO_01828_rlmN,SFLDS00029,Radical_SAM,Radical SAM,SFLD,4,15-361
+OFBKKLGO_01838_yloB,SFLDF00027,p-type_atpase,p-type atpase,SFLD,4,307-684
+OFBKKLGO_01838_yloB,SFLDS00003,Haloacid_Dehalogenase,Haloacid Dehalogenase,SFLD,4,307-684
+OFBKKLGO_02014_splB,SFLDG01079,spore_photoproduct_lyase_like,spore photoproduct lyase like,SFLD,4,2-342
+OFBKKLGO_02014_splB,SFLDF00292,spore_photoproduct_lyase_1,spore photoproduct lyase 1,SFLD,4,2-342
+OFBKKLGO_02022_zosA,SFLDG00002,C1.7:_P-type_atpase_like,C1.7: P-type atpase like,SFLD,4,317-584
+OFBKKLGO_02022_zosA,SFLDF00027,p-type_atpase,p-type atpase,SFLD,4,317-584
+OFBKKLGO_02030_queE_2,SFLDS00029,Radical_SAM,Radical SAM,SFLD,4,4-243
+OFBKKLGO_02030_queE_2,SFLDF00300,7-carboxy-7-deazaguanine_synt,"7-carboxy-7-deazaguanine synthase, Cx3CxxC type",SFLD,4,4-243
+OFBKKLGO_02046_mtnW,SFLDF00157,"2,3-diketo-5-methylthiopentyl","2,3-diketo-5-methylthiopentyl-1-phosphate enolase",SFLD,4,1-403
+OFBKKLGO_02046_mtnW,SFLDS00014,RuBisCO,RuBisCO,SFLD,4,1-403
+OFBKKLGO_02470_group_3720,SFLDS00005,Isoprenoid_Synthase_Type_I,Isoprenoid Synthase Type I,SFLD,4,11-278
+OFBKKLGO_02470_group_3720,SFLDG01017,Polyprenyl_Transferase_Like,Polyprenyl Transferase Like,SFLD,4,11-278
+OFBKKLGO_02582_mtaB,SFLDF00295,threonylcarbamoyladenosine_tR,threonylcarbamoyladenosine tRNA methylthiotransferase,SFLD,4,1-446
+OFBKKLGO_02582_mtaB,SFLDS00029,Radical_SAM,Radical SAM,SFLD,4,1-446
+OFBKKLGO_02582_mtaB,SFLDG01082,B12-binding_domain_containing,B12-binding domain containing,SFLD,4,36-364
+OFBKKLGO_02816_ppaX_1,SFLDG01135,"C1.5.6:_HAD,_Beta-PGM,_Phosph","C1.5.6: HAD, Beta-PGM, Phosphatase Like",SFLD,4,1-260
+OFBKKLGO_02816_ppaX_1,SFLDS00003,Haloacid_Dehalogenase,Haloacid Dehalogenase,SFLD,4,1-260
+OFBKKLGO_02955_group_4869,SFLDG01086,elongater_protein-like,elongater protein-like,SFLD,4,13-306
+OFBKKLGO_02955_group_4869,SFLDS00029,Radical_SAM,Radical SAM,SFLD,4,12-315
+OFBKKLGO_02955_group_4869,SFLDG01091,uncharacterized_CHP01210-like,uncharacterized CHP01210-like,SFLD,4,12-315
+OFBKKLGO_02983_menC,SFLDF00009,o-succinylbenzoate_synthase,o-succinylbenzoate synthase,SFLD,4,3-357
+OFBKKLGO_02983_menC,SFLDG00180,muconate_cycloisomerase,muconate cycloisomerase,SFLD,4,3-357
+OFBKKLGO_03231_yutF,SFLDS00003,Haloacid_Dehalogenase,Haloacid Dehalogenase,SFLD,4,4-255
+OFBKKLGO_03231_yutF,SFLDG01139,C2.A:_Pyridoxal_Phosphate_Pho,C2.A: Pyridoxal Phosphate Phosphatase Like,SFLD,4,4-255
+OFBKKLGO_03234_lipA,SFLDG01058,lipoyl_synthase_like,lipoyl synthase like,SFLD,4,3-290
+OFBKKLGO_03234_lipA,SFLDF00271,lipoyl_synthase,lipoyl synthase,SFLD,4,3-290
+OFBKKLGO_03358_cadA,SFLDF00027,p-type_atpase,p-type atpase,SFLD,4,381-647
+OFBKKLGO_03358_cadA,SFLDG00002,C1.7:_P-type_atpase_like,C1.7: P-type atpase like,SFLD,4,381-647
+OFBKKLGO_03359_copA,SFLDG00002,C1.7:_P-type_atpase_like,C1.7: P-type atpase like,SFLD,4,481-750
+OFBKKLGO_03359_copA,SFLDF00027,p-type_atpase,p-type atpase,SFLD,4,481-750
+OFBKKLGO_03413_eno,SFLDF00002,enolase,enolase,SFLD,4,3-413
+OFBKKLGO_03413_eno,SFLDS00001,Enolase,Enolase,SFLD,4,3-413
+OFBKKLGO_03506_ppaX_2,SFLDG01135,"C1.5.6:_HAD,_Beta-PGM,_Phosph","C1.5.6: HAD, Beta-PGM, Phosphatase Like",SFLD,4,5-212
+OFBKKLGO_03506_ppaX_2,SFLDS00003,Haloacid_Dehalogenase,Haloacid Dehalogenase,SFLD,4,5-212
+OFBKKLGO_03589_ywtE,SFLDS00003,Haloacid_Dehalogenase,Haloacid Dehalogenase,SFLD,4,1-282
+OFBKKLGO_03589_ywtE,SFLDG01144,C2.B.4:_PGP_Like,C2.B.4: PGP Like,SFLD,4,1-282
+OFBKKLGO_03637_ywpJ,SFLDS00003,Haloacid_Dehalogenase,Haloacid Dehalogenase,SFLD,4,1-285
+OFBKKLGO_03637_ywpJ,SFLDG01144,C2.B.4:_PGP_Like,C2.B.4: PGP Like,SFLD,4,1-285
+OFBKKLGO_03676_moaA,SFLDG01383,cyclic_pyranopterin_phosphate,cyclic pyranopterin phosphate synthase (MoaA-like),SFLD,4,7-341
+OFBKKLGO_03676_moaA,SFLDS00029,Radical_SAM,Radical SAM,SFLD,4,7-341
+OFBKKLGO_03943_yidA,SFLDG01144,C2.B.4:_PGP_Like,C2.B.4: PGP Like,SFLD,4,1-267
+OFBKKLGO_03943_yidA,SFLDS00003,Haloacid_Dehalogenase,Haloacid Dehalogenase,SFLD,4,1-267

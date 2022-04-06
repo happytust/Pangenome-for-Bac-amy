@@ -1,0 +1,595 @@
+Query_ID,Accession,Name,Description,Library,Library Release,Start_End
+OFBKKLGO_00001_dnaA_1,MF_00377,DnaA_bact,Chromosomal replication initiator protein DnaA [dnaA].,HAMAP,2020_01,5-446
+OFBKKLGO_00004_recF,MF_00365,RecF,DNA replication and repair protein RecF [recF].,HAMAP,2020_01,1-370
+OFBKKLGO_00009_guaB,MF_01964,IMPDH,Inosine-5'-monophosphate dehydrogenase [guaB].,HAMAP,2020_01,10-487
+OFBKKLGO_00011_pdxS,MF_01824,PdxS,Pyridoxal 5'-phosphate synthase subunit PdxS [pdxS].,HAMAP,2020_01,4-294
+OFBKKLGO_00012_pdxT,MF_01615,PdxT,Pyridoxal 5'-phosphate synthase subunit PdxT [pdxT].,HAMAP,2020_01,4-186
+OFBKKLGO_00014_serS,MF_00176,Ser_tRNA_synth_type1,Serine--tRNA ligase [serS].,HAMAP,2020_01,1-422
+OFBKKLGO_00023_group_15927,MF_00274,DNA_YbaB_EbfC,Nucleoid-associated protein YbaB [ybaB].,HAMAP,2020_01,6-100
+OFBKKLGO_00032_tmk,MF_00165,Thymidylate_kinase,Thymidylate kinase [tmk].,HAMAP,2020_01,4-207
+OFBKKLGO_00037_yabA,MF_01159,YabA,Initiation-control protein YabA.,HAMAP,2020_01,1-118
+OFBKKLGO_00040_rsmI,MF_01877,16SrRNA_methyltr_I,Ribosomal RNA small subunit methyltransferase I [rsmI].,HAMAP,2020_01,16-234
+OFBKKLGO_00042_metG,MF_01228,Met_tRNA_synth_type2,Methionine--tRNA ligase [metG].,HAMAP,2020_01,3-522
+OFBKKLGO_00045_rnmV_1,MF_01469,RNase_M5,Ribonuclease M5 [rnmV].,HAMAP,2020_01,3-178
+OFBKKLGO_00046_rsmA,MF_00607,16SrRNA_methyltr_A,Ribosomal RNA small subunit methyltransferase A [rsmA].,HAMAP,2020_01,21-289
+OFBKKLGO_00050_ispE,MF_00061,IspE,Putative 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase [ispE].,HAMAP,2020_01,3-279
+OFBKKLGO_00053_spoVG,MF_00819,SpoVG,Putative septation protein SpoVG [spoVG].,HAMAP,2020_01,1-94
+OFBKKLGO_00054_glmU,MF_01631,GlmU,Bifunctional protein GlmU [glmU].,HAMAP,2020_01,3-452
+OFBKKLGO_00055_prs,MF_00583_B,RibP_PPkinase_B,Putative ribose-phosphate pyrophosphokinase [prs].,HAMAP,2020_01,10-317
+OFBKKLGO_00056_ctc,MF_01334,Ribosomal_L25_CTC,50S ribosomal protein L25 [rplY].,HAMAP,2020_01,2-181
+OFBKKLGO_00057_pth,MF_00083,Pept_tRNA_hydro_bact,Peptidyl-tRNA hydrolase [pth].,HAMAP,2020_01,1-178
+OFBKKLGO_00059_mfd,MF_00969,TRCF,Transcription-repair-coupling factor [mfd].,HAMAP,2020_01,42-1118
+OFBKKLGO_00071_tilS,MF_01161,tRNA_Ile_lys_synt,tRNA(Ile)-lysidine synthase [tilS].,HAMAP,2020_01,11-317
+OFBKKLGO_00073_ftsH,MF_01458,FtsH,ATP-dependent zinc metalloprotease FtsH [ftsH].,HAMAP,2020_01,3-609
+OFBKKLGO_00074_coaX,MF_01274,Pantothen_kinase_3,Type III pantothenate kinase [coaX].,HAMAP,2020_01,1-242
+OFBKKLGO_00075_hslO,MF_00117,HslO,33 kDa chaperonin [hslO].,HAMAP,2020_01,1-289
+OFBKKLGO_00086_lysS,MF_00252,Lys_tRNA_synth_class2,Lysine--tRNA ligase [lysS].,HAMAP,2020_01,17-499
+OFBKKLGO_00090_mcsB,MF_00602,Prot_Arg_kinase,Protein-arginine kinase [mcsB].,HAMAP,2020_01,13-350
+OFBKKLGO_00093_disA,MF_01438,DisA,DNA integrity scanning protein DisA [disA].,HAMAP,2020_01,7-357
+OFBKKLGO_00095_ispD,MF_00108,IspD,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [ispD].,HAMAP,2020_01,2-223
+OFBKKLGO_00096_ispF,MF_00107,IspF,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [ispF].",HAMAP,2020_01,2-157
+OFBKKLGO_00097_gltX,MF_00022,Glu_tRNA_synth_type1,Glutamate--tRNA ligase [gltX].,HAMAP,2020_01,4-483
+OFBKKLGO_00100_cysS,MF_00041,Cys_tRNA_synth,Cysteine--tRNA ligase [cysS].,HAMAP,2020_01,3-465
+OFBKKLGO_00101_mrnC,MF_01468,RNase_Mini_III,Mini-ribonuclease 3 [mrnC].,HAMAP,2020_01,7-133
+OFBKKLGO_00105_secE,MF_00422,SecE,Protein translocase subunit SecE [secE].,HAMAP,2020_01,1-56
+OFBKKLGO_00106_nusG_1,MF_00948,NusG,Transcription termination/antitermination protein NusG [nusG].,HAMAP,2020_01,2-177
+OFBKKLGO_00107_rplK,MF_00736,Ribosomal_L11,50S ribosomal protein L11 [rplK].,HAMAP,2020_01,5-141
+OFBKKLGO_00108_rplA,MF_01318_B,Ribosomal_L1_B,50S ribosomal protein L1 [rplA].,HAMAP,2020_01,2-229
+OFBKKLGO_00110_rplJ,MF_00362,Ribosomal_L10,50S ribosomal protein L10 [rplJ].,HAMAP,2020_01,3-161
+OFBKKLGO_00111_rplL,MF_00368,Ribosomal_L7_L12,50S ribosomal protein L7/L12 [rplL].,HAMAP,2020_01,2-123
+OFBKKLGO_00113_rpoB,MF_01321,RNApol_bact_RpoB,DNA-directed RNA polymerase subunit beta [rpoB].,HAMAP,2020_01,15-1147
+OFBKKLGO_00114_rpoC,MF_01322,RNApol_bact_RpoC,DNA-directed RNA polymerase subunit beta' [rpoC].,HAMAP,2020_01,4-1192
+OFBKKLGO_00116_rpsL,MF_00403_B,Ribosomal_S12_B,30S ribosomal protein S12 [rpsL].,HAMAP,2020_01,1-136
+OFBKKLGO_00117_rpsG,MF_00480_B,Ribosomal_S7_B,30S ribosomal protein S7 [rpsG].,HAMAP,2020_01,1-156
+OFBKKLGO_00118_fusA,MF_00054_B,EF_G_EF_2_B,Elongation factor G [fusA].,HAMAP,2020_01,6-689
+OFBKKLGO_00119_tuf,MF_00118_B,EF_Tu_B,Elongation factor Tu [tuf].,HAMAP,2020_01,1-396
+OFBKKLGO_00121_rpsJ,MF_00508,Ribosomal_S10,30S ribosomal protein S10 [rpsJ].,HAMAP,2020_01,3-102
+OFBKKLGO_00122_rplC,MF_01325_B,Ribosomal_L3_B,50S ribosomal protein L3 [rplC].,HAMAP,2020_01,2-206
+OFBKKLGO_00123_rplD,MF_01328_B,Ribosomal_L4_B,50S ribosomal protein L4 [rplD].,HAMAP,2020_01,9-207
+OFBKKLGO_00124_rplW,MF_01369_B,Ribosomal_L23_B,50S ribosomal protein L23 [rplW].,HAMAP,2020_01,5-95
+OFBKKLGO_00125_rplB,MF_01320_B,Ribosomal_L2_B,50S ribosomal protein L2 [rplB].,HAMAP,2020_01,1-275
+OFBKKLGO_00126_rpsS,MF_00531,Ribosomal_S19,30S ribosomal protein S19 [rpsS].,HAMAP,2020_01,1-89
+OFBKKLGO_00127_rplV,MF_01331_B,Ribosomal_L22_B,50S ribosomal protein L22 [rplV].,HAMAP,2020_01,1-110
+OFBKKLGO_00128_rpsC,MF_01309_B,Ribosomal_S3_B,30S ribosomal protein S3 [rpsC].,HAMAP,2020_01,1-205
+OFBKKLGO_00129_rplP,MF_01342,Ribosomal_L16,50S ribosomal protein L16 [rplP].,HAMAP,2020_01,1-134
+OFBKKLGO_00130_rpmC,MF_00374,Ribosomal_L29,50S ribosomal protein L29 [rpmC].,HAMAP,2020_01,1-60
+OFBKKLGO_00131_rpsQ,MF_01345_B,Ribosomal_S17_B,30S ribosomal protein S17 [rpsQ].,HAMAP,2020_01,7-82
+OFBKKLGO_00132_rplN,MF_01367,Ribosomal_L14,50S ribosomal protein L14 [rplN].,HAMAP,2020_01,1-122
+OFBKKLGO_00133_rplX,MF_01326_B,Ribosomal_L24_B,50S ribosomal protein L24 [rplX].,HAMAP,2020_01,1-95
+OFBKKLGO_00134_rplE,MF_01333_B,Ribosomal_L5_B,50S ribosomal protein L5 [rplE].,HAMAP,2020_01,1-179
+OFBKKLGO_00135_rpsN1,MF_01364_B,Ribosomal_S14_2_B,30S ribosomal protein S14 type Z [rpsZ].,HAMAP,2020_01,1-61
+OFBKKLGO_00136_rpsH,MF_01302_B,Ribosomal_S8_B,30S ribosomal protein S8 [rpsH].,HAMAP,2020_01,2-132
+OFBKKLGO_00137_rplF,MF_01365_B,Ribosomal_L6_B,50S ribosomal protein L6 [rplF].,HAMAP,2020_01,1-177
+OFBKKLGO_00138_rplR,MF_01337_B,Ribosomal_L18_B,50S ribosomal protein L18 [rplR].,HAMAP,2020_01,6-120
+OFBKKLGO_00139_rpsE,MF_01307_B,Ribosomal_S5_B,30S ribosomal protein S5 [rpsE].,HAMAP,2020_01,3-165
+OFBKKLGO_00140_rpmD,MF_01371_B,Ribosomal_L30_B,50S ribosomal protein L30 [rpmD].,HAMAP,2020_01,1-58
+OFBKKLGO_00141_rplO,MF_01341,Ribosomal_L15,50S ribosomal protein L15 [rplO].,HAMAP,2020_01,3-146
+OFBKKLGO_00142_secY,MF_01465,SecY,Protein translocase subunit SecY [secY].,HAMAP,2020_01,5-429
+OFBKKLGO_00143_adk,MF_00235,Adenylate_kinase_Adk,Adenylate kinase [adk].,HAMAP,2020_01,1-213
+OFBKKLGO_00144_map,MF_01974,MetAP_1,Methionine aminopeptidase [map].,HAMAP,2020_01,2-248
+OFBKKLGO_00145_infA,MF_00075,IF_1,Translation initiation factor IF-1 [infA].,HAMAP,2020_01,1-72
+OFBKKLGO_00146_rpmJ,MF_00251,Ribosomal_L36,50S ribosomal protein L36 [rpmJ].,HAMAP,2020_01,1-37
+OFBKKLGO_00147_rpsM,MF_01315,Ribosomal_S13_S18,30S ribosomal protein S13 [rpsM].,HAMAP,2020_01,1-118
+OFBKKLGO_00148_rpsK,MF_01310,Ribosomal_S11,30S ribosomal protein S11 [rpsK].,HAMAP,2020_01,5-131
+OFBKKLGO_00149_rpoA,MF_00059,RNApol_bact_RpoA,DNA-directed RNA polymerase subunit alpha [rpoA].,HAMAP,2020_01,1-313
+OFBKKLGO_00150_rplQ,MF_01368,Ribosomal_L17,50S ribosomal protein L17 [rplQ].,HAMAP,2020_01,1-120
+OFBKKLGO_00153_ecfT,MF_01461,EcfT,Energy-coupling factor transporter transmembrane protein EcfT [ecfT].,HAMAP,2020_01,2-265
+OFBKKLGO_00154_truA,MF_00171,TruA,tRNA pseudouridine synthase A [truA].,HAMAP,2020_01,1-245
+OFBKKLGO_00156_rplM,MF_01366,Ribosomal_L13,50S ribosomal protein L13 [rplM].,HAMAP,2020_01,16-144
+OFBKKLGO_00157_rpsI,MF_00532_B,Ribosomal_S9_B,30S ribosomal protein S9 [rpsI].,HAMAP,2020_01,1-130
+OFBKKLGO_00162_salA,MF_02040,Mrp_NBP35,Iron-sulfur cluster carrier protein.,HAMAP,2020_01,97-345
+OFBKKLGO_00182_murQ,MF_00068,MurQ,N-acetylmuramic acid 6-phosphate etherase [murQ].,HAMAP,2020_01,6-299
+OFBKKLGO_00187_cdaA,MF_01499,DacA,Diadenylate cyclase [dacA].,HAMAP,2020_01,1-254
+OFBKKLGO_00189_glmM,MF_01554_B,GlmM_B,Phosphoglucosamine mutase [glmM].,HAMAP,2020_01,1-444
+OFBKKLGO_00224_purT,MF_01643,PurT,Formate-dependent phosphoribosylglycinamide formyltransferase [purT].,HAMAP,2020_01,1-384
+OFBKKLGO_00227_psd,MF_00662,PS_decarb_PSD_B_type1,Phosphatidylserine decarboxylase proenzyme [psd].,HAMAP,2020_01,11-263
+OFBKKLGO_00229_group_5798,MF_00469,UPF0176,UPF0176 protein YceA [yceA].,HAMAP,2020_01,3-267
+OFBKKLGO_00235_glsA1,MF_00313,Glutaminase,Glutaminase [glsA].,HAMAP,2020_01,14-327
+OFBKKLGO_00250_tatAd,MF_00236,TatA_E,Sec-independent protein translocase protein TatA [tatA].,HAMAP,2020_01,2-64
+OFBKKLGO_00251_tatC1,MF_00902,TatC,Sec-independent protein translocase protein TatC [tatC].,HAMAP,2020_01,5-253
+OFBKKLGO_00252_pcp,MF_00417,Pyrrolid_peptidase,Pyrrolidone-carboxylate peptidase [pcp].,HAMAP,2020_01,3-199
+OFBKKLGO_00287_ldh_2,MF_00488,Lactate_dehydrog,L-lactate dehydrogenase [ldh].,HAMAP,2020_01,6-315
+OFBKKLGO_00294_nadE,MF_00193,NadE_ammonia_dep,NH(3)-dependent NAD(+) synthetase [nadE].,HAMAP,2020_01,18-266
+OFBKKLGO_00297_aroK,MF_00109,Shikimate_kinase,Shikimate kinase [aroK].,HAMAP,2020_01,11-177
+OFBKKLGO_00301_putC,MF_00733,RocA,1-pyrroline-5-carboxylate dehydrogenase [rocA].,HAMAP,2020_01,1-515
+OFBKKLGO_00304_ycgT,MF_01685,FENR2,Ferredoxin--NADP reductase.,HAMAP,2020_01,7-330
+OFBKKLGO_00330_bsdB,MF_01984,ubiX_pad,Flavin prenyltransferase UbiX [ubiX].,HAMAP,2020_01,1-184
+OFBKKLGO_00330_bsdB,MF_01986,ubiX_pad_yclB,Probable UbiX-like flavin prenyltransferase.,HAMAP,2020_01,1-188
+OFBKKLGO_00331_bsdC,MF_01985,UbiD_YclC,Phenolic acid decarboxylase.,HAMAP,2020_01,1-472
+OFBKKLGO_00375_mtlD,MF_00196,Mannitol_dehydrog,Mannitol-1-phosphate 5-dehydrogenase [mtlD].,HAMAP,2020_01,1-371
+OFBKKLGO_00381_group_429,MF_01830,Hydro_lyase,Putative hydro-lyase <locus_tag>.,HAMAP,2020_01,9-263
+OFBKKLGO_00397_amj,MF_02077,Amj_flippase,Lipid II flippase Amj [amj].,HAMAP,2020_01,5-267
+OFBKKLGO_00400_topB,MF_00953,Topoisom_3_prok,DNA topoisomerase 3 [topB].,HAMAP,2020_01,3-637
+OFBKKLGO_00417_mntH,MF_00221,NRAMP,Divalent metal cation transporter MntH [mntH].,HAMAP,2020_01,12-423
+OFBKKLGO_00440_ddl,MF_00047,Dala_Dala_lig,D-alanine--D-alanine ligase [ddl].,HAMAP,2020_01,3-348
+OFBKKLGO_00441_murF,MF_02019,MurF,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [murF].,HAMAP,2020_01,4-453
+OFBKKLGO_00442_cshA,MF_01493,DEAD_helicase_CshA,DEAD-box ATP-dependent RNA helicase CshA [cshA].,HAMAP,2020_01,3-494
+OFBKKLGO_00448_alr,MF_01201,Ala_racemase,Alanine racemase.,HAMAP,2020_01,9-370
+OFBKKLGO_00456_rsbW,MF_00638,Anti_sigma_B,Serine-protein kinase RsbW [rsbW].,HAMAP,2020_01,2-156
+OFBKKLGO_00554_moaC,MF_01224_B,MoaC_B,Cyclic pyranopterin monophosphate synthase [moaC].,HAMAP,2020_01,2-160
+OFBKKLGO_00555_rex,MF_01131,Rex,Redox-sensing transcriptional repressor Rex [rex].,HAMAP,2020_01,3-209
+OFBKKLGO_00556_tatAy,MF_00236,TatA_E,Sec-independent protein translocase protein TatA [tatA].,HAMAP,2020_01,1-55
+OFBKKLGO_00557_tatC2,MF_00902,TatC,Sec-independent protein translocase protein TatC [tatC].,HAMAP,2020_01,5-237
+OFBKKLGO_00560_groS,MF_00580,CH10,10 kDa chaperonin [groS].,HAMAP,2020_01,1-94
+OFBKKLGO_00561_groL,MF_00600,CH60,60 kDa chaperonin [groL].,HAMAP,2020_01,1-543
+OFBKKLGO_00588_guaA,MF_00344,GMP_synthase,GMP synthase [glutamine-hydrolyzing] [guaA].,HAMAP,2020_01,9-516
+OFBKKLGO_00595_group_5863,MF_01515,UPF0316,UPF0316 protein <locus_tag>.,HAMAP,2020_01,10-178
+OFBKKLGO_00598_purE,MF_01929,PurE_classI,N5-carboxyaminoimidazole ribonucleotide mutase [purE].,HAMAP,2020_01,5-158
+OFBKKLGO_00599_purK,MF_01928,PurK,N5-carboxyaminoimidazole ribonucleotide synthase [purK].,HAMAP,2020_01,25-374
+OFBKKLGO_00601_purC,MF_00137,SAICAR_synth,Phosphoribosylaminoimidazole-succinocarboxamide synthase [purC].,HAMAP,2020_01,6-237
+OFBKKLGO_00602_purS,MF_01926,PurS,Phosphoribosylformylglycinamidine synthase subunit PurS [purS].,HAMAP,2020_01,2-78
+OFBKKLGO_00603_purQ,MF_00421,PurQ,Phosphoribosylformylglycinamidine synthase subunit PurQ [purQ].,HAMAP,2020_01,1-217
+OFBKKLGO_00604_purL,MF_00420,PurL_2,Phosphoribosylformylglycinamidine synthase subunit PurL [purL].,HAMAP,2020_01,1-742
+OFBKKLGO_00605_purF,MF_01931,PurF,Amidophosphoribosyltransferase [purF].,HAMAP,2020_01,11-456
+OFBKKLGO_00606_purM,MF_00741,AIRS,Phosphoribosylformylglycinamidine cyclo-ligase [purM].,HAMAP,2020_01,3-343
+OFBKKLGO_00607_purN,MF_01930,PurN,Phosphoribosylglycinamide formyltransferase [purN].,HAMAP,2020_01,3-188
+OFBKKLGO_00608_purH,MF_00139,PurH,Bifunctional purine biosynthesis protein PurH [purH].,HAMAP,2020_01,3-512
+OFBKKLGO_00609_purD,MF_00138,GARS,Phosphoribosylamine--glycine ligase [purD].,HAMAP,2020_01,1-417
+OFBKKLGO_00617_pcrB,MF_00112,GGGP_HepGP_synthase,Geranylgeranylglyceryl phosphate synthase [pcrB].,HAMAP,2020_01,3-226
+OFBKKLGO_00619_ligA,MF_01588,DNA_ligase_A,DNA ligase [ligA].,HAMAP,2020_01,5-667
+OFBKKLGO_00624_gatC,MF_00122,GatC,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C [gatC].,HAMAP,2020_01,3-96
+OFBKKLGO_00625_gatA,MF_00120,GatA,Glutamyl-tRNA(Gln) amidotransferase subunit A [gatA].,HAMAP,2020_01,11-477
+OFBKKLGO_00626_gatB,MF_00121,GatB,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B [gatB].,HAMAP,2020_01,2-474
+OFBKKLGO_00639_group_15986,MF_00693,Transcrip_reg_TACO1,Probable transcriptional regulatory protein YebC [yebC].,HAMAP,2020_01,1-237
+OFBKKLGO_00639_group_15986,MF_00918,Transcrip_reg_TACO1_YeeN,Probable transcriptional regulatory protein YeeN [yeeN].,HAMAP,2020_01,1-238
+OFBKKLGO_00700_mapB,MF_01974,MetAP_1,Methionine aminopeptidase [map].,HAMAP,2020_01,1-249
+OFBKKLGO_00717_aroE_2,MF_00222,Shikimate_DH_AroE,Shikimate dehydrogenase (NADP(+)) [aroE].,HAMAP,2020_01,12-294
+OFBKKLGO_00720_group_3474,MF_00829,UPF0435,UPF0435 protein <locus_tag>.,HAMAP,2020_01,10-77
+OFBKKLGO_00754_sspH,MF_00667,SspH,"Small, acid-soluble spore protein H [sspH].",HAMAP,2020_01,1-59
+OFBKKLGO_00778_recX,MF_01114,RecX,Regulatory protein RecX [recX].,HAMAP,2020_01,42-209
+OFBKKLGO_00795_group_15972,MF_01568,UPF0374,UPF0374 protein <locus_tag>.,HAMAP,2020_01,1-175
+OFBKKLGO_00798_hemL1,MF_00375,HemL_aminotrans_3,"Glutamate-1-semialdehyde 2,1-aminomutase [hemL].",HAMAP,2020_01,4-427
+OFBKKLGO_00801_group_4505,MF_01502,UPF0295,UPF0295 protein <locus_tag>.,HAMAP,2020_01,1-115
+OFBKKLGO_00809_thiC,MF_00089,ThiC,Phosphomethylpyrimidine synthase [thiC].,HAMAP,2020_01,132-558
+OFBKKLGO_00830_trmL,MF_01885,tRNA_methyltr_TrmL,tRNA (cytidine(34)-2'-O)-methyltransferase [trmL].,HAMAP,2020_01,3-154
+OFBKKLGO_00836_group_16002,MF_01232,UPF0229,UPF0229 protein YeaH [yeaH].,HAMAP,2020_01,7-385
+OFBKKLGO_00867_glpK,MF_00186,Glycerol_kin,Glycerol kinase [glpK].,HAMAP,2020_01,2-496
+OFBKKLGO_00900_cobB,MF_01968,Sirtuin_ClassU,NAD-dependent protein deacetylase [cobB].,HAMAP,2020_01,3-244
+OFBKKLGO_00915_group_5916,MF_01526,UPF0342,UPF0342 protein <locus_tag>.,HAMAP,2020_01,2-113
+OFBKKLGO_00928_yhaM,MF_01427,3_5_Exoribonuc_YhaM,3'-5' exoribonuclease YhaM [yhaM].,HAMAP,2020_01,1-313
+OFBKKLGO_00930_prsA,MF_01145,Foldase_PrsA,Foldase protein PrsA [prsA].,HAMAP,2020_01,2-278
+OFBKKLGO_00933_hpr,MF_01911,HTH_type_Hpr,HTH-type transcriptional regulator Hpr [hpr].,HAMAP,2020_01,2-185
+OFBKKLGO_00937_serC,MF_00160,SerC_aminotrans_5,Phosphoserine aminotransferase [serC].,HAMAP,2020_01,2-358
+OFBKKLGO_00947_hemH,MF_00323,Ferrochelatase,Ferrochelatase [hemH].,HAMAP,2020_01,5-309
+OFBKKLGO_00951_fabHB,MF_01815,FabH,3-oxoacyl-[acyl-carrier-protein] synthase 3 [fabH].,HAMAP,2020_01,2-323
+OFBKKLGO_00976_group_5931,MF_00338,UPF0145,UPF0145 protein YbjQ [ybjQ].,HAMAP,2020_01,1-102
+OFBKKLGO_00989_addB,MF_01452,AddB_type1,ATP-dependent helicase/deoxyribonuclease subunit B [addB].,HAMAP,2020_01,2-1162
+OFBKKLGO_00990_addA,MF_01451,AddA,ATP-dependent helicase/nuclease subunit A [addA].,HAMAP,2020_01,8-1234
+OFBKKLGO_01002_group_5938,MF_01536,UPF0344,UPF0344 protein <locus_tag>.,HAMAP,2020_01,1-118
+OFBKKLGO_01038_spoIIAB,MF_00637,Anti_sigma_F,Anti-sigma F factor [spoIIAB].,HAMAP,2020_01,1-140
+OFBKKLGO_01056_ribBA,MF_00180,RibB,"3,4-dihydroxy-2-butanone 4-phosphate synthase [ribB].",HAMAP,2020_01,1-201
+OFBKKLGO_01056_ribBA,MF_00179,RibA,GTP cyclohydrolase-2 [ribA].,HAMAP,2020_01,202-398
+OFBKKLGO_01056_ribBA,MF_01283,RibBA,Riboflavin biosynthesis protein RibBA [ribBA].,HAMAP,2020_01,1-394
+OFBKKLGO_01057_ribH,MF_00178,Lumazine_synth,"6,7-dimethyl-8-ribityllumazine synthase [ribH].",HAMAP,2020_01,8-153
+OFBKKLGO_01061_scpA,MF_01805,ScpA,Segregation and condensation protein A [scpA].,HAMAP,2020_01,4-246
+OFBKKLGO_01062_scpB,MF_01804,ScpB,Segregation and condensation protein B [scpB].,HAMAP,2020_01,6-185
+OFBKKLGO_01086_mecB,MF_01124,MecA,Adapter protein MecA [mecA].,HAMAP,2020_01,1-193
+OFBKKLGO_01094_cmk,MF_00238,Cytidyl_kinase_type1,Cytidylate kinase [cmk].,HAMAP,2020_01,5-223
+OFBKKLGO_01096_fni,MF_00354,Idi_2,Isopentenyl-diphosphate delta-isomerase [fni].,HAMAP,2020_01,3-330
+OFBKKLGO_01099_der_2,MF_00195,GTPase_Der,GTPase Der [der].,HAMAP,2020_01,3-436
+OFBKKLGO_01100_gpsA,MF_00394,NAD_Glyc3P_dehydrog,Glycerol-3-phosphate dehydrogenase [NAD(P)+] [gpsA].,HAMAP,2020_01,2-323
+OFBKKLGO_01106_folE,MF_00223,FolE,GTP cyclohydrolase 1 [folE].,HAMAP,2020_01,5-187
+OFBKKLGO_01107_mtrB,MF_00798,Trp_attenuator,Transcription attenuation protein MtrB [mtrB].,HAMAP,2020_01,1-73
+OFBKKLGO_01109_menG,MF_01813,MenG_UbiE_methyltr,Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE [ubiE].,HAMAP,2020_01,1-233
+OFBKKLGO_01111_ndk,MF_00451,NDP_kinase,Nucleoside diphosphate kinase [ndk].,HAMAP,2020_01,1-136
+OFBKKLGO_01113_aroC,MF_00300,Chorismate_synth,Chorismate synthase [aroC].,HAMAP,2020_01,1-372
+OFBKKLGO_01114_aroB,MF_00110,DHQ_synthase,3-dehydroquinate synthase [aroB].,HAMAP,2020_01,1-359
+OFBKKLGO_01121_trpB,MF_00133,Trp_synth_beta,Tryptophan synthase beta chain [trpB].,HAMAP,2020_01,4-392
+OFBKKLGO_01122_trpA,MF_00131,Trp_synth_alpha,Tryptophan synthase alpha chain [trpA].,HAMAP,2020_01,6-261
+OFBKKLGO_01123_hisC_2,MF_01023,HisC_aminotrans_2,Histidinol-phosphate aminotransferase [hisC].,HAMAP,2020_01,2-360
+OFBKKLGO_01125_aroA1,MF_00210,EPSP_synth,3-phosphoshikimate 1-carboxyvinyltransferase [aroA].,HAMAP,2020_01,7-427
+OFBKKLGO_01127_group_16284,MF_00760,UPF0302,UPF0302 protein <locus_tag>.,HAMAP,2020_01,2-178
+OFBKKLGO_01137_dapB,MF_00102,DapB,4-hydroxy-tetrahydrodipicolinate reductase [dapB].,HAMAP,2020_01,6-267
+OFBKKLGO_01138_mgsA,MF_00549,Methylglyoxal_synth,Methylglyoxal synthase [mgsA].,HAMAP,2020_01,1-120
+OFBKKLGO_01141_cca,MF_01263,CCA_bact_type3,CCA-adding enzyme [cca].,HAMAP,2020_01,1-394
+OFBKKLGO_01142_birA,MF_00978,Bifunct_BirA,Bifunctional ligase/repressor BirA [birA].,HAMAP,2020_01,8-325
+OFBKKLGO_01144_panB,MF_00156,PanB,3-methyl-2-oxobutanoate hydroxymethyltransferase [panB].,HAMAP,2020_01,2-263
+OFBKKLGO_01146_panD,MF_00446,PanD,Aspartate 1-decarboxylase [panD].,HAMAP,2020_01,1-127
+OFBKKLGO_01147_dinG,MF_02206,DinG_exonucl,3'-5' exonuclease DinG [dinG].,HAMAP,2020_01,2-928
+OFBKKLGO_01151_asnS,MF_00534,Asn_tRNA_synth,Asparagine--tRNA ligase [asnS].,HAMAP,2020_01,1-430
+OFBKKLGO_01153_nth,MF_00942,Nth,Endonuclease III [nth].,HAMAP,2020_01,1-211
+OFBKKLGO_01156_recU,MF_00130,RecU,Holliday junction resolvase RecU [recU].,HAMAP,2020_01,1-202
+OFBKKLGO_01169_group_5973,MF_01575,UPF0398,UPF0398 protein <locus_tag>.,HAMAP,2020_01,1-177
+OFBKKLGO_01170_gpsB,MF_02011,GpsB,Cell cycle protein GpsB [gpsB].,HAMAP,2020_01,3-94
+OFBKKLGO_01179_xpt,MF_01184,XPRTase,Xanthine phosphoribosyltransferase [xpt].,HAMAP,2020_01,1-189
+OFBKKLGO_01390_group_16277,MF_02088,Q_prec_transport,Probable queuosine precursor transporter.,HAMAP,2020_01,28-225
+OFBKKLGO_01396_ugtP,MF_01280,Diacylglyc_glucosyltr,Processive diacylglycerol beta-glucosyltransferase [ugtP].,HAMAP,2020_01,1-380
+OFBKKLGO_01397_metAA,MF_00295,MetA_acyltransf,Homoserine O-succinyltransferase [metAS].,HAMAP,2020_01,8-299
+OFBKKLGO_01406_thyA2,MF_00008,Thymidy_synth_bact,Thymidylate synthase [thyA].,HAMAP,2020_01,1-264
+OFBKKLGO_01443_group_4622,MF_01538,UPF0346,UPF0346 protein <locus_tag>.,HAMAP,2020_01,1-70
+OFBKKLGO_01451_deoD,MF_01627,Pur_nucleosid_phosp,Purine nucleoside phosphorylase DeoD-type [deoD].,HAMAP,2020_01,1-232
+OFBKKLGO_01480_odhA,MF_01169,SucA_OdhA,2-oxoglutarate dehydrogenase E1 component [odhA].,HAMAP,2020_01,2-942
+OFBKKLGO_01496_azoR1,MF_01216,Azoreductase_type1,FMN-dependent NADH-azoreductase [azoR].,HAMAP,2020_01,2-208
+OFBKKLGO_01530_proC_1,MF_01925,P5C_reductase,Pyrroline-5-carboxylate reductase [proC].,HAMAP,2020_01,1-255
+OFBKKLGO_01531_proB_2,MF_00456,ProB,Glutamate 5-kinase [proB].,HAMAP,2020_01,8-262
+OFBKKLGO_01563_bioK,MF_00834,BioA,Adenosylmethionine-8-amino-7-oxononanoate aminotransferase [bioA].,HAMAP,2020_01,1-443
+OFBKKLGO_01566_bioB,MF_01694,BioB,Biotin synthase [bioB].,HAMAP,2020_01,15-322
+OFBKKLGO_01586_parC,MF_00937,ParC_type2,DNA topoisomerase 4 subunit A [parC].,HAMAP,2020_01,6-802
+OFBKKLGO_01587_parE,MF_00939,ParE_type2,DNA topoisomerase 4 subunit B [parE].,HAMAP,2020_01,7-639
+OFBKKLGO_01589_plsY,MF_01043,PlsY,Glycerol-3-phosphate acyltransferase [plsY].,HAMAP,2020_01,5-191
+OFBKKLGO_01593_tlp,MF_01506,Tlp,"Small, acid-soluble spore protein Tlp [tlp].",HAMAP,2020_01,1-80
+OFBKKLGO_01594_sspN,MF_01505,SspN,"Small, acid-soluble spore protein N [sspN].",HAMAP,2020_01,2-48
+OFBKKLGO_01597_sspO,MF_00665,SspO,"Small, acid-soluble spore protein O [sspO].",HAMAP,2020_01,1-48
+OFBKKLGO_01598_sspP,MF_00666,SspP,"Small, acid-soluble spore protein P [sspP].",HAMAP,2020_01,1-48
+OFBKKLGO_01605_group_15763,MF_00363,UPF0154,UPF0154 protein <locus_tag>.,HAMAP,2020_01,2-72
+OFBKKLGO_01608_group_6062,MF_01103,UPF0291,UPF0291 protein <locus_tag>.,HAMAP,2020_01,2-60
+OFBKKLGO_01610_yneA,MF_02014,YneA,Cell division suppressor protein YneA [yneA].,HAMAP,2020_01,1-102
+OFBKKLGO_01611_lexA,MF_00015,LexA,LexA repressor [lexA].,HAMAP,2020_01,3-205
+OFBKKLGO_01660_hflX,MF_00900,GTPase_HflX,GTPase HflX [hflX].,HAMAP,2020_01,30-389
+OFBKKLGO_01670_hfq,MF_00436,Hfq,RNA-binding protein Hfq [hfq].,HAMAP,2020_01,2-64
+OFBKKLGO_01671_miaA,MF_00185,IPP_trans,tRNA dimethylallyltransferase [miaA].,HAMAP,2020_01,8-306
+OFBKKLGO_01698_mutL,MF_00149,DNA_mis_repair,DNA mismatch repair protein MutL [mutL].,HAMAP,2020_01,2-621
+OFBKKLGO_01699_mutS,MF_00096,MutS,DNA mismatch repair protein MutS [mutS].,HAMAP,2020_01,5-853
+OFBKKLGO_01702_miaB,MF_01864,tRNA_metthiotr_MiaB,tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase [miaB].,HAMAP,2020_01,66-503
+OFBKKLGO_01704_tdh_1,MF_00627,Thr_dehydrog,L-threonine 3-dehydrogenase [tdh].,HAMAP,2020_01,6-348
+OFBKKLGO_01707_rny,MF_00335,RNase_Y,Ribonuclease Y [rny].,HAMAP,2020_01,4-519
+OFBKKLGO_01709_recA,MF_00268,RecA,Protein RecA [recA].,HAMAP,2020_01,4-328
+OFBKKLGO_01710_cinA,MF_00226_B,CinA_B,Putative competence-damage inducible protein [cinA].,HAMAP,2020_01,1-416
+OFBKKLGO_01725_rnjB,MF_01491,RNase_J_bact,Ribonuclease J [rnj].,HAMAP,2020_01,15-566
+OFBKKLGO_01726_dapA_2,MF_00418,DapA,4-hydroxy-tetrahydrodipicolinate synthase [dapA].,HAMAP,2020_01,2-288
+OFBKKLGO_01728_asd,MF_02121,ASADH,Aspartate-semialdehyde dehydrogenase [asd].,HAMAP,2020_01,4-341
+OFBKKLGO_01734_pnp_2,MF_01595,PNPase,Polyribonucleotide nucleotidyltransferase [pnp].,HAMAP,2020_01,4-694
+OFBKKLGO_01735_rpsO,MF_01343_B,Ribosomal_S15_B,30S ribosomal protein S15 [rpsO].,HAMAP,2020_01,3-89
+OFBKKLGO_01737_truB,MF_01080,TruB_bact,tRNA pseudouridine synthase B [truB].,HAMAP,2020_01,2-303
+OFBKKLGO_01738_rbfA,MF_00003,RbfA,Ribosome-binding factor A [rbfA].,HAMAP,2020_01,3-107
+OFBKKLGO_01740_infB,MF_00100_B,IF_2_B,Translation initiation factor IF-2 [infB].,HAMAP,2020_01,3-716
+OFBKKLGO_01743_nusA,MF_00945_B,NusA_B,Transcription termination/antitermination protein NusA [nusA].,HAMAP,2020_01,2-373
+OFBKKLGO_01744_rimP,MF_01077,RimP,Ribosome maturation factor RimP [rimP].,HAMAP,2020_01,7-156
+OFBKKLGO_01748_dxr,MF_00183,DXP_reductoisom,1-deoxy-D-xylulose 5-phosphate reductoisomerase [dxr].,HAMAP,2020_01,4-381
+OFBKKLGO_01750_uppS,MF_01139,ISPT,"Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific) [uppS].",HAMAP,2020_01,31-259
+OFBKKLGO_01751_frr,MF_00040,RRF,Ribosome-recycling factor [frr].,HAMAP,2020_01,3-185
+OFBKKLGO_01752_pyrH,MF_01220_B,PyrH_B,Uridylate kinase [pyrH].,HAMAP,2020_01,4-238
+OFBKKLGO_01753_tsf,MF_00050,EF_Ts,Elongation factor Ts [tsf].,HAMAP,2020_01,1-291
+OFBKKLGO_01754_rpsB,MF_00291_B,Ribosomal_S2_B,30S ribosomal protein S2 [rpsB].,HAMAP,2020_01,2-228
+OFBKKLGO_01757_cheD,MF_01440,CheD,Chemoreceptor glutamine deamidase CheD [cheD].,HAMAP,2020_01,5-162
+OFBKKLGO_01761_cheB,MF_00099,CheB_chemtxs,Protein-glutamate methylesterase/protein-glutamine glutaminase [cheB].,HAMAP,2020_01,2-351
+OFBKKLGO_01783_fliE,MF_00724,FliE,Flagellar hook-basal body complex protein FliE [fliE].,HAMAP,2020_01,3-106
+OFBKKLGO_01787_codY,MF_00621,HTH_type_CodY,GTP-sensing transcriptional pleiotropic repressor CodY [codY].,HAMAP,2020_01,1-259
+OFBKKLGO_01788_clpY,MF_00249,HslU,ATP-dependent protease ATPase subunit HslU [hslU].,HAMAP,2020_01,3-467
+OFBKKLGO_01789_clpQ,MF_00248,HslV,ATP-dependent protease subunit HslV [hslV].,HAMAP,2020_01,6-180
+OFBKKLGO_01790_xerC_1,MF_01808,Recomb_XerC_XerD,Tyrosine recombinase XerC [xerC].,HAMAP,2020_01,7-301
+OFBKKLGO_01791_trmFO,MF_01037,TrmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO [trmFO].,HAMAP,2020_01,6-434
+OFBKKLGO_01792_topA,MF_00952,Topoisom_1_prok,DNA topoisomerase 1 [topA].,HAMAP,2020_01,3-642
+OFBKKLGO_01794_sucD,MF_01988,Succ_CoA_alpha,Succinate--CoA ligase [ADP-forming] subunit alpha [sucD].,HAMAP,2020_01,1-288
+OFBKKLGO_01795_sucC,MF_00558,Succ_CoA_beta,Succinate--CoA ligase [ADP-forming] subunit beta [sucC].,HAMAP,2020_01,1-385
+OFBKKLGO_01798_rnhB,MF_00052_B,RNase_HII_B,Ribonuclease HII [rnhB].,HAMAP,2020_01,73-251
+OFBKKLGO_01800_rplS,MF_00402,Ribosomal_L19,50S ribosomal protein L19 [rplS].,HAMAP,2020_01,2-114
+OFBKKLGO_01802_trmD,MF_00605,TrmD,tRNA (guanine-N(1)-)-methyltransferase [trmD].,HAMAP,2020_01,1-243
+OFBKKLGO_01803_rimM,MF_00014,Ribosome_mat_RimM,Ribosome maturation factor RimM [rimM].,HAMAP,2020_01,5-171
+OFBKKLGO_01805_group_16096,MF_00088,UPF0109,UPF0109 protein <locus_tag>.,HAMAP,2020_01,6-80
+OFBKKLGO_01806_rpsP,MF_00385,Ribosomal_S16,30S ribosomal protein S16 [rpsP].,HAMAP,2020_01,2-77
+OFBKKLGO_01807_ffh,MF_00306,SRP54,Signal recognition particle 54 kDa protein [srp54].,HAMAP,2020_01,6-434
+OFBKKLGO_01808_group_15882,MF_00245,UPF0122,UPF0122 protein <locus_tag>.,HAMAP,2020_01,3-103
+OFBKKLGO_01809_ftsY,MF_00920,FtsY,Signal recognition particle receptor FtsY [ftsY].,HAMAP,2020_01,46-321
+OFBKKLGO_01810_smc_3,MF_01894,Smc_prok,Chromosome partition protein Smc [smc].,HAMAP,2020_01,1-1180
+OFBKKLGO_01811_rnc,MF_00104,RNase_III,Ribonuclease 3 [rnc].,HAMAP,2020_01,23-239
+OFBKKLGO_01812_acpA,MF_01217,Acyl_carrier,Acyl carrier protein [acpP].,HAMAP,2020_01,3-77
+OFBKKLGO_01815_plsX,MF_00019,PlsX,Phosphate acyltransferase [plsX].,HAMAP,2020_01,1-332
+OFBKKLGO_01816_fapR,MF_01814,Transcrip_fact_FapR,Transcription factor FapR [fapR].,HAMAP,2020_01,1-188
+OFBKKLGO_01822_rpmB,MF_00373,Ribosomal_L28,50S ribosomal protein L28 [rpmB].,HAMAP,2020_01,1-62
+OFBKKLGO_01824_rpe,MF_02227,RPE,Ribulose-phosphate 3-epimerase [rpe].,HAMAP,2020_01,1-216
+OFBKKLGO_01825_rsgA,MF_01820,GTPase_RsgA,Small ribosomal subunit biogenesis GTPase RsgA [rsgA].,HAMAP,2020_01,2-293
+OFBKKLGO_01828_rlmN,MF_01849,RNA_methyltr_RlmN,Dual-specificity RNA methyltransferase RlmN [rlmN].,HAMAP,2020_01,17-359
+OFBKKLGO_01830_fmt,MF_00182,Formyl_trans,Methionyl-tRNA formyltransferase [fmt].,HAMAP,2020_01,1-299
+OFBKKLGO_01831_def1,MF_00163,Pep_deformylase,Peptide deformylase [def].,HAMAP,2020_01,2-158
+OFBKKLGO_01833_undec1A,MF_02225,CoaBC,Coenzyme A biosynthesis bifunctional protein CoaBC [coaBC].,HAMAP,2020_01,4-398
+OFBKKLGO_01834_rpoZ,MF_00366,RNApol_bact_RpoZ,DNA-directed RNA polymerase subunit omega [rpoZ].,HAMAP,2020_01,1-62
+OFBKKLGO_01835_gmk,MF_00328,Guanylate_kinase,Guanylate kinase [gmk].,HAMAP,2020_01,11-195
+OFBKKLGO_01836_remA,MF_01503,RemA,Putative regulatory protein <locus_tag>.,HAMAP,2020_01,3-85
+OFBKKLGO_01839_rqcH,MF_00844_B,RqcH_B,Rqc2 homolog RqcH [rqcH].,HAMAP,2020_01,6-566
+OFBKKLGO_01844_cysC,MF_00065,Adenylyl_sulf_kinase,Adenylyl-sulfate kinase [cysC].,HAMAP,2020_01,24-196
+OFBKKLGO_01847_cysH,MF_00063,CysH,Phosphoadenosine phosphosulfate reductase [cysH].,HAMAP,2020_01,1-233
+OFBKKLGO_01849_pyrE,MF_01208,PyrE,Orotate phosphoribosyltransferase [pyrE].,HAMAP,2020_01,1-210
+OFBKKLGO_01850_pyrF,MF_01200_B,OMPdecase_type1_B,Orotidine 5'-phosphate decarboxylase [pyrF].,HAMAP,2020_01,3-235
+OFBKKLGO_01851_pyrD,MF_00224,DHO_dh_type1,Dihydroorotate dehydrogenase [pyrD].,HAMAP,2020_01,2-299
+OFBKKLGO_01852_pyrK,MF_01211,DHODB_Fe_S_bind,"Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit [pyrK].",HAMAP,2020_01,3-256
+OFBKKLGO_01853_carB_2,MF_01210_A,CPSase_L_chain_A,Carbamoyl-phosphate synthase large chain [carB].,HAMAP,2020_01,5-1063
+OFBKKLGO_01853_carB_2,MF_01210_B,CPSase_L_chain_B,Carbamoyl-phosphate synthase large chain [carB].,HAMAP,2020_01,1-1057
+OFBKKLGO_01854_carA_2,MF_01209,CPSase_S_chain,Carbamoyl-phosphate synthase small chain [carA].,HAMAP,2020_01,1-354
+OFBKKLGO_01855_pyrC,MF_00220_B,PyrC_classI_B,Dihydroorotase [pyrC].,HAMAP,2020_01,3-423
+OFBKKLGO_01856_pyrB,MF_00001,Asp_carb_tr,Aspartate carbamoyltransferase [pyrB].,HAMAP,2020_01,1-291
+OFBKKLGO_01860_pyrR,MF_01219,PyrR,Bifunctional protein PyrR [pyrR].,HAMAP,2020_01,4-179
+OFBKKLGO_01863_lspA,MF_00161,LspA,Lipoprotein signal peptidase [lspA].,HAMAP,2020_01,2-150
+OFBKKLGO_01869_sepF,MF_01197,SepF,Cell division protein SepF [sepF].,HAMAP,2020_01,1-144
+OFBKKLGO_01870_yggS,MF_02087,PLP_homeostasis,Pyridoxal phosphate homeostasis protein.,HAMAP,2020_01,5-223
+OFBKKLGO_01881_ftsA,MF_02033,FtsA,Cell division protein FtsA [ftsA].,HAMAP,2020_01,3-436
+OFBKKLGO_01882_divIB,MF_00912,DivIB,Cell division protein DivIB [divIB].,HAMAP,2020_01,13-259
+OFBKKLGO_01883_murB,MF_00037,MurB,UDP-N-acetylenolpyruvoylglucosamine reductase [murB].,HAMAP,2020_01,1-303
+OFBKKLGO_01884_murG_1,MF_00033,MurG,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [murG].,HAMAP,2020_01,3-362
+OFBKKLGO_01886_murD,MF_00639,MurD,UDP-N-acetylmuramoylalanine--D-glutamate ligase [murD].,HAMAP,2020_01,10-445
+OFBKKLGO_01887_mraY,MF_00038,MraY,Phospho-N-acetylmuramoyl-pentapeptide-transferase [mraY].,HAMAP,2020_01,5-322
+OFBKKLGO_01888_murE,MF_00208,MurE,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [murE].",HAMAP,2020_01,1-484
+OFBKKLGO_01891_ftsL,MF_00910,FtsL,Cell division protein FtsL [ftsL].,HAMAP,2020_01,34-116
+OFBKKLGO_01892_rsmH_1,MF_01007,16SrRNA_methyltr_H,Ribosomal RNA small subunit methyltransferase H [rsmH].,HAMAP,2020_01,4-310
+OFBKKLGO_01893_mraZ,MF_01008,MraZ,Transcriptional regulator MraZ [mraZ].,HAMAP,2020_01,1-154
+OFBKKLGO_01894_bshC,MF_01867,BshC,Putative cysteine ligase BshC [bshC].,HAMAP,2020_01,20-558
+OFBKKLGO_01896_ylbP,MF_00824,Acetyltransf_YlbP,Uncharacterized N-acetyltransferase <locus_tag>.,HAMAP,2020_01,1-148
+OFBKKLGO_01898_rpmF,MF_00340,Ribosomal_L32,50S ribosomal protein L32 [rpmF].,HAMAP,2020_01,1-55
+OFBKKLGO_01904_coaD,MF_00151,PPAT_bact,Phosphopantetheine adenylyltransferase [coaD].,HAMAP,2020_01,3-159
+OFBKKLGO_01907_group_4692,MF_01126,UPF0298,UPF0298 protein <locus_tag>.,HAMAP,2020_01,2-79
+OFBKKLGO_01919_ctaB2,MF_00154,CyoE_CtaB,Protoheme IX farnesyltransferase [cyoE].,HAMAP,2020_01,21-304
+OFBKKLGO_01920_ctaA,MF_01664,HemeA_synth_type1,Heme A synthase [ctaA].,HAMAP,2020_01,1-304
+OFBKKLGO_01923_group_15755,MF_01560,UPF0358,UPF0358 protein <locus_tag>.,HAMAP,2020_01,3-93
+OFBKKLGO_01924_glsA2,MF_00313,Glutaminase,Glutaminase [glsA].,HAMAP,2020_01,5-309
+OFBKKLGO_01939_group_6143,MF_01851,UPF0637,UPF0637 protein <locus_tag>.,HAMAP,2020_01,5-205
+OFBKKLGO_01940_group_2832,MF_01041,UPF0223,UPF0223 protein <locus_tag>.,HAMAP,2020_01,1-88
+OFBKKLGO_01951_defB,MF_00163,Pep_deformylase,Peptide deformylase [def].,HAMAP,2020_01,3-182
+OFBKKLGO_01953_group_6150,MF_01553,UPF0356,UPF0356 protein <locus_tag>.,HAMAP,2020_01,1-69
+OFBKKLGO_01954_rnjA,MF_01491,RNase_J_bact,Ribonuclease J [rnj].,HAMAP,2020_01,4-555
+OFBKKLGO_01955_adeC,MF_01518,Adenine_deamin,Adenine deaminase [ade].,HAMAP,2020_01,20-575
+OFBKKLGO_01986_group_6162,MF_00506,UPF0180,UPF0180 protein <locus_tag>.,HAMAP,2020_01,2-80
+OFBKKLGO_01987_ykuR,MF_01692,DapEL,N-acetyldiaminopimelate deacetylase.,HAMAP,2020_01,3-372
+OFBKKLGO_01988_dapH_1,MF_01691,DapH,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase [dapH].",HAMAP,2020_01,1-235
+OFBKKLGO_02030_queE_2,MF_00917,QueE,7-carboxy-7-deazaguanine synthase [queE].,HAMAP,2020_01,5-240
+OFBKKLGO_02032_queC,MF_01633,QueC,7-cyano-7-deazaguanine synthase [queC].,HAMAP,2020_01,4-216
+OFBKKLGO_02045_mtnX,MF_01680,Salvage_MtnX,2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase [mtnX].,HAMAP,2020_01,3-217
+OFBKKLGO_02046_mtnW,MF_01679,Salvage_MtnW,"2,3-diketo-5-methylthiopentyl-1-phosphate enolase [mtnW].",HAMAP,2020_01,2-399
+OFBKKLGO_02051_mtnK,MF_01683,Salvage_MtnK,Methylthioribose kinase [mtnK].,HAMAP,2020_01,7-392
+OFBKKLGO_02052_mtnA,MF_01678,Salvage_MtnA,Putative methylthioribose-1-phosphate isomerase [mtnA].,HAMAP,2020_01,8-346
+OFBKKLGO_02060_htpX_2,MF_00188,Pept_M48_protease_HtpX,Protease HtpX [htpX].,HAMAP,2020_01,2-297
+OFBKKLGO_02068_ku,MF_01875,Prokaryotic_Ku,Non-homologous end joining protein Ku [ku].,HAMAP,2020_01,1-255
+OFBKKLGO_02086_metE_1,MF_00172,Meth_synth,5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [metE].,HAMAP,2020_01,4-757
+OFBKKLGO_02096_proA,MF_00412,ProA,Gamma-glutamyl phosphate reductase [proA].,HAMAP,2020_01,3-414
+OFBKKLGO_02097_proB_1,MF_00456,ProB,Glutamate 5-kinase [proB].,HAMAP,2020_01,4-258
+OFBKKLGO_02098_purU,MF_01927,PurU,Formyltetrahydrofolate deformylase [purU].,HAMAP,2020_01,17-299
+OFBKKLGO_02303_yjcG,MF_01444,2H_phosphoesterase_YjcG,Putative phosphoesterase <locus_tag>.,HAMAP,2020_01,1-168
+OFBKKLGO_02325_thiG,MF_00443,ThiG,Thiazole synthase [thiG].,HAMAP,2020_01,1-254
+OFBKKLGO_02332_prpE,MF_01443,PrpE,Bis(5'-nucleosyl)-tetraphosphatase PrpE [asymmetrical] [prpE].,HAMAP,2020_01,1-245
+OFBKKLGO_02334_ppnKA,MF_00361,NAD_kinase,NAD kinase [nadK].,HAMAP,2020_01,1-263
+OFBKKLGO_02336_group_3700,MF_01861,UPF0738,UPF0738 protein <locus_tag>.,HAMAP,2020_01,3-121
+OFBKKLGO_02345_mecA,MF_01124,MecA,Adapter protein MecA [mecA].,HAMAP,2020_01,32-247
+OFBKKLGO_02347_spxA,MF_01132,SpxA,Regulatory protein Spx [spxA].,HAMAP,2020_01,1-131
+OFBKKLGO_02356_trpS,MF_00140_B,Trp_tRNA_synth_B,Tryptophan--tRNA ligase [trpS].,HAMAP,2020_01,2-326
+OFBKKLGO_02357_group_6240,MF_01860,UPF0736,UPF0736 protein <locus_tag>.,HAMAP,2020_01,1-250
+OFBKKLGO_02365_fabHA,MF_01815,FabH,3-oxoacyl-[acyl-carrier-protein] synthase 3 [fabH].,HAMAP,2020_01,1-310
+OFBKKLGO_02373_argF,MF_01109,OTCase,"Ornithine carbamoyltransferase, catabolic [argI].",HAMAP,2020_01,15-315
+OFBKKLGO_02375_carA_1,MF_01209,CPSase_S_chain,Carbamoyl-phosphate synthase small chain [carA].,HAMAP,2020_01,1-346
+OFBKKLGO_02376_argD,MF_01107,ArgD_aminotrans_3,Acetylornithine/succinyldiaminopimelate aminotransferase [argD].,HAMAP,2020_01,3-380
+OFBKKLGO_02378_argJ,MF_01106,ArgJ,Arginine biosynthesis bifunctional protein ArgJ [argJ].,HAMAP,2020_01,1-405
+OFBKKLGO_02379_argC,MF_00150,ArgC_type1,N-acetyl-gamma-glutamyl-phosphate reductase [argC].,HAMAP,2020_01,1-339
+OFBKKLGO_02383_xerD,MF_01807,Recomb_XerD,Tyrosine recombinase XerD [xerD].,HAMAP,2020_01,1-296
+OFBKKLGO_02383_xerD,MF_01808,Recomb_XerC_XerD,Tyrosine recombinase XerC [xerC].,HAMAP,2020_01,3-296
+OFBKKLGO_02405_group_3709,MF_01113,DNApol_IV,DNA polymerase IV [dinB].,HAMAP,2020_01,1-358
+OFBKKLGO_02410_coaA,MF_00215,Pantothen_kinase_1,Pantothenate kinase [coaA].,HAMAP,2020_01,1-319
+OFBKKLGO_02414_proC_2,MF_01925,P5C_reductase,Pyrroline-5-carboxylate reductase [proC].,HAMAP,2020_01,2-265
+OFBKKLGO_02420_rnz,MF_01818,RNase_Z_BN,Ribonuclease BN [rbn].,HAMAP,2020_01,1-305
+OFBKKLGO_02421_zwf,MF_00966,G6PD,Glucose-6-phosphate 1-dehydrogenase [zwf].,HAMAP,2020_01,8-488
+OFBKKLGO_02423_dinB_2,MF_01113,DNApol_IV,DNA polymerase IV [dinB].,HAMAP,2020_01,13-365
+OFBKKLGO_02425_misCB,MF_01811,YidC_type2,Membrane protein insertase YidC [yidC].,HAMAP,2020_01,2-264
+OFBKKLGO_02442_buk2,MF_00542,Butyrate_kinase,Probable butyrate kinase [buk].,HAMAP,2020_01,1-369
+OFBKKLGO_02467_argR,MF_00173,Arg_repressor,Arginine repressor [argR].,HAMAP,2020_01,1-149
+OFBKKLGO_02471_xseB,MF_00337,Exonuc_7_S,Exodeoxyribonuclease 7 small subunit [xseB].,HAMAP,2020_01,11-71
+OFBKKLGO_02472_xseA,MF_00378,Exonuc_7_L,Exodeoxyribonuclease 7 large subunit [xseA].,HAMAP,2020_01,4-441
+OFBKKLGO_02473_folD,MF_01576,THF_DHG_CYH,Bifunctional protein FolD [folD].,HAMAP,2020_01,3-282
+OFBKKLGO_02474_nusB,MF_00073,NusB,Transcription antitermination protein NusB [nusB].,HAMAP,2020_01,1-129
+OFBKKLGO_02487_efp,MF_00141,EF_P,Elongation factor P [efp].,HAMAP,2020_01,1-185
+OFBKKLGO_02493_mntR,MF_00732,HTH_MntR,HTH-type transcriptional regulator MntR [mntR].,HAMAP,2020_01,1-138
+OFBKKLGO_02494_lipM,MF_02118,LipM,Octanoyltransferase LipM [lipM].,HAMAP,2020_01,3-278
+OFBKKLGO_02496_gcvPB,MF_00713,GcvPB,Probable glycine dehydrogenase (decarboxylating) subunit 2 [gcvPB].,HAMAP,2020_01,7-485
+OFBKKLGO_02497_gcvPA,MF_00712,GcvPA,Probable glycine dehydrogenase (decarboxylating) subunit 1 [gcvPA].,HAMAP,2020_01,3-446
+OFBKKLGO_02532_rpmGA,MF_00294,Ribosomal_L33,50S ribosomal protein L33 [rpmG].,HAMAP,2020_01,1-49
+OFBKKLGO_02546_ispG,MF_00159,IspG,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin) [ispG].,HAMAP,2020_01,5-355
+OFBKKLGO_02553_cshB,MF_01494,DEAD_helicase_CshB,DEAD-box ATP-dependent RNA helicase CshB [cshB].,HAMAP,2020_01,4-437
+OFBKKLGO_02555_ispH,MF_00191,IspH,4-hydroxy-3-methylbut-2-enyl diphosphate reductase [ispH].,HAMAP,2020_01,1-288
+OFBKKLGO_02559_sigA,MF_00963,Sigma70_RpoD_SigA,RNA polymerase sigma factor RpoD [rpoD].,HAMAP,2020_01,9-373
+OFBKKLGO_02560_dnaG,MF_00974,DNA_primase_DnaG,DNA primase [dnaG].,HAMAP,2020_01,4-593
+OFBKKLGO_02561_group_4814,MF_00489,UPF0178,UPF0178 protein YaiI [yaiI].,HAMAP,2020_01,14-159
+OFBKKLGO_02562_yqfL,MF_00921,PDRP,"Putative pyruvate, phosphate dikinase regulatory protein.",HAMAP,2020_01,4-268
+OFBKKLGO_02564_glyS,MF_00255,Gly_tRNA_synth_beta,Glycine--tRNA ligase beta subunit [glyS].,HAMAP,2020_01,3-676
+OFBKKLGO_02565_glyQ,MF_00254,Gly_tRNA_synth_alpha,Glycine--tRNA ligase alpha subunit [glyQ].,HAMAP,2020_01,1-281
+OFBKKLGO_02566_recO,MF_00201,RecO,DNA repair protein RecO [recO].,HAMAP,2020_01,1-243
+OFBKKLGO_02568_era,MF_00367,GTPase_Era,GTPase Era [era].,HAMAP,2020_01,6-296
+OFBKKLGO_02571_ybeY,MF_00009,Endoribonucl_YbeY,Endoribonuclease YbeY [ybeY].,HAMAP,2020_01,4-156
+OFBKKLGO_02577_group_16331,MF_01562,UPF0365,UPF0365 protein <locus_tag>.,HAMAP,2020_01,3-323
+OFBKKLGO_02580_rpsU,MF_00358,Ribosomal_S21,30S ribosomal protein S21 [rpsU].,HAMAP,2020_01,1-57
+OFBKKLGO_02584_prmA,MF_00735,Methyltr_PrmA,Ribosomal protein L11 methyltransferase [prmA].,HAMAP,2020_01,3-311
+OFBKKLGO_02585_dnaJ,MF_01152,DnaJ,Chaperone protein DnaJ [dnaJ].,HAMAP,2020_01,2-371
+OFBKKLGO_02587_dnaK,MF_00332,DnaK,Chaperone protein DnaK [dnaK].,HAMAP,2020_01,1-605
+OFBKKLGO_02588_grpE,MF_01151,GrpE,Protein GrpE [grpE].,HAMAP,2020_01,2-188
+OFBKKLGO_02589_hrcA,MF_00081,HrcA,Heat-inducible transcription repressor HrcA [hrcA].,HAMAP,2020_01,1-330
+OFBKKLGO_02591_lepA,MF_00071,LepA,Elongation factor 4 [lepA].,HAMAP,2020_01,1-608
+OFBKKLGO_02594_gpr,MF_00626,Germination_prot,Germination protease [gpr].,HAMAP,2020_01,1-368
+OFBKKLGO_02595_rpsT,MF_00500,Ribosomal_S20,30S ribosomal protein S20 [rpsT].,HAMAP,2020_01,1-85
+OFBKKLGO_02601_proC_3,MF_01925,P5C_reductase,Pyrroline-5-carboxylate reductase [proC].,HAMAP,2020_01,1-266
+OFBKKLGO_02603_rsfS,MF_01477,Iojap_RsfS,Ribosomal silencing factor RsfS [rsfS].,HAMAP,2020_01,1-105
+OFBKKLGO_02607_aroE_1,MF_00222,Shikimate_DH_AroE,Shikimate dehydrogenase (NADP(+)) [aroE].,HAMAP,2020_01,2-273
+OFBKKLGO_02647_mtnN,MF_01684,Salvage_MtnN,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase [mtnN].,HAMAP,2020_01,2-230
+OFBKKLGO_02648_yrrT,MF_02100,Methyltr_YrrT,Uncharacterized methyltransferase <locus_tag>.,HAMAP,2020_01,2-213
+OFBKKLGO_02652_greA,MF_00105,GreA_GreB,Transcription elongation factor GreA [greA].,HAMAP,2020_01,5-157
+OFBKKLGO_02653_udk,MF_00551,Uridine_kinase,Uridine kinase [udk].,HAMAP,2020_01,2-206
+OFBKKLGO_02656_trmR,MF_02217,TrmR_methyltr,tRNA 5-hydroxyuridine methyltransferase [trmR].,HAMAP,2020_01,3-216
+OFBKKLGO_02657_mltG_2,MF_02065,MltG,Endolytic murein transglycosylase [mltG].,HAMAP,2020_01,21-360
+OFBKKLGO_02658_group_16116,MF_01448,UPF0473,UPF0473 protein <locus_tag>.,HAMAP,2020_01,4-89
+OFBKKLGO_02659_yrrK,MF_00651,Nuclease_YqgF,Putative pre-16S rRNA nuclease [yqgF].,HAMAP,2020_01,1-138
+OFBKKLGO_02660_group_16081,MF_01507,UPF0297,UPF0297 protein <locus_tag>.,HAMAP,2020_01,1-85
+OFBKKLGO_02661_alaS,MF_00036_B,Ala_tRNA_synth_B,Alanine--tRNA ligase [alaS].,HAMAP,2020_01,1-878
+OFBKKLGO_02670_recD2,MF_01488,RecD_like,ATP-dependent RecD-like DNA helicase [recD2].,HAMAP,2020_01,9-753
+OFBKKLGO_02672_mnmA,MF_00144,tRNA_thiouridyl_MnmA,tRNA-specific 2-thiouridylase MnmA [mnmA].,HAMAP,2020_01,8-359
+OFBKKLGO_02678_aspS,MF_00044,Asp_tRNA_synth_type1,Aspartate--tRNA(Asp/Asn) ligase [aspS].,HAMAP,2020_01,3-587
+OFBKKLGO_02679_hisS,MF_00127,His_tRNA_synth,Histidine--tRNA ligase [hisS].,HAMAP,2020_01,1-420
+OFBKKLGO_02684_dtd,MF_00518,Deacylase_Dtd,D-aminoacyl-tRNA deacylase [dtd].,HAMAP,2020_01,1-145
+OFBKKLGO_02686_apt,MF_00004,Aden_phosphoribosyltr,Adenine phosphoribosyltransferase [apt].,HAMAP,2020_01,3-170
+OFBKKLGO_02690_secDF,MF_01464_B,SecF_B,Protein-export membrane protein SecF [secF].,HAMAP,2020_01,447-730
+OFBKKLGO_02690_secDF,MF_01463_B,SecD_B,Protein translocase subunit SecD [secD].,HAMAP,2020_01,1-420
+OFBKKLGO_02696_tgt,MF_00168,Q_tRNA_Tgt,Queuine tRNA-ribosyltransferase [tgt].,HAMAP,2020_01,6-369
+OFBKKLGO_02699_ruvB,MF_00016,DNA_helic_RuvB,Holliday junction ATP-dependent DNA helicase RuvB [ruvB].,HAMAP,2020_01,1-334
+OFBKKLGO_02700_ruvA,MF_00031,DNA_helic_RuvA,Holliday junction ATP-dependent DNA helicase RuvA [ruvA].,HAMAP,2020_01,1-200
+OFBKKLGO_02705_nadA,MF_00569,NadA_type3,Quinolinate synthase A [nadA].,HAMAP,2020_01,22-366
+OFBKKLGO_02711_group_15796,MF_00707,UPF0735,UPF0735 ACT domain-containing protein <locus_tag>.,HAMAP,2020_01,2-146
+OFBKKLGO_02712_obg,MF_01454,GTPase_Obg,GTPase Obg [obg].,HAMAP,2020_01,1-329
+OFBKKLGO_02714_rpmA,MF_00539,Ribosomal_L27,50S ribosomal protein L27 [rpmA].,HAMAP,2020_01,9-92
+OFBKKLGO_02716_rplU,MF_01363,Ribosomal_L21,50S ribosomal protein L21 [rplU].,HAMAP,2020_01,1-102
+OFBKKLGO_02721_minC,MF_00267,MinC,Probable septum site-determining protein MinC [minC].,HAMAP,2020_01,8-210
+OFBKKLGO_02724_mreB,MF_02207,MreB,Cell shape-determining protein MreB [mreB].,HAMAP,2020_01,6-337
+OFBKKLGO_02726_maf,MF_00528,Maf,dTTP/UTP pyrophosphatase.,HAMAP,2020_01,4-187
+OFBKKLGO_02730_valS,MF_02004,Val_tRNA_synth_type1,Valine--tRNA ligase [valS].,HAMAP,2020_01,8-879
+OFBKKLGO_02735_hemL,MF_00375,HemL_aminotrans_3,"Glutamate-1-semialdehyde 2,1-aminomutase [hemL].",HAMAP,2020_01,6-427
+OFBKKLGO_02738_hemC,MF_00260,Porphobil_deam,Porphobilinogen deaminase [hemC].,HAMAP,2020_01,3-295
+OFBKKLGO_02740_hemA,MF_00087,Glu_tRNA_reductase,Glutamyl-tRNA reductase [hemA].,HAMAP,2020_01,2-417
+OFBKKLGO_02742_engB,MF_00321,GTPase_EngB,Probable GTP-binding protein EngB [engB].,HAMAP,2020_01,11-193
+OFBKKLGO_02743_lon1,MF_01973,lon_bact,Lon protease [lon].,HAMAP,2020_01,9-770
+OFBKKLGO_02745_clpX,MF_00175,ClpX,ATP-dependent Clp protease ATP-binding subunit ClpX [clpX].,HAMAP,2020_01,2-409
+OFBKKLGO_02746_tig,MF_00303,Trigger_factor_Tig,Trigger factor [tig].,HAMAP,2020_01,1-424
+OFBKKLGO_02748_leuD1,MF_01031,LeuD_type1,3-isopropylmalate dehydratase small subunit [leuD].,HAMAP,2020_01,1-197
+OFBKKLGO_02749_leuC,MF_01026,LeuC_type1,3-isopropylmalate dehydratase large subunit [leuC].,HAMAP,2020_01,2-466
+OFBKKLGO_02750_leuB,MF_01033,LeuB_type1,3-isopropylmalate dehydrogenase [leuB].,HAMAP,2020_01,3-356
+OFBKKLGO_02751_leuA,MF_01025,LeuA_type1,2-isopropylmalate synthase [leuA].,HAMAP,2020_01,1-510
+OFBKKLGO_02752_ilvC,MF_00435,IlvC,Ketol-acid reductoisomerase (NADP(+)) [ilvC].,HAMAP,2020_01,2-328
+OFBKKLGO_02760_rph,MF_00564,RNase_PH,Ribonuclease PH [rph].,HAMAP,2020_01,14-238
+OFBKKLGO_02762_racE,MF_00258,Glu_racemase,Glutamate racemase [murI].,HAMAP,2020_01,3-256
+OFBKKLGO_02772_uvrC_1,MF_00203,UvrC,UvrABC system protein C [uvrC].,HAMAP,2020_01,2-587
+OFBKKLGO_02782_mutS2,MF_00092,MutS2,Endonuclease MutS2 [mutS2].,HAMAP,2020_01,2-784
+OFBKKLGO_02786_rnhC,MF_00053,RNase_HIII,Ribonuclease HIII [rnhC].,HAMAP,2020_01,1-308
+OFBKKLGO_02787_pheT,MF_00283,Phe_tRNA_synth_beta1,Phenylalanine--tRNA ligase beta subunit [pheT].,HAMAP,2020_01,1-797
+OFBKKLGO_02788_pheS,MF_00281,Phe_tRNA_synth_alpha1,Phenylalanine--tRNA ligase alpha subunit [pheS].,HAMAP,2020_01,9-341
+OFBKKLGO_02790_sspI,MF_00669,SspI,"Small, acid-soluble spore protein I [sspI].",HAMAP,2020_01,1-68
+OFBKKLGO_02803_araA,MF_00519,Arabinose_Isome,L-arabinose isomerase [araA].,HAMAP,2020_01,3-475
+OFBKKLGO_02808_rplT,MF_00382,Ribosomal_L20,50S ribosomal protein L20 [rplT].,HAMAP,2020_01,2-115
+OFBKKLGO_02809_rpmI,MF_00514,Ribosomal_L35,50S ribosomal protein L35 [rpmI].,HAMAP,2020_01,1-64
+OFBKKLGO_02810_infC,MF_00080,IF_3,Translation initiation factor IF-3 [infC].,HAMAP,2020_01,1-165
+OFBKKLGO_02812_lrgB,MF_01142,LrgB,Antiholin-like protein LrgB [lrgB].,HAMAP,2020_01,1-226
+OFBKKLGO_02817_thrS,MF_00184,Thr_tRNA_synth,Threonine--tRNA ligase [thrS].,HAMAP,2020_01,69-643
+OFBKKLGO_02822_nrdR,MF_00440,NrdR,Transcriptional repressor NrdR [nrdR].,HAMAP,2020_01,1-152
+OFBKKLGO_02823_speH,MF_00464,AdoMetDC_1,S-adenosylmethionine decarboxylase proenzyme [speH].,HAMAP,2020_01,1-116
+OFBKKLGO_02828_coaE,MF_00376,Dephospho_CoA_kinase,Dephospho-CoA kinase [coaE].,HAMAP,2020_01,2-195
+OFBKKLGO_02830_mutM,MF_00103,Fapy_DNA_glycosyl,Formamidopyrimidine-DNA glycosylase [mutM].,HAMAP,2020_01,1-274
+OFBKKLGO_02834_mdh,MF_00487,Malate_dehydrog_3,Malate dehydrogenase [mdh].,HAMAP,2020_01,5-312
+OFBKKLGO_02841_pfkA,MF_00339,Phosphofructokinase_I_B1,ATP-dependent 6-phosphofructokinase [pfkA].,HAMAP,2020_01,1-318
+OFBKKLGO_02842_accA,MF_00823,AcetylCoA_CT_alpha,Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha [accA].,HAMAP,2020_01,4-315
+OFBKKLGO_02843_accD,MF_01395,AcetylCoA_CT_beta,"Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta, chloroplastic [accD].",HAMAP,2020_01,3-281
+OFBKKLGO_02852_group_6374,MF_00457,UPF0173,UPF0173 metal-dependent hydrolase <locus_tag>.,HAMAP,2020_01,1-227
+OFBKKLGO_02855_argH,MF_00006,Arg_succ_lyase,Argininosuccinate lyase [argH].,HAMAP,2020_01,3-454
+OFBKKLGO_02856_argG,MF_00005,Arg_succ_synth_type1,Argininosuccinate synthase [argG].,HAMAP,2020_01,4-397
+OFBKKLGO_02858_ackA,MF_00020,Acetate_kinase,Acetate kinase [ackA].,HAMAP,2020_01,1-395
+OFBKKLGO_02860_tpx,MF_00269,Tpx,Thiol peroxidase [tpx].,HAMAP,2020_01,3-163
+OFBKKLGO_02865_nadK1,MF_00361,NAD_kinase,NAD kinase [nadK].,HAMAP,2020_01,14-276
+OFBKKLGO_02869_thiI,MF_00021,ThiI,tRNA sulfurtransferase [thiI].,HAMAP,2020_01,1-401
+OFBKKLGO_02872_ezrA,MF_00728,EzrA,Septation ring formation regulator EzrA [ezrA].,HAMAP,2020_01,1-563
+OFBKKLGO_02877_rpsD,MF_01306_B,Ribosomal_S4_B,30S ribosomal protein S4 [rpsD].,HAMAP,2020_01,1-200
+OFBKKLGO_02888_tyrS1,MF_02006,Tyr_tRNA_synth_type1,Tyrosine--tRNA ligase [tyrS].,HAMAP,2020_01,2-421
+OFBKKLGO_02901_murC,MF_00046,MurC,UDP-N-acetylmuramate--L-alanine ligase [murC].,HAMAP,2020_01,1-432
+OFBKKLGO_02904_group_6388,MF_01548,UPF0354,UPF0354 protein <locus_tag>.,HAMAP,2020_01,3-268
+OFBKKLGO_02911_trmB,MF_01057,tRNA_methyltr_TrmB,tRNA (guanine-N(7)-)-methyltransferase [trmB].,HAMAP,2020_01,1-212
+OFBKKLGO_02935_leuS,MF_00049_B,Leu_tRNA_synth_B,Leucine--tRNA ligase [leuS].,HAMAP,2020_01,2-803
+OFBKKLGO_02963_metK,MF_00086,S_AdoMet_synth1,S-adenosylmethionine synthase [metK].,HAMAP,2020_01,4-397
+OFBKKLGO_02965_pckA,MF_00453,PEPCK_ATP,Phosphoenolpyruvate carboxykinase (ATP) [pckA].,HAMAP,2020_01,12-527
+OFBKKLGO_02976_luxS,MF_00091,LuxS,S-ribosylhomocysteine lyase [luxS].,HAMAP,2020_01,1-157
+OFBKKLGO_02977_yidD,MF_00386,UPF0161_YidD,Putative membrane protein insertion efficiency factor [yidD].,HAMAP,2020_01,1-69
+OFBKKLGO_02979_rpmE2,MF_00502,Ribosomal_L31_2,50S ribosomal protein L31 type B [rpmE2].,HAMAP,2020_01,1-81
+OFBKKLGO_02983_menC,MF_01933,MenC_2,o-succinylbenzoate synthase [menC].,HAMAP,2020_01,3-360
+OFBKKLGO_02985_menB,MF_01934,MenB,"1,4-dihydroxy-2-naphthoyl-CoA synthase [menB].",HAMAP,2020_01,5-271
+OFBKKLGO_02987_menD,MF_01659,MenD,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [menD].,HAMAP,2020_01,2-568
+OFBKKLGO_02988_pchA,MF_01935,MenF,Isochorismate synthase MenF [menF].,HAMAP,2020_01,1-467
+OFBKKLGO_03063_uppP,MF_01006,Undec_diphosphatase,Undecaprenyl-diphosphatase [uppP].,HAMAP,2020_01,4-275
+OFBKKLGO_03071_tgl,MF_00727,Tgl,Protein-glutamine gamma-glutamyltransferase [tgl].,HAMAP,2020_01,1-245
+OFBKKLGO_03082_pgi,MF_00473,G6P_isomerase,Glucose-6-phosphate isomerase [pgi].,HAMAP,2020_01,1-435
+OFBKKLGO_03151_pepA,MF_00181,Cytosol_peptidase_M17,Probable cytosol aminopeptidase [pepA].,HAMAP,2020_01,1-494
+OFBKKLGO_03156_yumC,MF_01685,FENR2,Ferredoxin--NADP reductase.,HAMAP,2020_01,7-328
+OFBKKLGO_03158_guaC,MF_01511,GMP_reduct_type2,GMP reductase [guaC].,HAMAP,2020_01,1-307
+OFBKKLGO_03219_dapF,MF_00197,DAP_epimerase,Diaminopimelate epimerase [dapF].,HAMAP,2020_01,4-284
+OFBKKLGO_03221_group_4916,MF_01542,UPF0349,UPF0349 protein <locus_tag>.,HAMAP,2020_01,1-77
+OFBKKLGO_03226_thrB,MF_00384,Homoser_kinase,Homoserine kinase [thrB].,HAMAP,2020_01,8-299
+OFBKKLGO_03234_lipA,MF_00206,Lipoyl_synth,Lipoyl synthase [lipA].,HAMAP,2020_01,1-295
+OFBKKLGO_03280_gcvH,MF_00272,GcvH,Glycine cleavage system H protein [gcvH].,HAMAP,2020_01,4-125
+OFBKKLGO_03305_fumC,MF_00743,FumaraseC,Fumarate hydratase class II [fumC].,HAMAP,2020_01,3-460
+OFBKKLGO_03351_cysI,MF_01540,CysI,Sulfite reductase [NADPH] hemoprotein beta-component [cysI].,HAMAP,2020_01,8-571
+OFBKKLGO_03356_bdbC,MF_00287,BdbC,Probable disulfide formation protein [bdbC].,HAMAP,2020_01,1-136
+OFBKKLGO_03363_azoR2,MF_01216,Azoreductase_type1,FMN-dependent NADH-azoreductase [azoR].,HAMAP,2020_01,2-211
+OFBKKLGO_03376_smpB,MF_00023,SmpB,SsrA-binding protein [smpB].,HAMAP,2020_01,1-155
+OFBKKLGO_03413_eno,MF_00318,Enolase,Enolase [eno].,HAMAP,2020_01,2-413
+OFBKKLGO_03414_gpmI,MF_01038,GpmI,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase [gpmI].",HAMAP,2020_01,4-510
+OFBKKLGO_03415_tpiA,MF_00147_B,TIM_B,Triosephosphate isomerase [tpiA].,HAMAP,2020_01,2-249
+OFBKKLGO_03416_pgk,MF_00145,Phosphoglyc_kinase,Phosphoglycerate kinase [pgk].,HAMAP,2020_01,8-393
+OFBKKLGO_03432_lutB,MF_02103,LutB,Lactate utilization protein B [lutB].,HAMAP,2020_01,1-475
+OFBKKLGO_03433_lutA_2,MF_02105,LutA,Lactate utilization protein A [lutA].,HAMAP,2020_01,1-238
+OFBKKLGO_03473_clpP,MF_00444,ClpP,ATP-dependent Clp protease proteolytic subunit [clpP].,HAMAP,2020_01,3-193
+OFBKKLGO_03488_yvcJ,MF_00636,RapZ_like,RNase adapter protein RapZ [rapZ].,HAMAP,2020_01,9-291
+OFBKKLGO_03496_hisI,MF_01020,HisE,Phosphoribosyl-ATP pyrophosphatase [hisE].,HAMAP,2020_01,112-198
+OFBKKLGO_03496_hisI,MF_01019,HisIE,Histidine biosynthesis bifunctional protein HisIE [hisI].,HAMAP,2020_01,5-203
+OFBKKLGO_03496_hisI,MF_01021,HisI,Phosphoribosyl-AMP cyclohydrolase [hisI].,HAMAP,2020_01,3-106
+OFBKKLGO_03497_hisF,MF_01013,HisF,Imidazole glycerol phosphate synthase subunit HisF [hisF].,HAMAP,2020_01,1-252
+OFBKKLGO_03498_priA_2,MF_01014,HisA,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase [hisA].,HAMAP,2020_01,5-241
+OFBKKLGO_03499_hisH,MF_00278,HisH,Imidazole glycerol phosphate synthase subunit HisH [hisH].,HAMAP,2020_01,1-204
+OFBKKLGO_03500_hisB,MF_00076,HisB,Imidazoleglycerol-phosphate dehydratase [hisB].,HAMAP,2020_01,2-194
+OFBKKLGO_03501_hisD,MF_01024,HisD,Histidinol dehydrogenase [hisD].,HAMAP,2020_01,6-423
+OFBKKLGO_03502_hisG,MF_01018,HisG_Short,ATP phosphoribosyltransferase [hisG].,HAMAP,2020_01,4-208
+OFBKKLGO_03503_hisZ,MF_00125,HisZ,ATP phosphoribosyltransferase regulatory subunit [hisZ].,HAMAP,2020_01,14-368
+OFBKKLGO_03506_ppaX_2,MF_01250,Pyrophosphat_PpaX,Pyrophosphatase PpaX [ppaX].,HAMAP,2020_01,4-216
+OFBKKLGO_03507_lgt,MF_01147,Lgt,Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase [lgt].,HAMAP,2020_01,8-259
+OFBKKLGO_03508_hprK,MF_01249,HPr_kinase,HPr kinase/phosphorylase [hprK].,HAMAP,2020_01,3-306
+OFBKKLGO_03510_nagB,MF_01241,GlcN6P_deamin,Glucosamine-6-phosphate deaminase [nagB].,HAMAP,2020_01,1-241
+OFBKKLGO_03519_uvrA,MF_00205,UvrA,UvrABC system protein A [uvrA].,HAMAP,2020_01,3-938
+OFBKKLGO_03520_uvrB,MF_00204,UvrB,UvrABC system protein B [uvrB].,HAMAP,2020_01,3-660
+OFBKKLGO_03535_prfB,MF_00094,Rel_fac_2,Peptide chain release factor 2 [prfB].,HAMAP,2020_01,1-326
+OFBKKLGO_03536_secA,MF_01382,SecA,Protein translocase subunit SecA [secA].,HAMAP,2020_01,4-781
+OFBKKLGO_03537_yvyD,MF_00839,HPF,Ribosome hibernation promoting factor [hpf].,HAMAP,2020_01,1-186
+OFBKKLGO_03543_csrA,MF_00167,CsrA,Translational regulator CsrA [csrA].,HAMAP,2020_01,1-72
+OFBKKLGO_03544_fliW,MF_01185,FliW,Flagellar assembly factor FliW [fliW].,HAMAP,2020_01,17-141
+OFBKKLGO_03579_tagA,MF_02070,TagA_TarA,N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase.,HAMAP,2020_01,2-239
+OFBKKLGO_03601_rbsD,MF_01661,D_rib_pyranase,D-ribose pyranase [rbsD].,HAMAP,2020_01,1-131
+OFBKKLGO_03639_ssbB,MF_00984,SSB,Single-stranded DNA-binding protein.,HAMAP,2020_01,2-107
+OFBKKLGO_03642_mscL,MF_00115,MscL,Large-conductance mechanosensitive channel [mscL].,HAMAP,2020_01,1-125
+OFBKKLGO_03643_fabZ_2,MF_00406,FabZ,3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ [fabZ].,HAMAP,2020_01,2-141
+OFBKKLGO_03647_mbl,MF_02207,MreB,Cell shape-determining protein MreB [mreB].,HAMAP,2020_01,3-332
+OFBKKLGO_03664_clsA,MF_01916,Cardiolipin_synth_Cls,Cardiolipin synthase.,HAMAP,2020_01,8-482
+OFBKKLGO_03669_ureC,MF_01953,Urease_alpha,Urease subunit alpha [ureC].,HAMAP,2020_01,1-569
+OFBKKLGO_03671_ureB,MF_01954,Urease_beta,Urease subunit beta [ureB].,HAMAP,2020_01,1-101
+OFBKKLGO_03672_ureA,MF_00739,Urease_gamma,Urease subunit gamma [ureA].,HAMAP,2020_01,1-100
+OFBKKLGO_03676_moaA,MF_01225_B,MoaA_B,"GTP 3',8-cyclase [moaA].",HAMAP,2020_01,8-341
+OFBKKLGO_03677_fdhD,MF_00187,FdhD,Sulfur carrier protein FdhD [fdhD].,HAMAP,2020_01,3-261
+OFBKKLGO_03682_murAA,MF_00111,MurA,UDP-N-acetylglucosamine 1-carboxyvinyltransferase [murA].,HAMAP,2020_01,1-417
+OFBKKLGO_03686_atpC,MF_00530,ATP_synth_epsil_bac,ATP synthase epsilon chain [atpC].,HAMAP,2020_01,2-129
+OFBKKLGO_03687_atpD,MF_01347,ATP_synth_beta_bact,ATP synthase subunit beta [atpB].,HAMAP,2020_01,1-469
+OFBKKLGO_03688_atpG,MF_00815,ATP_synth_gamma_bact,ATP synthase gamma chain [atpG].,HAMAP,2020_01,1-286
+OFBKKLGO_03689_atpA,MF_01346,ATP_synth_alpha_bact,ATP synthase subunit alpha [atpA].,HAMAP,2020_01,1-499
+OFBKKLGO_03690_atpH,MF_01416,ATP_synth_delta_bact,ATP synthase subunit delta [atpD].,HAMAP,2020_01,2-178
+OFBKKLGO_03691_atpF,MF_01398,ATP_synth_b_bprime,ATP synthase subunit b [atpF].,HAMAP,2020_01,10-148
+OFBKKLGO_03692_atpE,MF_01396,ATP_synth_c_bact,ATP synthase subunit c [atpH].,HAMAP,2020_01,3-68
+OFBKKLGO_03693_atpB,MF_01393,ATP_synth_a_bact,ATP synthase subunit a [atpB].,HAMAP,2020_01,1-243
+OFBKKLGO_03695_upp,MF_01218_B,Upp_B,Uracil phosphoribosyltransferase [upp].,HAMAP,2020_01,3-209
+OFBKKLGO_03696_glyA,MF_00051,SHMT,Serine hydroxymethyltransferase [glyA].,HAMAP,2020_01,3-411
+OFBKKLGO_03697_lacA,MF_00800,UPF0340,UPF0340 protein <locus_tag>.,HAMAP,2020_01,1-180
+OFBKKLGO_03700_mntP,MF_01521,MntP_pump,Probable manganese efflux pump MntP [mntP].,HAMAP,2020_01,7-185
+OFBKKLGO_03706_prmC,MF_02126,RF_methyltr_PrmC,Release factor glutamine methyltransferase [prmC].,HAMAP,2020_01,4-284
+OFBKKLGO_03707_prfA,MF_00093,Rel_fac_1,Peptide chain release factor 1 [prfA].,HAMAP,2020_01,1-355
+OFBKKLGO_03709_racA,MF_01170,RacA,Chromosome-anchoring protein RacA [racA].,HAMAP,2020_01,1-185
+OFBKKLGO_03712_tdk,MF_00124,Thymidine_kinase,Thymidine kinase [tdk].,HAMAP,2020_01,7-190
+OFBKKLGO_03713_rpmE,MF_00501,Ribosomal_L31_1,50S ribosomal protein L31 [rpmE].,HAMAP,2020_01,1-66
+OFBKKLGO_03714_rho,MF_01884,Rho,Transcription termination factor Rho [rho].,HAMAP,2020_01,1-416
+OFBKKLGO_03716_murAB,MF_00111,MurA,UDP-N-acetylglucosamine 1-carboxyvinyltransferase [murA].,HAMAP,2020_01,1-416
+OFBKKLGO_03717_tal,MF_00494,Transaldolase_3b,Probable transaldolase [tal].,HAMAP,2020_01,1-211
+OFBKKLGO_03721_pyrG,MF_01227,PyrG,CTP synthase [pyrG].,HAMAP,2020_01,2-532
+OFBKKLGO_03723_rpoE,MF_00357,RNApol_bact_RpoE,Probable DNA-directed RNA polymerase subunit delta [rpoE].,HAMAP,2020_01,9-171
+OFBKKLGO_03738_argS,MF_00123,Arg_tRNA_synth,Arginine--tRNA ligase [argS].,HAMAP,2020_01,5-556
+OFBKKLGO_03745_speE,MF_00198,Spermidine_synth,Polyamine aminopropyltransferase [speE].,HAMAP,2020_01,4-276
+OFBKKLGO_03755_group_16024,MF_01863,UPF0741,UPF0741 protein <locus_tag>.,HAMAP,2020_01,1-74
+OFBKKLGO_03767_lipL,MF_02119,LipL,Lipoyl-[GcvH]:protein N-lipoyltransferase [lipL].,HAMAP,2020_01,7-281
+OFBKKLGO_03771_group_2373,MF_01442,UPF0447,Putative heme-dependent peroxidase <locus_tag>.,HAMAP,2020_01,7-254
+OFBKKLGO_03801_ung,MF_00148,UDG,Uracil-DNA glycosylase [ung].,HAMAP,2020_01,6-221
+OFBKKLGO_03836_thiE,MF_00097,TMP_synthase,Thiamine-phosphate synthase [thiE].,HAMAP,2020_01,13-216
+OFBKKLGO_03839_group_15963,MF_01143,CidA,Holin-like protein CidA [cidA].,HAMAP,2020_01,1-119
+OFBKKLGO_03851_menA,MF_01937,MenA_1,"1,4-dihydroxy-2-naphthoate octaprenyltransferase [menA].",HAMAP,2020_01,18-305
+OFBKKLGO_03853_dltA_3,MF_00593,DltA,D-alanine--D-alanyl carrier protein ligase [dltA].,HAMAP,2020_01,1-503
+OFBKKLGO_03855_dltC,MF_00565,DltC,D-alanyl carrier protein [dltC].,HAMAP,2020_01,1-78
+OFBKKLGO_03863_group_2385,MF_00527,3MGH,Putative 3-methyladenine DNA glycosylase.,HAMAP,2020_01,10-195
+OFBKKLGO_03933_hutP,MF_00779,HutP,Hut operon positive regulatory protein [hutP].,HAMAP,2020_01,1-148
+OFBKKLGO_03934_hutH,MF_00229,His_ammonia_lyase,Histidine ammonia-lyase [hutH].,HAMAP,2020_01,2-501
+OFBKKLGO_03936_hutI,MF_00372,HutI,Imidazolonepropionase [hutI].,HAMAP,2020_01,6-412
+OFBKKLGO_03941_deoC,MF_00114,DeoC_type1,Deoxyribose-phosphate aldolase [deoC].,HAMAP,2020_01,1-216
+OFBKKLGO_03961_iolE,MF_01672,IolE,Inosose dehydratase [iolE].,HAMAP,2020_01,1-295
+OFBKKLGO_03963_iolC,MF_01668,IolC,5-dehydro-2-deoxygluconokinase [iolC].,HAMAP,2020_01,7-325
+OFBKKLGO_03964_iolB,MF_01673,IolB,5-deoxy-glucuronate isomerase [iolB].,HAMAP,2020_01,1-271
+OFBKKLGO_03965_iolA,MF_01670,IolA,Malonate-semialdehyde dehydrogenase [iolA].,HAMAP,2020_01,1-481
+OFBKKLGO_03969_htpG,MF_00505,HSP90,Chaperone protein HtpG [htpG].,HAMAP,2020_01,2-626
+OFBKKLGO_04014_rocD,MF_01689,Ornith_aminotrans_3,Ornithine aminotransferase [rocD].,HAMAP,2020_01,7-399
+OFBKKLGO_04041_rplI,MF_00503,Ribosomal_L9,50S ribosomal protein L9 [rplI].,HAMAP,2020_01,1-148
+OFBKKLGO_04047_ppaC,MF_00207,PPase_C,Probable manganese-dependent inorganic pyrophosphatase [ppaC].,HAMAP,2020_01,3-309
+OFBKKLGO_04073_rpsR,MF_00270,Ribosomal_S18,30S ribosomal protein S18 [rpsR].,HAMAP,2020_01,7-78
+OFBKKLGO_04074_ssbA,MF_00984,SSB,Single-stranded DNA-binding protein.,HAMAP,2020_01,2-107
+OFBKKLGO_04075_rpsF,MF_00360,Ribosomal_S6,30S ribosomal protein S6 [rpsF].,HAMAP,2020_01,1-95
+OFBKKLGO_04076_ychF,MF_00944,YchF_OLA1_ATPase,Ribosome-binding ATPase YchF [ychF].,HAMAP,2020_01,2-366
+OFBKKLGO_04084_noc,MF_02015,ParB_Noc,Nucleoid occlusion protein [noc].,HAMAP,2020_01,3-283
+OFBKKLGO_04085_rsmG,MF_00074,16SrRNA_methyltr_G,Ribosomal RNA small subunit methyltransferase G [rsmG].,HAMAP,2020_01,14-214
+OFBKKLGO_04086_mnmG,MF_00129,MnmG_GidA,tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG [mnmG].,HAMAP,2020_01,6-623
+OFBKKLGO_04087_mnmE,MF_00379,GTPase_MnmE,tRNA modification GTPase MnmE [mnmE].,HAMAP,2020_01,2-459
+OFBKKLGO_04089_misCA,MF_01811,YidC_type2,Membrane protein insertase YidC [yidC].,HAMAP,2020_01,2-246

@@ -1,0 +1,1037 @@
+Query_ID,Accession,Name,Description,Library,Library Release,Start_End
+OFBKKLGO_00001_dnaA_1,TIGR00362,TIGR00362,DnaA: chromosomal replication initiator protein DnaA,TIGRFAM,15.0,8-445
+OFBKKLGO_00002_dnaN,TIGR00663,TIGR00663,"dnan: DNA polymerase III, beta subunit",TIGRFAM,15.0,1-377
+OFBKKLGO_00003_group_16074,TIGR02988,TIGR02988,YaaA_near_RecF: S4 domain protein YaaA,TIGRFAM,15.0,5-63
+OFBKKLGO_00004_recF,TIGR00611,TIGR00611,recf: DNA replication and repair protein RecF,TIGRFAM,15.0,1-366
+OFBKKLGO_00009_guaB,TIGR01302,TIGR01302,IMP_dehydrog: inosine-5'-monophosphate dehydrogenase,TIGRFAM,15.0,10-456
+OFBKKLGO_00011_pdxS,TIGR00343,TIGR00343,"TIGR00343: pyridoxal 5'-phosphate synthase, synthase subunit Pdx1",TIGRFAM,15.0,9-294
+OFBKKLGO_00012_pdxT,TIGR03800,TIGR03800,"PLP_synth_Pdx2: pyridoxal 5'-phosphate synthase, glutaminase subunit Pdx2",TIGRFAM,15.0,4-185
+OFBKKLGO_00014_serS,TIGR00414,TIGR00414,serS: serine--tRNA ligase,TIGRFAM,15.0,1-417
+OFBKKLGO_00022_dnaX,TIGR02397,TIGR02397,"dnaX_nterm: DNA polymerase III, subunit gamma and tau",TIGRFAM,15.0,3-358
+OFBKKLGO_00023_group_15927,TIGR00103,TIGR00103,"DNA_YbaB_EbfC: DNA-binding protein, YbaB/EbfC family",TIGRFAM,15.0,1-106
+OFBKKLGO_00032_tmk,TIGR00041,TIGR00041,DTMP_kinase: dTMP kinase,TIGRFAM,15.0,2-197
+OFBKKLGO_00035_group_5764,TIGR00678,TIGR00678,"holB: DNA polymerase III, delta' subunit",TIGRFAM,15.0,10-192
+OFBKKLGO_00040_rsmI,TIGR00096,TIGR00096,TIGR00096: 16S rRNA (cytidine(1402)-2'-O)-methyltransferase,TIGRFAM,15.0,16-290
+OFBKKLGO_00041_abrB,TIGR01439,TIGR01439,"lp_hng_hel_AbrB: transcriptional regulator, AbrB family",TIGRFAM,15.0,8-49
+OFBKKLGO_00042_metG,TIGR00398,TIGR00398,metG: methionine--tRNA ligase,TIGRFAM,15.0,8-524
+OFBKKLGO_00042_metG,TIGR00399,TIGR00399,"metG_C_term: methionine--tRNA ligase, beta subunit",TIGRFAM,15.0,533-663
+OFBKKLGO_00045_rnmV_1,TIGR00334,TIGR00334,5S_RNA_mat_M5: ribonuclease M5,TIGRFAM,15.0,2-177
+OFBKKLGO_00046_rsmA,TIGR00755,TIGR00755,ksgA: ribosomal RNA small subunit methyltransferase A,TIGRFAM,15.0,21-287
+OFBKKLGO_00047_yabG,TIGR02855,TIGR02855,spore_yabG: sporulation peptidase YabG,TIGRFAM,15.0,4-287
+OFBKKLGO_00050_ispE,TIGR00154,TIGR00154,ispE: 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,TIGRFAM,15.0,1-287
+OFBKKLGO_00051_purR,TIGR01743,TIGR01743,purR_Bsub: pur operon repressor PurR,TIGRFAM,15.0,3-270
+OFBKKLGO_00052_yabJ,TIGR00004,TIGR00004,TIGR00004: reactive intermediate/imine deaminase,TIGRFAM,15.0,3-123
+OFBKKLGO_00054_glmU,TIGR01173,TIGR01173,glmU: UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase,TIGRFAM,15.0,6-454
+OFBKKLGO_00055_prs,TIGR01251,TIGR01251,ribP_PPkin: ribose-phosphate diphosphokinase,TIGRFAM,15.0,11-317
+OFBKKLGO_00056_ctc,TIGR00731,TIGR00731,"bL25_bact_ctc: ribosomal protein bL25, Ctc-form",TIGRFAM,15.0,4-178
+OFBKKLGO_00057_pth,TIGR00447,TIGR00447,pth: aminoacyl-tRNA hydrolase,TIGRFAM,15.0,1-186
+OFBKKLGO_00059_mfd,TIGR00580,TIGR00580,mfd: transcription-repair coupling factor,TIGRFAM,15.0,157-1097
+OFBKKLGO_00062_group_3077,TIGR00444,TIGR00444,mazG: MazG family protein,TIGRFAM,15.0,240-485
+OFBKKLGO_00064_yabP,TIGR02892,TIGR02892,spore_yabP: sporulation protein YabP,TIGRFAM,15.0,17-100
+OFBKKLGO_00071_tilS,TIGR02433,TIGR02433,"lysidine_TilS_C: tRNA(Ile)-lysidine synthetase, C-terminal domain",TIGRFAM,15.0,385-430
+OFBKKLGO_00071_tilS,TIGR02432,TIGR02432,lysidine_TilS_N: tRNA(Ile)-lysidine synthetase,TIGRFAM,15.0,20-206
+OFBKKLGO_00072_hpt,TIGR01203,TIGR01203,HGPRTase: hypoxanthine phosphoribosyltransferase,TIGRFAM,15.0,8-173
+OFBKKLGO_00073_ftsH,TIGR01241,TIGR01241,FtsH_fam: ATP-dependent metallopeptidase HflB,TIGRFAM,15.0,109-601
+OFBKKLGO_00074_coaX,TIGR00671,TIGR00671,"baf: pantothenate kinase, type III",TIGRFAM,15.0,1-238
+OFBKKLGO_00077_cysK_1,TIGR01139,TIGR01139,cysK: cysteine synthase A,TIGRFAM,15.0,8-305
+OFBKKLGO_00077_cysK_1,TIGR01136,TIGR01136,cysKM: cysteine synthase,TIGRFAM,15.0,8-305
+OFBKKLGO_00078_pabB,TIGR01824,TIGR01824,"PabB-clade2: aminodeoxychorismate synthase, component I",TIGRFAM,15.0,100-456
+OFBKKLGO_00079_pabA,TIGR00566,TIGR00566,trpG_papA: glutamine amidotransferase of anthranilate synthase or aminodeoxychorismate synthase,TIGRFAM,15.0,1-186
+OFBKKLGO_00081_folP,TIGR01496,TIGR01496,DHPS: dihydropteroate synthase,TIGRFAM,15.0,27-276
+OFBKKLGO_00082_folB,TIGR00526,TIGR00526,folB_dom: FolB domain,TIGRFAM,15.0,1-119
+OFBKKLGO_00082_folB,TIGR00525,TIGR00525,folB: dihydroneopterin aldolase,TIGRFAM,15.0,2-117
+OFBKKLGO_00083_sulD,TIGR01498,TIGR01498,folK: 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase,TIGRFAM,15.0,5-134
+OFBKKLGO_00085_dusB,TIGR00737,TIGR00737,"nifR3_yhdG: putative TIM-barrel protein, nifR3 family",TIGRFAM,15.0,4-322
+OFBKKLGO_00086_lysS,TIGR00499,TIGR00499,lysS_bact: lysine--tRNA ligase,TIGRFAM,15.0,10-498
+OFBKKLGO_00095_ispD,TIGR00453,TIGR00453,ispD: 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,TIGRFAM,15.0,5-223
+OFBKKLGO_00096_ispF,TIGR00151,TIGR00151,"ispF: 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",TIGRFAM,15.0,3-157
+OFBKKLGO_00097_gltX,TIGR00464,TIGR00464,gltX_bact: glutamate--tRNA ligase,TIGRFAM,15.0,4-481
+OFBKKLGO_00099_cysE,TIGR01172,TIGR01172,cysE: serine O-acetyltransferase,TIGRFAM,15.0,7-167
+OFBKKLGO_00100_cysS,TIGR00435,TIGR00435,cysS: cysteine--tRNA ligase,TIGRFAM,15.0,3-464
+OFBKKLGO_00102_group_5781,TIGR00186,TIGR00186,"rRNA_methyl_3: RNA methyltransferase, TrmH family, group 3",TIGRFAM,15.0,5-244
+OFBKKLGO_00104_sigH,TIGR02937,TIGR02937,"sigma70-ECF: RNA polymerase sigma factor, sigma-70 family",TIGRFAM,15.0,33-211
+OFBKKLGO_00104_sigH,TIGR02859,TIGR02859,spore_sigH: RNA polymerase sigma-H factor,TIGRFAM,15.0,16-212
+OFBKKLGO_00105_secE,TIGR00964,TIGR00964,"secE_bact: preprotein translocase, SecE subunit",TIGRFAM,15.0,3-58
+OFBKKLGO_00106_nusG_1,TIGR00922,TIGR00922,nusG: transcription termination/antitermination factor NusG,TIGRFAM,15.0,5-176
+OFBKKLGO_00107_rplK,TIGR01632,TIGR01632,L11_bact: ribosomal protein uL11,TIGRFAM,15.0,3-141
+OFBKKLGO_00108_rplA,TIGR01169,TIGR01169,rplA_bact: ribosomal protein uL1,TIGRFAM,15.0,3-228
+OFBKKLGO_00111_rplL,TIGR00855,TIGR00855,L12: ribosomal protein bL12,TIGRFAM,15.0,1-123
+OFBKKLGO_00113_rpoB,TIGR02013,TIGR02013,"rpoB: DNA-directed RNA polymerase, beta subunit",TIGRFAM,15.0,204-896
+OFBKKLGO_00114_rpoC,TIGR02386,TIGR02386,"rpoC_TIGR: DNA-directed RNA polymerase, beta' subunit",TIGRFAM,15.0,10-1181
+OFBKKLGO_00116_rpsL,TIGR00981,TIGR00981,rpsL_bact: ribosomal protein uS12,TIGRFAM,15.0,1-137
+OFBKKLGO_00117_rpsG,TIGR01029,TIGR01029,rpsG_bact: ribosomal protein uS7,TIGRFAM,15.0,3-156
+OFBKKLGO_00118_fusA,TIGR00484,TIGR00484,EF-G: translation elongation factor G,TIGRFAM,15.0,1-690
+OFBKKLGO_00118_fusA,TIGR00231,TIGR00231,small_GTP: small GTP-binding protein domain,TIGRFAM,15.0,9-181
+OFBKKLGO_00119_tuf,TIGR00231,TIGR00231,small_GTP: small GTP-binding protein domain,TIGRFAM,15.0,12-147
+OFBKKLGO_00119_tuf,TIGR00485,TIGR00485,EF-Tu: translation elongation factor Tu,TIGRFAM,15.0,1-395
+OFBKKLGO_00121_rpsJ,TIGR01049,TIGR01049,rpsJ_bact: ribosomal protein uS10,TIGRFAM,15.0,4-101
+OFBKKLGO_00122_rplC,TIGR03625,TIGR03625,L3_bact: 50S ribosomal protein uL3,TIGRFAM,15.0,4-203
+OFBKKLGO_00123_rplD,TIGR03953,TIGR03953,rplD_bact: 50S ribosomal protein uL4,TIGRFAM,15.0,17-204
+OFBKKLGO_00125_rplB,TIGR01171,TIGR01171,rplB_bact: ribosomal protein uL2,TIGRFAM,15.0,3-275
+OFBKKLGO_00126_rpsS,TIGR01050,TIGR01050,rpsS_bact: ribosomal protein uS19,TIGRFAM,15.0,1-92
+OFBKKLGO_00127_rplV,TIGR01044,TIGR01044,rplV_bact: ribosomal protein uL22,TIGRFAM,15.0,5-107
+OFBKKLGO_00128_rpsC,TIGR01009,TIGR01009,rpsC_bact: ribosomal protein uS3,TIGRFAM,15.0,1-208
+OFBKKLGO_00129_rplP,TIGR01164,TIGR01164,rplP_bact: ribosomal protein uL16,TIGRFAM,15.0,2-127
+OFBKKLGO_00130_rpmC,TIGR00012,TIGR00012,L29: ribosomal protein uL29,TIGRFAM,15.0,5-60
+OFBKKLGO_00131_rpsQ,TIGR03635,TIGR03635,uS17_bact: ribosomal protein uS17,TIGRFAM,15.0,7-78
+OFBKKLGO_00132_rplN,TIGR01067,TIGR01067,rplN_bact: ribosomal protein uL14,TIGRFAM,15.0,1-122
+OFBKKLGO_00133_rplX,TIGR01079,TIGR01079,rplX_bact: ribosomal protein uL24,TIGRFAM,15.0,1-100
+OFBKKLGO_00137_rplF,TIGR03654,TIGR03654,L6_bact: ribosomal protein uL6,TIGRFAM,15.0,2-177
+OFBKKLGO_00138_rplR,TIGR00060,TIGR00060,L18_bact: ribosomal protein uL18,TIGRFAM,15.0,7-120
+OFBKKLGO_00139_rpsE,TIGR01021,TIGR01021,rpsE_bact: ribosomal protein uS5,TIGRFAM,15.0,11-165
+OFBKKLGO_00140_rpmD,TIGR01308,TIGR01308,rpmD_bact: ribosomal protein uL30,TIGRFAM,15.0,4-58
+OFBKKLGO_00141_rplO,TIGR01071,TIGR01071,rplO_bact: ribosomal protein uL15,TIGRFAM,15.0,2-143
+OFBKKLGO_00142_secY,TIGR00967,TIGR00967,"3a0501s007: preprotein translocase, SecY subunit",TIGRFAM,15.0,15-425
+OFBKKLGO_00143_adk,TIGR01351,TIGR01351,adk: adenylate kinase,TIGRFAM,15.0,2-212
+OFBKKLGO_00144_map,TIGR00500,TIGR00500,"met_pdase_I: methionine aminopeptidase, type I",TIGRFAM,15.0,2-247
+OFBKKLGO_00145_infA,TIGR00008,TIGR00008,infA: translation initiation factor IF-1,TIGRFAM,15.0,3-71
+OFBKKLGO_00146_rpmJ,TIGR01022,TIGR01022,rpmJ_bact: ribosomal protein bL36,TIGRFAM,15.0,1-37
+OFBKKLGO_00147_rpsM,TIGR03631,TIGR03631,uS13_bact: ribosomal protein uS13,TIGRFAM,15.0,3-114
+OFBKKLGO_00148_rpsK,TIGR03632,TIGR03632,uS11_bact: ribosomal protein uS11,TIGRFAM,15.0,12-128
+OFBKKLGO_00149_rpoA,TIGR02027,TIGR02027,"rpoA: DNA-directed RNA polymerase, alpha subunit",TIGRFAM,15.0,21-313
+OFBKKLGO_00150_rplQ,TIGR00059,TIGR00059,L17: ribosomal protein bL17,TIGRFAM,15.0,2-120
+OFBKKLGO_00151_ecfA1,TIGR04520,TIGR04520,ECF_ATPase_1: energy-coupling factor transporter ATPase,TIGRFAM,15.0,7-275
+OFBKKLGO_00152_ecfA2,TIGR04521,TIGR04521,ECF_ATPase_2: energy-coupling factor transporter ATPase,TIGRFAM,15.0,3-280
+OFBKKLGO_00154_truA,TIGR00071,TIGR00071,hisT_truA: tRNA pseudouridine(38-40) synthase,TIGRFAM,15.0,3-240
+OFBKKLGO_00156_rplM,TIGR01066,TIGR01066,rplM_bact: ribosomal protein uL13,TIGRFAM,15.0,6-142
+OFBKKLGO_00161_cwlD,TIGR02883,TIGR02883,spore_cwlD: N-acetylmuramoyl-L-alanine amidase CwlD,TIGRFAM,15.0,41-228
+OFBKKLGO_00165_group_3395,TIGR02764,TIGR02764,spore_ybaN_pdaB: polysaccharide deacetylase family sporulation protein PdaB,TIGRFAM,15.0,53-243
+OFBKKLGO_00182_murQ,TIGR00274,TIGR00274,TIGR00274: N-acetylmuramic acid 6-phosphate etherase,TIGRFAM,15.0,10-300
+OFBKKLGO_00185_sigW,TIGR02937,TIGR02937,"sigma70-ECF: RNA polymerase sigma factor, sigma-70 family",TIGRFAM,15.0,19-184
+OFBKKLGO_00185_sigW,TIGR02948,TIGR02948,SigW_bacill: RNA polymerase sigma-W factor,TIGRFAM,15.0,1-187
+OFBKKLGO_00187_cdaA,TIGR00159,TIGR00159,TIGR00159: TIGR00159 family protein,TIGRFAM,15.0,3-256
+OFBKKLGO_00189_glmM,TIGR01455,TIGR01455,glmM: phosphoglucosamine mutase,TIGRFAM,15.0,5-442
+OFBKKLGO_00224_purT,TIGR01142,TIGR01142,purT: phosphoribosylglycinamide formyltransferase 2,TIGRFAM,15.0,6-383
+OFBKKLGO_00225_group_16181,TIGR00473,TIGR00473,pssA: CDP-diacylglycerol-serine O-phosphatidyltransferase,TIGRFAM,15.0,9-161
+OFBKKLGO_00227_psd,TIGR00163,TIGR00163,PS_decarb: phosphatidylserine decarboxylase,TIGRFAM,15.0,51-262
+OFBKKLGO_00231_ilvE,TIGR01123,TIGR01123,ilvE_II: branched-chain amino acid aminotransferase,TIGRFAM,15.0,43-355
+OFBKKLGO_00234_alsT_2,TIGR00835,TIGR00835,agcS: amino acid carrier protein,TIGRFAM,15.0,17-437
+OFBKKLGO_00235_glsA1,TIGR03814,TIGR03814,Gln_ase: glutaminase A,TIGRFAM,15.0,18-327
+OFBKKLGO_00250_tatAd,TIGR01411,TIGR01411,"tatAE: twin arginine-targeting protein translocase, TatA/E family",TIGRFAM,15.0,5-47
+OFBKKLGO_00251_tatC1,TIGR00945,TIGR00945,tatC: twin arginine-targeting protein translocase TatC,TIGRFAM,15.0,28-239
+OFBKKLGO_00252_pcp,TIGR00504,TIGR00504,pyro_pdase: pyroglutamyl-peptidase I,TIGRFAM,15.0,4-215
+OFBKKLGO_00254_emrY,TIGR00711,TIGR00711,"efflux_EmrB: drug resistance MFS transporter, drug:H+ antiporter-2 (14 Spanner) (DHA2) family",TIGRFAM,15.0,15-431
+OFBKKLGO_00271_group_1698,TIGR03558,TIGR03558,"oxido_grp_1: luciferase family oxidoreductase, group 1",TIGRFAM,15.0,4-328
+OFBKKLGO_00275_alx,TIGR03716,TIGR03716,"R_switched_YkoY: integral membrane protein, YkoY family",TIGRFAM,15.0,32-240
+OFBKKLGO_00280_opuAA,TIGR01186,TIGR01186,proV: glycine betaine/L-proline transport ATP binding subunit,TIGRFAM,15.0,41-396
+OFBKKLGO_00283_scmP_1,TIGR01891,TIGR01891,amidohydrolases: amidohydrolase,TIGRFAM,15.0,12-359
+OFBKKLGO_00287_ldh_2,TIGR01771,TIGR01771,L-LDH-NAD: L-lactate dehydrogenase,TIGRFAM,15.0,11-309
+OFBKKLGO_00294_nadE,TIGR00552,TIGR00552,nadE: NAD+ synthetase,TIGRFAM,15.0,17-272
+OFBKKLGO_00296_dgoT,TIGR00893,TIGR00893,2A0114: D-galactonate transporter,TIGRFAM,15.0,31-427
+OFBKKLGO_00301_putC,TIGR01237,TIGR01237,D1pyr5carbox2: putative delta-1-pyrroline-5-carboxylate dehydrogenase,TIGRFAM,15.0,5-515
+OFBKKLGO_00307_nasD,TIGR02374,TIGR02374,"nitri_red_nirB: nitrite reductase [NAD(P)H], large subunit",TIGRFAM,15.0,6-791
+OFBKKLGO_00316_hxlB,TIGR03127,TIGR03127,RuMP_HxlB: 6-phospho 3-hexuloisomerase,TIGRFAM,15.0,8-185
+OFBKKLGO_00327_tcyB,TIGR01726,TIGR01726,"HEQRo_perm_3TM: amino ABC transporter, permease protein, 3-TM region, His/Glu/Gln/Arg/opine family",TIGRFAM,15.0,25-122
+OFBKKLGO_00330_bsdB,TIGR00421,TIGR00421,ubiX_pad: polyprenyl P-hydroxybenzoate and phenylacrylic acid decarboxylases,TIGRFAM,15.0,2-182
+OFBKKLGO_00331_bsdC,TIGR00148,TIGR00148,"TIGR00148: decarboxylase, UbiD family",TIGRFAM,15.0,6-441
+OFBKKLGO_00334_dtpT,TIGR00924,TIGR00924,yjdL_sub1_fam: amino acid/peptide transporter (Peptide:H+ symporter),TIGRFAM,15.0,17-488
+OFBKKLGO_00338_gerBC_1,TIGR02887,TIGR02887,"spore_ger_x_C: germination protein, Ger(x)C family",TIGRFAM,15.0,5-397
+OFBKKLGO_00339_yndE_1,TIGR00912,TIGR00912,2A0309: spore germination protein (amino acid permease),TIGRFAM,15.0,5-363
+OFBKKLGO_00340_ntaA,TIGR03860,TIGR03860,"FMN_nitrolo: FMN-dependent oxidoreductase, nitrilotriacetate monooxygenase family",TIGRFAM,15.0,9-428
+OFBKKLGO_00343_yxeN,TIGR01726,TIGR01726,"HEQRo_perm_3TM: amino ABC transporter, permease protein, 3-TM region, His/Glu/Gln/Arg/opine family",TIGRFAM,15.0,13-113
+OFBKKLGO_00345_scmP_2,TIGR01891,TIGR01891,amidohydrolases: amidohydrolase,TIGRFAM,15.0,13-367
+OFBKKLGO_00354_yclM,TIGR00657,TIGR00657,asp_kinases: aspartate kinase,TIGRFAM,15.0,3-448
+OFBKKLGO_00359_farB,TIGR00711,TIGR00711,"efflux_EmrB: drug resistance MFS transporter, drug:H+ antiporter-2 (14 Spanner) (DHA2) family",TIGRFAM,15.0,17-423
+OFBKKLGO_00366_gabD,TIGR01780,TIGR01780,SSADH: succinate-semialdehyde dehydrogenase,TIGRFAM,15.0,7-456
+OFBKKLGO_00367_glcU,TIGR00776,TIGR00776,RhaT: RhaT L-rhamnose-proton symporter family protein,TIGRFAM,15.0,1-284
+OFBKKLGO_00373_mtlA,TIGR00851,TIGR00851,"mtlA: PTS system, mannitol-specific IIC component",TIGRFAM,15.0,12-350
+OFBKKLGO_00378_ycsE,TIGR01482,TIGR01482,SPP-subfamily: sucrose-phosphate phosphatase subfamily,TIGRFAM,15.0,13-244
+OFBKKLGO_00378_ycsE,TIGR01484,TIGR01484,"HAD-SF-IIB: HAD hydrolase, family IIB",TIGRFAM,15.0,12-217
+OFBKKLGO_00382_pxpB,TIGR00370,TIGR00370,"TIGR00370: sensor histidine kinase inhibitor, KipI family",TIGRFAM,15.0,16-228
+OFBKKLGO_00398_group_2684,TIGR03954,TIGR03954,integ_memb_HG: integral membrane protein,TIGRFAM,15.0,9-92
+OFBKKLGO_00400_topB,TIGR01056,TIGR01056,topB: DNA topoisomerase III,TIGRFAM,15.0,3-728
+OFBKKLGO_00417_mntH,TIGR01197,TIGR01197,"nramp: metal ion transporter, metal ion (Mn2+/Fe2+) transporter (Nramp) family",TIGRFAM,15.0,28-391
+OFBKKLGO_00427_dctP,TIGR00787,TIGR00787,"dctP: TRAP transporter solute receptor, DctP family",TIGRFAM,15.0,49-304
+OFBKKLGO_00438_mneS_1,TIGR01297,TIGR01297,CDF: cation diffusion facilitator family transporter,TIGRFAM,15.0,12-288
+OFBKKLGO_00440_ddl,TIGR01205,TIGR01205,D_ala_D_alaTIGR: D-alanine--D-alanine ligase,TIGRFAM,15.0,5-347
+OFBKKLGO_00441_murF,TIGR01143,TIGR01143,murF: UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,TIGRFAM,15.0,32-452
+OFBKKLGO_00448_alr,TIGR00492,TIGR00492,alr: alanine racemase,TIGRFAM,15.0,8-370
+OFBKKLGO_00455_rsbV,TIGR00377,TIGR00377,ant_ant_sig: anti-anti-sigma factor,TIGRFAM,15.0,1-105
+OFBKKLGO_00456_rsbW,TIGR01924,TIGR01924,rsbW_low_gc: anti-sigma B factor,TIGRFAM,15.0,1-159
+OFBKKLGO_00457_sigB,TIGR02941,TIGR02941,Sigma_B: RNA polymerase sigma-B factor,TIGRFAM,15.0,3-253
+OFBKKLGO_00457_sigB,TIGR02937,TIGR02937,"sigma70-ECF: RNA polymerase sigma factor, sigma-70 family",TIGRFAM,15.0,29-253
+OFBKKLGO_00457_sigB,TIGR02980,TIGR02980,"SigBFG: RNA polymerase sigma-70 factor, sigma-B/F/G subfamily",TIGRFAM,15.0,28-253
+OFBKKLGO_00516_bcr_1,TIGR00710,TIGR00710,"efflux_Bcr_CflA: drug resistance transporter, Bcr/CflA subfamily",TIGRFAM,15.0,9-394
+OFBKKLGO_00543_yhfP,TIGR02823,TIGR02823,"oxido_YhdH: putative quinone oxidoreductase, YhdH/YhfP family",TIGRFAM,15.0,6-330
+OFBKKLGO_00544_iolT,TIGR00879,TIGR00879,"SP: MFS transporter, sugar porter (SP) family",TIGRFAM,15.0,3-450
+OFBKKLGO_00549_tsaE,TIGR00150,TIGR00150,T6A_YjeE: tRNA threonylcarbamoyl adenosine modification protein YjeE,TIGRFAM,15.0,10-138
+OFBKKLGO_00550_tsaB,TIGR03725,TIGR03725,T6A_YeaZ: tRNA threonylcarbamoyl adenosine modification protein YeaZ,TIGRFAM,15.0,3-216
+OFBKKLGO_00551_rimI,TIGR01575,TIGR01575,rimI: ribosomal-protein-alanine acetyltransferase,TIGRFAM,15.0,14-145
+OFBKKLGO_00554_moaC,TIGR00581,TIGR00581,moaC: molybdenum cofactor biosynthesis protein C,TIGRFAM,15.0,4-154
+OFBKKLGO_00556_tatAy,TIGR01411,TIGR01411,"tatAE: twin arginine-targeting protein translocase, TatA/E family",TIGRFAM,15.0,1-45
+OFBKKLGO_00557_tatC2,TIGR00945,TIGR00945,tatC: twin arginine-targeting protein translocase TatC,TIGRFAM,15.0,8-223
+OFBKKLGO_00561_groL,TIGR02348,TIGR02348,GroEL: chaperonin GroL,TIGRFAM,15.0,2-524
+OFBKKLGO_00576_sigV_1,TIGR02937,TIGR02937,"sigma70-ECF: RNA polymerase sigma factor, sigma-70 family",TIGRFAM,15.0,14-158
+OFBKKLGO_00583_gabP,TIGR01773,TIGR01773,GABAperm: GABA permease,TIGRFAM,15.0,3-449
+OFBKKLGO_00588_guaA,TIGR00888,TIGR00888,"guaA_Nterm: GMP synthase (glutamine-hydrolyzing), N-terminal domain",TIGRFAM,15.0,12-198
+OFBKKLGO_00588_guaA,TIGR00884,TIGR00884,"guaA_Cterm: GMP synthase (glutamine-hydrolyzing), C-terminal domain",TIGRFAM,15.0,206-516
+OFBKKLGO_00589_sigV_2,TIGR02937,TIGR02937,"sigma70-ECF: RNA polymerase sigma factor, sigma-70 family",TIGRFAM,15.0,16-165
+OFBKKLGO_00598_purE,TIGR01162,TIGR01162,"purE: phosphoribosylaminoimidazole carboxylase, catalytic subunit",TIGRFAM,15.0,6-161
+OFBKKLGO_00599_purK,TIGR01161,TIGR01161,"purK: phosphoribosylaminoimidazole carboxylase, ATPase subunit",TIGRFAM,15.0,26-379
+OFBKKLGO_00600_purB,TIGR00928,TIGR00928,purB: adenylosuccinate lyase,TIGRFAM,15.0,1-428
+OFBKKLGO_00601_purC,TIGR00081,TIGR00081,purC: phosphoribosylaminoimidazolesuccinocarboxamide synthase,TIGRFAM,15.0,5-236
+OFBKKLGO_00602_purS,TIGR00302,TIGR00302,"TIGR00302: phosphoribosylformylglycinamidine synthase, purS protein",TIGRFAM,15.0,2-80
+OFBKKLGO_00603_purQ,TIGR01737,TIGR01737,FGAM_synth_I: phosphoribosylformylglycinamidine synthase I,TIGRFAM,15.0,1-218
+OFBKKLGO_00604_purL,TIGR01736,TIGR01736,FGAM_synth_II: phosphoribosylformylglycinamidine synthase II,TIGRFAM,15.0,24-737
+OFBKKLGO_00605_purF,TIGR01134,TIGR01134,purF: amidophosphoribosyltransferase,TIGRFAM,15.0,12-457
+OFBKKLGO_00606_purM,TIGR00878,TIGR00878,purM: phosphoribosylformylglycinamidine cyclo-ligase,TIGRFAM,15.0,4-334
+OFBKKLGO_00607_purN,TIGR00639,TIGR00639,PurN: phosphoribosylglycinamide formyltransferase,TIGRFAM,15.0,2-190
+OFBKKLGO_00608_purH,TIGR00355,TIGR00355,purH: phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,TIGRFAM,15.0,4-512
+OFBKKLGO_00609_purD,TIGR00877,TIGR00877,purD: phosphoribosylamine--glycine ligase,TIGRFAM,15.0,2-417
+OFBKKLGO_00615_group_16298,TIGR02531,TIGR02531,yecD_yerC: TrpR homolog YerC/YecD,TIGRFAM,15.0,7-94
+OFBKKLGO_00617_pcrB,TIGR01768,TIGR01768,GGGP-family: geranylgeranylglyceryl phosphate synthase family protein,TIGRFAM,15.0,9-223
+OFBKKLGO_00618_pcrA,TIGR01073,TIGR01073,pcrA: ATP-dependent DNA helicase PcrA,TIGRFAM,15.0,8-737
+OFBKKLGO_00619_ligA,TIGR00575,TIGR00575,"dnlj: DNA ligase, NAD-dependent",TIGRFAM,15.0,14-663
+OFBKKLGO_00623_opuE,TIGR02121,TIGR02121,Na_Pro_sym: sodium/proline symporter,TIGRFAM,15.0,4-488
+OFBKKLGO_00623_opuE,TIGR00813,TIGR00813,"sss: transporter, solute:sodium symporter (SSS) family",TIGRFAM,15.0,33-431
+OFBKKLGO_00624_gatC,TIGR00135,TIGR00135,"gatC: aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, C subunit",TIGRFAM,15.0,4-96
+OFBKKLGO_00625_gatA,TIGR00132,TIGR00132,"gatA: aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, A subunit",TIGRFAM,15.0,11-477
+OFBKKLGO_00626_gatB,TIGR00133,TIGR00133,"gatB: aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, B subunit",TIGRFAM,15.0,2-473
+OFBKKLGO_00629_dagK,TIGR00147,TIGR00147,"TIGR00147: lipid kinase, YegS/Rv2252/BmrU family",TIGRFAM,15.0,1-295
+OFBKKLGO_00630_rlmCD_1,TIGR00479,TIGR00479,rumA: 23S rRNA (uracil-5-)-methyltransferase RumA,TIGRFAM,15.0,20-450
+OFBKKLGO_00639_group_15986,TIGR01033,TIGR01033,"TIGR01033: DNA-binding regulatory protein, YebC/PmpR family",TIGRFAM,15.0,1-235
+OFBKKLGO_00660_rfbF,TIGR02623,TIGR02623,G1P_cyt_trans: glucose-1-phosphate cytidylyltransferase,TIGRFAM,15.0,1-254
+OFBKKLGO_00680_yflS,TIGR00785,TIGR00785,"dass: transporter, divalent anion:Na+ symporter (DASS) family",TIGRFAM,15.0,32-472
+OFBKKLGO_00692_citM,TIGR00784,TIGR00784,citMHS: citrate transporter,TIGRFAM,15.0,2-431
+OFBKKLGO_00700_mapB,TIGR00500,TIGR00500,"met_pdase_I: methionine aminopeptidase, type I",TIGRFAM,15.0,1-248
+OFBKKLGO_00701_nagP,TIGR01998,TIGR01998,"PTS-II-BC-nag: PTS system, N-acetylglucosamine-specific IIBC component",TIGRFAM,15.0,1-448
+OFBKKLGO_00701_nagP,TIGR00826,TIGR00826,"EIIB_glc: PTS system, glucose-like IIB component",TIGRFAM,15.0,351-437
+OFBKKLGO_00709_treA,TIGR02403,TIGR02403,"trehalose_treC: alpha,alpha-phosphotrehalase",TIGRFAM,15.0,8-557
+OFBKKLGO_00715_yfkM,TIGR01382,TIGR01382,"PfpI: intracellular protease, PfpI family",TIGRFAM,15.0,4-170
+OFBKKLGO_00717_aroE_2,TIGR00507,TIGR00507,aroE: shikimate dehydrogenase,TIGRFAM,15.0,14-292
+OFBKKLGO_00723_group_6665,TIGR00765,TIGR00765,yihY_not_rbn: YihY family inner membrane protein,TIGRFAM,15.0,2-264
+OFBKKLGO_00725_chaA,TIGR00378,TIGR00378,cax: calcium/proton exchanger,TIGRFAM,15.0,12-349
+OFBKKLGO_00725_chaA,TIGR00846,TIGR00846,caca2: calcium/proton exchanger,TIGRFAM,15.0,2-349
+OFBKKLGO_00728_group_3477,TIGR04478,TIGR04478,rSAM_YfkAB: radical SAM/CxCxxxxC motif protein YfkAB,TIGRFAM,15.0,9-371
+OFBKKLGO_00730_pdaA,TIGR02884,TIGR02884,spore_pdaA: delta-lactam-biosynthetic de-N-acetylase,TIGRFAM,15.0,30-253
+OFBKKLGO_00733_corA_2,TIGR00383,TIGR00383,corA: magnesium and cobalt transport protein CorA,TIGRFAM,15.0,4-315
+OFBKKLGO_00735_rlmCD_2,TIGR00479,TIGR00479,rumA: 23S rRNA (uracil-5-)-methyltransferase RumA,TIGRFAM,15.0,25-455
+OFBKKLGO_00754_sspH,TIGR02861,TIGR02861,"SASP_H: small acid-soluble spore protein, H-type",TIGRFAM,15.0,2-58
+OFBKKLGO_00757_malP,TIGR00852,TIGR00852,"pts-Glc: PTS system, maltose and glucose-specific subfamily, IIC component",TIGRFAM,15.0,59-357
+OFBKKLGO_00757_malP,TIGR00826,TIGR00826,"EIIB_glc: PTS system, glucose-like IIB component",TIGRFAM,15.0,408-506
+OFBKKLGO_00757_malP,TIGR02005,TIGR02005,"PTS-IIBC-alpha: PTS system, alpha-glucoside-specific IIBC component",TIGRFAM,15.0,2-502
+OFBKKLGO_00777_group_837,TIGR01777,TIGR01777,yfcH: TIGR01777 family protein,TIGRFAM,15.0,3-293
+OFBKKLGO_00790_mutY,TIGR01084,TIGR01084,mutY: A/G-specific adenine glycosylase,TIGRFAM,15.0,15-280
+OFBKKLGO_00793_group_1740,TIGR01442,TIGR01442,"SASP_gamma: small, acid-soluble spore protein, gamma-type",TIGRFAM,15.0,7-56
+OFBKKLGO_00798_hemL1,TIGR00713,TIGR00713,"hemL: glutamate-1-semialdehyde-2,1-aminomutase",TIGRFAM,15.0,4-425
+OFBKKLGO_00809_thiC,TIGR00190,TIGR00190,thiC: phosphomethylpyrimidine synthase,TIGRFAM,15.0,132-556
+OFBKKLGO_00820_ssuA,TIGR01728,TIGR01728,"SsuA_fam: ABC transporter, substrate-binding protein, aliphatic sulfonates family",TIGRFAM,15.0,33-319
+OFBKKLGO_00830_trmL,TIGR00185,TIGR00185,tRNA_yibK_trmL: tRNA (cytidine(34)-2'-O)-methyltransferase,TIGRFAM,15.0,2-156
+OFBKKLGO_00836_group_16002,TIGR02877,TIGR02877,spore_yhbH: sporulation protein YhbH,TIGRFAM,15.0,9-380
+OFBKKLGO_00839_emrB_2,TIGR00711,TIGR00711,"efflux_EmrB: drug resistance MFS transporter, drug:H+ antiporter-2 (14 Spanner) (DHA2) family",TIGRFAM,15.0,14-503
+OFBKKLGO_00859_rluD_1,TIGR00005,TIGR00005,"rluA_subfam: pseudouridine synthase, RluA family",TIGRFAM,15.0,15-299
+OFBKKLGO_00862_hxpB,TIGR01509,TIGR01509,"HAD-SF-IA-v3: HAD hydrolase, family IA, variant 3",TIGRFAM,15.0,58-184
+OFBKKLGO_00862_hxpB,TIGR01549,TIGR01549,"HAD-SF-IA-v1: HAD hydrolase, family IA, variant 1",TIGRFAM,15.0,77-178
+OFBKKLGO_00866_glpF,TIGR00861,TIGR00861,MIP: MIP family channel proteins,TIGRFAM,15.0,6-230
+OFBKKLGO_00867_glpK,TIGR01311,TIGR01311,glycerol_kin: glycerol kinase,TIGRFAM,15.0,4-493
+OFBKKLGO_00876_nsrR,TIGR00738,TIGR00738,rrf2_super: Rrf2 family protein,TIGRFAM,15.0,1-133
+OFBKKLGO_00888_sigM,TIGR02950,TIGR02950,"SigM_subfam: RNA polymerase sigma factor, SigM family",TIGRFAM,15.0,2-156
+OFBKKLGO_00888_sigM,TIGR02937,TIGR02937,"sigma70-ECF: RNA polymerase sigma factor, sigma-70 family",TIGRFAM,15.0,3-153
+OFBKKLGO_00889_plsC,TIGR00530,TIGR00530,AGP_acyltrn: 1-acylglycerol-3-phosphate O-acyltransferases,TIGRFAM,15.0,19-141
+OFBKKLGO_00902_dat,TIGR01121,TIGR01121,D_amino_aminoT: D-amino-acid transaminase,TIGRFAM,15.0,2-276
+OFBKKLGO_00916_yhaX,TIGR01484,TIGR01484,"HAD-SF-IIB: HAD hydrolase, family IIB",TIGRFAM,15.0,6-240
+OFBKKLGO_00916_yhaX,TIGR00099,TIGR00099,Cof-subfamily: Cof-like hydrolase,TIGRFAM,15.0,6-267
+OFBKKLGO_00917_hemZ,TIGR03994,TIGR03994,rSAM_HemZ: coproporphyrinogen dehydrogenase HemZ,TIGRFAM,15.0,88-490
+OFBKKLGO_00937_serC,TIGR01364,TIGR01364,serC_1: phosphoserine transaminase,TIGRFAM,15.0,5-357
+OFBKKLGO_00942_group_4533,TIGR01891,TIGR01891,amidohydrolases: amidohydrolase,TIGRFAM,15.0,21-382
+OFBKKLGO_00945_pbpF,TIGR02074,TIGR02074,"PBP_1a_fam: penicillin-binding protein, 1A family",TIGRFAM,15.0,65-597
+OFBKKLGO_00947_hemH,TIGR00109,TIGR00109,hemH: ferrochelatase,TIGRFAM,15.0,3-309
+OFBKKLGO_00948_hemY,TIGR00562,TIGR00562,proto_IX_ox: protoporphyrinogen oxidase,TIGRFAM,15.0,5-469
+OFBKKLGO_00950_smc_1,TIGR03062,TIGR03062,pip_yhgE_Cterm: YhgE/Pip C-terminal domain,TIGRFAM,15.0,562-764
+OFBKKLGO_00950_smc_1,TIGR03057,TIGR03057,xxxLxxG_by_4: X-X-X-Leu-X-X-Gly heptad repeats,TIGRFAM,15.0,468-494
+OFBKKLGO_00950_smc_1,TIGR03061,TIGR03061,pip_yhgE_Nterm: YhgE/Pip N-terminal domain,TIGRFAM,15.0,7-170
+OFBKKLGO_00951_fabHB,TIGR00747,TIGR00747,fabH: 3-oxoacyl-[acyl-carrier-protein] synthase III,TIGRFAM,15.0,3-323
+OFBKKLGO_00956_lplJ,TIGR00545,TIGR00545,lipoyltrans: lipoyltransferase and lipoate-protein ligase,TIGRFAM,15.0,2-323
+OFBKKLGO_00964_yhfS,TIGR01930,TIGR01930,AcCoA-C-Actrans: acetyl-CoA C-acyltransferase,TIGRFAM,15.0,5-360
+OFBKKLGO_00981_sipV,TIGR02227,TIGR02227,sigpep_I_bact: signal peptidase I,TIGRFAM,15.0,9-165
+OFBKKLGO_00984_group_3519,TIGR03082,TIGR03082,Gneg_AbrB_dup: membrane protein AbrB duplication,TIGRFAM,15.0,206-365;11-172
+OFBKKLGO_00989_addB,TIGR02773,TIGR02773,"addB_Gpos: helicase-exonuclease AddAB, AddB subunit",TIGRFAM,15.0,2-1163
+OFBKKLGO_00990_addA,TIGR02785,TIGR02785,"addA_Gpos: helicase-exonuclease AddAB, AddA subunit",TIGRFAM,15.0,11-1233
+OFBKKLGO_00991_cpdA_1,TIGR00619,TIGR00619,"sbcd: exonuclease SbcCD, D subunit",TIGRFAM,15.0,1-252
+OFBKKLGO_01005_asnO,TIGR01536,TIGR01536,asn_synth_AEB: asparagine synthase (glutamine-hydrolyzing),TIGRFAM,15.0,2-532
+OFBKKLGO_01007_yeeO,TIGR00797,TIGR00797,matE: MATE efflux family protein,TIGRFAM,15.0,37-436
+OFBKKLGO_01024_group_1434,TIGR00762,TIGR00762,"DegV: EDD domain protein, DegV family",TIGRFAM,15.0,4-280
+OFBKKLGO_01029_yitU,TIGR00099,TIGR00099,Cof-subfamily: Cof-like hydrolase,TIGRFAM,15.0,7-264
+OFBKKLGO_01029_yitU,TIGR01484,TIGR01484,"HAD-SF-IIB: HAD hydrolase, family IIB",TIGRFAM,15.0,7-237
+OFBKKLGO_01035_punA,TIGR01700,TIGR01700,"PNPH: purine nucleoside phosphorylase I, inosine and guanosine-specific",TIGRFAM,15.0,21-268
+OFBKKLGO_01035_punA,TIGR01697,TIGR01697,PNPH-PUNA-XAPA: inosine/guanosine/xanthosine phosphorylase family,TIGRFAM,15.0,21-267
+OFBKKLGO_01037_spoIIAA,TIGR02886,TIGR02886,spore_II_AA: anti-sigma F factor antagonist,TIGRFAM,15.0,5-110
+OFBKKLGO_01037_spoIIAA,TIGR00377,TIGR00377,ant_ant_sig: anti-anti-sigma factor,TIGRFAM,15.0,1-106
+OFBKKLGO_01038_spoIIAB,TIGR01925,TIGR01925,spIIAB: anti-sigma F factor,TIGRFAM,15.0,1-137
+OFBKKLGO_01039_sigF,TIGR02885,TIGR02885,spore_sigF: RNA polymerase sigma-F factor,TIGRFAM,15.0,22-249
+OFBKKLGO_01039_sigF,TIGR02980,TIGR02980,"SigBFG: RNA polymerase sigma-70 factor, sigma-B/F/G subfamily",TIGRFAM,15.0,30-250
+OFBKKLGO_01039_sigF,TIGR02937,TIGR02937,"sigma70-ECF: RNA polymerase sigma factor, sigma-70 family",TIGRFAM,15.0,33-250
+OFBKKLGO_01042_group_16180,TIGR02838,TIGR02838,spore_V_AC: stage V sporulation protein AC,TIGRFAM,15.0,7-143
+OFBKKLGO_01043_spoVAD,TIGR02845,TIGR02845,spore_V_AD: stage V sporulation protein AD,TIGRFAM,15.0,6-332
+OFBKKLGO_01044_group_5946,TIGR02839,TIGR02839,spore_V_AE: stage V sporulation protein AE,TIGRFAM,15.0,3-116
+OFBKKLGO_01051_sipS,TIGR02227,TIGR02227,sigpep_I_bact: signal peptidase I,TIGRFAM,15.0,17-180
+OFBKKLGO_01054_ribD,TIGR00326,TIGR00326,eubact_ribD: riboflavin biosynthesis protein RibD,TIGRFAM,15.0,6-355
+OFBKKLGO_01054_ribD,TIGR00227,TIGR00227,ribD_Cterm: riboflavin-specific deaminase C-terminal domain,TIGRFAM,15.0,145-356
+OFBKKLGO_01055_ribE,TIGR00187,TIGR00187,"ribE: riboflavin synthase, alpha subunit",TIGRFAM,15.0,1-201
+OFBKKLGO_01056_ribBA,TIGR00505,TIGR00505,ribA: GTP cyclohydrolase II,TIGRFAM,15.0,207-396
+OFBKKLGO_01056_ribBA,TIGR00506,TIGR00506,"ribB: 3,4-dihydroxy-2-butanone-4-phosphate synthase",TIGRFAM,15.0,1-197
+OFBKKLGO_01057_ribH,TIGR00114,TIGR00114,"lumazine-synth: 6,7-dimethyl-8-ribityllumazine synthase",TIGRFAM,15.0,13-149
+OFBKKLGO_01060_group_5952,TIGR01732,TIGR01732,tiny_TM_bacill: conserved hypothetical protein,TIGRFAM,15.0,3-28
+OFBKKLGO_01062_scpB,TIGR00281,TIGR00281,TIGR00281: segregation and condensation protein B,TIGRFAM,15.0,7-195
+OFBKKLGO_01067_rluB,TIGR00093,TIGR00093,TIGR00093: pseudouridine synthase,TIGRFAM,15.0,66-226
+OFBKKLGO_01070_ccsA_1,TIGR03144,TIGR03144,cytochr_II_ccsB: cytochrome c-type biogenesis protein CcsB,TIGRFAM,15.0,48-391
+OFBKKLGO_01073_sigX,TIGR02937,TIGR02937,"sigma70-ECF: RNA polymerase sigma factor, sigma-70 family",TIGRFAM,15.0,5-165
+OFBKKLGO_01075_serA,TIGR01327,TIGR01327,PGDH: phosphoglycerate dehydrogenase,TIGRFAM,15.0,3-524
+OFBKKLGO_01080_dbpA_2,TIGR00614,TIGR00614,"recQ_fam: ATP-dependent DNA helicase, RecQ family",TIGRFAM,15.0,2-313
+OFBKKLGO_01090_sleB,TIGR02869,TIGR02869,spore_SleB: spore cortex-lytic enzyme,TIGRFAM,15.0,28-288
+OFBKKLGO_01091_ypeB,TIGR02889,TIGR02889,spore_YpeB: germination protein YpeB,TIGRFAM,15.0,3-439
+OFBKKLGO_01094_cmk,TIGR00017,TIGR00017,cmk: cytidylate kinase,TIGRFAM,15.0,4-217
+OFBKKLGO_01096_fni,TIGR02151,TIGR02151,"IPP_isom_2: isopentenyl-diphosphate delta-isomerase, type 2",TIGRFAM,15.0,5-329
+OFBKKLGO_01099_der_2,TIGR00231,TIGR00231,small_GTP: small GTP-binding protein domain,TIGRFAM,15.0,3-125;180-324
+OFBKKLGO_01099_der_2,TIGR03594,TIGR03594,GTPase_EngA: ribosome-associated GTPase EngA,TIGRFAM,15.0,4-432
+OFBKKLGO_01104_spoIVA,TIGR02836,TIGR02836,spore_IV_A: stage IV sporulation protein A,TIGRFAM,15.0,1-492
+OFBKKLGO_01106_folE,TIGR00063,TIGR00063,folE: GTP cyclohydrolase I,TIGRFAM,15.0,9-188
+OFBKKLGO_01109_menG,TIGR02752,TIGR02752,MenG_heptapren: demethylmenaquinone methyltransferase,TIGRFAM,15.0,3-233
+OFBKKLGO_01109_menG,TIGR01934,TIGR01934,MenG_MenH_UbiE: ubiquinone/menaquinone biosynthesis methyltransferase,TIGRFAM,15.0,9-233
+OFBKKLGO_01110_hepT,TIGR02748,TIGR02748,GerC3_HepT: heptaprenyl diphosphate synthase component II,TIGRFAM,15.0,31-349
+OFBKKLGO_01113_aroC,TIGR00033,TIGR00033,aroC: chorismate synthase,TIGRFAM,15.0,1-369
+OFBKKLGO_01114_aroB,TIGR01357,TIGR01357,aroB: 3-dehydroquinate synthase,TIGRFAM,15.0,13-348
+OFBKKLGO_01115_aroH,TIGR01796,TIGR01796,CM_mono_aroH: chorismate mutase,TIGRFAM,15.0,3-119
+OFBKKLGO_01117_trpE,TIGR00564,TIGR00564,trpE_most: anthranilate synthase component I,TIGRFAM,15.0,29-492
+OFBKKLGO_01121_trpB,TIGR00263,TIGR00263,"trpB: tryptophan synthase, beta subunit",TIGRFAM,15.0,9-390
+OFBKKLGO_01122_trpA,TIGR00262,TIGR00262,"trpA: tryptophan synthase, alpha subunit",TIGRFAM,15.0,6-258
+OFBKKLGO_01123_hisC_2,TIGR01141,TIGR01141,hisC: histidinol-phosphate transaminase,TIGRFAM,15.0,5-359
+OFBKKLGO_01125_aroA1,TIGR01356,TIGR01356,aroA: 3-phosphoshikimate 1-carboxyvinyltransferase,TIGRFAM,15.0,11-426
+OFBKKLGO_01133_group_5970,TIGR02878,TIGR02878,spore_ypjB: sporulation protein YpjB,TIGRFAM,15.0,28-254
+OFBKKLGO_01134_oxdC_1,TIGR03404,TIGR03404,"bicupin_oxalic: bicupin, oxalate decarboxylase family",TIGRFAM,15.0,20-385
+OFBKKLGO_01137_dapB,TIGR00036,TIGR00036,dapB: 4-hydroxy-tetrahydrodipicolinate reductase,TIGRFAM,15.0,5-267
+OFBKKLGO_01138_mgsA,TIGR00160,TIGR00160,MGSA: methylglyoxal synthase,TIGRFAM,15.0,1-119
+OFBKKLGO_01139_bshB1_1,TIGR04001,TIGR04001,thiol_BshB1: bacillithiol biosynthesis deacetylase BshB1,TIGRFAM,15.0,5-225
+OFBKKLGO_01140_bshA,TIGR03999,TIGR03999,thiol_BshA: N-acetyl-alpha-D-glucosaminyl L-malate synthase BshA,TIGRFAM,15.0,4-373
+OFBKKLGO_01142_birA,TIGR00122,TIGR00122,birA_repr_reg: biotin operon repressor,TIGRFAM,15.0,9-77
+OFBKKLGO_01142_birA,TIGR00121,TIGR00121,birA_ligase: biotin--[acetyl-CoA-carboxylase] ligase,TIGRFAM,15.0,87-324
+OFBKKLGO_01144_panB,TIGR00222,TIGR00222,panB: 3-methyl-2-oxobutanoate hydroxymethyltransferase,TIGRFAM,15.0,1-264
+OFBKKLGO_01146_panD,TIGR00223,TIGR00223,panD: aspartate 1-decarboxylase,TIGRFAM,15.0,1-126
+OFBKKLGO_01147_dinG,TIGR01407,TIGR01407,dinG_rel: putative DnaQ family exonuclease/DinG family helicase,TIGRFAM,15.0,5-910
+OFBKKLGO_01147_dinG,TIGR00573,TIGR00573,"dnaq: exonuclease, DNA polymerase III, epsilon subunit family",TIGRFAM,15.0,2-172
+OFBKKLGO_01151_asnS,TIGR00457,TIGR00457,asnS: asparagine--tRNA ligase,TIGRFAM,15.0,2-429
+OFBKKLGO_01152_dnaD,TIGR01446,TIGR01446,DnaD_dom: DnaD domain protein,TIGRFAM,15.0,129-201
+OFBKKLGO_01153_nth,TIGR01083,TIGR01083,nth: endonuclease III,TIGRFAM,15.0,5-196
+OFBKKLGO_01156_recU,TIGR00648,TIGR00648,recU: recombination protein U,TIGRFAM,15.0,30-196
+OFBKKLGO_01164_crr,TIGR00830,TIGR00830,"PTBA: PTS system, glucose subfamily, IIA component",TIGRFAM,15.0,20-140
+OFBKKLGO_01170_gpsB,TIGR03544,TIGR03544,DivI1A_domain: DivIVA domain,TIGRFAM,15.0,8-41
+OFBKKLGO_01179_xpt,TIGR01744,TIGR01744,XPRTase: xanthine phosphoribosyltransferase,TIGRFAM,15.0,2-191
+OFBKKLGO_01388_sspL,TIGR03093,TIGR03093,"SASP_sspL: small, acid-soluble spore protein L",TIGRFAM,15.0,6-41
+OFBKKLGO_01390_group_16277,TIGR00697,TIGR00697,TIGR00697: conserved hypothetical integral membrane protein,TIGRFAM,15.0,26-223
+OFBKKLGO_01397_metAA,TIGR01001,TIGR01001,metA: homoserine O-succinyltransferase,TIGRFAM,15.0,2-300
+OFBKKLGO_01403_group_6022,TIGR04191,TIGR04191,"YphP_YqiW: putative bacilliredoxin, YphP/YqiW family",TIGRFAM,15.0,8-144
+OFBKKLGO_01406_thyA2,TIGR03284,TIGR03284,thym_sym: thymidylate synthase,TIGRFAM,15.0,84-264;2-85
+OFBKKLGO_01409_group_3569,TIGR01065,TIGR01065,"hlyIII: channel protein, hemolysin III family",TIGRFAM,15.0,6-206
+OFBKKLGO_01411_ilvA,TIGR02079,TIGR02079,THD1: threonine dehydratase,TIGRFAM,15.0,14-422
+OFBKKLGO_01438_scoB_2,TIGR02428,TIGR02428,"pcaJ_scoB_fam: 3-oxoacid CoA-transferase, B subunit",TIGRFAM,15.0,7-211
+OFBKKLGO_01439_ylmB_2,TIGR01910,TIGR01910,"DapE-ArgE: peptidase, ArgE/DapE family",TIGRFAM,15.0,20-409
+OFBKKLGO_01441_kamA,TIGR03820,TIGR03820,"lys_2_3_AblA: lysine-2,3-aminomutase",TIGRFAM,15.0,23-427
+OFBKKLGO_01441_kamA,TIGR00238,TIGR00238,TIGR00238: KamA family protein,TIGRFAM,15.0,13-342
+OFBKKLGO_01442_group_1236,TIGR03831,TIGR03831,YgiT_finger: YgiT-type zinc finger domain,TIGRFAM,15.0,4-50
+OFBKKLGO_01442_group_1236,TIGR03829,TIGR03829,"YokU_near_AblA: uncharacterized protein, YokU family",TIGRFAM,15.0,4-91
+OFBKKLGO_01451_deoD,TIGR00107,TIGR00107,deoD: purine nucleoside phosphorylase,TIGRFAM,15.0,4-232
+OFBKKLGO_01455_ctpA,TIGR00225,TIGR00225,prc: C-terminal processing peptidase,TIGRFAM,15.0,55-380
+OFBKKLGO_01471_bshB2,TIGR04000,TIGR04000,thiol_BshB2: bacillithiol biosynthesis deacetylase BshB2,TIGRFAM,15.0,3-219
+OFBKKLGO_01473_norM,TIGR00797,TIGR00797,matE: MATE efflux family protein,TIGRFAM,15.0,20-421
+OFBKKLGO_01475_oleD_2,TIGR01426,TIGR01426,"MGT: glycosyltransferase, MGT family",TIGRFAM,15.0,8-393
+OFBKKLGO_01480_odhA,TIGR00239,TIGR00239,"2oxo_dh_E1: oxoglutarate dehydrogenase (succinyl-transferring), E1 component",TIGRFAM,15.0,16-939
+OFBKKLGO_01481_odhB,TIGR01347,TIGR01347,"sucB: dihydrolipoyllysine-residue succinyltransferase, E2 component of oxoglutarate dehydrogenase (succinyl-transferring) complex",TIGRFAM,15.0,3-414
+OFBKKLGO_01483_panS,TIGR00841,TIGR00841,bass: bile acid transporter,TIGRFAM,15.0,8-307
+OFBKKLGO_01499_recQ,TIGR01389,TIGR01389,recQ: ATP-dependent DNA helicase RecQ,TIGRFAM,15.0,6-587
+OFBKKLGO_01499_recQ,TIGR00614,TIGR00614,"recQ_fam: ATP-dependent DNA helicase, RecQ family",TIGRFAM,15.0,8-458
+OFBKKLGO_01512_csaA,TIGR02222,TIGR02222,chap_CsaA: export-related chaperone protein CsaA,TIGRFAM,15.0,5-109
+OFBKKLGO_01530_proC_1,TIGR00112,TIGR00112,proC: pyrroline-5-carboxylate reductase,TIGRFAM,15.0,1-254
+OFBKKLGO_01531_proB_2,TIGR01027,TIGR01027,proB: glutamate 5-kinase,TIGRFAM,15.0,8-355
+OFBKKLGO_01534_gltB,TIGR01317,TIGR01317,"GOGAT_sm_gam: glutamate synthase, NADH/NADPH, small subunit",TIGRFAM,15.0,3-493
+OFBKKLGO_01542_group_4639,TIGR01764,TIGR01764,"excise: DNA binding domain, excisionase family",TIGRFAM,15.0,2-50
+OFBKKLGO_01545_mepA,TIGR00797,TIGR00797,matE: MATE efflux family protein,TIGRFAM,15.0,27-430
+OFBKKLGO_01563_bioK,TIGR00508,TIGR00508,bioA: adenosylmethionine-8-amino-7-oxononanoate transaminase,TIGRFAM,15.0,13-440
+OFBKKLGO_01566_bioB,TIGR00433,TIGR00433,bioB: biotin synthase,TIGRFAM,15.0,27-320
+OFBKKLGO_01583_alsT_1,TIGR00835,TIGR00835,agcS: amino acid carrier protein,TIGRFAM,15.0,17-432
+OFBKKLGO_01586_parC,TIGR01061,TIGR01061,"parC_Gpos: DNA topoisomerase IV, A subunit",TIGRFAM,15.0,7-744
+OFBKKLGO_01586_parC,TIGR01063,TIGR01063,"gyrA: DNA gyrase, A subunit",TIGRFAM,15.0,12-793
+OFBKKLGO_01587_parE,TIGR01058,TIGR01058,"parE_Gpos: DNA topoisomerase IV, B subunit",TIGRFAM,15.0,8-643
+OFBKKLGO_01589_plsY,TIGR00023,TIGR00023,TIGR00023: acyl-phosphate glycerol 3-phosphate acyltransferase,TIGRFAM,15.0,1-192
+OFBKKLGO_01592_group_4649,TIGR00051,TIGR00051,"TIGR00051: acyl-CoA thioester hydrolase, YbgC/YbaW family",TIGRFAM,15.0,9-123
+OFBKKLGO_01593_tlp,TIGR03090,TIGR03090,"SASP_tlp: small, acid-soluble spore protein tlp",TIGRFAM,15.0,8-74
+OFBKKLGO_01596_citB,TIGR01341,TIGR01341,aconitase_1: aconitate hydratase 1,TIGRFAM,15.0,24-906
+OFBKKLGO_01597_sspO,TIGR02864,TIGR02864,"spore_sspO: small, acid-soluble spore protein O",TIGRFAM,15.0,1-48
+OFBKKLGO_01607_tkt,TIGR00232,TIGR00232,tktlase_bact: transketolase,TIGRFAM,15.0,6-666
+OFBKKLGO_01611_lexA,TIGR00498,TIGR00498,lexA: repressor LexA,TIGRFAM,15.0,1-205
+OFBKKLGO_01624_group_3606,TIGR01732,TIGR01732,tiny_TM_bacill: conserved hypothetical protein,TIGRFAM,15.0,2-26
+OFBKKLGO_01657_glnA,TIGR00653,TIGR00653,"GlnA: glutamine synthetase, type I",TIGRFAM,15.0,7-441
+OFBKKLGO_01660_hflX,TIGR03156,TIGR03156,GTP_HflX: GTP-binding protein HflX,TIGRFAM,15.0,11-358
+OFBKKLGO_01665_nrdF,TIGR04171,TIGR04171,"RNR_1b_NrdF: ribonucleoside-diphosphate reductase, class 1b, beta subunit",TIGRFAM,15.0,5-322
+OFBKKLGO_01666_nrdE,TIGR04170,TIGR04170,"RNR_1b_NrdE: ribonucleoside-diphosphate reductase, class 1b, alpha subunit",TIGRFAM,15.0,8-700
+OFBKKLGO_01666_nrdE,TIGR02506,TIGR02506,"NrdE_NrdA: ribonucleoside-diphosphate reductase, alpha subunit",TIGRFAM,15.0,95-688
+OFBKKLGO_01670_hfq,TIGR02383,TIGR02383,Hfq: RNA chaperone Hfq,TIGRFAM,15.0,5-64
+OFBKKLGO_01671_miaA,TIGR00174,TIGR00174,miaA: tRNA dimethylallyltransferase,TIGRFAM,15.0,8-293
+OFBKKLGO_01676_group_4659,TIGR03563,TIGR03563,"perox_SACOL1771: peroxiredoxin, SACOL1771 subfamily",TIGRFAM,15.0,4-141
+OFBKKLGO_01696_baeC,TIGR00128,TIGR00128,fabD: malonyl CoA-acyl carrier protein transacylase,TIGRFAM,15.0,1-282
+OFBKKLGO_01698_mutL,TIGR00585,TIGR00585,mutl: DNA mismatch repair protein MutL,TIGRFAM,15.0,3-306
+OFBKKLGO_01699_mutS,TIGR01070,TIGR01070,mutS1: DNA mismatch repair protein MutS,TIGRFAM,15.0,5-859
+OFBKKLGO_01702_miaB,TIGR00089,TIGR00089,"TIGR00089: radical SAM methylthiotransferase, MiaB/RimO family",TIGRFAM,15.0,67-499
+OFBKKLGO_01702_miaB,TIGR01574,TIGR01574,miaB-methiolase: tRNA-i(6)A37 thiotransferase enzyme MiaB,TIGRFAM,15.0,67-501
+OFBKKLGO_01703_group_6081,TIGR00858,TIGR00858,bioF: 8-amino-7-oxononanoate synthase,TIGRFAM,15.0,22-381
+OFBKKLGO_01703_group_6081,TIGR01825,TIGR01825,gly_Cac_T_rel: putative pyridoxal phosphate-dependent acyltransferase,TIGRFAM,15.0,7-391
+OFBKKLGO_01704_tdh_1,TIGR00692,TIGR00692,tdh: L-threonine 3-dehydrogenase,TIGRFAM,15.0,8-347
+OFBKKLGO_01706_ymdB,TIGR00282,TIGR00282,"TIGR00282: metallophosphoesterase, MG_246/BB_0505 family",TIGRFAM,15.0,1-264
+OFBKKLGO_01707_rny,TIGR00277,TIGR00277,HDIG: HDIG domain,TIGRFAM,15.0,331-408
+OFBKKLGO_01707_rny,TIGR03319,TIGR03319,RNase_Y: ribonuclease Y,TIGRFAM,15.0,7-519
+OFBKKLGO_01709_recA,TIGR02012,TIGR02012,tigrfam_recA: protein RecA,TIGRFAM,15.0,3-323
+OFBKKLGO_01710_cinA,TIGR00199,TIGR00199,"PncC_domain: amidohydrolase, PncC family",TIGRFAM,15.0,267-413
+OFBKKLGO_01710_cinA,TIGR00177,TIGR00177,molyb_syn: molybdenum cofactor synthesis domain,TIGRFAM,15.0,6-169
+OFBKKLGO_01710_cinA,TIGR00200,TIGR00200,cinA_nterm: competence/damage-inducible protein CinA N-terminal domain,TIGRFAM,15.0,5-416
+OFBKKLGO_01711_pgsA,TIGR00560,TIGR00560,pgsA: CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,TIGRFAM,15.0,2-191
+OFBKKLGO_01725_rnjB,TIGR00649,TIGR00649,"MG423: beta-CASP ribonuclease, RNase J family",TIGRFAM,15.0,20-564
+OFBKKLGO_01726_dapA_2,TIGR00674,TIGR00674,dapA: 4-hydroxy-tetrahydrodipicolinate synthase,TIGRFAM,15.0,6-288
+OFBKKLGO_01727_lysC_1,TIGR00656,TIGR00656,"asp_kin_monofn: aspartate kinase, monofunctional class",TIGRFAM,15.0,2-403
+OFBKKLGO_01727_lysC_1,TIGR00657,TIGR00657,asp_kinases: aspartate kinase,TIGRFAM,15.0,67-401
+OFBKKLGO_01728_asd,TIGR01296,TIGR01296,asd_B: aspartate-semialdehyde dehydrogenase,TIGRFAM,15.0,6-342
+OFBKKLGO_01729_dpaB,TIGR02852,TIGR02852,"spore_dpaB: dipicolinic acid synthetase, B subunit",TIGRFAM,15.0,6-192
+OFBKKLGO_01730_dpaA,TIGR02853,TIGR02853,"spore_dpaA: dipicolinic acid synthetase, A subunit",TIGRFAM,15.0,5-289
+OFBKKLGO_01731_group_16156,TIGR02888,TIGR02888,"spore_YlmC_YmxH: sporulation protein, YlmC/YmxH family",TIGRFAM,15.0,2-76
+OFBKKLGO_01733_group_4667,TIGR02873,TIGR02873,"spore_ylxY: probable sporulation protein, polysaccharide deacetylase family",TIGRFAM,15.0,46-313
+OFBKKLGO_01734_pnp_2,TIGR03591,TIGR03591,polynuc_phos: polyribonucleotide nucleotidyltransferase,TIGRFAM,15.0,12-693
+OFBKKLGO_01735_rpsO,TIGR00952,TIGR00952,S15_bact: ribosomal protein uS15,TIGRFAM,15.0,4-89
+OFBKKLGO_01736_ribF,TIGR00125,TIGR00125,cyt_tran_rel: cytidyltransferase-like domain,TIGRFAM,15.0,21-86
+OFBKKLGO_01736_ribF,TIGR00083,TIGR00083,ribF: riboflavin biosynthesis protein RibF,TIGRFAM,15.0,21-312
+OFBKKLGO_01737_truB,TIGR00431,TIGR00431,TruB: tRNA pseudouridine(55) synthase,TIGRFAM,15.0,2-217
+OFBKKLGO_01738_rbfA,TIGR00082,TIGR00082,rbfA: ribosome-binding factor A,TIGRFAM,15.0,3-112
+OFBKKLGO_01740_infB,TIGR00231,TIGR00231,small_GTP: small GTP-binding protein domain,TIGRFAM,15.0,221-377
+OFBKKLGO_01740_infB,TIGR00487,TIGR00487,IF-2: translation initiation factor IF-2,TIGRFAM,15.0,134-716
+OFBKKLGO_01743_nusA,TIGR01953,TIGR01953,NusA: transcription termination factor NusA,TIGRFAM,15.0,5-341
+OFBKKLGO_01747_rasP,TIGR00054,TIGR00054,TIGR00054: RIP metalloprotease RseP,TIGRFAM,15.0,2-419
+OFBKKLGO_01748_dxr,TIGR00243,TIGR00243,Dxr: 1-deoxy-D-xylulose 5-phosphate reductoisomerase,TIGRFAM,15.0,1-378
+OFBKKLGO_01750_uppS,TIGR00055,TIGR00055,"uppS: di-trans,poly-cis-decaprenylcistransferase",TIGRFAM,15.0,31-258
+OFBKKLGO_01751_frr,TIGR00496,TIGR00496,frr: ribosome recycling factor,TIGRFAM,15.0,10-185
+OFBKKLGO_01752_pyrH,TIGR02075,TIGR02075,pyrH_bact: UMP kinase,TIGRFAM,15.0,6-237
+OFBKKLGO_01753_tsf,TIGR00116,TIGR00116,tsf: translation elongation factor Ts,TIGRFAM,15.0,1-293
+OFBKKLGO_01754_rpsB,TIGR01011,TIGR01011,rpsB_bact: ribosomal protein uS2,TIGRFAM,15.0,3-226
+OFBKKLGO_01756_sigD,TIGR02479,TIGR02479,"FliA_WhiG: RNA polymerase sigma factor, FliA/WhiG family",TIGRFAM,15.0,27-249
+OFBKKLGO_01756_sigD,TIGR02937,TIGR02937,"sigma70-ECF: RNA polymerase sigma factor, sigma-70 family",TIGRFAM,15.0,25-248
+OFBKKLGO_01764_flhA,TIGR01398,TIGR01398,FlhA: flagellar biosynthesis protein FlhA,TIGRFAM,15.0,4-675
+OFBKKLGO_01765_flhB_2,TIGR00328,TIGR00328,flhB: flagellar biosynthetic protein FlhB,TIGRFAM,15.0,14-359
+OFBKKLGO_01766_fliR,TIGR01400,TIGR01400,fliR: flagellar biosynthetic protein FliR,TIGRFAM,15.0,10-253
+OFBKKLGO_01767_fliQ,TIGR01402,TIGR01402,fliQ: flagellar biosynthetic protein FliQ,TIGRFAM,15.0,3-87
+OFBKKLGO_01768_fliP,TIGR01103,TIGR01103,fliP: flagellar biosynthetic protein FliP,TIGRFAM,15.0,25-221
+OFBKKLGO_01772_fliM,TIGR01397,TIGR01397,fliM_switch: flagellar motor switch protein FliM,TIGRFAM,15.0,4-322
+OFBKKLGO_01774_flgG_1,TIGR03506,TIGR03506,FlgEFG_subfam: flagellar hook-basal body protein,TIGRFAM,15.0,3-128;144-239
+OFBKKLGO_01774_flgG_1,TIGR02490,TIGR02490,flgF: flagellar basal-body rod protein FlgF,TIGRFAM,15.0,5-237
+OFBKKLGO_01778_fliJ,TIGR02473,TIGR02473,flagell_FliJ: flagellar export protein FliJ,TIGRFAM,15.0,4-143
+OFBKKLGO_01779_yscN,TIGR03497,TIGR03497,FliI_clade2: flagellar protein export ATPase FliI,TIGRFAM,15.0,20-433
+OFBKKLGO_01779_yscN,TIGR01026,TIGR01026,"fliI_yscN: ATPase, FliI/YscN family",TIGRFAM,15.0,13-434
+OFBKKLGO_01781_fliG,TIGR00207,TIGR00207,fliG: flagellar motor switch protein FliG,TIGRFAM,15.0,1-338
+OFBKKLGO_01782_group_4676,TIGR00206,TIGR00206,fliF: flagellar M-ring protein FliF,TIGRFAM,15.0,1-536
+OFBKKLGO_01783_fliE,TIGR00205,TIGR00205,fliE: flagellar hook-basal body complex protein FliE,TIGRFAM,15.0,3-106
+OFBKKLGO_01784_flgC,TIGR01395,TIGR01395,FlgC: flagellar basal-body rod protein FlgC,TIGRFAM,15.0,4-150
+OFBKKLGO_01787_codY,TIGR02787,TIGR02787,codY_Gpos: GTP-sensing transcriptional pleiotropic repressor CodY,TIGRFAM,15.0,3-253
+OFBKKLGO_01788_clpY,TIGR00390,TIGR00390,"hslU: ATP-dependent protease HslVU, ATPase subunit",TIGRFAM,15.0,6-467
+OFBKKLGO_01789_clpQ,TIGR03692,TIGR03692,"ATP_dep_HslV: ATP-dependent protease HslVU, peptidase subunit",TIGRFAM,15.0,7-180
+OFBKKLGO_01790_xerC_1,TIGR02224,TIGR02224,recomb_XerC: tyrosine recombinase XerC,TIGRFAM,15.0,11-302
+OFBKKLGO_01791_trmFO,TIGR00137,TIGR00137,gid_trmFO: tRNA:m(5)U-54 methyltransferase,TIGRFAM,15.0,4-435
+OFBKKLGO_01792_topA,TIGR01051,TIGR01051,topA_bact: DNA topoisomerase I,TIGRFAM,15.0,5-611
+OFBKKLGO_01793_dprA,TIGR00732,TIGR00732,dprA: DNA protecting protein DprA,TIGRFAM,15.0,72-284
+OFBKKLGO_01794_sucD,TIGR01019,TIGR01019,"sucCoAalpha: succinate-CoA ligase, alpha subunit",TIGRFAM,15.0,4-288
+OFBKKLGO_01795_sucC,TIGR01016,TIGR01016,"sucCoAbeta: succinate-CoA ligase, beta subunit",TIGRFAM,15.0,1-384
+OFBKKLGO_01796_flhB_1,TIGR00789,TIGR00789,flhB_rel: FlhB domain protein,TIGRFAM,15.0,8-88
+OFBKKLGO_01799_rbgA,TIGR03596,TIGR03596,GTPase_YlqF: ribosome biogenesis GTP-binding protein YlqF,TIGRFAM,15.0,3-278
+OFBKKLGO_01800_rplS,TIGR01024,TIGR01024,rplS_bact: ribosomal protein bL19,TIGRFAM,15.0,2-113
+OFBKKLGO_01802_trmD,TIGR00088,TIGR00088,trmD: tRNA (guanine(37)-N(1))-methyltransferase,TIGRFAM,15.0,1-235
+OFBKKLGO_01803_rimM,TIGR02273,TIGR02273,16S_RimM: 16S rRNA processing protein RimM,TIGRFAM,15.0,5-171
+OFBKKLGO_01806_rpsP,TIGR00002,TIGR00002,S16: ribosomal protein bS16,TIGRFAM,15.0,3-80
+OFBKKLGO_01807_ffh,TIGR00959,TIGR00959,ffh: signal recognition particle protein,TIGRFAM,15.0,3-429
+OFBKKLGO_01809_ftsY,TIGR00064,TIGR00064,ftsY: signal recognition particle-docking protein FtsY,TIGRFAM,15.0,46-320
+OFBKKLGO_01810_smc_3,TIGR02168,TIGR02168,SMC_prok_B: chromosome segregation protein SMC,TIGRFAM,15.0,2-1178
+OFBKKLGO_01811_rnc,TIGR02191,TIGR02191,RNaseIII: ribonuclease III,TIGRFAM,15.0,23-242
+OFBKKLGO_01812_acpA,TIGR00517,TIGR00517,acyl_carrier: acyl carrier protein,TIGRFAM,15.0,2-77
+OFBKKLGO_01813_fabG_1,TIGR01830,TIGR01830,3oxo_ACP_reduc: 3-oxoacyl-[acyl-carrier-protein] reductase,TIGRFAM,15.0,7-245
+OFBKKLGO_01814_fabD,TIGR00128,TIGR00128,fabD: malonyl CoA-acyl carrier protein transacylase,TIGRFAM,15.0,3-291
+OFBKKLGO_01815_plsX,TIGR00182,TIGR00182,plsX: fatty acid/phospholipid synthesis protein PlsX,TIGRFAM,15.0,1-329
+OFBKKLGO_01817_recG,TIGR00643,TIGR00643,recG: ATP-dependent DNA helicase RecG,TIGRFAM,15.0,26-648
+OFBKKLGO_01818_sdhA,TIGR00718,TIGR00718,"sda_alpha: L-serine dehydratase, iron-sulfur-dependent, alpha subunit",TIGRFAM,15.0,1-300
+OFBKKLGO_01819_sdhB,TIGR00719,TIGR00719,"sda_beta: L-serine dehydratase, iron-sulfur-dependent, beta subunit",TIGRFAM,15.0,1-206
+OFBKKLGO_01820_group_4680,TIGR03599,TIGR03599,YloV: DAK2 domain fusion protein YloV,TIGRFAM,15.0,11-555
+OFBKKLGO_01822_rpmB,TIGR00009,TIGR00009,L28: ribosomal protein bL28,TIGRFAM,15.0,1-56
+OFBKKLGO_01824_rpe,TIGR01163,TIGR01163,rpe: ribulose-phosphate 3-epimerase,TIGRFAM,15.0,3-214
+OFBKKLGO_01825_rsgA,TIGR00157,TIGR00157,TIGR00157: ribosome small subunit-dependent GTPase A,TIGRFAM,15.0,41-286
+OFBKKLGO_01828_rlmN,TIGR00048,TIGR00048,rRNA_mod_RlmN: 23S rRNA (adenine(2503)-C(2))-methyltransferase,TIGRFAM,15.0,14-363
+OFBKKLGO_01829_rsmB,TIGR00563,TIGR00563,rsmB: 16S rRNA (cytosine(967)-C(5))-methyltransferase,TIGRFAM,15.0,7-447
+OFBKKLGO_01830_fmt,TIGR00460,TIGR00460,fmt: methionyl-tRNA formyltransferase,TIGRFAM,15.0,1-303
+OFBKKLGO_01831_def1,TIGR00079,TIGR00079,pept_deformyl: peptide deformylase,TIGRFAM,15.0,4-158
+OFBKKLGO_01833_undec1A,TIGR00521,TIGR00521,coaBC_dfp: phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase,TIGRFAM,15.0,2-395
+OFBKKLGO_01834_rpoZ,TIGR00690,TIGR00690,"rpoZ: DNA-directed RNA polymerase, omega subunit",TIGRFAM,15.0,1-60
+OFBKKLGO_01835_gmk,TIGR03263,TIGR03263,guanyl_kin: guanylate kinase,TIGRFAM,15.0,13-192
+OFBKKLGO_01837_group_6120,TIGR00255,TIGR00255,TIGR00255: TIGR00255 family protein,TIGRFAM,15.0,4-294
+OFBKKLGO_01838_yloB,TIGR01494,TIGR01494,"ATPase_P-type: HAD ATPase, P-type, family IC",TIGRFAM,15.0,83-177;429-575;210-346;601-721
+OFBKKLGO_01838_yloB,TIGR01116,TIGR01116,"ATPase-IIA1_Ca: calcium-translocating P-type ATPase, SERCA-type",TIGRFAM,15.0,54-881
+OFBKKLGO_01843_sumT,TIGR01469,TIGR01469,cobA_cysG_Cterm: uroporphyrinogen-III C-methyltransferase,TIGRFAM,15.0,2-238
+OFBKKLGO_01844_cysC,TIGR00455,TIGR00455,apsK: adenylyl-sulfate kinase,TIGRFAM,15.0,8-191
+OFBKKLGO_01847_cysH,TIGR02055,TIGR02055,"APS_reductase: adenylylsulfate reductase, thioredoxin dependent",TIGRFAM,15.0,43-231
+OFBKKLGO_01847_cysH,TIGR00434,TIGR00434,cysH: phosophoadenylyl-sulfate reductase,TIGRFAM,15.0,24-233
+OFBKKLGO_01849_pyrE,TIGR00336,TIGR00336,pyrE: orotate phosphoribosyltransferase,TIGRFAM,15.0,7-177
+OFBKKLGO_01850_pyrF,TIGR01740,TIGR01740,pyrF: orotidine 5'-phosphate decarboxylase,TIGRFAM,15.0,6-231
+OFBKKLGO_01851_pyrD,TIGR01037,TIGR01037,pyrD_sub1_fam: dihydroorotate dehydrogenase family protein,TIGRFAM,15.0,2-300
+OFBKKLGO_01853_carB_2,TIGR01369,TIGR01369,"CPSaseII_lrg: carbamoyl-phosphate synthase, large subunit",TIGRFAM,15.0,2-1047
+OFBKKLGO_01854_carA_2,TIGR01368,TIGR01368,"CPSaseIIsmall: carbamoyl-phosphate synthase, small subunit",TIGRFAM,15.0,4-351
+OFBKKLGO_01855_pyrC,TIGR00857,TIGR00857,"pyrC_multi: dihydroorotase, multifunctional complex type",TIGRFAM,15.0,15-424
+OFBKKLGO_01856_pyrB,TIGR00670,TIGR00670,asp_carb_tr: aspartate carbamoyltransferase,TIGRFAM,15.0,2-289
+OFBKKLGO_01858_pyrP,TIGR00801,TIGR00801,ncs2: uracil-xanthine permease,TIGRFAM,15.0,16-418
+OFBKKLGO_01862_rluD_2,TIGR00005,TIGR00005,"rluA_subfam: pseudouridine synthase, RluA family",TIGRFAM,15.0,11-301
+OFBKKLGO_01863_lspA,TIGR00077,TIGR00077,lspA: signal peptidase II,TIGRFAM,15.0,2-152
+OFBKKLGO_01866_divIVA,TIGR03544,TIGR03544,DivI1A_domain: DivIVA domain,TIGRFAM,15.0,3-36
+OFBKKLGO_01870_yggS,TIGR00044,TIGR00044,"TIGR00044: pyridoxal phosphate enzyme, YggS family",TIGRFAM,15.0,6-223
+OFBKKLGO_01871_group_2823,TIGR00726,TIGR00726,TIGR00726: YfiH family protein,TIGRFAM,15.0,40-276
+OFBKKLGO_01872_ylmC,TIGR02888,TIGR02888,"spore_YlmC_YmxH: sporulation protein, YlmC/YmxH family",TIGRFAM,15.0,4-75
+OFBKKLGO_01876_sigG,TIGR02937,TIGR02937,"sigma70-ECF: RNA polymerase sigma factor, sigma-70 family",TIGRFAM,15.0,38-257
+OFBKKLGO_01876_sigG,TIGR02850,TIGR02850,spore_sigG: RNA polymerase sigma-G factor,TIGRFAM,15.0,4-258
+OFBKKLGO_01876_sigG,TIGR02980,TIGR02980,"SigBFG: RNA polymerase sigma-70 factor, sigma-B/F/G subfamily",TIGRFAM,15.0,37-258
+OFBKKLGO_01877_sigE,TIGR02937,TIGR02937,"sigma70-ECF: RNA polymerase sigma factor, sigma-70 family",TIGRFAM,15.0,58-234
+OFBKKLGO_01877_sigE,TIGR02835,TIGR02835,spore_sigmaE: RNA polymerase sigma-E factor,TIGRFAM,15.0,8-239
+OFBKKLGO_01878_spoIIGA,TIGR02854,TIGR02854,spore_II_GA: sigma-E processing peptidase SpoIIGA,TIGRFAM,15.0,2-300
+OFBKKLGO_01881_ftsA,TIGR01174,TIGR01174,ftsA: cell division protein FtsA,TIGRFAM,15.0,7-369
+OFBKKLGO_01883_murB,TIGR00179,TIGR00179,murB: UDP-N-acetylenolpyruvoylglucosamine reductase,TIGRFAM,15.0,22-300
+OFBKKLGO_01884_murG_1,TIGR01133,TIGR01133,murG: undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,TIGRFAM,15.0,1-357
+OFBKKLGO_01885_ftsW_2,TIGR02614,TIGR02614,ftsW: cell division protein FtsW,TIGRFAM,15.0,1-338
+OFBKKLGO_01885_ftsW_2,TIGR02615,TIGR02615,spoVE: stage V sporulation protein E,TIGRFAM,15.0,1-337
+OFBKKLGO_01886_murD,TIGR01087,TIGR01087,murD: UDP-N-acetylmuramoylalanine--D-glutamate ligase,TIGRFAM,15.0,11-448
+OFBKKLGO_01887_mraY,TIGR00445,TIGR00445,mraY: phospho-N-acetylmuramoyl-pentapeptide-transferase,TIGRFAM,15.0,17-323
+OFBKKLGO_01888_murE,TIGR01085,TIGR01085,murE: UDP-N-acetylmuramyl-tripeptide synthetase,TIGRFAM,15.0,22-484
+OFBKKLGO_01889_spoVD,TIGR02214,TIGR02214,spoVD_pbp: stage V sporulation protein D,TIGRFAM,15.0,11-637
+OFBKKLGO_01891_ftsL,TIGR02209,TIGR02209,ftsL_broad: cell division protein FtsL,TIGRFAM,15.0,34-116
+OFBKKLGO_01892_rsmH_1,TIGR00006,TIGR00006,TIGR00006: 16S rRNA (cytosine(1402)-N(4))-methyltransferase,TIGRFAM,15.0,2-309
+OFBKKLGO_01893_mraZ,TIGR00242,TIGR00242,TIGR00242: division/cell wall cluster transcriptional repressor MraZ,TIGRFAM,15.0,12-154
+OFBKKLGO_01894_bshC,TIGR03998,TIGR03998,thiol_BshC: bacillithiol biosynthesis cysteine-adding enzyme BshC,TIGRFAM,15.0,30-556
+OFBKKLGO_01897_rsfA_1,TIGR02894,TIGR02894,"DNA_bind_RsfA: transcription factor, RsfA family",TIGRFAM,15.0,4-78
+OFBKKLGO_01898_rpmF,TIGR01031,TIGR01031,rpmF_bact: ribosomal protein bL32,TIGRFAM,15.0,2-54
+OFBKKLGO_01903_ylbJ,TIGR02871,TIGR02871,spore_ylbJ: sporulation integral membrane protein YlbJ,TIGRFAM,15.0,10-390
+OFBKKLGO_01904_coaD,TIGR01510,TIGR01510,coaD_prev_kdtB: pantetheine-phosphate adenylyltransferase,TIGRFAM,15.0,4-158
+OFBKKLGO_01904_coaD,TIGR00125,TIGR00125,cyt_tran_rel: cytidyltransferase-like domain,TIGRFAM,15.0,4-64
+OFBKKLGO_01905_rsmD,TIGR00095,TIGR00095,TIGR00095: 16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,TIGRFAM,15.0,2-181
+OFBKKLGO_01914_group_4694,TIGR02737,TIGR02737,caa3_CtaG: cytochrome c oxidase assembly factor CtaG,TIGRFAM,15.0,3-277
+OFBKKLGO_01915_caaD,TIGR02908,TIGR02908,"CoxD_Bacillus: cytochrome c oxidase, subunit IVB",TIGRFAM,15.0,1-110
+OFBKKLGO_01917_ctaD,TIGR02891,TIGR02891,"CtaD_CoxA: cytochrome c oxidase, subunit I",TIGRFAM,15.0,18-521
+OFBKKLGO_01918_ctaC,TIGR02866,TIGR02866,"CoxB: cytochrome c oxidase, subunit II",TIGRFAM,15.0,31-244
+OFBKKLGO_01919_ctaB2,TIGR01473,TIGR01473,cyoE_ctaB: protoheme IX farnesyltransferase,TIGRFAM,15.0,23-301
+OFBKKLGO_01921_pycA,TIGR01235,TIGR01235,pyruv_carbox: pyruvate carboxylase,TIGRFAM,15.0,8-1146
+OFBKKLGO_01924_glsA2,TIGR03814,TIGR03814,Gln_ase: glutaminase A,TIGRFAM,15.0,9-309
+OFBKKLGO_01927_group_3650,TIGR02898,TIGR02898,"spore_YhcN_YlaJ: sporulation lipoprotein, YhcN/YlaJ family",TIGRFAM,15.0,3-161
+OFBKKLGO_01930_typA,TIGR01394,TIGR01394,TypA_BipA: GTP-binding protein TypA/BipA,TIGRFAM,15.0,7-601
+OFBKKLGO_01930_typA,TIGR00231,TIGR00231,small_GTP: small GTP-binding protein domain,TIGRFAM,15.0,8-146
+OFBKKLGO_01951_defB,TIGR00079,TIGR00079,pept_deformyl: peptide deformylase,TIGRFAM,15.0,4-180
+OFBKKLGO_01954_rnjA,TIGR00649,TIGR00649,"MG423: beta-CASP ribonuclease, RNase J family",TIGRFAM,15.0,10-553
+OFBKKLGO_01955_adeC,TIGR01178,TIGR01178,ade: adenine deaminase,TIGRFAM,15.0,20-575
+OFBKKLGO_01958_sasA_1,TIGR00229,TIGR00229,sensory_box: PAS domain S-box protein,TIGRFAM,15.0,82-198
+OFBKKLGO_01963_group_735,TIGR00745,TIGR00745,apbA_panE: 2-dehydropantoate 2-reductase,TIGRFAM,15.0,2-301
+OFBKKLGO_01966_sipT,TIGR02227,TIGR02227,sigpep_I_bact: signal peptidase I,TIGRFAM,15.0,25-186
+OFBKKLGO_01967_fruA,TIGR00829,TIGR00829,"FRU: PTS system, Fru family, IIB component",TIGRFAM,15.0,174-255
+OFBKKLGO_01967_fruA,TIGR00848,TIGR00848,"fruA: PTS system, fructose subfamily, IIA component",TIGRFAM,15.0,6-133
+OFBKKLGO_01967_fruA,TIGR01427,TIGR01427,"PTS_IIC_fructo: PTS system, Fru family, IIC component",TIGRFAM,15.0,299-628
+OFBKKLGO_01968_lacC,TIGR03828,TIGR03828,pfkB: 1-phosphofructokinase,TIGRFAM,15.0,2-301
+OFBKKLGO_01968_lacC,TIGR03168,TIGR03168,"1-PFK: hexose kinase, 1-phosphofructokinase family",TIGRFAM,15.0,2-301
+OFBKKLGO_01977_moeA,TIGR00177,TIGR00177,molyb_syn: molybdenum cofactor synthesis domain,TIGRFAM,15.0,186-323
+OFBKKLGO_01987_ykuR,TIGR01891,TIGR01891,amidohydrolases: amidohydrolase,TIGRFAM,15.0,6-361
+OFBKKLGO_01988_dapH_1,TIGR03532,TIGR03532,"DapD_Ac: 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase",TIGRFAM,15.0,6-236
+OFBKKLGO_01991_group_1798,TIGR01753,TIGR01753,flav_short: flavodoxin,TIGRFAM,15.0,5-143
+OFBKKLGO_02003_group_4712,TIGR00900,TIGR00900,2A0121: H+ Antiporter protein,TIGRFAM,15.0,9-377
+OFBKKLGO_02010_group_998,TIGR02909,TIGR02909,"spore_YkwD: uncharacterized protein, YkwD family",TIGRFAM,15.0,135-257
+OFBKKLGO_02014_splB,TIGR04070,TIGR04070,photo_TT_lyase: spore photoproduct lyase,TIGRFAM,15.0,5-342
+OFBKKLGO_02016_ptsI,TIGR01417,TIGR01417,PTS_I_fam: phosphoenolpyruvate-protein phosphotransferase,TIGRFAM,15.0,4-566
+OFBKKLGO_02017_ptsH,TIGR01003,TIGR01003,"PTS_HPr_family: phosphocarrier, HPr family",TIGRFAM,15.0,1-81
+OFBKKLGO_02018_ptsG,TIGR00826,TIGR00826,"EIIB_glc: PTS system, glucose-like IIB component",TIGRFAM,15.0,413-499
+OFBKKLGO_02018_ptsG,TIGR00852,TIGR00852,"pts-Glc: PTS system, maltose and glucose-specific subfamily, IIC component",TIGRFAM,15.0,64-365
+OFBKKLGO_02018_ptsG,TIGR00830,TIGR00830,"PTBA: PTS system, glucose subfamily, IIA component",TIGRFAM,15.0,552-671
+OFBKKLGO_02018_ptsG,TIGR02002,TIGR02002,"PTS-II-BC-glcB: PTS system, glucose-specific IIBC component",TIGRFAM,15.0,2-515
+OFBKKLGO_02022_zosA,TIGR01525,TIGR01525,ATPase-IB_hvy: heavy metal translocating P-type ATPase,TIGRFAM,15.0,84-635
+OFBKKLGO_02022_zosA,TIGR01494,TIGR01494,"ATPase_P-type: HAD ATPase, P-type, family IC",TIGRFAM,15.0,107-612
+OFBKKLGO_02030_queE_2,TIGR03365,TIGR03365,Bsubt_queE: 7-cyano-7-deazaguanosine (preQ0) biosynthesis protein QueE,TIGRFAM,15.0,4-243
+OFBKKLGO_02031_queD,TIGR00039,TIGR00039,6PTHBS: 6-pyruvoyl tetrahydropterin synthase/QueD family protein,TIGRFAM,15.0,15-141
+OFBKKLGO_02031_queD,TIGR03367,TIGR03367,queuosine_QueD: queuosine biosynthesis protein QueD,TIGRFAM,15.0,16-110
+OFBKKLGO_02032_queC,TIGR00364,TIGR00364,TIGR00364: queuosine biosynthesis protein QueC,TIGRFAM,15.0,6-204
+OFBKKLGO_02045_mtnX,TIGR01489,TIGR01489,"DKMTPPase-SF: 2,3-diketo-5-methylthio-1-phosphopentane phosphatase",TIGRFAM,15.0,5-187
+OFBKKLGO_02045_mtnX,TIGR01488,TIGR01488,"HAD-SF-IB: HAD phosphoserine phosphatase-like hydrolase, family IB",TIGRFAM,15.0,6-179
+OFBKKLGO_02045_mtnX,TIGR03333,TIGR03333,salvage_mtnX: 2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase,TIGRFAM,15.0,6-219
+OFBKKLGO_02046_mtnW,TIGR03332,TIGR03332,"salvage_mtnW: 2,3-diketo-5-methylthiopentyl-1-phosphate enolase",TIGRFAM,15.0,2-399
+OFBKKLGO_02051_mtnK,TIGR01767,TIGR01767,MTRK: S-methyl-5-thioribose kinase,TIGRFAM,15.0,36-390
+OFBKKLGO_02052_mtnA,TIGR00524,TIGR00524,eIF-2B_rel: eIF-2B alpha/beta/delta-related uncharacterized proteins,TIGRFAM,15.0,36-336
+OFBKKLGO_02052_mtnA,TIGR00512,TIGR00512,salvage_mtnA: S-methyl-5-thioribose-1-phosphate isomerase,TIGRFAM,15.0,9-336
+OFBKKLGO_02055_kinE,TIGR00229,TIGR00229,sensory_box: PAS domain S-box protein,TIGRFAM,15.0,272-389;390-509;31-147;151-269
+OFBKKLGO_02065_group_4724,TIGR03716,TIGR03716,"R_switched_YkoY: integral membrane protein, YkoY family",TIGRFAM,15.0,12-243
+OFBKKLGO_02068_ku,TIGR02772,TIGR02772,Ku_bact: Ku protein,TIGRFAM,15.0,1-257
+OFBKKLGO_02075_mgtE,TIGR00400,TIGR00400,mgtE: magnesium transporter,TIGRFAM,15.0,4-450
+OFBKKLGO_02086_metE_1,TIGR01371,TIGR01371,met_syn_B12ind: 5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase,TIGRFAM,15.0,9-757
+OFBKKLGO_02093_ohrB,TIGR03561,TIGR03561,"organ_hyd_perox: peroxiredoxin, Ohr subfamily",TIGRFAM,15.0,3-134
+OFBKKLGO_02095_ohrA,TIGR03561,TIGR03561,"organ_hyd_perox: peroxiredoxin, Ohr subfamily",TIGRFAM,15.0,5-137
+OFBKKLGO_02096_proA,TIGR00407,TIGR00407,proA: glutamate-5-semialdehyde dehydrogenase,TIGRFAM,15.0,11-404
+OFBKKLGO_02097_proB_1,TIGR01027,TIGR01027,proB: glutamate 5-kinase,TIGRFAM,15.0,4-361
+OFBKKLGO_02098_purU,TIGR00655,TIGR00655,PurU: formyltetrahydrofolate deformylase,TIGRFAM,15.0,21-299
+OFBKKLGO_02112_oppD_4,TIGR01727,TIGR01727,"oligo_HPY: oligopeptide/dipeptide ABC transporter, ATP-binding protein, C-terminal domain",TIGRFAM,15.0,234-320
+OFBKKLGO_02128_group_1802,TIGR01592,TIGR01592,"holin_SPP1: holin, SPP1 family",TIGRFAM,15.0,5-84
+OFBKKLGO_02182_fetB,TIGR00245,TIGR00245,TIGR00245: TIGR00245 family protein,TIGRFAM,15.0,1-246
+OFBKKLGO_02305_group_2859,TIGR01439,TIGR01439,"lp_hng_hel_AbrB: transcriptional regulator, AbrB family",TIGRFAM,15.0,12-53
+OFBKKLGO_02323_thiD,TIGR00097,TIGR00097,HMP-P_kinase: hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase,TIGRFAM,15.0,6-260
+OFBKKLGO_02326_thiS,TIGR01683,TIGR01683,thiS: thiamine biosynthesis protein ThiS,TIGRFAM,15.0,4-67
+OFBKKLGO_02329_tenA,TIGR04306,TIGR04306,salvage_TenA: thiaminase II,TIGRFAM,15.0,11-215
+OFBKKLGO_02343_pepF1_1,TIGR00181,TIGR00181,pepF: oligoendopeptidase F,TIGRFAM,15.0,13-601
+OFBKKLGO_02346_group_3701,TIGR03717,TIGR03717,"R_switched_YjbE: integral membrane protein, YjbE family",TIGRFAM,15.0,9-181
+OFBKKLGO_02347_spxA,TIGR01617,TIGR01617,"arsC_related: transcriptional regulator, Spx/MgsR family",TIGRFAM,15.0,3-114
+OFBKKLGO_02351_oppD_3,TIGR01727,TIGR01727,"oligo_HPY: oligopeptide/dipeptide ABC transporter, ATP-binding protein, C-terminal domain",TIGRFAM,15.0,233-319
+OFBKKLGO_02356_trpS,TIGR00233,TIGR00233,trpS: tryptophan--tRNA ligase,TIGRFAM,15.0,1-325
+OFBKKLGO_02362_oppD_2,TIGR01727,TIGR01727,"oligo_HPY: oligopeptide/dipeptide ABC transporter, ATP-binding protein, C-terminal domain",TIGRFAM,15.0,233-319
+OFBKKLGO_02364_fabF_2,TIGR03150,TIGR03150,fabF: beta-ketoacyl-acyl-carrier-protein synthase II,TIGRFAM,15.0,4-409
+OFBKKLGO_02365_fabHA,TIGR00747,TIGR00747,fabH: 3-oxoacyl-[acyl-carrier-protein] synthase III,TIGRFAM,15.0,1-310
+OFBKKLGO_02373_argF,TIGR00658,TIGR00658,orni_carb_tr: ornithine carbamoyltransferase,TIGRFAM,15.0,16-314
+OFBKKLGO_02375_carA_1,TIGR01368,TIGR01368,"CPSaseIIsmall: carbamoyl-phosphate synthase, small subunit",TIGRFAM,15.0,4-342
+OFBKKLGO_02376_argD,TIGR00707,TIGR00707,"argD: transaminase, acetylornithine/succinylornithine family",TIGRFAM,15.0,4-378
+OFBKKLGO_02378_argJ,TIGR00120,TIGR00120,ArgJ: glutamate N-acetyltransferase/amino-acid acetyltransferase,TIGRFAM,15.0,11-405
+OFBKKLGO_02379_argC,TIGR01850,TIGR01850,argC: N-acetyl-gamma-glutamyl-phosphate reductase,TIGRFAM,15.0,2-345
+OFBKKLGO_02383_xerD,TIGR02224,TIGR02224,recomb_XerC: tyrosine recombinase XerC,TIGRFAM,15.0,6-296
+OFBKKLGO_02383_xerD,TIGR02225,TIGR02225,recomb_XerD: tyrosine recombinase XerD,TIGRFAM,15.0,7-296
+OFBKKLGO_02386_spoIIM,TIGR02831,TIGR02831,spo_II_M: stage II sporulation protein M,TIGRFAM,15.0,10-207
+OFBKKLGO_02390_mleN,TIGR00931,TIGR00931,antiport_nhaC: Na+/H+ antiporter NhaC,TIGRFAM,15.0,5-458
+OFBKKLGO_02391_aspA,TIGR00839,TIGR00839,aspA: aspartate ammonia-lyase,TIGRFAM,15.0,9-472
+OFBKKLGO_02394_group_2875,TIGR00375,TIGR00375,TIGR00375: TIGR00375 family protein,TIGRFAM,15.0,27-385
+OFBKKLGO_02410_coaA,TIGR00554,TIGR00554,panK_bact: pantothenate kinase,TIGRFAM,15.0,11-318
+OFBKKLGO_02414_proC_2,TIGR00112,TIGR00112,proC: pyrroline-5-carboxylate reductase,TIGRFAM,15.0,4-265
+OFBKKLGO_02420_rnz,TIGR02651,TIGR02651,RNase_Z: ribonuclease Z,TIGRFAM,15.0,2-304
+OFBKKLGO_02421_zwf,TIGR00871,TIGR00871,zwf: glucose-6-phosphate dehydrogenase,TIGRFAM,15.0,8-488
+OFBKKLGO_02422_gndA,TIGR00873,TIGR00873,gnd: 6-phosphogluconate dehydrogenase (decarboxylating),TIGRFAM,15.0,5-468
+OFBKKLGO_02425_misCB,TIGR03592,TIGR03592,"yidC_oxa1_cterm: membrane protein insertase, YidC/Oxa1 family",TIGRFAM,15.0,65-260
+OFBKKLGO_02429_epi,TIGR03081,TIGR03081,metmalonyl_epim: methylmalonyl-CoA epimerase,TIGRFAM,15.0,3-130
+OFBKKLGO_02434_artQ,TIGR01726,TIGR01726,"HEQRo_perm_3TM: amino ABC transporter, permease protein, 3-TM region, His/Glu/Gln/Arg/opine family",TIGRFAM,15.0,12-110
+OFBKKLGO_02436_group_15853,TIGR04191,TIGR04191,"YphP_YqiW: putative bacilliredoxin, YphP/YqiW family",TIGRFAM,15.0,8-142
+OFBKKLGO_02437_bmrU,TIGR00147,TIGR00147,"TIGR00147: lipid kinase, YegS/Rv2252/BmrU family",TIGRFAM,15.0,4-294
+OFBKKLGO_02441_lpd,TIGR01350,TIGR01350,lipoamide_DH: dihydrolipoyl dehydrogenase,TIGRFAM,15.0,4-473
+OFBKKLGO_02442_buk2,TIGR02707,TIGR02707,butyr_kinase: butyrate kinase,TIGRFAM,15.0,7-357
+OFBKKLGO_02444_pta_1,TIGR02706,TIGR02706,P_butyryltrans: phosphate butyryltransferase,TIGRFAM,15.0,4-294
+OFBKKLGO_02445_norR_2,TIGR00229,TIGR00229,sensory_box: PAS domain S-box protein,TIGRFAM,15.0,119-227;235-349
+OFBKKLGO_02452_mmgA,TIGR01930,TIGR01930,AcCoA-C-Actrans: acetyl-CoA C-acyltransferase,TIGRFAM,15.0,6-391
+OFBKKLGO_02467_argR,TIGR01529,TIGR01529,argR_whole: arginine repressor,TIGRFAM,15.0,5-149
+OFBKKLGO_02468_tlyA,TIGR00478,TIGR00478,tly: TlyA family rRNA methyltransferase/putative hemolysin,TIGRFAM,15.0,7-239
+OFBKKLGO_02471_xseB,TIGR01280,TIGR01280,"xseB: exodeoxyribonuclease VII, small subunit",TIGRFAM,15.0,11-66
+OFBKKLGO_02472_xseA,TIGR00237,TIGR00237,"xseA: exodeoxyribonuclease VII, large subunit",TIGRFAM,15.0,8-358
+OFBKKLGO_02474_nusB,TIGR01951,TIGR01951,nusB: transcription antitermination factor NusB,TIGRFAM,15.0,2-127
+OFBKKLGO_02476_accC,TIGR00514,TIGR00514,"accC: acetyl-CoA carboxylase, biotin carboxylase subunit",TIGRFAM,15.0,1-449
+OFBKKLGO_02477_accB,TIGR00531,TIGR00531,"BCCP: acetyl-CoA carboxylase, biotin carboxyl carrier protein",TIGRFAM,15.0,2-157
+OFBKKLGO_02479_group_2887,TIGR02830,TIGR02830,spore_III_AG: stage III sporulation protein AG,TIGRFAM,15.0,29-225
+OFBKKLGO_02481_spoIIIAE,TIGR02829,TIGR02829,spore_III_AE: stage III sporulation protein AE,TIGRFAM,15.0,1-395
+OFBKKLGO_02482_group_6271,TIGR02849,TIGR02849,spore_III_AD: stage III sporulation protein AD,TIGRFAM,15.0,2-98
+OFBKKLGO_02483_group_16176,TIGR02848,TIGR02848,spore_III_AC: stage III sporulation protein AC,TIGRFAM,15.0,3-66
+OFBKKLGO_02484_spoIIIAB,TIGR02833,TIGR02833,spore_III_AB: stage III sporulation protein AB,TIGRFAM,15.0,3-171
+OFBKKLGO_02485_group_6272,TIGR02858,TIGR02858,spore_III_AA: stage III sporulation protein AA,TIGRFAM,15.0,28-291
+OFBKKLGO_02487_efp,TIGR00038,TIGR00038,efp: translation elongation factor P,TIGRFAM,15.0,2-185
+OFBKKLGO_02504_tasA,TIGR04088,TIGR04088,cognate_SipW: SipW-cognate class signal peptide,TIGRFAM,15.0,11-44
+OFBKKLGO_02512_group_880,TIGR02532,TIGR02532,IV_pilin_GFxxxE: prepilin-type N-terminal cleavage/methylation domain,TIGRFAM,15.0,9-30
+OFBKKLGO_02513_comGC,TIGR02532,TIGR02532,IV_pilin_GFxxxE: prepilin-type N-terminal cleavage/methylation domain,TIGRFAM,15.0,7-30
+OFBKKLGO_02519_mgsR_1,TIGR01617,TIGR01617,"arsC_related: transcriptional regulator, Spx/MgsR family",TIGRFAM,15.0,5-115
+OFBKKLGO_02523_group_6284,TIGR00106,TIGR00106,"TIGR00106: uncharacterized protein, MTH1187 family",TIGRFAM,15.0,2-101
+OFBKKLGO_02527_glcK,TIGR00744,TIGR00744,ROK_glcA_fam: ROK family protein (putative glucokinase),TIGRFAM,15.0,7-320
+OFBKKLGO_02529_nhaC_2,TIGR00931,TIGR00931,antiport_nhaC: Na+/H+ antiporter NhaC,TIGRFAM,15.0,2-416
+OFBKKLGO_02532_rpmGA,TIGR01023,TIGR01023,rpmG_bact: ribosomal protein bL33,TIGRFAM,15.0,3-49
+OFBKKLGO_02535_pstB3_2,TIGR00972,TIGR00972,"3a0107s01c2: phosphate ABC transporter, ATP-binding protein",TIGRFAM,15.0,14-260
+OFBKKLGO_02536_pstB3_3,TIGR00972,TIGR00972,"3a0107s01c2: phosphate ABC transporter, ATP-binding protein",TIGRFAM,15.0,22-268
+OFBKKLGO_02537_pstA,TIGR00974,TIGR00974,"3a0107s02c: phosphate ABC transporter, permease protein PstA",TIGRFAM,15.0,8-286
+OFBKKLGO_02538_pstC,TIGR02138,TIGR02138,"phosphate_pstC: phosphate ABC transporter, permease protein PstC",TIGRFAM,15.0,29-307
+OFBKKLGO_02539_pstS1,TIGR02136,TIGR02136,ptsS_2: phosphate binding protein,TIGRFAM,15.0,4-286
+OFBKKLGO_02546_ispG,TIGR00612,TIGR00612,ispG_gcpE: 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase,TIGRFAM,15.0,7-350
+OFBKKLGO_02555_ispH,TIGR00216,TIGR00216,ispH_lytB: 4-hydroxy-3-methylbut-2-enyl diphosphate reductase,TIGRFAM,15.0,3-286
+OFBKKLGO_02556_group_2897,TIGR00486,TIGR00486,"YbgI_SA1388: dinuclear metal center protein, YbgI/SA1388 family",TIGRFAM,15.0,5-369
+OFBKKLGO_02559_sigA,TIGR02937,TIGR02937,"sigma70-ECF: RNA polymerase sigma factor, sigma-70 family",TIGRFAM,15.0,138-361
+OFBKKLGO_02559_sigA,TIGR02393,TIGR02393,RpoD_Cterm: RNA polymerase sigma factor RpoD,TIGRFAM,15.0,137-372
+OFBKKLGO_02560_dnaG,TIGR01391,TIGR01391,dnaG: DNA primase,TIGRFAM,15.0,4-420
+OFBKKLGO_02564_glyS,TIGR00211,TIGR00211,"glyS: glycine--tRNA ligase, beta subunit",TIGRFAM,15.0,1-676
+OFBKKLGO_02565_glyQ,TIGR00388,TIGR00388,"glyQ: glycine--tRNA ligase, alpha subunit",TIGRFAM,15.0,1-288
+OFBKKLGO_02566_recO,TIGR00613,TIGR00613,reco: DNA repair protein RecO,TIGRFAM,15.0,3-243
+OFBKKLGO_02568_era,TIGR00231,TIGR00231,small_GTP: small GTP-binding protein domain,TIGRFAM,15.0,9-169
+OFBKKLGO_02568_era,TIGR00436,TIGR00436,era: GTP-binding protein Era,TIGRFAM,15.0,9-279
+OFBKKLGO_02569_cdd,TIGR01354,TIGR01354,cyt_deam_tetra: cytidine deaminase,TIGRFAM,15.0,5-129
+OFBKKLGO_02571_ybeY,TIGR00043,TIGR00043,TIGR00043: rRNA maturation RNase YbeY,TIGRFAM,15.0,40-153
+OFBKKLGO_02572_pgpH,TIGR00277,TIGR00277,HDIG: HDIG domain,TIGRFAM,15.0,497-595
+OFBKKLGO_02575_group_15757,TIGR02856,TIGR02856,spore_yqfC: sporulation protein YqfC,TIGRFAM,15.0,8-91
+OFBKKLGO_02580_rpsU,TIGR00030,TIGR00030,S21p: ribosomal protein bS21,TIGRFAM,15.0,3-56
+OFBKKLGO_02582_mtaB,TIGR01579,TIGR01579,MiaB-like-C: MiaB-like tRNA modifying enzyme,TIGRFAM,15.0,6-423
+OFBKKLGO_02582_mtaB,TIGR01574,TIGR01574,miaB-methiolase: tRNA-i(6)A37 thiotransferase enzyme MiaB,TIGRFAM,15.0,6-426
+OFBKKLGO_02582_mtaB,TIGR00089,TIGR00089,"TIGR00089: radical SAM methylthiotransferase, MiaB/RimO family",TIGRFAM,15.0,3-431
+OFBKKLGO_02583_rsmE,TIGR00046,TIGR00046,"TIGR00046: RNA methyltransferase, RsmE family",TIGRFAM,15.0,3-251
+OFBKKLGO_02584_prmA,TIGR00406,TIGR00406,prmA: ribosomal protein L11 methyltransferase,TIGRFAM,15.0,3-305
+OFBKKLGO_02585_dnaJ,TIGR02349,TIGR02349,DnaJ_bact: chaperone protein DnaJ,TIGRFAM,15.0,5-351
+OFBKKLGO_02587_dnaK,TIGR02350,TIGR02350,prok_dnaK: chaperone protein DnaK,TIGRFAM,15.0,3-573
+OFBKKLGO_02589_hrcA,TIGR00331,TIGR00331,hrcA: heat-inducible transcription repressor HrcA,TIGRFAM,15.0,3-336
+OFBKKLGO_02591_lepA,TIGR01393,TIGR01393,lepA: elongation factor 4,TIGRFAM,15.0,13-606
+OFBKKLGO_02591_lepA,TIGR00231,TIGR00231,small_GTP: small GTP-binding protein domain,TIGRFAM,15.0,15-184
+OFBKKLGO_02593_group_6302,TIGR02867,TIGR02867,spore_II_P: stage II sporulation protein P,TIGRFAM,15.0,179-382
+OFBKKLGO_02594_gpr,TIGR01441,TIGR01441,GPR: GPR endopeptidase,TIGRFAM,15.0,12-368
+OFBKKLGO_02595_rpsT,TIGR00029,TIGR00029,S20: ribosomal protein bS20,TIGRFAM,15.0,1-86
+OFBKKLGO_02596_yqeN,TIGR01128,TIGR01128,"holA: DNA polymerase III, delta subunit",TIGRFAM,15.0,15-336
+OFBKKLGO_02599_tadA_2,TIGR02571,TIGR02571,ComEB: ComE operon protein 2,TIGRFAM,15.0,2-150
+OFBKKLGO_02603_rsfS,TIGR00090,TIGR00090,rsfS_iojap_ybeB: ribosome silencing factor,TIGRFAM,15.0,8-104
+OFBKKLGO_02604_group_2904,TIGR00488,TIGR00488,TIGR00488: putative HD superfamily hydrolase,TIGRFAM,15.0,10-181
+OFBKKLGO_02606_group_3749,TIGR00253,TIGR00253,"RNA_bind_YhbY: putative RNA-binding protein, YhbY family",TIGRFAM,15.0,2-96
+OFBKKLGO_02607_aroE_1,TIGR00507,TIGR00507,aroE: shikimate dehydrogenase,TIGRFAM,15.0,4-275
+OFBKKLGO_02608_yqeH,TIGR03597,TIGR03597,GTPase_YqeH: ribosome biogenesis GTPase YqeH,TIGRFAM,15.0,6-366
+OFBKKLGO_02609_group_6306,TIGR01549,TIGR01549,"HAD-SF-IA-v1: HAD hydrolase, family IA, variant 1",TIGRFAM,15.0,64-134
+OFBKKLGO_02609_group_6306,TIGR01668,TIGR01668,"YqeG_hyp_ppase: HAD phosphatase, family IIIA",TIGRFAM,15.0,7-172
+OFBKKLGO_02609_group_6306,TIGR01662,TIGR01662,"HAD-SF-IIIA: HAD hydrolase, family IIIA",TIGRFAM,15.0,32-142
+OFBKKLGO_02639_group_2268,TIGR02413,TIGR02413,Bac_small_yrzI: Bacillus tandem small hypothetical protein,TIGRFAM,15.0,1-45
+OFBKKLGO_02640_focA,TIGR00790,TIGR00790,fnt: formate/nitrite transporter,TIGRFAM,15.0,21-253
+OFBKKLGO_02642_group_2464,TIGR01591,TIGR01591,"Fdh-alpha: formate dehydrogenase, alpha subunit",TIGRFAM,15.0,268-936
+OFBKKLGO_02647_mtnN,TIGR01704,TIGR01704,MTA/SAH-Nsdase: MTA/SAH nucleosidase,TIGRFAM,15.0,2-230
+OFBKKLGO_02652_greA,TIGR01462,TIGR01462,greA: transcription elongation factor GreA,TIGRFAM,15.0,8-157
+OFBKKLGO_02653_udk,TIGR00235,TIGR00235,udk: uridine kinase,TIGRFAM,15.0,4-206
+OFBKKLGO_02657_mltG_2,TIGR00247,TIGR00247,"TIGR00247: conserved hypothetical protein, YceG family",TIGRFAM,15.0,15-360
+OFBKKLGO_02659_yrrK,TIGR00250,TIGR00250,RNAse_H_YqgF: putative transcription antitermination factor YqgF,TIGRFAM,15.0,4-135
+OFBKKLGO_02661_alaS,TIGR00344,TIGR00344,alaS: alanine--tRNA ligase,TIGRFAM,15.0,8-857
+OFBKKLGO_02665_glnM,TIGR01726,TIGR01726,"HEQRo_perm_3TM: amino ABC transporter, permease protein, 3-TM region, His/Glu/Gln/Arg/opine family",TIGRFAM,15.0,10-107
+OFBKKLGO_02666_glnP,TIGR01726,TIGR01726,"HEQRo_perm_3TM: amino ABC transporter, permease protein, 3-TM region, His/Glu/Gln/Arg/opine family",TIGRFAM,15.0,13-109
+OFBKKLGO_02670_recD2,TIGR01448,TIGR01448,"recD_rel: helicase, RecD/TraA family",TIGRFAM,15.0,12-750
+OFBKKLGO_02672_mnmA,TIGR00420,TIGR00420,trmU: tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase,TIGRFAM,15.0,9-358
+OFBKKLGO_02674_cymR,TIGR00738,TIGR00738,rrf2_super: Rrf2 family protein,TIGRFAM,15.0,1-111
+OFBKKLGO_02678_aspS,TIGR00459,TIGR00459,aspS_bact: aspartate--tRNA ligase,TIGRFAM,15.0,2-588
+OFBKKLGO_02679_hisS,TIGR00442,TIGR00442,hisS: histidine--tRNA ligase,TIGRFAM,15.0,5-409
+OFBKKLGO_02684_dtd,TIGR00256,TIGR00256,TIGR00256: D-tyrosyl-tRNA(Tyr) deacylase,TIGRFAM,15.0,1-146
+OFBKKLGO_02685_relA,TIGR00691,TIGR00691,spoT_relA: RelA/SpoT family protein,TIGRFAM,15.0,31-731
+OFBKKLGO_02686_apt,TIGR01090,TIGR01090,apt: adenine phosphoribosyltransferase,TIGRFAM,15.0,3-170
+OFBKKLGO_02687_group_2910,TIGR00644,TIGR00644,recJ: single-stranded-DNA-specific exonuclease RecJ,TIGRFAM,15.0,28-559
+OFBKKLGO_02690_secDF,TIGR00916,TIGR00916,"2A0604s01: protein-export membrane protein, SecD/SecF family",TIGRFAM,15.0,554-716;179-398
+OFBKKLGO_02690_secDF,TIGR00966,TIGR00966,3a0501s07: protein-export membrane protein SecF,TIGRFAM,15.0,476-719
+OFBKKLGO_02690_secDF,TIGR01129,TIGR01129,secD: protein-export membrane protein SecD,TIGRFAM,15.0,33-405
+OFBKKLGO_02692_spoVB,TIGR02900,TIGR02900,spore_V_B: stage V sporulation protein B,TIGRFAM,15.0,6-494
+OFBKKLGO_02694_group_16240,TIGR04086,TIGR04086,"TIGR04086_membr: putative membrane protein, TIGR04086 family",TIGRFAM,15.0,10-122
+OFBKKLGO_02695_yajC,TIGR00739,TIGR00739,"yajC: preprotein translocase, YajC subunit",TIGRFAM,15.0,3-83
+OFBKKLGO_02696_tgt,TIGR00449,TIGR00449,tgt_general: tRNA-guanine family transglycosylase,TIGRFAM,15.0,8-374
+OFBKKLGO_02696_tgt,TIGR00430,TIGR00430,Q_tRNA_tgt: tRNA-guanine transglycosylase,TIGRFAM,15.0,8-374
+OFBKKLGO_02699_ruvB,TIGR00635,TIGR00635,ruvB: Holliday junction DNA helicase RuvB,TIGRFAM,15.0,24-327
+OFBKKLGO_02700_ruvA,TIGR00084,TIGR00084,ruvA: Holliday junction DNA helicase RuvA,TIGRFAM,15.0,1-200
+OFBKKLGO_02705_nadA,TIGR00550,TIGR00550,"nadA: quinolinate synthetase complex, A subunit",TIGRFAM,15.0,21-365
+OFBKKLGO_02712_obg,TIGR03595,TIGR03595,"Obg_CgtA_exten: Obg family GTPase CgtA, C-terminal extension",TIGRFAM,15.0,358-426
+OFBKKLGO_02712_obg,TIGR02729,TIGR02729,Obg_CgtA: Obg family GTPase CgtA,TIGRFAM,15.0,2-328
+OFBKKLGO_02712_obg,TIGR00231,TIGR00231,small_GTP: small GTP-binding protein domain,TIGRFAM,15.0,160-320
+OFBKKLGO_02714_rpmA,TIGR00062,TIGR00062,L27: ribosomal protein bL27,TIGRFAM,15.0,9-89
+OFBKKLGO_02716_rplU,TIGR00061,TIGR00061,L21: ribosomal protein bL21,TIGRFAM,15.0,2-101
+OFBKKLGO_02720_minD,TIGR01968,TIGR01968,minD_bact: septum site-determining protein MinD,TIGRFAM,15.0,3-263
+OFBKKLGO_02721_minC,TIGR01222,TIGR01222,minC: septum site-determining protein MinC,TIGRFAM,15.0,8-209
+OFBKKLGO_02722_mreD,TIGR03426,TIGR03426,shape_MreD: rod shape-determining protein MreD,TIGRFAM,15.0,7-159
+OFBKKLGO_02723_mreC,TIGR00219,TIGR00219,mreC: rod shape-determining protein MreC,TIGRFAM,15.0,1-284
+OFBKKLGO_02724_mreB,TIGR00904,TIGR00904,"mreB: cell shape determining protein, MreB/Mrl family",TIGRFAM,15.0,7-333
+OFBKKLGO_02725_group_3767,TIGR00608,TIGR00608,radc: DNA repair protein RadC,TIGRFAM,15.0,18-231
+OFBKKLGO_02726_maf,TIGR00172,TIGR00172,maf: septum formation protein Maf,TIGRFAM,15.0,1-183
+OFBKKLGO_02730_valS,TIGR00422,TIGR00422,valS: valine--tRNA ligase,TIGRFAM,15.0,8-861
+OFBKKLGO_02735_hemL,TIGR00713,TIGR00713,"hemL: glutamate-1-semialdehyde-2,1-aminomutase",TIGRFAM,15.0,6-426
+OFBKKLGO_02738_hemC,TIGR00212,TIGR00212,hemC: hydroxymethylbilane synthase,TIGRFAM,15.0,4-295
+OFBKKLGO_02740_hemA,TIGR01035,TIGR01035,hemA: glutamyl-tRNA reductase,TIGRFAM,15.0,3-420
+OFBKKLGO_02742_engB,TIGR03598,TIGR03598,GTPase_YsxC: ribosome biogenesis GTP-binding protein YsxC,TIGRFAM,15.0,7-189
+OFBKKLGO_02743_lon1,TIGR00763,TIGR00763,lon: endopeptidase La,TIGRFAM,15.0,10-769
+OFBKKLGO_02744_lon2,TIGR02902,TIGR02902,spore_lonB: ATP-dependent protease LonB,TIGRFAM,15.0,5-533
+OFBKKLGO_02745_clpX,TIGR00382,TIGR00382,"clpX: ATP-dependent Clp protease, ATP-binding subunit ClpX",TIGRFAM,15.0,1-406
+OFBKKLGO_02746_tig,TIGR00115,TIGR00115,tig: trigger factor,TIGRFAM,15.0,12-421
+OFBKKLGO_02748_leuD1,TIGR00171,TIGR00171,"leuD: 3-isopropylmalate dehydratase, small subunit",TIGRFAM,15.0,1-186
+OFBKKLGO_02749_leuC,TIGR00170,TIGR00170,"leuC: 3-isopropylmalate dehydratase, large subunit",TIGRFAM,15.0,2-465
+OFBKKLGO_02750_leuB,TIGR00169,TIGR00169,leuB: 3-isopropylmalate dehydrogenase,TIGRFAM,15.0,4-351
+OFBKKLGO_02751_leuA,TIGR00973,TIGR00973,leuA_bact: 2-isopropylmalate synthase,TIGRFAM,15.0,3-498
+OFBKKLGO_02752_ilvC,TIGR00465,TIGR00465,ilvC: ketol-acid reductoisomerase,TIGRFAM,15.0,15-327
+OFBKKLGO_02753_ilvH,TIGR00119,TIGR00119,"acolac_sm: acetolactate synthase, small subunit",TIGRFAM,15.0,2-158
+OFBKKLGO_02758_group_2914,TIGR00040,TIGR00040,"yfcE: phosphodiesterase, MJ0936 family",TIGRFAM,15.0,1-146
+OFBKKLGO_02760_rph,TIGR01966,TIGR01966,RNasePH: ribonuclease PH,TIGRFAM,15.0,2-237
+OFBKKLGO_02762_racE,TIGR00067,TIGR00067,glut_race: glutamate racemase,TIGRFAM,15.0,5-254
+OFBKKLGO_02766_frdB,TIGR00384,TIGR00384,dhsB: succinate dehydrogenase and fumarate reductase iron-sulfur protein,TIGRFAM,15.0,10-233
+OFBKKLGO_02767_frdA,TIGR01811,TIGR01811,"sdhA_Bsu: succinate dehydrogenase or fumarate reductase, flavoprotein subunit",TIGRFAM,15.0,6-579
+OFBKKLGO_02768_sdhC,TIGR02046,TIGR02046,"sdhC_b558_fam: succinate dehydrogenase (or fumarate reductase) cytochrome b subunit, b558 family",TIGRFAM,15.0,5-202
+OFBKKLGO_02770_lysC_2,TIGR00656,TIGR00656,"asp_kin_monofn: aspartate kinase, monofunctional class",TIGRFAM,15.0,1-402
+OFBKKLGO_02770_lysC_2,TIGR00657,TIGR00657,asp_kinases: aspartate kinase,TIGRFAM,15.0,59-401
+OFBKKLGO_02772_uvrC_1,TIGR00194,TIGR00194,uvrC: excinuclease ABC subunit C,TIGRFAM,15.0,5-569
+OFBKKLGO_02773_trxA,TIGR01068,TIGR01068,thioredoxin: thioredoxin,TIGRFAM,15.0,8-103
+OFBKKLGO_02782_mutS2,TIGR01069,TIGR01069,mutS2: MutS2 family protein,TIGRFAM,15.0,2-785
+OFBKKLGO_02786_rnhC,TIGR00716,TIGR00716,rnhC: ribonuclease HIII,TIGRFAM,15.0,5-300
+OFBKKLGO_02787_pheT,TIGR00472,TIGR00472,"pheT_bact: phenylalanine--tRNA ligase, beta subunit",TIGRFAM,15.0,1-803
+OFBKKLGO_02788_pheS,TIGR00468,TIGR00468,"pheS: phenylalanine--tRNA ligase, alpha subunit",TIGRFAM,15.0,40-342
+OFBKKLGO_02790_sspI,TIGR03092,TIGR03092,"SASP_sspI: small, acid-soluble spore protein I",TIGRFAM,15.0,4-68
+OFBKKLGO_02801_araD,TIGR00760,TIGR00760,araD: L-ribulose-5-phosphate 4-epimerase,TIGRFAM,15.0,1-228
+OFBKKLGO_02808_rplT,TIGR01032,TIGR01032,rplT_bact: ribosomal protein bL20,TIGRFAM,15.0,1-114
+OFBKKLGO_02809_rpmI,TIGR00001,TIGR00001,rpmI_bact: ribosomal protein bL35,TIGRFAM,15.0,2-62
+OFBKKLGO_02810_infC,TIGR00168,TIGR00168,infC: translation initiation factor IF-3,TIGRFAM,15.0,2-164
+OFBKKLGO_02816_ppaX_1,TIGR01549,TIGR01549,"HAD-SF-IA-v1: HAD hydrolase, family IA, variant 1",TIGRFAM,15.0,104-225
+OFBKKLGO_02816_ppaX_1,TIGR01509,TIGR01509,"HAD-SF-IA-v3: HAD hydrolase, family IA, variant 3",TIGRFAM,15.0,117-231
+OFBKKLGO_02817_thrS,TIGR00418,TIGR00418,thrS: threonine--tRNA ligase,TIGRFAM,15.0,75-640
+OFBKKLGO_02818_group_6360,TIGR02834,TIGR02834,spo_ytxC: putative sporulation protein YtxC,TIGRFAM,15.0,3-262
+OFBKKLGO_02822_nrdR,TIGR00244,TIGR00244,TIGR00244: transcriptional regulator NrdR,TIGRFAM,15.0,1-147
+OFBKKLGO_02823_speH,TIGR03330,TIGR03330,SAM_DCase_Bsu: S-adenosylmethionine decarboxylase proenzyme,TIGRFAM,15.0,3-112
+OFBKKLGO_02824_gapB,TIGR01534,TIGR01534,"GAPDH-I: glyceraldehyde-3-phosphate dehydrogenase, type I",TIGRFAM,15.0,4-325
+OFBKKLGO_02828_coaE,TIGR00152,TIGR00152,TIGR00152: dephospho-CoA kinase,TIGRFAM,15.0,4-191
+OFBKKLGO_02829_ytaF_2,TIGR02840,TIGR02840,spore_YtaF: putative sporulation protein YtaF,TIGRFAM,15.0,4-210
+OFBKKLGO_02830_mutM,TIGR00577,TIGR00577,fpg: DNA-formamidopyrimidine glycosylase,TIGRFAM,15.0,1-273
+OFBKKLGO_02831_polA,TIGR00593,TIGR00593,pola: DNA polymerase I,TIGRFAM,15.0,7-879
+OFBKKLGO_02832_phoR,TIGR00229,TIGR00229,sensory_box: PAS domain S-box protein,TIGRFAM,15.0,235-351
+OFBKKLGO_02834_mdh,TIGR01763,TIGR01763,"MalateDH_bact: malate dehydrogenase, NAD-dependent",TIGRFAM,15.0,5-311
+OFBKKLGO_02835_icd,TIGR00183,TIGR00183,"prok_nadp_idh: isocitrate dehydrogenase, NADP-dependent",TIGRFAM,15.0,2-423
+OFBKKLGO_02836_citZ,TIGR01800,TIGR01800,cit_synth_II: 2-methylcitrate synthase/citrate synthase II,TIGRFAM,15.0,5-371
+OFBKKLGO_02838_group_16338,TIGR02872,TIGR02872,spore_ytvI: sporulation integral membrane protein YtvI,TIGRFAM,15.0,11-359
+OFBKKLGO_02840_pyk,TIGR01064,TIGR01064,pyruv_kin: pyruvate kinase,TIGRFAM,15.0,2-472
+OFBKKLGO_02841_pfkA,TIGR02482,TIGR02482,PFKA_ATP: 6-phosphofructokinase,TIGRFAM,15.0,3-299
+OFBKKLGO_02842_accA,TIGR00513,TIGR00513,"accA: acetyl-CoA carboxylase, carboxyl transferase, alpha subunit",TIGRFAM,15.0,2-319
+OFBKKLGO_02843_accD,TIGR00515,TIGR00515,"accD: acetyl-CoA carboxylase, carboxyl transferase, beta subunit",TIGRFAM,15.0,15-282
+OFBKKLGO_02845_dnaE,TIGR00594,TIGR00594,"polc: DNA polymerase III, alpha subunit",TIGRFAM,15.0,3-990
+OFBKKLGO_02855_argH,TIGR00838,TIGR00838,argH: argininosuccinate lyase,TIGRFAM,15.0,4-455
+OFBKKLGO_02856_argG,TIGR00032,TIGR00032,argG: argininosuccinate synthase,TIGRFAM,15.0,6-396
+OFBKKLGO_02857_moaB,TIGR00177,TIGR00177,molyb_syn: molybdenum cofactor synthesis domain,TIGRFAM,15.0,14-157
+OFBKKLGO_02858_ackA,TIGR00016,TIGR00016,ackA: acetate kinase,TIGRFAM,15.0,2-394
+OFBKKLGO_02861_ytfJ,TIGR02874,TIGR02874,spore_ytfJ: sporulation protein YtfJ,TIGRFAM,15.0,3-134
+OFBKKLGO_02864_sppA,TIGR00706,TIGR00706,"SppA_dom: signal peptide peptidase SppA, 36K type",TIGRFAM,15.0,59-280
+OFBKKLGO_02869_thiI,TIGR00342,TIGR00342,TIGR00342: tRNA sulfurtransferase ThiI,TIGRFAM,15.0,6-373
+OFBKKLGO_02871_brnQ,TIGR00796,TIGR00796,livcs: branched-chain amino acid transport system II carrier protein,TIGRFAM,15.0,14-420
+OFBKKLGO_02876_group_3783,TIGR00254,TIGR00254,GGDEF: diguanylate cyclase (GGDEF) domain,TIGRFAM,15.0,420-575
+OFBKKLGO_02877_rpsD,TIGR01017,TIGR01017,rpsD_bact: ribosomal protein uS4,TIGRFAM,15.0,3-200
+OFBKKLGO_02888_tyrS1,TIGR00234,TIGR00234,tyrS: tyrosine--tRNA ligase,TIGRFAM,15.0,1-420
+OFBKKLGO_02896_ccpA_2,TIGR01481,TIGR01481,ccpA: catabolite control protein A,TIGRFAM,15.0,3-333
+OFBKKLGO_02897_aroA,TIGR01361,TIGR01361,DAHP_synth_Bsub: 3-deoxy-7-phosphoheptulonate synthase,TIGRFAM,15.0,95-351
+OFBKKLGO_02897_aroA,TIGR01801,TIGR01801,CM_A: chorismate mutase,TIGRFAM,15.0,1-101
+OFBKKLGO_02898_group_2279,TIGR04019,TIGR04019,B_thiol_YtxJ: bacillithiol system protein YtxJ,TIGRFAM,15.0,6-105
+OFBKKLGO_02901_murC,TIGR01082,TIGR01082,murC: UDP-N-acetylmuramate--L-alanine ligase,TIGRFAM,15.0,4-430
+OFBKKLGO_02906_group_1007,TIGR03646,TIGR03646,YtoQ_fam: YtoQ family protein,TIGRFAM,15.0,3-146
+OFBKKLGO_02911_trmB,TIGR00091,TIGR00091,TIGR00091: tRNA (guanine-N(7)-)-methyltransferase,TIGRFAM,15.0,24-212
+OFBKKLGO_02917_cysK_2,TIGR01139,TIGR01139,cysK: cysteine synthase A,TIGRFAM,15.0,8-307
+OFBKKLGO_02917_cysK_2,TIGR01136,TIGR01136,cysKM: cysteine synthase,TIGRFAM,15.0,8-307
+OFBKKLGO_02918_group_2927,TIGR01887,TIGR01887,dipeptidaselike: putative dipeptidase,TIGRFAM,15.0,11-459
+OFBKKLGO_02925_baiN,TIGR00275,TIGR00275,"TIGR00275: flavoprotein, HI0933 family",TIGRFAM,15.0,6-411
+OFBKKLGO_02926_opuD,TIGR00842,TIGR00842,"bcct: transporter, betaine/carnitine/choline transporter (BCCT) family",TIGRFAM,15.0,47-490
+OFBKKLGO_02935_leuS,TIGR00396,TIGR00396,leuS_bact: leucine--tRNA ligase,TIGRFAM,15.0,4-803
+OFBKKLGO_02938_pfyP,TIGR00229,TIGR00229,sensory_box: PAS domain S-box protein,TIGRFAM,15.0,11-134
+OFBKKLGO_02955_group_4869,TIGR01212,TIGR01212,"TIGR01212: radical SAM protein, TIGR01212 family",TIGRFAM,15.0,15-314
+OFBKKLGO_02962_asnB,TIGR01536,TIGR01536,asn_synth_AEB: asparagine synthase (glutamine-hydrolyzing),TIGRFAM,15.0,2-547
+OFBKKLGO_02963_metK,TIGR01034,TIGR01034,metK: methionine adenosyltransferase,TIGRFAM,15.0,7-395
+OFBKKLGO_02965_pckA,TIGR00224,TIGR00224,pckA: phosphoenolpyruvate carboxykinase (ATP),TIGRFAM,15.0,2-526
+OFBKKLGO_02971_ytkD,TIGR02705,TIGR02705,nudix_YtkD: nucleoside triphosphatase YtkD,TIGRFAM,15.0,3-156
+OFBKKLGO_02977_yidD,TIGR00278,TIGR00278,TIGR00278: putative membrane protein insertion efficiency factor,TIGRFAM,15.0,5-75
+OFBKKLGO_02979_rpmE2,TIGR00105,TIGR00105,L31: ribosomal protein bL31,TIGRFAM,15.0,1-80
+OFBKKLGO_02983_menC,TIGR01928,TIGR01928,menC_lowGC/arch: o-succinylbenzoate synthase,TIGRFAM,15.0,10-334
+OFBKKLGO_02985_menB,TIGR01929,TIGR01929,menB: naphthoate synthase,TIGRFAM,15.0,11-268
+OFBKKLGO_02987_menD,TIGR00173,TIGR00173,menD: 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase,TIGRFAM,15.0,9-442
+OFBKKLGO_02988_pchA,TIGR00543,TIGR00543,isochor_syn: isochorismate synthase,TIGRFAM,15.0,116-465
+OFBKKLGO_02994_thiT,TIGR02357,TIGR02357,ECF_ThiT_YuaJ: energy-coupled thiamine transporter ThiT,TIGRFAM,15.0,8-189
+OFBKKLGO_03000_gbsA,TIGR01804,TIGR01804,BADH: betaine-aldehyde dehydrogenase,TIGRFAM,15.0,6-474
+OFBKKLGO_03063_uppP,TIGR00753,TIGR00753,undec_PP_bacA: undecaprenyl-diphosphatase UppP,TIGRFAM,15.0,9-268
+OFBKKLGO_03066_yraA_2,TIGR01382,TIGR01382,"PfpI: intracellular protease, PfpI family",TIGRFAM,15.0,7-171
+OFBKKLGO_03073_pnoA,TIGR00149,TIGR00149,TIGR00149_YjbQ: secondary thiamine-phosphate synthase enzyme,TIGRFAM,15.0,3-132
+OFBKKLGO_03092_patB,TIGR04350,TIGR04350,C_S_lyase_PatB: putative C-S lyase,TIGRFAM,15.0,4-386
+OFBKKLGO_03107_mrpA,TIGR00940,TIGR00940,2a6301s01: monovalent cation:proton antiporter,TIGRFAM,15.0,4-794
+OFBKKLGO_03108_mrpB,TIGR00943,TIGR00943,2a6301s02: monovalent cation:proton antiporter,TIGRFAM,15.0,29-135
+OFBKKLGO_03110_mrpD,TIGR00944,TIGR00944,2a6301s04: multicomponent K+:H+antiporter,TIGRFAM,15.0,6-466
+OFBKKLGO_03113_mrpG,TIGR01300,TIGR01300,"CPA3_mnhG_phaG: monovalent cation/proton antiporter, MnhG/PhaG subunit",TIGRFAM,15.0,11-108
+OFBKKLGO_03123_pncB,TIGR01513,TIGR01513,NAPRTase_put: nicotinate phosphoribosyltransferase,TIGRFAM,15.0,12-467
+OFBKKLGO_03130_group_6441,TIGR00277,TIGR00277,HDIG: HDIG domain,TIGRFAM,15.0,22-91
+OFBKKLGO_03139_ald,TIGR00518,TIGR00518,alaDH: alanine dehydrogenase,TIGRFAM,15.0,1-370
+OFBKKLGO_03142_dhbF,TIGR01733,TIGR01733,AA-adenyl-dom: amino acid adenylation domain,TIGRFAM,15.0,1535-1953;478-879
+OFBKKLGO_03144_dhbE,TIGR02275,TIGR02275,"DHB_AMP_lig: (2,3-dihydroxybenzoyl)adenylate synthase",TIGRFAM,15.0,4-526
+OFBKKLGO_03146_dhbA,TIGR04316,TIGR04316,"dhbA_paeA: 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase",TIGRFAM,15.0,11-260
+OFBKKLGO_03158_guaC,TIGR01306,TIGR01306,GMP_reduct_2: guanosine monophosphate reductase,TIGRFAM,15.0,1-306
+OFBKKLGO_03218_erpA,TIGR00049,TIGR00049,TIGR00049: iron-sulfur cluster assembly accessory protein,TIGRFAM,15.0,5-109
+OFBKKLGO_03219_dapF,TIGR00652,TIGR00652,DapF: diaminopimelate epimerase,TIGRFAM,15.0,5-283
+OFBKKLGO_03226_thrB,TIGR00191,TIGR00191,thrB: homoserine kinase,TIGRFAM,15.0,8-305
+OFBKKLGO_03227_thrC,TIGR00260,TIGR00260,thrC: threonine synthase,TIGRFAM,15.0,9-325
+OFBKKLGO_03229_group_6469,TIGR02905,TIGR02905,spore_yutH: spore coat protein YutH,TIGRFAM,15.0,4-311
+OFBKKLGO_03231_yutF,TIGR01457,TIGR01457,"HAD-SF-IIA-hyp2: HAD hydrolase, TIGR01457 family",TIGRFAM,15.0,4-252
+OFBKKLGO_03231_yutF,TIGR01460,TIGR01460,"HAD-SF-IIA: HAD hydrolase, family IIA",TIGRFAM,15.0,8-228
+OFBKKLGO_03234_lipA,TIGR00510,TIGR00510,lipA: lipoyl synthase,TIGRFAM,15.0,3-293
+OFBKKLGO_03265_group_6744,TIGR01980,TIGR01980,sufB: FeS assembly protein SufB,TIGRFAM,15.0,10-456
+OFBKKLGO_03266_sufU,TIGR01994,TIGR01994,"SUF_scaf_2: SUF system FeS assembly protein, NifU family",TIGRFAM,15.0,7-140
+OFBKKLGO_03267_sufS,TIGR01979,TIGR01979,"sufS: cysteine desulfurase, SufS family",TIGRFAM,15.0,5-402
+OFBKKLGO_03268_group_15860,TIGR01981,TIGR01981,sufD: FeS assembly protein SufD,TIGRFAM,15.0,152-428
+OFBKKLGO_03269_sufC,TIGR01978,TIGR01978,sufC: FeS assembly ATPase SufC,TIGRFAM,15.0,6-246
+OFBKKLGO_03280_gcvH,TIGR00527,TIGR00527,gcvH: glycine cleavage system H protein,TIGRFAM,15.0,3-127
+OFBKKLGO_03281_mgsR_2,TIGR01617,TIGR01617,"arsC_related: transcriptional regulator, Spx/MgsR family",TIGRFAM,15.0,3-117
+OFBKKLGO_03283_fadA_4,TIGR01930,TIGR01930,AcCoA-C-Actrans: acetyl-CoA C-acyltransferase,TIGRFAM,15.0,6-389
+OFBKKLGO_03290_bmr3_1,TIGR00711,TIGR00711,"efflux_EmrB: drug resistance MFS transporter, drug:H+ antiporter-2 (14 Spanner) (DHA2) family",TIGRFAM,15.0,13-435
+OFBKKLGO_03305_fumC,TIGR00979,TIGR00979,"fumC_II: fumarate hydratase, class II",TIGRFAM,15.0,3-458
+OFBKKLGO_03326_sigO,TIGR02937,TIGR02937,"sigma70-ECF: RNA polymerase sigma factor, sigma-70 family",TIGRFAM,15.0,48-182
+OFBKKLGO_03328_oxdC_2,TIGR03404,TIGR03404,"bicupin_oxalic: bicupin, oxalate decarboxylase family",TIGRFAM,15.0,16-382
+OFBKKLGO_03337_sspJ,TIGR02863,TIGR02863,"spore_sspJ: small, acid-soluble spore protein, SspJ family",TIGRFAM,15.0,1-46
+OFBKKLGO_03340_group_3850,TIGR01764,TIGR01764,"excise: DNA binding domain, excisionase family",TIGRFAM,15.0,7-53
+OFBKKLGO_03341_modA,TIGR01256,TIGR01256,"modA: molybdate ABC transporter, periplasmic molybdate-binding protein",TIGRFAM,15.0,43-260
+OFBKKLGO_03342_modB,TIGR02141,TIGR02141,"modB_ABC: molybdate ABC transporter, permease protein",TIGRFAM,15.0,19-223
+OFBKKLGO_03350_nhaK,TIGR00831,TIGR00831,a_cpa1: Na+/H+ antiporter,TIGRFAM,15.0,12-525
+OFBKKLGO_03351_cysI,TIGR02041,TIGR02041,"CysI: sulfite reductase (NADPH) hemoprotein, beta-component",TIGRFAM,15.0,17-560
+OFBKKLGO_03352_cysJ,TIGR01931,TIGR01931,"cysJ: sulfite reductase [NADPH] flavoprotein, alpha-component",TIGRFAM,15.0,6-602
+OFBKKLGO_03358_cadA,TIGR01494,TIGR01494,"ATPase_P-type: HAD ATPase, P-type, family IC",TIGRFAM,15.0,174-674
+OFBKKLGO_03358_cadA,TIGR01512,TIGR01512,ATPase-IB2_Cd: cadmium-translocating P-type ATPase,TIGRFAM,15.0,149-699
+OFBKKLGO_03358_cadA,TIGR01525,TIGR01525,ATPase-IB_hvy: heavy metal translocating P-type ATPase,TIGRFAM,15.0,150-697
+OFBKKLGO_03359_copA,TIGR01525,TIGR01525,ATPase-IB_hvy: heavy metal translocating P-type ATPase,TIGRFAM,15.0,230-802
+OFBKKLGO_03359_copA,TIGR00003,TIGR00003,TIGR00003: copper ion binding protein,TIGRFAM,15.0,74-138;7-70
+OFBKKLGO_03359_copA,TIGR01511,TIGR01511,ATPase-IB1_Cu: copper-translocating P-type ATPase,TIGRFAM,15.0,211-803
+OFBKKLGO_03359_copA,TIGR01494,TIGR01494,"ATPase_P-type: HAD ATPase, P-type, family IC",TIGRFAM,15.0,270-784
+OFBKKLGO_03360_copZ,TIGR00003,TIGR00003,TIGR00003: copper ion binding protein,TIGRFAM,15.0,3-68
+OFBKKLGO_03368_tcyM,TIGR01726,TIGR01726,"HEQRo_perm_3TM: amino ABC transporter, permease protein, 3-TM region, His/Glu/Gln/Arg/opine family",TIGRFAM,15.0,13-122
+OFBKKLGO_03369_tcyL,TIGR01726,TIGR01726,"HEQRo_perm_3TM: amino ABC transporter, permease protein, 3-TM region, His/Glu/Gln/Arg/opine family",TIGRFAM,15.0,15-118
+OFBKKLGO_03376_smpB,TIGR00086,TIGR00086,smpB: SsrA-binding protein,TIGRFAM,15.0,9-149
+OFBKKLGO_03379_secG,TIGR00810,TIGR00810,"secG: preprotein translocase, SecG subunit",TIGRFAM,15.0,2-75
+OFBKKLGO_03392_opuBA,TIGR01186,TIGR01186,proV: glycine betaine/L-proline transport ATP binding subunit,TIGRFAM,15.0,12-372
+OFBKKLGO_03397_opuCA,TIGR01186,TIGR01186,proV: glycine betaine/L-proline transport ATP binding subunit,TIGRFAM,15.0,13-371
+OFBKKLGO_03399_group_3859,TIGR00427,TIGR00427,"TIGR00427: membrane protein, MarC family",TIGRFAM,15.0,2-201
+OFBKKLGO_03413_eno,TIGR01060,TIGR01060,eno: phosphopyruvate hydratase,TIGRFAM,15.0,4-427
+OFBKKLGO_03414_gpmI,TIGR01307,TIGR01307,"pgm_bpd_ind: phosphoglycerate mutase (2,3-diphosphoglycerate-independent)",TIGRFAM,15.0,5-509
+OFBKKLGO_03415_tpiA,TIGR00419,TIGR00419,tim: triose-phosphate isomerase,TIGRFAM,15.0,5-240
+OFBKKLGO_03417_gapA,TIGR01534,TIGR01534,"GAPDH-I: glyceraldehyde-3-phosphate dehydrogenase, type I",TIGRFAM,15.0,4-325
+OFBKKLGO_03420_araE,TIGR00879,TIGR00879,"SP: MFS transporter, sugar porter (SP) family",TIGRFAM,15.0,13-458
+OFBKKLGO_03422_group_6507,TIGR03558,TIGR03558,"oxido_grp_1: luciferase family oxidoreductase, group 1",TIGRFAM,15.0,11-331
+OFBKKLGO_03429_xylB_2,TIGR01314,TIGR01314,gntK_FGGY: gluconate kinase,TIGRFAM,15.0,7-509
+OFBKKLGO_03430_idnT,TIGR00791,TIGR00791,"gntP: transporter, gluconate:H+ symporter (GntP) family",TIGRFAM,15.0,2-442
+OFBKKLGO_03432_lutB,TIGR00273,TIGR00273,TIGR00273: iron-sulfur cluster-binding protein,TIGRFAM,15.0,18-455
+OFBKKLGO_03436_lutP,TIGR00795,TIGR00795,"lctP: transporter, lactate permease (LctP) family",TIGRFAM,15.0,15-549
+OFBKKLGO_03453_yveL,TIGR01007,TIGR01007,eps_fam: capsular exopolysaccharide family,TIGRFAM,15.0,26-225
+OFBKKLGO_03471_rafB,TIGR00882,TIGR00882,2A0105: oligosaccharide:H+ symporter,TIGRFAM,15.0,7-393
+OFBKKLGO_03473_clpP,TIGR00493,TIGR00493,"clpP: ATP-dependent Clp endopeptidase, proteolytic subunit ClpP",TIGRFAM,15.0,1-192
+OFBKKLGO_03480_dauA_2,TIGR00815,TIGR00815,sulP: sulfate permease,TIGRFAM,15.0,8-523
+OFBKKLGO_03485_crh,TIGR01003,TIGR01003,"PTS_HPr_family: phosphocarrier, HPr family",TIGRFAM,15.0,1-81
+OFBKKLGO_03490_trxB,TIGR01292,TIGR01292,TRX_reduct: thioredoxin-disulfide reductase,TIGRFAM,15.0,8-306
+OFBKKLGO_03496_hisI,TIGR03188,TIGR03188,histidine_hisI: phosphoribosyl-ATP diphosphatase,TIGRFAM,15.0,115-198
+OFBKKLGO_03497_hisF,TIGR00735,TIGR00735,"hisF: imidazoleglycerol phosphate synthase, cyclase subunit",TIGRFAM,15.0,1-252
+OFBKKLGO_03498_priA_2,TIGR00007,TIGR00007,TIGR00007: 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase,TIGRFAM,15.0,6-237
+OFBKKLGO_03499_hisH,TIGR01855,TIGR01855,"IMP_synth_hisH: imidazole glycerol phosphate synthase, glutamine amidotransferase subunit",TIGRFAM,15.0,2-204
+OFBKKLGO_03501_hisD,TIGR00069,TIGR00069,hisD: histidinol dehydrogenase,TIGRFAM,15.0,29-421
+OFBKKLGO_03502_hisG,TIGR00070,TIGR00070,hisG: ATP phosphoribosyltransferase,TIGRFAM,15.0,5-184
+OFBKKLGO_03503_hisZ,TIGR00443,TIGR00443,"hisZ_biosyn_reg: ATP phosphoribosyltransferase, regulatory subunit",TIGRFAM,15.0,9-318
+OFBKKLGO_03506_ppaX_2,TIGR01509,TIGR01509,"HAD-SF-IA-v3: HAD hydrolase, family IA, variant 3",TIGRFAM,15.0,74-184
+OFBKKLGO_03506_ppaX_2,TIGR01549,TIGR01549,"HAD-SF-IA-v1: HAD hydrolase, family IA, variant 1",TIGRFAM,15.0,75-178
+OFBKKLGO_03507_lgt,TIGR00544,TIGR00544,lgt: prolipoprotein diacylglyceryl transferase,TIGRFAM,15.0,6-265
+OFBKKLGO_03508_hprK,TIGR00679,TIGR00679,hpr-ser: HPr(Ser) kinase/phosphatase,TIGRFAM,15.0,7-301
+OFBKKLGO_03510_nagB,TIGR00502,TIGR00502,nagB: glucosamine-6-phosphate deaminase,TIGRFAM,15.0,1-238
+OFBKKLGO_03519_uvrA,TIGR00630,TIGR00630,uvra: excinuclease ABC subunit A,TIGRFAM,15.0,5-922
+OFBKKLGO_03520_uvrB,TIGR00631,TIGR00631,uvrb: excinuclease ABC subunit B,TIGRFAM,15.0,4-658
+OFBKKLGO_03529_ctpB,TIGR00225,TIGR00225,prc: C-terminal processing peptidase,TIGRFAM,15.0,50-368
+OFBKKLGO_03532_ftsE,TIGR02673,TIGR02673,FtsE: cell division ATP-binding protein FtsE,TIGRFAM,15.0,1-213
+OFBKKLGO_03535_prfB,TIGR00020,TIGR00020,prfB: peptide chain release factor 2,TIGRFAM,15.0,1-325
+OFBKKLGO_03536_secA,TIGR00963,TIGR00963,"secA: preprotein translocase, SecA subunit",TIGRFAM,15.0,26-496
+OFBKKLGO_03537_yvyD,TIGR00741,TIGR00741,yfiA: ribosomal subunit interface protein,TIGRFAM,15.0,1-102
+OFBKKLGO_03540_fliS,TIGR00208,TIGR00208,fliS: flagellar protein FliS,TIGRFAM,15.0,1-122
+OFBKKLGO_03543_csrA,TIGR00202,TIGR00202,csrA: carbon storage regulator,TIGRFAM,15.0,1-66
+OFBKKLGO_03546_flaB3,TIGR02550,TIGR02550,flagell_flgL: flagellar hook-associated protein 3,TIGRFAM,15.0,2-163
+OFBKKLGO_03549_group_3886,TIGR03824,TIGR03824,FlgM_jcvi: flagellar biosynthesis anti-sigma factor FlgM,TIGRFAM,15.0,1-86
+OFBKKLGO_03550_group_1034,TIGR03826,TIGR03826,YvyF: flagellar operon protein TIGR03826,TIGRFAM,15.0,3-138
+OFBKKLGO_03554_degV,TIGR00762,TIGR00762,"DegV: EDD domain protein, DegV family",TIGRFAM,15.0,3-278
+OFBKKLGO_03557_yigZ,TIGR00257,TIGR00257,"IMPACT_YIGZ: uncharacterized protein, YigZ family",TIGRFAM,15.0,1-200
+OFBKKLGO_03558_tagU_1,TIGR00350,TIGR00350,lytR_cpsA_psr: cell envelope-related function transcriptional attenuator common domain,TIGRFAM,15.0,91-244
+OFBKKLGO_03578_tagD,TIGR00125,TIGR00125,cyt_tran_rel: cytidyltransferase-like domain,TIGRFAM,15.0,4-68
+OFBKKLGO_03578_tagD,TIGR01518,TIGR01518,g3p_cytidyltrns: glycerol-3-phosphate cytidylyltransferase,TIGRFAM,15.0,4-126
+OFBKKLGO_03579_tagA,TIGR00696,TIGR00696,"wecG_tagA_cpsF: glycosyltransferase, WecB/TagA/CpsF family",TIGRFAM,15.0,56-230
+OFBKKLGO_03582_yvyI,TIGR00218,TIGR00218,"manA: mannose-6-phosphate isomerase, class I",TIGRFAM,15.0,104-315
+OFBKKLGO_03588_tagT,TIGR00350,TIGR00350,lytR_cpsA_psr: cell envelope-related function transcriptional attenuator common domain,TIGRFAM,15.0,94-243
+OFBKKLGO_03589_ywtE,TIGR01484,TIGR01484,"HAD-SF-IIB: HAD hydrolase, family IIB",TIGRFAM,15.0,3-250
+OFBKKLGO_03589_ywtE,TIGR00099,TIGR00099,Cof-subfamily: Cof-like hydrolase,TIGRFAM,15.0,3-277
+OFBKKLGO_03595_capB,TIGR04012,TIGR04012,poly_gGlu_PgsB: poly-gamma-glutamate synthase PgsB,TIGRFAM,15.0,2-383
+OFBKKLGO_03607_alsD,TIGR01252,TIGR01252,acetolac_decarb: alpha-acetolactate decarboxylase,TIGRFAM,15.0,21-251
+OFBKKLGO_03608_alsS,TIGR02418,TIGR02418,"acolac_catab: acetolactate synthase, catabolic",TIGRFAM,15.0,17-554
+OFBKKLGO_03630_ywqF,TIGR03026,TIGR03026,NDP-sugDHase: nucleotide sugar dehydrogenase,TIGRFAM,15.0,1-411
+OFBKKLGO_03632_ywqD,TIGR01007,TIGR01007,eps_fam: capsular exopolysaccharide family,TIGRFAM,15.0,26-228
+OFBKKLGO_03637_ywpJ,TIGR00099,TIGR00099,Cof-subfamily: Cof-like hydrolase,TIGRFAM,15.0,3-281
+OFBKKLGO_03637_ywpJ,TIGR01484,TIGR01484,"HAD-SF-IIB: HAD hydrolase, family IIB",TIGRFAM,15.0,3-254
+OFBKKLGO_03639_ssbB,TIGR00621,TIGR00621,ssb: single-stranded DNA-binding protein,TIGRFAM,15.0,2-108
+OFBKKLGO_03642_mscL,TIGR00220,TIGR00220,mscL: large conductance mechanosensitive channel protein,TIGRFAM,15.0,1-125
+OFBKKLGO_03643_fabZ_2,TIGR01750,TIGR01750,fabZ: beta-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ,TIGRFAM,15.0,2-138
+OFBKKLGO_03645_flgG_2,TIGR03506,TIGR03506,FlgEFG_subfam: flagellar hook-basal body protein,TIGRFAM,15.0,158-256;5-145
+OFBKKLGO_03647_mbl,TIGR00904,TIGR00904,"mreB: cell shape determining protein, MreB/Mrl family",TIGRFAM,15.0,2-327
+OFBKKLGO_03648_spoIIID,TIGR02844,TIGR02844,spore_III_D: sporulation transcriptional regulator SpoIIID,TIGRFAM,15.0,2-81
+OFBKKLGO_03651_pucI,TIGR00800,TIGR00800,ncs1: NCS1 nucleoside transporter family,TIGRFAM,15.0,11-446
+OFBKKLGO_03655_nrgA,TIGR00836,TIGR00836,amt: ammonium transporter,TIGRFAM,15.0,5-400
+OFBKKLGO_03657_ftsW_3,TIGR02614,TIGR02614,ftsW: cell division protein FtsW,TIGRFAM,15.0,12-362
+OFBKKLGO_03664_clsA,TIGR04265,TIGR04265,bac_cardiolipin: cardiolipin synthase,TIGRFAM,15.0,7-482
+OFBKKLGO_03669_ureC,TIGR01792,TIGR01792,"urease_alph: urease, alpha subunit",TIGRFAM,15.0,2-569
+OFBKKLGO_03671_ureB,TIGR00192,TIGR00192,"urease_beta: urease, beta subunit",TIGRFAM,15.0,1-103
+OFBKKLGO_03672_ureA,TIGR00193,TIGR00193,"urease_gam: urease, gamma subunit",TIGRFAM,15.0,1-102
+OFBKKLGO_03676_moaA,TIGR02666,TIGR02666,moaA: molybdenum cofactor biosynthesis protein A,TIGRFAM,15.0,9-341
+OFBKKLGO_03677_fdhD,TIGR00129,TIGR00129,fdhD_narQ: formate dehydrogenase family accessory protein FdhD,TIGRFAM,15.0,23-261
+OFBKKLGO_03681_group_6569,TIGR02870,TIGR02870,spore_II_D: stage II sporulation protein D,TIGRFAM,15.0,5-332
+OFBKKLGO_03681_group_6569,TIGR02669,TIGR02669,SpoIID_LytB: SpoIID/LytB domain,TIGRFAM,15.0,72-331
+OFBKKLGO_03682_murAA,TIGR01072,TIGR01072,murA: UDP-N-acetylglucosamine 1-carboxyvinyltransferase,TIGRFAM,15.0,2-416
+OFBKKLGO_03684_group_4978,TIGR02327,TIGR02327,int_mem_ywzB: conserved hypothetical integral membrane protein,TIGRFAM,15.0,10-76
+OFBKKLGO_03686_atpC,TIGR01216,TIGR01216,"ATP_synt_epsi: ATP synthase F1, epsilon subunit",TIGRFAM,15.0,3-130
+OFBKKLGO_03687_atpD,TIGR01039,TIGR01039,"atpD: ATP synthase F1, beta subunit",TIGRFAM,15.0,3-469
+OFBKKLGO_03688_atpG,TIGR01146,TIGR01146,"ATPsyn_F1gamma: ATP synthase F1, gamma subunit",TIGRFAM,15.0,2-286
+OFBKKLGO_03689_atpA,TIGR00962,TIGR00962,"atpA: ATP synthase F1, alpha subunit",TIGRFAM,15.0,3-499
+OFBKKLGO_03690_atpH,TIGR01145,TIGR01145,"ATP_synt_delta: ATP synthase F1, delta subunit",TIGRFAM,15.0,6-176
+OFBKKLGO_03691_atpF,TIGR01144,TIGR01144,"ATP_synt_b: ATP synthase F0, B subunit",TIGRFAM,15.0,20-166
+OFBKKLGO_03692_atpE,TIGR01260,TIGR01260,"ATP_synt_c: ATP synthase F0, C subunit",TIGRFAM,15.0,14-69
+OFBKKLGO_03693_atpB,TIGR01131,TIGR01131,"ATP_synt_6_or_A: ATP synthase F0, A subunit",TIGRFAM,15.0,15-239
+OFBKKLGO_03695_upp,TIGR01091,TIGR01091,upp: uracil phosphoribosyltransferase,TIGRFAM,15.0,3-209
+OFBKKLGO_03697_lacA,TIGR01440,TIGR01440,TIGR01440: TIGR01440 family protein,TIGRFAM,15.0,9-177
+OFBKKLGO_03701_ywlC,TIGR00057,TIGR00057,"TIGR00057: tRNA threonylcarbamoyl adenosine modification protein, Sua5/YciO/YrdC/YwlC family",TIGRFAM,15.0,17-212
+OFBKKLGO_03703_group_6574,TIGR02837,TIGR02837,spore_II_R: stage II sporulation protein R,TIGRFAM,15.0,3-170
+OFBKKLGO_03706_prmC,TIGR03534,TIGR03534,"RF_mod_PrmC: protein-(glutamine-N5) methyltransferase, release factor-specific",TIGRFAM,15.0,25-280
+OFBKKLGO_03706_prmC,TIGR00536,TIGR00536,"hemK_fam: methyltransferase, HemK family",TIGRFAM,15.0,2-285
+OFBKKLGO_03707_prfA,TIGR00019,TIGR00019,prfA: peptide chain release factor 1,TIGRFAM,15.0,2-354
+OFBKKLGO_03713_rpmE,TIGR00105,TIGR00105,L31: ribosomal protein bL31,TIGRFAM,15.0,1-65
+OFBKKLGO_03714_rho,TIGR00767,TIGR00767,rho: transcription termination factor Rho,TIGRFAM,15.0,5-414
+OFBKKLGO_03716_murAB,TIGR01072,TIGR01072,murA: UDP-N-acetylglucosamine 1-carboxyvinyltransferase,TIGRFAM,15.0,1-415
+OFBKKLGO_03717_tal,TIGR00875,TIGR00875,fsa_talC_mipB: fructose-6-phosphate aldolase,TIGRFAM,15.0,1-212
+OFBKKLGO_03718_fbaA,TIGR01859,TIGR01859,"fruc_bis_ald_: fructose-1,6-bisphosphate aldolase, class II",TIGRFAM,15.0,3-285
+OFBKKLGO_03718_fbaA,TIGR00167,TIGR00167,cbbA: ketose-bisphosphate aldolase,TIGRFAM,15.0,1-285
+OFBKKLGO_03721_pyrG,TIGR00337,TIGR00337,PyrG: CTP synthase,TIGRFAM,15.0,1-527
+OFBKKLGO_03723_rpoE,TIGR04567,TIGR04567,RNAP_delt_lowGC: DNA-directed RNA polymerase delta subunit,TIGRFAM,15.0,12-93
+OFBKKLGO_03732_narH,TIGR01660,TIGR01660,"narH: nitrate reductase, beta subunit",TIGRFAM,15.0,1-484
+OFBKKLGO_03738_argS,TIGR00456,TIGR00456,argS: arginine--tRNA ligase,TIGRFAM,15.0,7-556
+OFBKKLGO_03744_speB,TIGR01230,TIGR01230,agmatinase: agmatinase,TIGRFAM,15.0,10-286
+OFBKKLGO_03745_speE,TIGR00417,TIGR00417,speE: spermidine synthase,TIGRFAM,15.0,5-270
+OFBKKLGO_03746_pbpG,TIGR02074,TIGR02074,"PBP_1a_fam: penicillin-binding protein, 1A family",TIGRFAM,15.0,73-609
+OFBKKLGO_03750_ywhB,TIGR00013,TIGR00013,taut: 4-oxalocrotonate tautomerase family enzyme,TIGRFAM,15.0,1-61
+OFBKKLGO_03756_rsfA_2,TIGR02894,TIGR02894,"DNA_bind_RsfA: transcription factor, RsfA family",TIGRFAM,15.0,3-79
+OFBKKLGO_03770_pta_2,TIGR00651,TIGR00651,pta: phosphate acetyltransferase,TIGRFAM,15.0,19-319
+OFBKKLGO_03780_bcr_2,TIGR00710,TIGR00710,"efflux_Bcr_CflA: drug resistance transporter, Bcr/CflA subfamily",TIGRFAM,15.0,15-391
+OFBKKLGO_03787_rmlD,TIGR01214,TIGR01214,rmlD: dTDP-4-dehydrorhamnose reductase,TIGRFAM,15.0,3-276
+OFBKKLGO_03788_rfbB,TIGR01181,TIGR01181,"dTDP_gluc_dehyt: dTDP-glucose 4,6-dehydratase",TIGRFAM,15.0,5-313
+OFBKKLGO_03801_ung,TIGR00628,TIGR00628,ung: uracil-DNA glycosylase,TIGRFAM,15.0,7-214
+OFBKKLGO_03804_pdxK,TIGR00097,TIGR00097,HMP-P_kinase: hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase,TIGRFAM,15.0,6-262
+OFBKKLGO_03811_group_2379,TIGR03558,TIGR03558,"oxido_grp_1: luciferase family oxidoreductase, group 1",TIGRFAM,15.0,4-329
+OFBKKLGO_03820_qoxD,TIGR02901,TIGR02901,"QoxD: cytochrome aa3 quinol oxidase, subunit IV",TIGRFAM,15.0,8-99
+OFBKKLGO_03822_qoxB,TIGR02882,TIGR02882,"QoxB: cytochrome aa3 quinol oxidase, subunit I",TIGRFAM,15.0,5-646
+OFBKKLGO_03823_qoxA,TIGR01432,TIGR01432,"QOXA: cytochrome aa3 quinol oxidase, subunit II",TIGRFAM,15.0,14-242
+OFBKKLGO_03833_efeN,TIGR01413,TIGR01413,Dyp_perox_fam: Dyp-type peroxidase family,TIGRFAM,15.0,68-406
+OFBKKLGO_03833_efeN,TIGR01412,TIGR01412,tat_substr_1: Tat-translocated enzyme,TIGRFAM,15.0,5-417
+OFBKKLGO_03836_thiE,TIGR00693,TIGR00693,thiE: thiamine-phosphate diphosphorylase,TIGRFAM,15.0,14-210
+OFBKKLGO_03840_yohK,TIGR00659,TIGR00659,TIGR00659: TIGR00659 family protein,TIGRFAM,15.0,2-223
+OFBKKLGO_03841_group_6600,TIGR03833,TIGR03833,TIGR03833: conserved hypothetical protein,TIGRFAM,15.0,2-62
+OFBKKLGO_03851_menA,TIGR00751,TIGR00751,"menA: 1,4-dihydroxy-2-naphthoate octaprenyltransferase",TIGRFAM,15.0,27-301
+OFBKKLGO_03853_dltA_3,TIGR01734,TIGR01734,"D-ala-DACP-lig: D-alanine--poly(phosphoribitol) ligase, subunit 1",TIGRFAM,15.0,2-501
+OFBKKLGO_03853_dltA_3,TIGR01733,TIGR01733,AA-adenyl-dom: amino acid adenylation domain,TIGRFAM,15.0,28-428
+OFBKKLGO_03854_group_6602,TIGR04091,TIGR04091,LTA_dltB: D-alanyl-lipoteichoic acid biosynthesis protein DltB,TIGRFAM,15.0,3-389
+OFBKKLGO_03855_dltC,TIGR01688,TIGR01688,"dltC: D-alanine--poly(phosphoribitol) ligase, subunit 2",TIGRFAM,15.0,4-76
+OFBKKLGO_03857_ilvK,TIGR01123,TIGR01123,ilvE_II: branched-chain amino acid aminotransferase,TIGRFAM,15.0,43-355
+OFBKKLGO_03860_licC_2,TIGR00410,TIGR00410,"lacE: PTS system, lactose/cellobiose family IIC component",TIGRFAM,15.0,12-435
+OFBKKLGO_03860_licC_2,TIGR00359,TIGR00359,"cello_pts_IIC: PTS system, cellobiose-specific IIC component",TIGRFAM,15.0,12-435
+OFBKKLGO_03861_licB,TIGR00853,TIGR00853,"pts-lac: PTS system, lactose/cellobiose family IIB component",TIGRFAM,15.0,2-93
+OFBKKLGO_03863_group_2385,TIGR00567,TIGR00567,3mg: DNA-3-methyladenine glycosylase,TIGRFAM,15.0,8-195
+OFBKKLGO_03868_arsB_2,TIGR00935,TIGR00935,2a45: arsenite/antimonite efflux pump membrane protein,TIGRFAM,15.0,6-429
+OFBKKLGO_03880_group_6610,TIGR02868,TIGR02868,"CydC: thiol reductant ABC exporter, CydC subunit",TIGRFAM,15.0,5-531
+OFBKKLGO_03882_cydB,TIGR00203,TIGR00203,"cydB: cytochrome d ubiquinol oxidase, subunit II",TIGRFAM,15.0,227-337;2-226
+OFBKKLGO_03892_lnpD,TIGR01179,TIGR01179,galE: UDP-glucose 4-epimerase GalE,TIGRFAM,15.0,2-334
+OFBKKLGO_03901_nupG,TIGR00804,TIGR00804,"nupC: nucleoside transporter, NupC family",TIGRFAM,15.0,43-434
+OFBKKLGO_03906_citN,TIGR00784,TIGR00784,citMHS: citrate transporter,TIGRFAM,15.0,2-426
+OFBKKLGO_03934_hutH,TIGR01225,TIGR01225,hutH: histidine ammonia-lyase,TIGRFAM,15.0,3-500
+OFBKKLGO_03936_hutI,TIGR01224,TIGR01224,hutI: imidazolonepropionase,TIGRFAM,15.0,36-410
+OFBKKLGO_03940_nupC,TIGR00804,TIGR00804,"nupC: nucleoside transporter, NupC family",TIGRFAM,15.0,5-391
+OFBKKLGO_03941_deoC,TIGR00126,TIGR00126,deoC: deoxyribose-phosphate aldolase,TIGRFAM,15.0,3-212
+OFBKKLGO_03943_yidA,TIGR01484,TIGR01484,"HAD-SF-IIB: HAD hydrolase, family IIB",TIGRFAM,15.0,4-236
+OFBKKLGO_03943_yidA,TIGR00099,TIGR00099,Cof-subfamily: Cof-like hydrolase,TIGRFAM,15.0,4-263
+OFBKKLGO_03951_yxeA,TIGR01655,TIGR01655,yxeA_fam: conserved hypothetical protein,TIGRFAM,15.0,1-114
+OFBKKLGO_03961_iolE,TIGR04379,TIGR04379,myo_inos_iolE: myo-inosose-2 dehydratase,TIGRFAM,15.0,6-291
+OFBKKLGO_03963_iolC,TIGR04382,TIGR04382,myo_inos_iolC_N: 5-dehydro-2-deoxygluconokinase,TIGRFAM,15.0,11-320
+OFBKKLGO_03964_iolB,TIGR04378,TIGR04378,myo_inos_iolB: 5-deoxy-glucuronate isomerase,TIGRFAM,15.0,21-268
+OFBKKLGO_03965_iolA,TIGR01722,TIGR01722,MMSDH: methylmalonate-semialdehyde dehydrogenase (acylating),TIGRFAM,15.0,8-481
+OFBKKLGO_03968_csbC_2,TIGR00879,TIGR00879,"SP: MFS transporter, sugar porter (SP) family",TIGRFAM,15.0,5-437
+OFBKKLGO_03982_ahpC,TIGR03137,TIGR03137,AhpC: peroxiredoxin,TIGRFAM,15.0,1-187
+OFBKKLGO_03983_ahpF,TIGR03140,TIGR03140,AhpF: alkyl hydroperoxide reductase subunit F,TIGRFAM,15.0,2-509
+OFBKKLGO_04003_group_6621,TIGR04129,TIGR04129,"CxxH_BA5709: CxxH/CxxC protein, BA_5709 family",TIGRFAM,15.0,5-53
+OFBKKLGO_04012_rocF,TIGR01229,TIGR01229,rocF_arginase: arginase,TIGRFAM,15.0,6-296
+OFBKKLGO_04014_rocD,TIGR01885,TIGR01885,Orn_aminotrans: ornithine--oxo-acid transaminase,TIGRFAM,15.0,7-398
+OFBKKLGO_04017_rocR,TIGR00229,TIGR00229,sensory_box: PAS domain S-box protein,TIGRFAM,15.0,53-166
+OFBKKLGO_04031_dnaC,TIGR00665,TIGR00665,DnaB: replicative DNA helicase,TIGRFAM,15.0,12-445
+OFBKKLGO_04041_rplI,TIGR00158,TIGR00158,L9: ribosomal protein bL9,TIGRFAM,15.0,1-148
+OFBKKLGO_04073_rpsR,TIGR00165,TIGR00165,S18: ribosomal protein bS18,TIGRFAM,15.0,10-77
+OFBKKLGO_04074_ssbA,TIGR00621,TIGR00621,ssb: single-stranded DNA-binding protein,TIGRFAM,15.0,1-172
+OFBKKLGO_04075_rpsF,TIGR00166,TIGR00166,S6: ribosomal protein bS6,TIGRFAM,15.0,1-94
+OFBKKLGO_04076_ychF,TIGR00092,TIGR00092,TIGR00092: GTP-binding protein YchF,TIGRFAM,15.0,1-366
+OFBKKLGO_04081_group_6635,TIGR02841,TIGR02841,spore_YyaC: putative sporulation protein YyaC,TIGRFAM,15.0,42-181
+OFBKKLGO_04082_spo0J,TIGR00180,TIGR00180,parB_part: ParB/RepB/Spo0J family partition protein,TIGRFAM,15.0,21-197
+OFBKKLGO_04084_noc,TIGR00180,TIGR00180,parB_part: ParB/RepB/Spo0J family partition protein,TIGRFAM,15.0,27-208
+OFBKKLGO_04084_noc,TIGR04285,TIGR04285,nucleoid_noc: nucleoid occlusion protein,TIGRFAM,15.0,29-283
+OFBKKLGO_04085_rsmG,TIGR00138,TIGR00138,rsmG_gidB: 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,TIGRFAM,15.0,25-216
+OFBKKLGO_04086_mnmG,TIGR00136,TIGR00136,gidA: tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA,TIGRFAM,15.0,8-620
+OFBKKLGO_04087_mnmE,TIGR00450,TIGR00450,mnmE_trmE_thdF: tRNA modification GTPase TrmE,TIGRFAM,15.0,9-459
+OFBKKLGO_04087_mnmE,TIGR00231,TIGR00231,small_GTP: small GTP-binding protein domain,TIGRFAM,15.0,225-373
+OFBKKLGO_04089_misCA,TIGR03592,TIGR03592,"yidC_oxa1_cterm: membrane protein insertase, YidC/Oxa1 family",TIGRFAM,15.0,58-241
