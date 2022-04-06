@@ -1,4 +1,4 @@
-# Pangenome-for-lab
+# Pangenome Bacillus amyloliquefaciens by Roary
 Annotation of the core genome of Bacillus amyloliquefaciens
 Pangeomes of Bacillus amyloliquefaciens
 Genomes.txt: Genomes used in this study.
