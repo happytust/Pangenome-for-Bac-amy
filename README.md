@@ -15,7 +15,7 @@ NR	非冗余蛋白质序列	https://www.ncbi.nlm.nih.gov/refseq/about/nonredunda
 
 SwissPort	一个全面、高质量、可自由访问的蛋白质序列和功能信息资源	https://www.uniprot.org/
 
-KOG	一种真核生物特有的同源群簇（COG），用于识别同源和旁同源蛋白质。	https://ftp.ncbi.nih.gov/pub/COG/KOG/
+COG	一种原核生物特有的同源群簇（COG），用于识别同源和旁同源蛋白质。	https://ftp.ncbi.nih.gov/pub/COG
 
 COG	蛋白质同源基因簇	https://www.ncbi.nlm.nih.gov/research/cog
 
